@@ -43,6 +43,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "EV_AL02:00af4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "EV_AL02:01201",
   "jp": "{C0D04}［おやぶん］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 108,
   "line": 1,
+  "speaker": "おやぶん"
+ },
+ {
+  "id": "EV_AL02:01249",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 2,
   "speaker": "おやぶん"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "こぶん"
  },
  {
+  "id": "EV_AL02:018fe",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "こぶん"
+ },
+ {
   "id": "EV_AL02:01d4b",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -120,6 +147,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "EV_AL02:01d81",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "EV_AL02:01dab",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 181,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL02:01de5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -206,6 +251,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "EV_AL02:026e7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "EV_AL02:02711",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -220,6 +274,15 @@
   "call": "MswStr",
   "box": 235,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL02:0275f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 235,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -289,6 +352,15 @@
   "call": "MswStr",
   "box": 246,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL02:029dd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 246,
+  "line": 2,
   "speaker": "アルヴィス"
  }
 ]

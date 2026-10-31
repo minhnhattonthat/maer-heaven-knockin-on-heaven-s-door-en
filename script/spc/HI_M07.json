@@ -43,6 +43,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M07:0036e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M07:006af",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 42,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:006e5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -77,6 +95,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M07:0081c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M07:00846",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -91,6 +118,15 @@
   "call": "MswStr",
   "box": 51,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:00882",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -111,6 +147,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "HI_M07:0098c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "HI_M07:009b6",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -128,6 +173,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "HI_M07:009f6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "HI_M07:00e27",
   "jp": "{C0D04}［？？？］",
   "en": "",
@@ -142,6 +196,15 @@
   "call": "MswStr",
   "box": 86,
   "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "HI_M07:00e5b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
   "speaker": "？？？"
  },
  {
@@ -188,6 +251,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M07:0128b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M07:01697",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -205,6 +277,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M07:016cf",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M07:016f9",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -219,6 +300,15 @@
   "call": "MswStr",
   "box": 141,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M07:0172f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -262,6 +352,15 @@
   "call": "MswStr",
   "box": 145,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M07:01821",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
   "speaker": "ドロシー"
  }
 ]

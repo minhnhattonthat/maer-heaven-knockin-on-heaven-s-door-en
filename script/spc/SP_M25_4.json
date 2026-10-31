@@ -17,6 +17,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "SP_M25_4:002c3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "SP_M25_4:003d6",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 20,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_4:0041a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {

@@ -8,6 +8,22 @@
   "line": 0
  },
  {
+  "id": "DITEMCOM:00155",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 1
+ },
+ {
+  "id": "DITEMCOM:00161",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 2
+ },
+ {
   "id": "DITEMCOM:002ea",
   "jp": "これ以上アイテムを持てません",
   "en": "",
@@ -16,9 +32,26 @@
   "line": 0
  },
  {
+  "id": "DITEMCOM:00312",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1
+ },
+ {
+  "id": "DITEMCOM:0031e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2
+ },
+ {
   "id": "DITEMCOM:005e9",
   "jp": "C0F04 を",
-  "en": "",
+  "en": "{C0F04} obtained!",
+  "concat": true,
   "call": "MswStr",
   "box": 44,
   "line": 1
@@ -26,7 +59,7 @@
  {
   "id": "DITEMCOM:00600",
   "jp": "手に入れた！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 44,
   "line": 2
@@ -34,7 +67,8 @@
  {
   "id": "DITEMCOM:00944",
   "jp": "C0F04 を",
-  "en": "",
+  "en": "{C0F04} obtained!",
+  "concat": true,
   "call": "MswStr",
   "box": 71,
   "line": 1
@@ -42,7 +76,7 @@
  {
   "id": "DITEMCOM:0095b",
   "jp": "手に入れた！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 71,
   "line": 2

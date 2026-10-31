@@ -69,6 +69,15 @@
   "speaker": "子岩"
  },
  {
+  "id": "EV_RT01:005e0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "子岩"
+ },
+ {
   "id": "EV_RT01:00648",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -164,6 +173,15 @@
   "speaker": "親岩"
  },
  {
+  "id": "EV_RT01:00858",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2,
+  "speaker": "親岩"
+ },
+ {
   "id": "EV_RT01:00882",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -178,6 +196,15 @@
   "call": "MswStr",
   "box": 39,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT01:008ce",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
   "speaker": "ギンタ"
  }
 ]

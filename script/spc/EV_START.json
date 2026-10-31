@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_START:0064f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_START:00935",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 65,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_START:00979",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -51,6 +69,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_START:00cd5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_START:01090",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -65,6 +92,15 @@
   "call": "MswStr",
   "box": 111,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_START:010e0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 2,
   "speaker": "ギンタ"
  }
 ]

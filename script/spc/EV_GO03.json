@@ -93,5 +93,14 @@
   "box": 41,
   "line": 1,
   "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO03:00745",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
+  "speaker": "ドロシー"
  }
 ]

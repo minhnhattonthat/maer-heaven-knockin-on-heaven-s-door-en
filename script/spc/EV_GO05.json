@@ -95,6 +95,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_GO05:00840",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_GO05:0086a",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -112,6 +121,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_GO05:008b2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_GO05:00b4a",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -126,6 +144,15 @@
   "call": "MswStr",
   "box": 64,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO05:00b80",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -172,6 +199,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_GO05:00da5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_GO05:00dcf",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -189,6 +225,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_GO05:00e15",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_GO05:00e3f",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -203,6 +248,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO05:00e81",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -246,6 +300,15 @@
   "call": "MswStr",
   "box": 83,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO05:00fbb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 2,
   "speaker": "ナナシ"
  }
 ]

@@ -17,6 +17,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_T4KIL:01040",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_T4KIL:0117a",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 108,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_T4KIL:011b4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -51,6 +69,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_T4KIL:0135e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_T4KIL:01525",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -65,6 +92,15 @@
   "call": "MswStr",
   "box": 128,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:01577",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 2,
   "speaker": "マール"
  },
  {
@@ -137,6 +173,15 @@
   "speaker": "マール"
  },
  {
+  "id": "EV_T4KIL:01ba3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "EV_T4KIL:01d30",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -154,6 +199,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_T4KIL:01d6a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_T4KIL:01e00",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -168,6 +222,15 @@
   "call": "MswStr",
   "box": 172,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:01e44",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -214,6 +277,15 @@
   "speaker": "マール"
  },
  {
+  "id": "EV_T4KIL:01f7c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "EV_T4KIL:020bc",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -254,6 +326,15 @@
   "call": "MswStr",
   "box": 189,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:02230",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 2,
   "speaker": "マール"
  },
  {
@@ -300,6 +381,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_T4KIL:02515",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_T4KIL:025e9",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -317,6 +407,15 @@
   "speaker": "マール"
  },
  {
+  "id": "EV_T4KIL:02629",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "EV_T4KIL:026fd",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -331,6 +430,15 @@
   "call": "MswStr",
   "box": 214,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:0274b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -377,6 +485,15 @@
   "speaker": "マール"
  },
  {
+  "id": "EV_T4KIL:02825",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "EV_T4KIL:02ede",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -391,6 +508,15 @@
   "call": "MswStr",
   "box": 261,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:02f14",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 261,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -411,6 +537,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_T4KIL:03071",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 269,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_T4KIL:031ab",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -428,6 +563,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_T4KIL:031e5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_T4KIL:0320f",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -442,6 +586,15 @@
   "call": "MswStr",
   "box": 279,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_T4KIL:03261",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 2,
   "speaker": "ナナシ"
  }
 ]

@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_GO09:0035e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_GO09:006c4",
   "jp": "{C0D04}［トム］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO09:006fa",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO09:0080d",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 47,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:0084b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -146,6 +173,15 @@
   "speaker": "ギロム"
  },
  {
+  "id": "EV_GO09:00f45",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
   "id": "EV_GO09:010c4",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -189,6 +225,15 @@
   "speaker": "ギロム"
  },
  {
+  "id": "EV_GO09:01218",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
   "id": "EV_GO09:01242",
   "jp": "{C0D04}［ギロム］",
   "en": "",
@@ -203,6 +248,15 @@
   "call": "MswStr",
   "box": 100,
   "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:0127c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
   "speaker": "ギロム"
  },
  {
@@ -301,6 +355,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_GO09:016bc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_GO09:016e6",
   "jp": "{C0D04}［ギロム］",
   "en": "",
@@ -344,6 +407,15 @@
   "speaker": "ギロム"
  },
  {
+  "id": "EV_GO09:017d2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
   "id": "EV_GO09:017fc",
   "jp": "{C0D04}［ギロム］",
   "en": "",
@@ -358,6 +430,15 @@
   "call": "MswStr",
   "box": 124,
   "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01846",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 2,
   "speaker": "ギロム"
  },
  {
@@ -453,6 +534,15 @@
   "call": "MswStr",
   "box": 142,
   "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01c64",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
   "speaker": "ギロム"
  }
 ]

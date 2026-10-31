@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OBJ_G:00249",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OBJ_G:0033e",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -34,11 +43,36 @@
   "speaker": "バッボ"
  },
  {
+  "id": "OBJ_G:0037a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "OBJ_G:005f0",
   "jp": "でっかい岩が道をふさいでいる",
   "en": "",
   "call": "MswStr",
   "box": 40,
   "line": 0
+ },
+ {
+  "id": "OBJ_G:00618",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1
+ },
+ {
+  "id": "OBJ_G:00624",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2
  }
 ]

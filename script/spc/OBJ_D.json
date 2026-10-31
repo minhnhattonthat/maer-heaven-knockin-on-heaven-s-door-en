@@ -40,5 +40,13 @@
   "call": "MswStr",
   "box": 37,
   "line": 1
+ },
+ {
+  "id": "OBJ_D:00588",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2
  }
 ]

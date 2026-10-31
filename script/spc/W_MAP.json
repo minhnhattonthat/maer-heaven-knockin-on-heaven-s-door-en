@@ -6,5 +6,21 @@
   "call": "MswStr",
   "box": 7,
   "line": 0
+ },
+ {
+  "id": "W_MAP:00127",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 1
+ },
+ {
+  "id": "W_MAP:00133",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 2
  }
 ]

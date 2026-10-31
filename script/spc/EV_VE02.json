@@ -69,6 +69,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_VE02:00b38",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_VE02:00c4b",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 69,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_VE02:00c83",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -155,6 +173,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "EV_VE02:01004",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "EV_VE02:0102e",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -198,6 +225,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_VE02:01216",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_VE02:01240",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -212,6 +248,15 @@
   "call": "MswStr",
   "box": 97,
   "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_VE02:01288",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
   "speaker": "村の人"
  },
  {
@@ -257,6 +302,14 @@
   "line": 1
  },
  {
+  "id": "EV_VE02:013d8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 2
+ },
+ {
   "id": "EV_VE02:01444",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -300,6 +353,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "EV_VE02:01533",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "EV_VE02:0155d",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -314,6 +376,15 @@
   "call": "MswStr",
   "box": 112,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_VE02:015a9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -360,6 +431,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_VE02:01c3e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_VE02:01de4",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -403,6 +483,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "EV_VE02:01f56",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 166,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "EV_VE02:020b7",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -417,6 +506,15 @@
   "call": "MswStr",
   "box": 175,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_VE02:020f1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2,
   "speaker": "ジャック"
  },
  {

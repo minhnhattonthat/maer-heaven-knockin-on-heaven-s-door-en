@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "CH_M26_6:00ade",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "CH_M26_6:00c18",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 68,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "CH_M26_6:00c54",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 2,
   "speaker": "マール"
  },
  {
@@ -68,6 +86,22 @@
   "line": 0
  },
  {
+  "id": "CH_M26_6:02378",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 1
+ },
+ {
+  "id": "CH_M26_6:02384",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 2
+ },
+ {
   "id": "CH_M26_6:026a1",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -82,6 +116,15 @@
   "call": "MswStr",
   "box": 231,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M26_6:026ed",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -206,6 +249,15 @@
   "speaker": "マール"
  },
  {
+  "id": "CH_M26_6:02dbd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 263,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "CH_M26_6:02de7",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -246,6 +298,15 @@
   "call": "MswStr",
   "box": 275,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M26_6:0306c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 275,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -292,6 +353,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "CH_M26_6:03394",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 291,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "CH_M26_6:033be",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -309,6 +379,15 @@
   "speaker": "マール"
  },
  {
+  "id": "CH_M26_6:03406",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 293,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "CH_M26_6:034da",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -323,6 +402,15 @@
   "call": "MswStr",
   "box": 298,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "CH_M26_6:0350c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 298,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -366,6 +454,15 @@
   "call": "MswStr",
   "box": 307,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "CH_M26_6:0371a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 307,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -464,6 +561,15 @@
   "speaker": "エド"
  },
  {
+  "id": "CH_M26_6:03b37",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "CH_M26_6:03c0b",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -478,6 +584,15 @@
   "call": "MswStr",
   "box": 331,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "CH_M26_6:03c45",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 331,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -498,6 +613,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "CH_M26_6:03e04",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 341,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "CH_M26_6:03e2e",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -512,6 +636,15 @@
   "call": "MswStr",
   "box": 343,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "CH_M26_6:03e70",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 343,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -532,6 +665,15 @@
   "speaker": "エド"
  },
  {
+  "id": "CH_M26_6:03f86",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 348,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "CH_M26_6:0405a",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -546,6 +688,15 @@
   "call": "MswStr",
   "box": 353,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "CH_M26_6:0408e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 353,
+  "line": 2,
   "speaker": "マール"
  },
  {
@@ -589,6 +740,15 @@
   "call": "MswStr",
   "box": 360,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "CH_M26_6:0423a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 360,
+  "line": 2,
   "speaker": "マール"
  }
 ]

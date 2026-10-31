@@ -85,6 +85,7 @@ def marker(lines, px=184):
     """Marker text per line: `[n]` + filler cut at px pixels; speaker labels keep their colour codes.
     Returns (lines with en set, [(n, id)])."""
     adv, out, ids = engine.advance(), [], []
+    lines = [x for x in lines if x[1]['jp']]  # spare empty lines stay empty
     for n, (spc, e) in enumerate(lines):
         tag = '[%d]' % n
         if e['jp'].startswith('{C0D04}'):

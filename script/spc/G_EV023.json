@@ -43,6 +43,15 @@
   "speaker": "？？？"
  },
  {
+  "id": "G_EV023:008a2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
   "id": "G_EV023:009b5",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:009eb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:00de1",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:00e1f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "イアン"
  },
  {
@@ -146,6 +173,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV023:015b1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV023:015db",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -160,6 +196,15 @@
   "call": "MswStr",
   "box": 122,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0160b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -206,6 +251,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:01aff",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:020d5",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -223,6 +277,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:0210f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:02222",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -237,6 +300,15 @@
   "call": "MswStr",
   "box": 195,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:02260",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 2,
   "speaker": "イアン"
  },
  {
@@ -361,6 +433,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:0256e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:02598",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -430,6 +511,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV023:02732",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV023:0275c",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -470,6 +560,15 @@
   "call": "MswStr",
   "box": 219,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02870",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 219,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -542,6 +641,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:02ae6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:02c26",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -556,6 +664,15 @@
   "call": "MswStr",
   "box": 237,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:02c5e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 237,
+  "line": 2,
   "speaker": "イアン"
  },
  {
@@ -576,6 +693,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:02ff1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:0301b",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -590,6 +716,15 @@
   "call": "MswStr",
   "box": 260,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:03055",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -610,6 +745,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:030c9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:03368",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -624,6 +768,15 @@
   "call": "MswStr",
   "box": 279,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0339c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -644,6 +797,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV023:033fc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV023:0350f",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -658,6 +820,15 @@
   "call": "MswStr",
   "box": 288,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:03549",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 288,
+  "line": 2,
   "speaker": "イアン"
  },
  {
@@ -678,6 +849,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV023:035ad",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV023:03681",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -692,6 +872,15 @@
   "call": "MswStr",
   "box": 295,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:036d5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 295,
+  "line": 2,
   "speaker": "イアン"
  }
 ]

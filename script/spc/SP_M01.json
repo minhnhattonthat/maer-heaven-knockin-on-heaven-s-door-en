@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "SP_M01:005a9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "SP_M01:009bb",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 91,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M01:00f4f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
   "speaker": "ギンタ"
  }
 ]

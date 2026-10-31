@@ -17,6 +17,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV002:005d1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV002:0065a",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV002:00692",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV002:006bc",
   "jp": "{C0D04}［手下］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 40,
   "line": 1,
+  "speaker": "手下"
+ },
+ {
+  "id": "G_EV002:006f2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
   "speaker": "手下"
  }
 ]

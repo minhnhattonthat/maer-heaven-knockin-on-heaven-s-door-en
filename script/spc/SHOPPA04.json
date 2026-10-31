@@ -17,6 +17,15 @@
   "speaker": "宿屋"
  },
  {
+  "id": "SHOPPA04:00148",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 2,
+  "speaker": "宿屋"
+ },
+ {
   "id": "SHOPPA04:00172",
   "jp": "{C0D04}［宿屋］",
   "en": "",
@@ -77,6 +86,22 @@
   "line": 0
  },
  {
+  "id": "SHOPPA04:00448",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1
+ },
+ {
+  "id": "SHOPPA04:00454",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2
+ },
+ {
   "id": "SHOPPA04:005c5",
   "jp": "{C0D04}［宿屋］",
   "en": "",
@@ -91,6 +116,15 @@
   "call": "MswStr",
   "box": 35,
   "line": 1,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:00605",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
   "speaker": "宿屋"
  }
 ]

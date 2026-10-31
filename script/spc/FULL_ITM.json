@@ -8,11 +8,59 @@
   "line": 0
  },
  {
+  "id": "FULL_ITM:000a0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 2,
+  "line": 1
+ },
+ {
+  "id": "FULL_ITM:000ac",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 2,
+  "line": 2
+ },
+ {
+  "id": "FULL_ITM:007e2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 0
+ },
+ {
   "id": "FULL_ITM:007ee",
   "jp": "ÄＲＭ１０コずつ入れ中",
   "en": "",
   "call": "MswStr",
   "box": 63,
+  "line": 1
+ },
+ {
+  "id": "FULL_ITM:00810",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2
+ },
+ {
+  "id": "FULL_ITM:0099c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "FULL_ITM:009a8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
   "line": 1
  },
  {
@@ -22,6 +70,22 @@
   "call": "MswStr",
   "box": 74,
   "line": 2
+ },
+ {
+  "id": "FULL_ITM:00b60",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "FULL_ITM:00b6c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1
  },
  {
   "id": "FULL_ITM:00b78",

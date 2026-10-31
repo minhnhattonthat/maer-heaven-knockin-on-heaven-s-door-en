@@ -17,6 +17,15 @@
   "speaker": "ジャックの母"
  },
  {
+  "id": "CH_M08A:00222",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
   "id": "CH_M08A:0034b",
   "jp": "{C0D04}［ジャックの母］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ジャックの母"
  },
  {
+  "id": "CH_M08A:00395",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
   "id": "CH_M08A:00420",
   "jp": "{C0D04}［ジャックの母］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 25,
   "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "CH_M08A:00474",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 2,
   "speaker": "ジャックの母"
  }
 ]

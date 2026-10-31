@@ -17,6 +17,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO07:004af",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO07:005c2",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO07:00672",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO07:0069c",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 38,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:006d4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -117,6 +144,15 @@
   "call": "MswStr",
   "box": 42,
   "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:007ba",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
   "speaker": "トム"
  },
  {
@@ -189,6 +225,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO07:00ad1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO07:00b6f",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -232,6 +277,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO07:00c9f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO07:00d07",
   "jp": "{C0D04}［トム］",
   "en": "",
@@ -272,6 +326,15 @@
   "call": "MswStr",
   "box": 69,
   "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:00db7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 2,
   "speaker": "トム"
  }
 ]

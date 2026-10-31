@@ -95,6 +95,15 @@
   "speaker": "手下１"
  },
  {
+  "id": "G_EV060:00b4c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "手下１"
+ },
+ {
   "id": "G_EV060:00b76",
   "jp": "{C0D04}［手下２］",
   "en": "",
@@ -164,6 +173,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV060:00d38",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV060:00dc7",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -178,6 +196,15 @@
   "call": "MswStr",
   "box": 74,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV060:00e05",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -198,6 +225,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV060:00f7f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV060:01591",
   "jp": "{C0D04}［手下１］",
   "en": "",
@@ -212,6 +248,15 @@
   "call": "MswStr",
   "box": 120,
   "line": 1,
+  "speaker": "手下１"
+ },
+ {
+  "id": "G_EV060:015c3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
   "speaker": "手下１"
  },
  {
@@ -232,6 +277,15 @@
   "speaker": "手下２"
  },
  {
+  "id": "G_EV060:01640",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 2,
+  "speaker": "手下２"
+ },
+ {
   "id": "G_EV060:016c9",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -246,6 +300,15 @@
   "call": "MswStr",
   "box": 127,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV060:016fb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -266,6 +329,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV060:017c8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV060:01830",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -280,6 +352,15 @@
   "call": "MswStr",
   "box": 134,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV060:01874",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -300,6 +381,15 @@
   "speaker": "手下１"
  },
  {
+  "id": "G_EV060:018d0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "手下１"
+ },
+ {
   "id": "G_EV060:018fa",
   "jp": "{C0D04}［手下２］",
   "en": "",
@@ -314,6 +404,15 @@
   "call": "MswStr",
   "box": 138,
   "line": 1,
+  "speaker": "手下２"
+ },
+ {
+  "id": "G_EV060:0192c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
   "speaker": "手下２"
  }
 ]

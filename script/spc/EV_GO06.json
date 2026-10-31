@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_GO06:004ea",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_GO06:005fd",
   "jp": "{C0D04}［？？？］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 37,
   "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO06:00647",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2,
   "speaker": "？？？"
  },
  {
@@ -77,6 +95,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_GO06:00777",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_GO06:007a1",
   "jp": "{C0D04}［トム］",
   "en": "",
@@ -120,6 +147,15 @@
   "speaker": "トム"
  },
  {
+  "id": "EV_GO06:0088d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
   "id": "EV_GO06:008b7",
   "jp": "{C0D04}［トム］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 48,
   "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO06:00903",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 2,
   "speaker": "トム"
  },
  {

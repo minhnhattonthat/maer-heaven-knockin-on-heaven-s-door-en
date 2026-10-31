@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "L25_4_0:005b1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "L25_4_0:006fa",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 54,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "L25_4_0:00a14",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {

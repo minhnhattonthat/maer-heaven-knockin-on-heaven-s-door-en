@@ -17,6 +17,15 @@
   "speaker": "道具屋"
  },
  {
+  "id": "SHOPPA03:0017f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 2,
+  "speaker": "道具屋"
+ },
+ {
   "id": "SHOPPA03:001a9",
   "jp": "{C0D04}［道具屋］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "道具屋"
  },
  {
+  "id": "SHOPPA03:002a1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "道具屋"
+ },
+ {
   "id": "SHOPPA03:003d1",
   "jp": "{C0D04}［道具屋］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 20,
   "line": 1,
+  "speaker": "道具屋"
+ },
+ {
+  "id": "SHOPPA03:00419",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
   "speaker": "道具屋"
  }
 ]

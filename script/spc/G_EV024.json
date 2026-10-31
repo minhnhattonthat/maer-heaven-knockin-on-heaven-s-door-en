@@ -17,6 +17,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV024:009a4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV024:00a06",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -86,6 +95,15 @@
   "speaker": "？？？"
  },
  {
+  "id": "G_EV024:00ce6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
   "id": "G_EV024:00e01",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -100,6 +118,15 @@
   "call": "MswStr",
   "box": 77,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:00e41",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -120,6 +147,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV024:014c3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV024:01525",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 121,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:01565",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -154,6 +199,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "G_EV024:017bc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "G_EV024:0181e",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -171,6 +225,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV024:01856",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV024:01978",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -185,6 +248,15 @@
   "call": "MswStr",
   "box": 145,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV024:019b0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -228,6 +300,15 @@
   "call": "MswStr",
   "box": 161,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV024:01c88",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
   "speaker": "エド"
  },
  {

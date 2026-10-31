@@ -43,6 +43,15 @@
   "speaker": "街の人"
  },
  {
+  "id": "G_EV013:00864",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
   "id": "G_EV013:0088e",
   "jp": "{C0D04}［街の人］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 59,
   "line": 1,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV013:00a69",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 2,
   "speaker": "ギド"
  },
  {
@@ -129,6 +147,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV013:00cae",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV013:00d16",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -143,6 +170,15 @@
   "call": "MswStr",
   "box": 73,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:00d52",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
   "speaker": "イアン"
  }
 ]

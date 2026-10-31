@@ -1,11 +1,35 @@
 [
  {
+  "id": "OPEN:003f4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 0
+ },
+ {
   "id": "OPEN:00400",
   "jp": "　　これは…　　　　　　かけだ",
   "en": "",
   "call": "MswStr",
   "box": 26,
   "line": 1
+ },
+ {
+  "id": "OPEN:0042a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 2
+ },
+ {
+  "id": "OPEN:00725",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
  },
  {
   "id": "OPEN:00731",
@@ -16,6 +40,22 @@
   "line": 1
  },
  {
+  "id": "OPEN:00761",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2
+ },
+ {
+  "id": "OPEN:0086f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 0
+ },
+ {
   "id": "OPEN:0087b",
   "jp": "　　　　　そして　　　　　応えよ！！",
   "en": "",
@@ -24,12 +64,36 @@
   "line": 1
  },
  {
+  "id": "OPEN:008ab",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 2
+ },
+ {
+  "id": "OPEN:008d5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
   "id": "OPEN:008e1",
   "jp": "　　　　　　異界の住人！！！",
   "en": "",
   "call": "MswStr",
   "box": 56,
   "line": 1
+ },
+ {
+  "id": "OPEN:00909",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2
  },
  {
   "id": "OPEN:00d83",
@@ -124,6 +188,15 @@
   "call": "MswStr",
   "box": 134,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:015e7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -248,6 +321,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OPEN:01982",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OPEN:01a70",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -262,6 +344,15 @@
   "call": "MswStr",
   "box": 157,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01aae",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -282,6 +373,15 @@
   "speaker": "小雪"
  },
  {
+  "id": "OPEN:01b16",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
   "id": "OPEN:01b40",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -296,6 +396,15 @@
   "call": "MswStr",
   "box": 161,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01b7e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -576,6 +685,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OPEN:020bc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OPEN:020e6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -616,6 +734,15 @@
   "call": "MswStr",
   "box": 187,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:021ba",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -685,6 +812,15 @@
   "call": "MswStr",
   "box": 193,
   "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:0232a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
   "speaker": "小雪"
  },
  {
@@ -792,12 +928,28 @@
   "speaker": "小雪"
  },
  {
+  "id": "OPEN:02683",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 0
+ },
+ {
   "id": "OPEN:0268f",
   "jp": "　　　つ　な　が　っ　た　！",
   "en": "",
   "call": "MswStr",
   "box": 211,
   "line": 1
+ },
+ {
+  "id": "OPEN:026b7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 2
  },
  {
   "id": "OPEN:02885",
@@ -895,6 +1047,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OPEN:02bcc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OPEN:02bf6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -909,6 +1070,15 @@
   "call": "MswStr",
   "box": 238,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02c3e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -981,6 +1151,15 @@
   "speaker": "小雪"
  },
  {
+  "id": "OPEN:02d96",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
   "id": "OPEN:02dc0",
   "jp": "{C0D04}［小雪］{C0F04}",
   "en": "",
@@ -1050,6 +1229,15 @@
   "speaker": "小雪"
  },
  {
+  "id": "OPEN:02ef8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
   "id": "OPEN:02fcd",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -1064,6 +1252,15 @@
   "call": "MswStr",
   "box": 256,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0300d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -1107,6 +1304,15 @@
   "call": "MswStr",
   "box": 260,
   "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:030fb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 2,
   "speaker": "小雪"
  },
  {
@@ -1179,6 +1385,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OPEN:0325b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OPEN:03285",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -1222,6 +1437,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "OPEN:0334f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "OPEN:0339a",
   "jp": "{C0D04}［ギンタ］{C0F04}",
   "en": "",
@@ -1236,6 +1460,15 @@
   "call": "MswStr",
   "box": 273,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:033de",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 273,
+  "line": 2,
   "speaker": "ギンタ"
  }
 ]

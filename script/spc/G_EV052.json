@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV052:004ee",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV052:00556",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV052:0059a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV052:0073a",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 41,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV052:0078a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
   "speaker": "ジャック"
  }
 ]

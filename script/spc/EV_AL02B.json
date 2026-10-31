@@ -17,6 +17,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "EV_AL02B:0066e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "EV_AL02B:007b7",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -112,6 +121,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_AL02B:00bcd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_AL02B:00d0d",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -152,6 +170,15 @@
   "call": "MswStr",
   "box": 106,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL02B:0133d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -276,6 +303,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "EV_AL02B:01866",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "EV_AL02B:01979",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -293,6 +329,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_AL02B:019b7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_AL02B:01a1f",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -307,6 +352,15 @@
   "call": "MswStr",
   "box": 139,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL02B:01a61",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -379,6 +433,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_AL02B:01d1a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_AL02B:01d44",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -448,6 +511,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_AL02B:01f83",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_AL02B:0206e",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -514,6 +586,15 @@
   "call": "MswStr",
   "box": 175,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL02B:02264",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -742,6 +823,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "EV_AL02B:028a6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "EV_AL02B:0297a",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -756,6 +846,15 @@
   "call": "MswStr",
   "box": 204,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL02B:029bc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -799,6 +898,15 @@
   "call": "MswStr",
   "box": 208,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL02B:02ac4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -871,6 +979,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_AL02B:02c4a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_AL02B:02c74",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -888,6 +1005,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "EV_AL02B:02cb0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "EV_AL02B:02cda",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -902,6 +1028,15 @@
   "call": "MswStr",
   "box": 218,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL02B:02d30",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -945,6 +1080,15 @@
   "call": "MswStr",
   "box": 227,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL02B:02f4b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -1066,6 +1210,15 @@
   "call": "MswStr",
   "box": 251,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL02B:034d3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

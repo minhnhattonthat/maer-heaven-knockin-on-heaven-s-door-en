@@ -69,6 +69,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_UTA01:011a6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_UTA01:01200",
   "jp": "{C0D04}［村の女の子］",
   "en": "",
@@ -161,6 +170,15 @@
   "call": "MswStr",
   "box": 126,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_UTA01:01661",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -259,6 +277,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_UTA01:01939",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_UTA01:01963",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -276,6 +303,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "EV_UTA01:019a3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "EV_UTA01:01b30",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -290,6 +326,15 @@
   "call": "MswStr",
   "box": 151,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:01b62",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -333,6 +378,15 @@
   "call": "MswStr",
   "box": 161,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_UTA01:01d4f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -457,6 +511,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "EV_UTA01:02113",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "EV_UTA01:0213d",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -549,6 +612,15 @@
   "call": "MswStr",
   "box": 193,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:023f9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

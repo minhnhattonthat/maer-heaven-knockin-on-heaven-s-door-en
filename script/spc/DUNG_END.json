@@ -8,6 +8,22 @@
   "line": 0
  },
  {
+  "id": "DUNG_END:0015f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 1
+ },
+ {
+  "id": "DUNG_END:0016b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 2
+ },
+ {
   "id": "DUNG_END:00524",
   "jp": "ダンジョンモードに",
   "en": "",
@@ -22,6 +38,14 @@
   "call": "MswStr",
   "box": 38,
   "line": 1
+ },
+ {
+  "id": "DUNG_END:00574",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2
  },
  {
   "id": "DUNG_END:00702",
@@ -40,6 +64,14 @@
   "line": 1
  },
  {
+  "id": "DUNG_END:0073c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2
+ },
+ {
   "id": "DUNG_END:00766",
   "jp": "{C0904}対戦モード{C0F04}と{C0904}ダンジョンモード{C0F04}で",
   "en": "",
@@ -54,5 +86,13 @@
   "call": "MswStr",
   "box": 51,
   "line": 1
+ },
+ {
+  "id": "DUNG_END:007ce",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2
  }
 ]

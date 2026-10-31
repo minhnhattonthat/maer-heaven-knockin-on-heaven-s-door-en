@@ -67,5 +67,14 @@
   "box": 39,
   "line": 1,
   "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO08:00738",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
+  "speaker": "ギンタ"
  }
 ]

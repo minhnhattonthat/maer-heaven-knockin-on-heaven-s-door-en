@@ -43,6 +43,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "EV_VE01:008ec",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "EV_VE01:009ff",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_VE01:00a3b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_VE01:00b4e",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 64,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_VE01:00b88",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
   "speaker": "ジャック"
  }
 ]

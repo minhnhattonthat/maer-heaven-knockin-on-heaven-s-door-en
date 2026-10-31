@@ -42,6 +42,14 @@
   "line": 1
  },
  {
+  "id": "G_VS_R:0022e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 2
+ },
+ {
   "id": "G_VS_R:0029a",
   "jp": "{C0D04}［親岩］",
   "en": "",
@@ -59,6 +67,15 @@
   "speaker": "親岩"
  },
  {
+  "id": "G_VS_R:002de",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "親岩"
+ },
+ {
   "id": "G_VS_R:003d8",
   "jp": "{C0D04}［親岩］",
   "en": "",
@@ -73,6 +90,15 @@
   "call": "MswStr",
   "box": 23,
   "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "G_VS_R:00428",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 2,
   "speaker": "親岩"
  }
 ]

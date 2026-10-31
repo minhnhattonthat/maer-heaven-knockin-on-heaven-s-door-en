@@ -8,12 +8,44 @@
   "line": 0
  },
  {
+  "id": "SPR_DUNG:001ce",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 1
+ },
+ {
+  "id": "SPR_DUNG:001da",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 2
+ },
+ {
   "id": "SPR_DUNG:0033b",
   "jp": "からっぽだ！",
   "en": "",
   "call": "MswStr",
   "box": 23,
   "line": 0
+ },
+ {
+  "id": "SPR_DUNG:00353",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 1
+ },
+ {
+  "id": "SPR_DUNG:0035f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 2
  },
  {
   "id": "SPR_DUNG:004c0",
@@ -24,6 +56,22 @@
   "line": 0
  },
  {
+  "id": "SPR_DUNG:004d8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1
+ },
+ {
+  "id": "SPR_DUNG:004e4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2
+ },
+ {
   "id": "SPR_DUNG:00645",
   "jp": "からっぽだ！",
   "en": "",
@@ -32,11 +80,43 @@
   "line": 0
  },
  {
+  "id": "SPR_DUNG:0065d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 1
+ },
+ {
+  "id": "SPR_DUNG:00669",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 2
+ },
+ {
   "id": "SPR_DUNG:007ca",
   "jp": "からっぽだ！",
   "en": "",
   "call": "MswStr",
   "box": 53,
   "line": 0
+ },
+ {
+  "id": "SPR_DUNG:007e2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1
+ },
+ {
+  "id": "SPR_DUNG:007ee",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2
  }
 ]

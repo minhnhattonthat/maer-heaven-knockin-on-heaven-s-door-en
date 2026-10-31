@@ -17,11 +17,36 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "OBJ_V:00257",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "OBJ_V:006c0",
   "jp": "ふかい穴があいている",
   "en": "",
   "call": "MswStr",
   "box": 53,
   "line": 0
+ },
+ {
+  "id": "OBJ_V:006e0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1
+ },
+ {
+  "id": "OBJ_V:006ec",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2
  }
 ]

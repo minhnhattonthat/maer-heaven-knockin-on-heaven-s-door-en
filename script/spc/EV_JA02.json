@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_JA02:0054f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_JA02:00662",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_JA02:0069e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_JA02:006c8",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 37,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA02:006fe",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -120,6 +147,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_JA02:008c4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_JA02:00a43",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 53,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA02:00a77",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -206,6 +251,15 @@
   "speaker": "ルーガ"
  },
  {
+  "id": "EV_JA02:00e35",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
+  "speaker": "ルーガ"
+ },
+ {
   "id": "EV_JA02:00e5f",
   "jp": "{C0D04}［ガルー］",
   "en": "",
@@ -223,6 +277,15 @@
   "speaker": "ガルー"
  },
  {
+  "id": "EV_JA02:00eb7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
+  "speaker": "ガルー"
+ },
+ {
   "id": "EV_JA02:00f8b",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -237,6 +300,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA02:00fcb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "ジャック"
  }
 ]

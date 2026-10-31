@@ -61,17 +61,21 @@ def test_roundtrip(rom, files):
 
 @needs_rom
 def test_script_coverage(rom, files):
-    """Every script string is either extracted or a pure-ASCII identifier; 5 563 display strings."""
-    ids = {e['id'] for k, v in files.items() if k.startswith('spc/') for e in v}
+    """Every script string is either extracted or a pure-ASCII identifier; 5 563 display strings, plus 1 328 empty
+    MswStr lines (spare lines for the English)."""
+    ents = {e['id']: e for k, v in files.items() if k.startswith('spc/') for e in v}
     n = 0
     for _, b, name in scrp.load_rom_scripts(rom, True):
         s, sz = scrp.chunks(b)['CODE']
         for p, op, arg in scrp.instrs(b[s:s + sz]):
             if op == 0x10:
                 key = '%s:%05x' % (name[:-4], p)
-                assert (key in ids) == extract.is_text(arg[2:-1]), key
-                n += key in ids
-    assert n == len(ids) == 5563
+                if not arg[2:-1] and key in ents:
+                    assert ents[key]['call'] == 'MswStr' and ents[key]['jp'] == '', key
+                    continue
+                assert (key in ents) == extract.is_text(arg[2:-1]), key
+                n += key in ents
+    assert n == 5563 and len(ents) == 5563 + 1328
 
 
 @needs_rom

@@ -17,6 +17,15 @@
   "speaker": "バッボ＆ジャック"
  },
  {
+  "id": "EV_ICE12:00809",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 2,
+  "speaker": "バッボ＆ジャック"
+ },
+ {
   "id": "EV_ICE12:00b6b",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 80,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_ICE12:00d54",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "EV_ICE12:0108f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "EV_ICE12:0134d",
   "jp": "{C0D04}［？？？］",
   "en": "",
@@ -143,6 +170,15 @@
   "call": "MswStr",
   "box": 146,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE12:0184b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -267,6 +303,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:01d02",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:01d2c",
   "jp": "{C0D04}［ハロウィン］",
   "en": "",
@@ -307,6 +352,15 @@
   "call": "MswStr",
   "box": 172,
   "line": 1,
+  "speaker": "ハロウィン"
+ },
+ {
+  "id": "EV_ICE12:01dfe",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
   "speaker": "ハロウィン"
  },
  {
@@ -379,6 +433,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:01f96",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:01fc0",
   "jp": "{C0D04}［ロコ］",
   "en": "",
@@ -393,6 +456,15 @@
   "call": "MswStr",
   "box": 180,
   "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE12:01ff0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 2,
   "speaker": "ロコ"
  },
  {
@@ -413,6 +485,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:02066",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:02191",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -427,6 +508,15 @@
   "call": "MswStr",
   "box": 190,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE12:021cb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -551,6 +641,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:0269a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:026c4",
   "jp": "{C0D04}［ハロウィン］",
   "en": "",
@@ -620,6 +719,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:02959",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:02983",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -637,6 +745,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "EV_ICE12:029b7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "EV_ICE12:02a8b",
   "jp": "{C0D04}［ハロウィン］",
   "en": "",
@@ -651,6 +768,15 @@
   "call": "MswStr",
   "box": 233,
   "line": 1,
+  "speaker": "ハロウィン"
+ },
+ {
+  "id": "EV_ICE12:02ad7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 2,
   "speaker": "ハロウィン"
  },
  {
@@ -697,6 +823,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_ICE12:02bb1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 237,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_ICE12:02c73",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -740,6 +875,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:02d3d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:02dff",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -780,6 +924,15 @@
   "call": "MswStr",
   "box": 252,
   "line": 1,
+  "speaker": "ハロウィン"
+ },
+ {
+  "id": "EV_ICE12:02f11",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 252,
+  "line": 2,
   "speaker": "ハロウィン"
  },
  {
@@ -852,6 +1005,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "EV_ICE12:030f7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "EV_ICE12:03270",
   "jp": "{C0D04}［ロコ］",
   "en": "",
@@ -921,6 +1083,15 @@
   "speaker": "ハロウィン"
  },
  {
+  "id": "EV_ICE12:03464",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 276,
+  "line": 2,
+  "speaker": "ハロウィン"
+ },
+ {
   "id": "EV_ICE12:0348e",
   "jp": "{C0D04}［ロコ］",
   "en": "",
@@ -935,6 +1106,15 @@
   "call": "MswStr",
   "box": 278,
   "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE12:034be",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 278,
+  "line": 2,
   "speaker": "ロコ"
  },
  {
@@ -978,6 +1158,15 @@
   "call": "MswStr",
   "box": 285,
   "line": 1,
+  "speaker": "ハロウィン"
+ },
+ {
+  "id": "EV_ICE12:0365a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 285,
+  "line": 2,
   "speaker": "ハロウィン"
  },
  {
@@ -1050,6 +1239,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_ICE12:03da0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 327,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_ICE12:03dca",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -1064,6 +1262,15 @@
   "call": "MswStr",
   "box": 329,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE12:03e1c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 329,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -1110,6 +1317,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "EV_ICE12:042ab",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 357,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "EV_ICE12:043a0",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -1153,6 +1369,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_ICE12:0446a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 366,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_ICE12:0467e",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -1170,6 +1395,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_ICE12:046b2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 380,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_ICE12:046dc",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -1184,6 +1418,15 @@
   "call": "MswStr",
   "box": 382,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE12:04728",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 382,
+  "line": 2,
   "speaker": "エド"
  },
  {

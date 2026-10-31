@@ -17,11 +17,36 @@
   "speaker": "スノウ"
  },
  {
+  "id": "OBJ_S:0025d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "OBJ_S:004b9",
   "jp": "氷が道をふさいでいる",
   "en": "",
   "call": "MswStr",
   "box": 35,
   "line": 0
+ },
+ {
+  "id": "OBJ_S:004d9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1
+ },
+ {
+  "id": "OBJ_S:004e5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2
  }
 ]

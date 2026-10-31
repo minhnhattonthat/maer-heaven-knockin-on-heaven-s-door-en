@@ -43,6 +43,15 @@
   "speaker": "マール"
  },
  {
+  "id": "G_EV042:010bf",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "G_EV042:011d2",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "G_EV042:0120e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "G_EV042:0138d",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 116,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV042:013cd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

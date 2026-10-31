@@ -147,6 +147,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "EV_MON02:009b7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "EV_MON02:009e1",
   "jp": "{C0D04}［メリロ］",
   "en": "",
@@ -237,6 +246,15 @@
   "call": "MswStr",
   "box": 77,
   "line": 1,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00cf1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 2,
   "speaker": "メリロ"
  }
 ]

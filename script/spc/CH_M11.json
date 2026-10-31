@@ -69,6 +69,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "CH_M11:00240",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "CH_M11:0035a",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -164,6 +173,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "CH_M11:0054e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "CH_M11:006e5",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -181,6 +199,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "CH_M11:0072f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "CH_M11:00759",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -195,6 +222,15 @@
   "call": "MswStr",
   "box": 40,
   "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00799",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
   "speaker": "村の人"
  },
  {
@@ -267,6 +303,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "CH_M11:00a35",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "CH_M11:00a5f",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -336,6 +381,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "CH_M11:00da9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "CH_M11:00dd3",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -350,6 +404,15 @@
   "call": "MswStr",
   "box": 76,
   "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00e15",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
   "speaker": "村の人"
  },
  {
@@ -396,6 +459,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "CH_M11:00f35",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "CH_M11:00fab",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -413,6 +485,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "CH_M11:00fe3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "CH_M11:0100d",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -427,6 +508,15 @@
   "call": "MswStr",
   "box": 87,
   "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:0104f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
   "speaker": "村の人"
  },
  {

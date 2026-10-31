@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M26_2:00298",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M26_2:002f2",
   "jp": "{C0D04}［バッボ］{C0F04}",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 27,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M26_2:004d2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 2,
   "speaker": "マール"
  }
 ]

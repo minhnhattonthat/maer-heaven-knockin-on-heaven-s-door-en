@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV040:009cd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV040:00a1e",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 63,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:00a66",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -77,6 +95,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV040:00cca",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV040:00d9e",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -91,6 +118,15 @@
   "call": "MswStr",
   "box": 80,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:00de6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -111,6 +147,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "G_EV040:013ed",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "G_EV040:01455",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -125,6 +170,15 @@
   "call": "MswStr",
   "box": 119,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV040:01487",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
   "speaker": "スノウ"
  }
 ]

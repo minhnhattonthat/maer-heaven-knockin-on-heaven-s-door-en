@@ -17,6 +17,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "SHOPPE01:00224",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "SHOPPE01:00276",
   "jp": "{C0D04}［ÄＲＭ屋］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "SHOPPE01:002ba",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "SHOPPE01:003ea",
   "jp": "{C0D04}［ÄＲＭ屋］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 18,
   "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "SHOPPE01:0042c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 2,
   "speaker": "ÄＲＭ屋"
  }
 ]

@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV006:01088",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV006:0119b",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "G_EV006:01756",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "G_EV006:01869",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -77,6 +95,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV006:0189d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV006:01a1c",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -91,6 +118,15 @@
   "call": "MswStr",
   "box": 154,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01a60",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -238,6 +274,15 @@
   "call": "MswStr",
   "box": 188,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:021dd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

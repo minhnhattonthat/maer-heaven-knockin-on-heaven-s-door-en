@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_BA02:00547",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_BA02:00866",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_BA02:00930",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_BA02:00a43",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 62,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_BA02:00a7b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -94,6 +121,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_BA02:00b1d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_BA02:00c5d",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -108,6 +144,15 @@
   "call": "MswStr",
   "box": 72,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_BA02:00cb3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -154,6 +199,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_BA02:00dbf",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_BA02:00de9",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -171,6 +225,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_BA02:00e43",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_BA02:00fc2",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -185,6 +248,15 @@
   "call": "MswStr",
   "box": 87,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BA02:01002",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -228,6 +300,15 @@
   "call": "MswStr",
   "box": 93,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BA02:0115c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

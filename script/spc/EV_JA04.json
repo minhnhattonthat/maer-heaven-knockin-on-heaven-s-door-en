@@ -69,6 +69,15 @@
   "speaker": "ルーガ"
  },
  {
+  "id": "EV_JA04:00a48",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "ルーガ"
+ },
+ {
   "id": "EV_JA04:00a72",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -112,6 +121,15 @@
   "speaker": "ガルー"
  },
  {
+  "id": "EV_JA04:00b68",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ガルー"
+ },
+ {
   "id": "EV_JA04:00fa0",
   "jp": "{C0D04}［ペタ］",
   "en": "",
@@ -126,6 +144,15 @@
   "call": "MswStr",
   "box": 87,
   "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:00fd0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
   "speaker": "ペタ"
  },
  {
@@ -172,6 +199,15 @@
   "speaker": "ペタ"
  },
  {
+  "id": "EV_JA04:010be",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
   "id": "EV_JA04:01311",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -215,6 +251,15 @@
   "speaker": "ルーガ"
  },
  {
+  "id": "EV_JA04:013e5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 2,
+  "speaker": "ルーガ"
+ },
+ {
   "id": "EV_JA04:01567",
   "jp": "{C0D04}［ペタ］",
   "en": "",
@@ -229,6 +274,15 @@
   "call": "MswStr",
   "box": 117,
   "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:0159b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
   "speaker": "ペタ"
  },
  {
@@ -249,6 +303,15 @@
   "speaker": "ペタ"
  },
  {
+  "id": "EV_JA04:015ff",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
   "id": "EV_JA04:01629",
   "jp": "{C0D04}［ペタ］",
   "en": "",
@@ -263,6 +326,15 @@
   "call": "MswStr",
   "box": 121,
   "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:0167d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 2,
   "speaker": "ペタ"
  },
  {
@@ -283,6 +355,15 @@
   "speaker": "ペタ"
  },
  {
+  "id": "EV_JA04:016e7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
   "id": "EV_JA04:01a6d",
   "jp": "{C0D04}［ルーガ＆ガルー］",
   "en": "",
@@ -297,6 +378,15 @@
   "call": "MswStr",
   "box": 144,
   "line": 1,
+  "speaker": "ルーガ＆ガルー"
+ },
+ {
+  "id": "EV_JA04:01ab7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 2,
   "speaker": "ルーガ＆ガルー"
  }
 ]

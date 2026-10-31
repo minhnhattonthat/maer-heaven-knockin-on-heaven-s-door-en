@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "SP_M01_3:0029f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "SP_M01_3:005d7",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -51,11 +60,43 @@
   "line": 0
  },
  {
+  "id": "SP_M01_3:00866",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1
+ },
+ {
+  "id": "SP_M01_3:00872",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2
+ },
+ {
   "id": "SP_M01_3:00ad1",
   "jp": "{C0D04}６８０Ｐ{C0F04}が入っていた！",
   "en": "",
   "call": "MswStr",
   "box": 73,
   "line": 0
+ },
+ {
+  "id": "SP_M01_3:00b01",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1
+ },
+ {
+  "id": "SP_M01_3:00b0d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2
  }
 ]

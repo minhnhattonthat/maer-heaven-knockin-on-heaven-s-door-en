@@ -43,6 +43,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24_4:00426",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24_4:004b5",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24_4:004fd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24_4:00bae",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 65,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:00bea",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -120,6 +147,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24_4:00e30",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24_4:00f04",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 81,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_4:00f38",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 2,
   "speaker": "マール"
  },
  {
@@ -180,6 +225,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "HI_M24_4:011b7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "HI_M24_4:0127b",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -223,6 +277,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:0164a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:017dd",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -240,6 +303,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24_4:01811",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24_4:018af",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -254,6 +326,15 @@
   "call": "MswStr",
   "box": 133,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:018e5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -300,6 +381,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:01c35",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:01d30",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -314,6 +404,15 @@
   "call": "MswStr",
   "box": 157,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01d6a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -360,6 +459,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24_4:01efe",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24_4:02162",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -374,6 +482,15 @@
   "call": "MswStr",
   "box": 180,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:021a8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -394,6 +511,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:0220a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:022f4",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -408,6 +534,15 @@
   "call": "MswStr",
   "box": 189,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02330",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -428,6 +563,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:02411",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:0243b",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -445,6 +589,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:02473",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:024db",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -459,6 +612,15 @@
   "call": "MswStr",
   "box": 198,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02521",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -583,6 +745,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:02d0b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 235,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:02e97",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -600,6 +771,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "HI_M24_4:02ee3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "HI_M24_4:02f0d",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -614,6 +794,15 @@
   "call": "MswStr",
   "box": 244,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02f55",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -712,6 +901,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "HI_M24_4:03399",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "HI_M24_4:03553",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -726,6 +924,15 @@
   "call": "MswStr",
   "box": 270,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:03595",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 2,
   "speaker": "ドロシー"
  }
 ]

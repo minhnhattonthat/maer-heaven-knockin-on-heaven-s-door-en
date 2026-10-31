@@ -43,6 +43,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_MON01:00660",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_MON01:0068a",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -161,6 +170,15 @@
   "call": "MswStr",
   "box": 64,
   "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00a88",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
   "speaker": "ブモル"
  },
  {

@@ -43,6 +43,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV025B:00461",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV025B:00645",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 31,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:00687",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV025B:0080d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV025B:008ab",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -120,6 +147,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV025B:008db",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV025B:00d2a",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -134,6 +170,15 @@
   "call": "MswStr",
   "box": 71,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:00d68",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -232,6 +277,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV025B:011f1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV025B:01251",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -275,6 +329,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "G_EV025B:013f0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "G_EV025B:0156f",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -289,6 +352,15 @@
   "call": "MswStr",
   "box": 112,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV025B:015af",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -361,6 +433,15 @@
   "speaker": "占い師"
  },
  {
+  "id": "G_EV025B:019f6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 2,
+  "speaker": "占い師"
+ },
+ {
   "id": "G_EV025B:01a20",
   "jp": "{C0D04}［占い師］",
   "en": "",
@@ -378,6 +459,15 @@
   "speaker": "占い師"
  },
  {
+  "id": "G_EV025B:01a76",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "占い師"
+ },
+ {
   "id": "G_EV025B:01aa0",
   "jp": "{C0D04}［占い師］",
   "en": "",
@@ -392,6 +482,15 @@
   "call": "MswStr",
   "box": 138,
   "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01af0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
   "speaker": "占い師"
  },
  {
@@ -464,12 +563,45 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV025B:01e0b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:01e65",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 0
+ },
+ {
   "id": "G_EV025B:01e71",
   "jp": "　　　　　　　　（１）",
   "en": "",
   "call": "MswStr",
   "box": 158,
   "line": 1
+ },
+ {
+  "id": "G_EV025B:01e93",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 2
+ },
+ {
+  "id": "G_EV025B:0218a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 0
  },
  {
   "id": "G_EV025B:02196",
@@ -480,6 +612,22 @@
   "line": 1
  },
  {
+  "id": "G_EV025B:021b8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 2
+ },
+ {
+  "id": "G_EV025B:023cc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 192,
+  "line": 0
+ },
+ {
   "id": "G_EV025B:023d8",
   "jp": "　　　　　　　　（３）",
   "en": "",
@@ -488,12 +636,36 @@
   "line": 1
  },
  {
+  "id": "G_EV025B:023fa",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 192,
+  "line": 2
+ },
+ {
+  "id": "G_EV025B:025de",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
   "id": "G_EV025B:025ea",
   "jp": "　　　　　　　　（４）",
   "en": "",
   "call": "MswStr",
   "box": 205,
   "line": 1
+ },
+ {
+  "id": "G_EV025B:0260c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 2
  },
  {
   "id": "G_EV025B:0266e",
@@ -522,12 +694,28 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV025B:02898",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 0
+ },
+ {
   "id": "G_EV025B:028a4",
   "jp": "　　　　　　　　（５）",
   "en": "",
   "call": "MswStr",
   "box": 221,
   "line": 1
+ },
+ {
+  "id": "G_EV025B:028c6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 2
  },
  {
   "id": "G_EV025B:02928",
@@ -703,6 +891,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "G_EV025B:0317a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "G_EV025B:0332f",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -795,6 +992,15 @@
   "call": "MswStr",
   "box": 289,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:03711",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 2,
   "speaker": "エド"
  }
 ]

@@ -17,6 +17,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_EDO01:00323",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_EDO01:00e66",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_EDO01:00ea2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_EDO01:00feb",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 95,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:01033",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -117,6 +144,15 @@
   "call": "MswStr",
   "box": 124,
   "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_EDO01:0159f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 2,
   "speaker": "？？？"
  },
  {
@@ -267,6 +303,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_EDO01:01d86",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_EDO01:01ec0",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -284,6 +329,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "EV_EDO01:01ef4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "EV_EDO01:0202e",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -298,6 +352,15 @@
   "call": "MswStr",
   "box": 181,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:02060",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -344,6 +407,15 @@
   "speaker": "エド"
  },
  {
+  "id": "EV_EDO01:024b5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "EV_EDO01:024df",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -387,6 +459,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "EV_EDO01:02777",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 220,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "EV_EDO01:027df",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -427,6 +508,15 @@
   "call": "MswStr",
   "box": 225,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:0288f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -522,6 +612,15 @@
   "call": "MswStr",
   "box": 234,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:02ac5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 2,
   "speaker": "エド"
  }
 ]

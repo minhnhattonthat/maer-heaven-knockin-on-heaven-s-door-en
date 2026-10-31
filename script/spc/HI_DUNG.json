@@ -8,11 +8,43 @@
   "line": 0
  },
  {
+  "id": "HI_DUNG:00187",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1
+ },
+ {
+  "id": "HI_DUNG:00193",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2
+ },
+ {
   "id": "HI_DUNG:00469",
   "jp": "外へ出ますか？",
   "en": "",
   "call": "MswStr",
   "box": 27,
   "line": 0
+ },
+ {
+  "id": "HI_DUNG:00483",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1
+ },
+ {
+  "id": "HI_DUNG:0048f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 2
  }
 ]

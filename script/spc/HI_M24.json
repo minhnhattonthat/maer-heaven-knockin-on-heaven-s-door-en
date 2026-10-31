@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24:00310",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24:0033a",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -34,6 +43,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "HI_M24:00374",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "HI_M24:00751",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -48,6 +66,15 @@
   "call": "MswStr",
   "box": 43,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:00793",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -94,6 +121,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M24:00a94",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M24:00cb4",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -111,6 +147,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M24:00cea",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M24:00ffa",
   "jp": "{C0D04}［彫金師ベリーニ］",
   "en": "",
@@ -125,6 +170,15 @@
   "call": "MswStr",
   "box": 90,
   "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:01034",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
   "speaker": "彫金師ベリーニ"
  },
  {
@@ -301,6 +355,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M24:0181f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M24:018f3",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -315,6 +378,15 @@
   "call": "MswStr",
   "box": 130,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:01937",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -335,6 +407,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M24:01a45",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M24:01bb7",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -352,6 +433,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M24:01bed",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M24:01c4d",
   "jp": "{C0D04}［彫金師ベリーニ］",
   "en": "",
@@ -366,6 +456,15 @@
   "call": "MswStr",
   "box": 148,
   "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:01c8b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 2,
   "speaker": "彫金師ベリーニ"
  },
  {
@@ -412,6 +511,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M24:01f06",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M24:0220f",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -455,6 +563,15 @@
   "speaker": "マール"
  },
  {
+  "id": "HI_M24:022eb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "HI_M24:0234d",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -469,6 +586,15 @@
   "call": "MswStr",
   "box": 186,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0238d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -541,6 +667,15 @@
   "speaker": "マール"
  },
  {
+  "id": "HI_M24:02720",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "HI_M24:02a5b",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -555,6 +690,15 @@
   "call": "MswStr",
   "box": 224,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:02a99",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -601,6 +745,15 @@
   "speaker": "彫金師ベリーニ"
  },
  {
+  "id": "HI_M24:0305a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
   "id": "HI_M24:03145",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -644,6 +797,15 @@
   "speaker": "エド"
  },
  {
+  "id": "HI_M24:032c9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "HI_M24:032f3",
   "jp": "{C0D04}［彫金師ベリーニ］",
   "en": "",
@@ -658,6 +820,15 @@
   "call": "MswStr",
   "box": 270,
   "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03333",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 2,
   "speaker": "彫金師ベリーニ"
  },
  {
@@ -730,6 +901,15 @@
   "speaker": "彫金師ベリーニ"
  },
  {
+  "id": "HI_M24:03634",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
   "id": "HI_M24:03708",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -744,6 +924,15 @@
   "call": "MswStr",
   "box": 289,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03742",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -868,6 +1057,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "HI_M24:03e97",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 324,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "HI_M24:03ec1",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -885,6 +1083,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "HI_M24:03f15",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "HI_M24:03f60",
   "jp": "{C0D04}［彫金師ベリーニ］",
   "en": "",
@@ -899,6 +1106,15 @@
   "call": "MswStr",
   "box": 329,
   "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03fa0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 329,
+  "line": 2,
   "speaker": "彫金師ベリーニ"
  }
 ]

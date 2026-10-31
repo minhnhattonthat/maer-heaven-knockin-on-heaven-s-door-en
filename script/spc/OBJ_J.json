@@ -58,5 +58,21 @@
   "call": "MswStr",
   "box": 56,
   "line": 0
+ },
+ {
+  "id": "OBJ_J:00883",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1
+ },
+ {
+  "id": "OBJ_J:0088f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2
  }
 ]

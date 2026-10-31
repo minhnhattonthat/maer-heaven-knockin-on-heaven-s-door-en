@@ -17,6 +17,15 @@
   "speaker": "マジックストーン屋"
  },
  {
+  "id": "SHOPPE02:00205",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 2,
+  "speaker": "マジックストーン屋"
+ },
+ {
   "id": "SHOPPE02:0022f",
   "jp": "{C0D04}［マジックストーン屋］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "マジックストーン屋"
  },
  {
+  "id": "SHOPPE02:00345",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "マジックストーン屋"
+ },
+ {
   "id": "SHOPPE02:00475",
   "jp": "{C0D04}［マジックストーン屋］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 20,
   "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPE02:004c7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
   "speaker": "マジックストーン屋"
  }
 ]

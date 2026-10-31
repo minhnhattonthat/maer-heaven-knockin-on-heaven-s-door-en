@@ -15,5 +15,14 @@
   "box": 8,
   "line": 1,
   "speaker": "手下"
+ },
+ {
+  "id": "G_EV004:0016e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 2,
+  "speaker": "手下"
  }
 ]

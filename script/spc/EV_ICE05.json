@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_ICE05:00279",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_ICE05:002a3",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 18,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE05:00377",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 2,
   "speaker": "ドロシー"
  }
 ]

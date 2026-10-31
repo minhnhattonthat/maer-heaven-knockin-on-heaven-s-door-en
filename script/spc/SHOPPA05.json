@@ -43,6 +43,15 @@
   "speaker": "露天"
  },
  {
+  "id": "SHOPPA05:0054f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 2,
+  "speaker": "露天"
+ },
+ {
   "id": "SHOPPA05:0067f",
   "jp": "{C0D04}［露天］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 22,
   "line": 1,
+  "speaker": "露天"
+ },
+ {
+  "id": "SHOPPA05:006bd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2,
   "speaker": "露天"
  },
  {
@@ -100,6 +118,15 @@
   "call": "MswStr",
   "box": 41,
   "line": 1,
+  "speaker": "露天"
+ },
+ {
+  "id": "SHOPPA05:00a0e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
   "speaker": "露天"
  }
 ]

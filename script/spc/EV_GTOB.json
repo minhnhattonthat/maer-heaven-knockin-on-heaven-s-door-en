@@ -69,6 +69,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_GTOB:00566",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_GTOB:00590",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -138,6 +147,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_GTOB:007c8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_GTOB:009e3",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -181,6 +199,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_GTOB:00bc9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_GTOB:00bf3",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -195,6 +222,15 @@
   "call": "MswStr",
   "box": 63,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_GTOB:00c43",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
   "speaker": "バッボ"
  },
  {
@@ -215,6 +251,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_GTOB:01302",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_GTOB:0132c",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -229,6 +274,15 @@
   "call": "MswStr",
   "box": 107,
   "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_GTOB:0137c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 2,
   "speaker": "バッボ"
  }
 ]

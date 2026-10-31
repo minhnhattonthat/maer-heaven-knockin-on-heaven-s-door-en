@@ -7,6 +7,7 @@ Sources (every Japanese string in the ROM; tests/test_extract.py proves roundtri
   strings are identifiers: file/label/flag names). id = '<NAME>:<CODE pos of the 0x10 op, hex>' (scrp.rebuild key).
   call/box/line: the native call that consumes the string (MswStr = message box), its index in the file, and the
   string's index among the pushes before it (MswStr line 0 is the speaker label); speaker: name from line 0.
+  Empty strings a MswStr box pushes as lines are extracted too (jp ''): spare lines the English may use.
 - script/code.json: strings in the code's string block (CODE_BLOCK). refs = ROM offsets of the u32 pointers to the
   string (literal pools and pointer tables); subrefs = pointers into its middle, by byte offset; slot = bytes up
   to the next string (NUL padding included).
@@ -45,15 +46,23 @@ def spc_entries(rom):
         s, sz = c['CODE']
         nat = scrp.natives(b[c['FUNC'][0]:sum(c['FUNC'])]) if 'FUNC' in c else {}
         ents, pending, box = [], [], 0
-        for p, op, arg in scrp.instrs(b[s:s + sz]):
+        ins = list(scrp.instrs(b[s:s + sz]))
+        for k, (p, op, arg) in enumerate(ins):
             if op == 0x10:
                 t = arg[2:-1]
-                e = {'id': '%s:%05x' % (name[:-4], p), 'jp': text.decode(t), 'en': ''} if is_text(t) else None
-                if e:
-                    ents.append(e)
+                # empty strings pushed as-is (22 00, not a concat target 22 01) are spare message-box lines
+                empty = not t and ins[k + 1][1] == 0x22 and ins[k + 1][2][0] == 0
+                e = {'id': '%s:%05x' % (name[:-4], p), 'jp': text.decode(t), 'en': ''} if is_text(t) or empty else None
+                if e and ins[k + 1][1] == 0x22 and ins[k + 1][2][0] == 1:
+                    e['concat'] = True  # appended to the previous push's string (a name the game fills in)
                 pending.append(e)
             elif op == 0x80:
                 call = nat.get(p + 1 - scrp.CODE_BASE, '?')
+                if call == 'MswStr' and any(e and e['jp'] for e in pending):
+                    ents += [e for e in pending if e]
+                else:
+                    ents += [e for e in pending if e and e['jp']]
+                    pending = [e if e and e['jp'] else None for e in pending]
                 spk = None
                 for i, e in enumerate(pending):
                     if e:
@@ -64,6 +73,7 @@ def spc_entries(rom):
                             e['speaker'] = spk
                 pending = []
                 box += 1
+        ents += [e for e in pending if e and e['jp']]
         if ents:
             out[name[:-4]] = ents
     return out

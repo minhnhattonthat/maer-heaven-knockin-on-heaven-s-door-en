@@ -17,11 +17,36 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "SP_M06_1:002a2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "SP_M06_1:0049b",
   "jp": "カギがかかっている",
   "en": "",
   "call": "MswStr",
   "box": 31,
   "line": 0
+ },
+ {
+  "id": "SP_M06_1:004b9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1
+ },
+ {
+  "id": "SP_M06_1:004c5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2
  }
 ]

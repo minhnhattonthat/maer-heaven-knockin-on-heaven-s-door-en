@@ -43,6 +43,15 @@
   "speaker": "バッボ"
  },
  {
+  "id": "EV_ICE02:00390",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "EV_ICE02:008c9",
   "jp": "{C0D04}［？？？］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 52,
   "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_ICE02:008ff",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 52,
+  "line": 2,
   "speaker": "？？？"
  },
  {
@@ -77,6 +95,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_ICE02:0095f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_ICE02:00ad0",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -91,6 +118,15 @@
   "call": "MswStr",
   "box": 65,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE02:00b08",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -111,6 +147,15 @@
   "speaker": "ギンタ＆ドロシー"
  },
  {
+  "id": "EV_ICE02:00d5a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 2,
+  "speaker": "ギンタ＆ドロシー"
+ },
+ {
   "id": "EV_ICE02:00e2e",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -125,6 +170,15 @@
   "call": "MswStr",
   "box": 82,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE02:00e6e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -171,6 +225,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_ICE02:01036",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_ICE02:010f3",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -188,6 +251,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_ICE02:01139",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_ICE02:013c2",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -202,6 +274,15 @@
   "call": "MswStr",
   "box": 110,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE02:01408",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -453,6 +534,15 @@
   "call": "MswStr",
   "box": 167,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE02:01f33",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

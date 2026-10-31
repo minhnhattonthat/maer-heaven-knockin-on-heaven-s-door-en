@@ -69,6 +69,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV005:011d1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV005:011fb",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 102,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV005:0122d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -129,6 +147,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV005:01474",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV005:0149e",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -172,6 +199,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV005:01583",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV005:015eb",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -186,6 +222,15 @@
   "call": "MswStr",
   "box": 121,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV005:01633",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -232,6 +277,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV005:018b2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV005:018fd",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -246,6 +300,15 @@
   "call": "MswStr",
   "box": 136,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV005:0194b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {
@@ -266,6 +329,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "G_EV005:01b4a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "G_EV005:01bb2",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -283,6 +355,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV005:01bf4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV005:01c8a",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -297,6 +378,15 @@
   "call": "MswStr",
   "box": 153,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV005:01cc2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 2,
   "speaker": "ナナシ"
  }
 ]

@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "SP_M24_4:00c40",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "SP_M24_4:00d7a",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 80,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M24_4:00dc6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "SP_M24_4:0119e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "SP_M24_4:01206",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -117,6 +144,15 @@
   "call": "MswStr",
   "box": 102,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M24_4:0124c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -137,6 +173,15 @@
   "speaker": "マール"
  },
  {
+  "id": "SP_M24_4:012fa",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
   "id": "SP_M24_4:0146a",
   "jp": "{C0D04}［バッボ］",
   "en": "",
@@ -154,12 +199,37 @@
   "speaker": "バッボ"
  },
  {
+  "id": "SP_M24_4:014a0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
   "id": "SP_M24_4:01c2b",
   "jp": "ァァァアアアアアァァァ…",
   "en": "",
   "call": "MswStr",
   "box": 168,
   "line": 0
+ },
+ {
+  "id": "SP_M24_4:01c4f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 1
+ },
+ {
+  "id": "SP_M24_4:01c5b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2
  },
  {
   "id": "SP_M24_4:01f1b",
@@ -176,6 +246,15 @@
   "call": "MswStr",
   "box": 187,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "SP_M24_4:01f55",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -248,6 +327,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "SP_M24_4:02c57",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 271,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "SP_M24_4:02d4c",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -288,6 +376,15 @@
   "call": "MswStr",
   "box": 283,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M24_4:02eb8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 283,
+  "line": 2,
   "speaker": "ジャック"
  }
 ]

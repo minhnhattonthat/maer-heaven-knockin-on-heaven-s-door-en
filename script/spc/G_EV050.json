@@ -43,6 +43,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV050:00bd6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV050:00f78",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -216,6 +225,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "G_EV050:0182a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "G_EV050:01892",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -337,6 +355,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV050:020a2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV050:0210a",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -351,6 +378,15 @@
   "call": "MswStr",
   "box": 171,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:0213c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -371,6 +407,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV050:0219a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV050:021c4",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -385,6 +430,15 @@
   "call": "MswStr",
   "box": 175,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:021f8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -405,6 +459,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "G_EV050:02304",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "G_EV050:028fa",
   "jp": "{C0D04}［スノウ］",
   "en": "",
@@ -419,6 +482,15 @@
   "call": "MswStr",
   "box": 218,
   "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:02944",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 2,
   "speaker": "スノウ"
  },
  {
@@ -439,6 +511,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "G_EV050:02a9b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "G_EV050:02b03",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -456,6 +537,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "G_EV050:02b4d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "G_EV050:03599",
   "jp": "ダンジョンモードに",
   "en": "",
@@ -470,5 +560,13 @@
   "call": "MswStr",
   "box": 299,
   "line": 1
+ },
+ {
+  "id": "G_EV050:035f3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 2
  }
 ]

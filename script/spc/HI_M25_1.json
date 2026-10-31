@@ -17,6 +17,15 @@
   "speaker": "ナナシ"
  },
  {
+  "id": "HI_M25_1:00288",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
   "id": "HI_M25_1:0034a",
   "jp": "{C0D04}［ナナシ］",
   "en": "",
@@ -57,6 +66,15 @@
   "call": "MswStr",
   "box": 24,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M25_1:0044c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "HI_M25_1:00704",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "HI_M25_1:0072e",
   "jp": "{C0D04}［マール］",
   "en": "",
@@ -117,6 +144,15 @@
   "call": "MswStr",
   "box": 39,
   "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M25_1:00764",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
   "speaker": "マール"
  }
 ]

@@ -69,6 +69,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV020C:00c7a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV020C:00dba",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00dfe",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -311,6 +329,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV020C:014a9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV020C:014d3",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -354,6 +381,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV020C:015db",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV020C:01643",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -368,6 +404,15 @@
   "call": "MswStr",
   "box": 114,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:01679",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 2,
   "speaker": "アルヴィス"
  },
  {
@@ -388,6 +433,15 @@
   "speaker": "エド"
  },
  {
+  "id": "G_EV020C:016e3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
   "id": "G_EV020C:0170d",
   "jp": "{C0D04}［エド］",
   "en": "",
@@ -402,6 +456,15 @@
   "call": "MswStr",
   "box": 118,
   "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01751",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
   "speaker": "エド"
  },
  {
@@ -471,6 +534,15 @@
   "call": "MswStr",
   "box": 125,
   "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:018d7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 2,
   "speaker": "アルヴィス"
  }
 ]

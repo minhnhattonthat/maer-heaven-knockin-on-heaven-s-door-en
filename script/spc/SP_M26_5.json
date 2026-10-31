@@ -17,6 +17,15 @@
   "speaker": "アルヴィス"
  },
  {
+  "id": "SP_M26_5:00253",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
   "id": "SP_M26_5:0027d",
   "jp": "{C0D04}［アルヴィス］",
   "en": "",
@@ -60,12 +69,37 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "SP_M26_5:007bb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "SP_M26_5:00906",
   "jp": "ふかい穴があいている",
   "en": "",
   "call": "MswStr",
   "box": 66,
   "line": 0
+ },
+ {
+  "id": "SP_M26_5:00926",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1
+ },
+ {
+  "id": "SP_M26_5:00932",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 2
  },
  {
   "id": "SP_M26_5:00b7c",
@@ -82,6 +116,15 @@
   "call": "MswStr",
   "box": 82,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M26_5:00bb8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -128,6 +171,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "SP_M26_5:00d69",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "SP_M26_5:0105e",
   "jp": "見えないまほうのかべで",
   "en": "",
@@ -142,6 +194,14 @@
   "call": "MswStr",
   "box": 114,
   "line": 1
+ },
+ {
+  "id": "SP_M26_5:0109c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 2
  },
  {
   "id": "SP_M26_5:012e6",
@@ -161,6 +221,15 @@
   "speaker": "スノウ"
  },
  {
+  "id": "SP_M26_5:01330",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
   "id": "SP_M26_5:01555",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -175,6 +244,15 @@
   "call": "MswStr",
   "box": 146,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:01599",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -221,6 +299,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "SP_M26_5:016ff",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "SP_M26_5:01729",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -264,6 +351,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "SP_M26_5:017fd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "SP_M26_5:018bf",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -281,6 +377,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "SP_M26_5:018f5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "SP_M26_5:01ad8",
   "jp": "氷が道をふさいでいる",
   "en": "",
@@ -289,11 +394,43 @@
   "line": 0
  },
  {
+  "id": "SP_M26_5:01af8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 1
+ },
+ {
+  "id": "SP_M26_5:01b04",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2
+ },
+ {
   "id": "SP_M26_5:01f6f",
   "jp": "{C0D04}６５７０Ｐ{C0F04}が入っていた！",
   "en": "",
   "call": "MswStr",
   "box": 211,
   "line": 0
+ },
+ {
+  "id": "SP_M26_5:01fa1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 1
+ },
+ {
+  "id": "SP_M26_5:01fad",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 2
  }
 ]

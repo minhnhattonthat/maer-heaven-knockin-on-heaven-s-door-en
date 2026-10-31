@@ -6,5 +6,21 @@
   "call": "MswStr",
   "box": 22,
   "line": 0
+ },
+ {
+  "id": "SP_M40:002ca",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1
+ },
+ {
+  "id": "SP_M40:002d6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2
  }
 ]

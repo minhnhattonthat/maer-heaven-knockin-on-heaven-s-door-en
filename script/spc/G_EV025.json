@@ -69,6 +69,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV025:00c05",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV025:00dfb",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -83,6 +92,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025:00e33",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -103,6 +121,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV025:00eab",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV025:013f7",
   "jp": "{C0D04}癒しの天使　ＣＬ３{C0F04}を",
   "en": "",
@@ -119,6 +146,14 @@
   "line": 1
  },
  {
+  "id": "G_EV025:0143b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2
+ },
+ {
   "id": "G_EV025:016b7",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -133,6 +168,15 @@
   "call": "MswStr",
   "box": 133,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:016fb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 2,
   "speaker": "イアン"
  },
  {
@@ -179,6 +223,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "G_EV025:01809",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "G_EV025:01833",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -222,6 +275,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV025:01939",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV025:01d0d",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -239,6 +301,15 @@
   "speaker": "イアン"
  },
  {
+  "id": "G_EV025:01d4d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
   "id": "G_EV025:01db5",
   "jp": "{C0D04}［イアン］",
   "en": "",
@@ -253,6 +324,15 @@
   "call": "MswStr",
   "box": 170,
   "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:01def",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 2,
   "speaker": "イアン"
  }
 ]

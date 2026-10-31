@@ -43,6 +43,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "HI_M11:00241",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "HI_M11:0026b",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -60,6 +69,15 @@
   "speaker": "村の人"
  },
  {
+  "id": "HI_M11:002a9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
   "id": "HI_M11:002d3",
   "jp": "{C0D04}［村の人］",
   "en": "",
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 17,
   "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:0031f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
   "speaker": "村の人"
  },
  {
@@ -117,6 +144,15 @@
   "call": "MswStr",
   "box": 26,
   "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M11:004e6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 2,
   "speaker": "ナナシ"
  },
  {

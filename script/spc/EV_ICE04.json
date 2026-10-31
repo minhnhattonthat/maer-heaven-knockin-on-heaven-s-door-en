@@ -17,6 +17,15 @@
   "speaker": "ドロシー"
  },
  {
+  "id": "EV_ICE04:003c6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
   "id": "EV_ICE04:003f0",
   "jp": "{C0D04}［ドロシー］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 22,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:00448",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2,
   "speaker": "ドロシー"
  },
  {
@@ -74,6 +92,15 @@
   "call": "MswStr",
   "box": 26,
   "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:0053c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 2,
   "speaker": "ドロシー"
  }
 ]

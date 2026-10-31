@@ -17,6 +17,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_RT02:0041d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_RT02:00530",
   "jp": "{C0D04}［親岩］",
   "en": "",
@@ -86,6 +95,15 @@
   "speaker": "子岩"
  },
  {
+  "id": "EV_RT02:00747",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "子岩"
+ },
+ {
   "id": "EV_RT02:007af",
   "jp": "{C0D04}［親岩］",
   "en": "",
@@ -126,6 +144,15 @@
   "call": "MswStr",
   "box": 44,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT02:008bb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -172,6 +199,15 @@
   "speaker": "子岩"
  },
  {
+  "id": "EV_RT02:009d3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "子岩"
+ },
+ {
   "id": "EV_RT02:00e37",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -186,6 +222,15 @@
   "call": "MswStr",
   "box": 78,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT02:00e6d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -206,6 +251,15 @@
   "speaker": "ギンタ"
  },
  {
+  "id": "EV_RT02:014ce",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
   "id": "EV_RT02:014f8",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -220,6 +274,15 @@
   "call": "MswStr",
   "box": 117,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT02:01538",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {

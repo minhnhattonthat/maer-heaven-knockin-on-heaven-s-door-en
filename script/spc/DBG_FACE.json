@@ -248,6 +248,22 @@
   "line": 0
  },
  {
+  "id": "DBG_FACE:0190d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:01919",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:01bb3",
   "jp": "バッボ１",
   "en": "",
@@ -360,6 +376,14 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:02405",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:0264b",
   "jp": "ジャック１",
   "en": "",
@@ -424,12 +448,36 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:02a5f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:02b51",
   "jp": "ジャック鳥１",
   "en": "",
   "call": "MswStr",
   "box": 229,
   "line": 0
+ },
+ {
+  "id": "DBG_FACE:02b69",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:02b75",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 2
  },
  {
   "id": "DBG_FACE:02e0f",
@@ -542,6 +590,14 @@
   "call": "MswStr",
   "box": 288,
   "line": 1
+ },
+ {
+  "id": "DBG_FACE:0364d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 288,
+  "line": 2
  },
  {
   "id": "DBG_FACE:03893",
@@ -744,6 +800,22 @@
   "line": 0
  },
  {
+  "id": "DBG_FACE:0490d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 386,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:04919",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 386,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:04bb3",
   "jp": "ルーガ１",
   "en": "",
@@ -774,6 +846,22 @@
   "call": "MswStr",
   "box": 410,
   "line": 0
+ },
+ {
+  "id": "DBG_FACE:04d19",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 410,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:04d25",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 410,
+  "line": 2
  },
  {
   "id": "DBG_FACE:04fbf",
@@ -808,6 +896,22 @@
   "line": 0
  },
  {
+  "id": "DBG_FACE:05125",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 434,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:05131",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 434,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:053cb",
   "jp": "イアン１",
   "en": "",
@@ -838,6 +942,22 @@
   "call": "MswStr",
   "box": 458,
   "line": 0
+ },
+ {
+  "id": "DBG_FACE:05531",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 458,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:0553d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 458,
+  "line": 2
  },
  {
   "id": "DBG_FACE:056eb",
@@ -952,6 +1072,14 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:05f95",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 514,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:060ef",
   "jp": "ハロウィン１",
   "en": "",
@@ -966,6 +1094,14 @@
   "call": "MswStr",
   "box": 522,
   "line": 1
+ },
+ {
+  "id": "DBG_FACE:0611f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 522,
+  "line": 2
  },
  {
   "id": "DBG_FACE:06279",
@@ -984,6 +1120,14 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:0629d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 530,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:063f7",
   "jp": "ロコ１",
   "en": "",
@@ -998,6 +1142,14 @@
   "call": "MswStr",
   "box": 538,
   "line": 1
+ },
+ {
+  "id": "DBG_FACE:0641b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 538,
+  "line": 2
  },
  {
   "id": "DBG_FACE:06575",
@@ -1016,6 +1168,14 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:0659d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 546,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:066f7",
   "jp": "ベル１",
   "en": "",
@@ -1030,6 +1190,14 @@
   "call": "MswStr",
   "box": 554,
   "line": 1
+ },
+ {
+  "id": "DBG_FACE:0671b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 554,
+  "line": 2
  },
  {
   "id": "DBG_FACE:06961",
@@ -1096,6 +1264,14 @@
   "line": 1
  },
  {
+  "id": "DBG_FACE:06d6d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 588,
+  "line": 2
+ },
+ {
   "id": "DBG_FACE:06fb3",
   "jp": "小雪１",
   "en": "",
@@ -1134,6 +1310,14 @@
   "call": "MswStr",
   "box": 611,
   "line": 1
+ },
+ {
+  "id": "DBG_FACE:07199",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 611,
+  "line": 2
  },
  {
   "id": "DBG_FACE:073df",
@@ -1190,5 +1374,21 @@
   "call": "MswStr",
   "box": 643,
   "line": 0
+ },
+ {
+  "id": "DBG_FACE:07767",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 643,
+  "line": 1
+ },
+ {
+  "id": "DBG_FACE:07773",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 643,
+  "line": 2
  }
 ]

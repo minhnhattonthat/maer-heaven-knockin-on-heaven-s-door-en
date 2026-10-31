@@ -17,6 +17,15 @@
   "speaker": "街の人"
  },
  {
+  "id": "CH_M09A:00138",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
   "id": "CH_M09A:00162",
   "jp": "{C0D04}［街の人］",
   "en": "",
@@ -138,6 +147,15 @@
   "speaker": "街の人"
  },
  {
+  "id": "CH_M09A:0051c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
   "id": "CH_M09A:00650",
   "jp": "{C0D04}［街の人］",
   "en": "",
@@ -204,6 +222,15 @@
   "call": "MswStr",
   "box": 44,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:008b2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -276,6 +303,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "CH_M09A:00db9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "CH_M09A:00de3",
   "jp": "{C0D04}［店主］",
   "en": "",
@@ -290,6 +326,15 @@
   "call": "MswStr",
   "box": 75,
   "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:00e21",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 2,
   "speaker": "店主"
  },
  {
@@ -333,6 +378,15 @@
   "call": "MswStr",
   "box": 88,
   "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:01062",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 2,
   "speaker": "店主"
  },
  {
@@ -405,6 +459,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "CH_M09A:01445",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "CH_M09A:0153a",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -419,6 +482,15 @@
   "call": "MswStr",
   "box": 117,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01588",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -465,6 +537,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "CH_M09A:01676",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "CH_M09A:016a0",
   "jp": "{C0D04}［ギンタ］",
   "en": "",
@@ -479,6 +560,15 @@
   "call": "MswStr",
   "box": 123,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:016e2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
@@ -525,6 +615,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "CH_M09A:017be",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "CH_M09A:017e8",
   "jp": "{C0D04}［ÄＲＭ屋］",
   "en": "",
@@ -542,6 +641,15 @@
   "speaker": "ÄＲＭ屋"
  },
  {
+  "id": "CH_M09A:01835",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
   "id": "CH_M09A:0192a",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -556,6 +664,15 @@
   "call": "MswStr",
   "box": 136,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:01964",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -758,6 +875,15 @@
   "speaker": "ジャック"
  },
  {
+  "id": "CH_M09A:01f4a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
   "id": "CH_M09A:01fd4",
   "jp": "{C0D04}［ÄＲＭ屋］",
   "en": "",
@@ -824,6 +950,15 @@
   "call": "MswStr",
   "box": 169,
   "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:02114",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 2,
   "speaker": "ÄＲＭ屋"
  }
 ]

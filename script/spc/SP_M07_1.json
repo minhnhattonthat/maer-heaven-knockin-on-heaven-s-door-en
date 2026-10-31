@@ -6,5 +6,21 @@
   "call": "MswStr",
   "box": 64,
   "line": 0
+ },
+ {
+  "id": "SP_M07_1:00834",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1
+ },
+ {
+  "id": "SP_M07_1:00840",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2
  }
 ]

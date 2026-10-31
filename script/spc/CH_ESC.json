@@ -8,12 +8,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:001ad",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:001b9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:002af",
   "jp": "オープニングとばしてやる？",
   "en": "",
   "call": "MswStr",
   "box": 18,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:002d5",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:002e1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 2
  },
  {
   "id": "CH_ESC:0040c",
@@ -32,6 +64,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:0045c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:0060c",
   "jp": "バッボをゲットした後に行く？",
   "en": "",
@@ -40,12 +80,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:00634",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:00640",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:008fe",
   "jp": "オイラの畑の手前に行くっスか？",
   "en": "",
   "call": "MswStr",
   "box": 57,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:00928",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:00934",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2
  },
  {
   "id": "CH_ESC:00ab0",
@@ -64,6 +136,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:00aea",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:00bfd",
   "jp": "ルーガルーを倒したところに",
   "en": "",
@@ -78,6 +158,14 @@
   "call": "MswStr",
   "box": 74,
   "line": 1
+ },
+ {
+  "id": "CH_ESC:00c3b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2
  },
  {
   "id": "CH_ESC:00e13",
@@ -96,6 +184,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:00e49",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:00fb8",
   "jp": "盗賊に奪われたバッボを",
   "en": "",
@@ -112,12 +208,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:01004",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:011dc",
   "jp": "あたしを助けにきてくれるの？",
   "en": "",
   "call": "MswStr",
   "box": 108,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:01204",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01210",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 2
  },
  {
   "id": "CH_ESC:012df",
@@ -136,12 +256,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:01321",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:013f0",
   "jp": "なんだ、イアンも倒してしまったんだね？",
   "en": "",
   "call": "MswStr",
   "box": 118,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:01422",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:0142e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2
  },
  {
   "id": "CH_ESC:01607",
@@ -152,12 +296,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:0162f",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:0163b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:01709",
   "jp": "修練の門の前に行くところからだな",
   "en": "",
   "call": "MswStr",
   "box": 135,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:01735",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01741",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 2
  },
  {
   "id": "CH_ESC:0180f",
@@ -176,6 +352,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:01859",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:01928",
   "jp": "ギンタとスノウが",
   "en": "",
@@ -190,6 +374,14 @@
   "call": "MswStr",
   "box": 145,
   "line": 1
+ },
+ {
+  "id": "CH_ESC:0196e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2
  },
  {
   "id": "CH_ESC:01a3c",
@@ -208,6 +400,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:01a7a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:01b48",
   "jp": "ギンタがイアンと再び",
   "en": "",
@@ -224,12 +424,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:01b8a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:01c59",
   "jp": "ジャックとギドが戦うところからだな",
   "en": "",
   "call": "MswStr",
   "box": 160,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:01c87",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01c93",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 2
  },
  {
   "id": "CH_ESC:01e6c",
@@ -240,6 +464,22 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:01e96",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01ea2",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:01f70",
   "jp": "オレがメルの現状を話すとこやな",
   "en": "",
@@ -248,12 +488,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:01f9a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01fa6",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:021a8",
   "jp": "マジックカーペットに乗る？",
   "en": "",
   "call": "MswStr",
   "box": 190,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:021ce",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:021da",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 2
  },
  {
   "id": "CH_ESC:023b2",
@@ -272,6 +544,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:023f4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:024c2",
   "jp": "ヴェストリから地底湖へ",
   "en": "",
@@ -286,6 +566,14 @@
   "call": "MswStr",
   "box": 207,
   "line": 1
+ },
+ {
+  "id": "CH_ESC:0250e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 2
  },
  {
   "id": "CH_ESC:025dc",
@@ -304,6 +592,14 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:0261c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:026ea",
   "jp": "解放したヴェストリに入るところから",
   "en": "",
@@ -320,12 +616,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:02734",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:0290c",
   "jp": "３つのダンジョンの入り口に行く？",
   "en": "",
   "call": "MswStr",
   "box": 229,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:02938",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:02944",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 2
  },
  {
   "id": "CH_ESC:02aa3",
@@ -336,12 +656,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:02acb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:02ad7",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:02c25",
   "jp": "タロスの足とたたかっちゃう？",
   "en": "",
   "call": "MswStr",
   "box": 248,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:02c4d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:02c59",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 2
  },
  {
   "id": "CH_ESC:02da7",
@@ -352,12 +704,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:02dcf",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:02ddb",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:02f29",
   "jp": "タロスとたたかっちゃう？",
   "en": "",
   "call": "MswStr",
   "box": 266,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:02f4d",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:02f59",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 2
  },
  {
   "id": "CH_ESC:031a7",
@@ -368,12 +752,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:031dd",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:031e9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:032b4",
   "jp": "もしかしてスタッフロールだけが見たいとか",
   "en": "",
   "call": "MswStr",
   "box": 287,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:032e8",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 287,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:032f4",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 287,
+  "line": 2
  },
  {
   "id": "CH_ESC:033c0",
@@ -384,12 +800,44 @@
   "line": 0
  },
  {
+  "id": "CH_ESC:033f0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 292,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:033fc",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 292,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:0351c",
   "jp": "イベント無しでルベリアに入るのですか？",
   "en": "",
   "call": "MswStr",
   "box": 299,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:0354e",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:0355a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 2
  },
  {
   "id": "CH_ESC:03784",
@@ -408,12 +856,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:037d0",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:03c2d",
   "jp": "バトルするか？",
   "en": "",
   "call": "MswStr",
   "box": 326,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:03c47",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:03c53",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 2
  },
  {
   "id": "CH_ESC:03e14",
@@ -432,12 +904,36 @@
   "line": 1
  },
  {
+  "id": "CH_ESC:03e64",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 337,
+  "line": 2
+ },
+ {
   "id": "CH_ESC:03ff6",
   "jp": "フェイスチェックはじめるで",
   "en": "",
   "call": "MswStr",
   "box": 347,
   "line": 0
+ },
+ {
+  "id": "CH_ESC:0401c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 347,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:04028",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 347,
+  "line": 2
  },
  {
   "id": "CH_ESC:042b5",
@@ -454,6 +950,15 @@
   "call": "MswStr",
   "box": 363,
   "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "CH_ESC:042f9",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 363,
+  "line": 2,
   "speaker": "彫金師ベリーニ"
  },
  {

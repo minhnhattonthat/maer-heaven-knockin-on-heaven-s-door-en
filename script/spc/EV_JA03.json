@@ -17,6 +17,15 @@
   "speaker": "ルーガ"
  },
  {
+  "id": "EV_JA03:0062b",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "ルーガ"
+ },
+ {
   "id": "EV_JA03:0073e",
   "jp": "{C0D04}［ジャック］",
   "en": "",
@@ -31,6 +40,15 @@
   "call": "MswStr",
   "box": 41,
   "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA03:0077a",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
   "speaker": "ジャック"
  },
  {
@@ -77,6 +95,15 @@
   "speaker": "ルーガ"
  },
  {
+  "id": "EV_JA03:00aa3",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2,
+  "speaker": "ルーガ"
+ },
+ {
   "id": "EV_JA03:00b77",
   "jp": "{C0D04}［ガルー］",
   "en": "",
@@ -94,6 +121,15 @@
   "speaker": "ガルー"
  },
  {
+  "id": "EV_JA03:00bd1",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ガルー"
+ },
+ {
   "id": "EV_JA03:0112c",
   "jp": "{C0D04}［ガルー］",
   "en": "",
@@ -108,6 +144,15 @@
   "call": "MswStr",
   "box": 96,
   "line": 1,
+  "speaker": "ガルー"
+ },
+ {
+  "id": "EV_JA03:0116c",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
   "speaker": "ガルー"
  },
  {
@@ -177,6 +222,15 @@
   "call": "MswStr",
   "box": 118,
   "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA03:015ae",
+  "jp": "",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
   "speaker": "ギンタ"
  },
  {
