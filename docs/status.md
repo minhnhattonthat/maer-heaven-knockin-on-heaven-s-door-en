@@ -12,11 +12,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   SYSTEM.NCD must end before the fixed block 0xF28406 (~90 KB slack minus script growth; now +39 KB): past it the
   build fails "archive past 0xFE0000". Fonts: Pixelify Sans Medium 13/11 (OFL) + vwf8 (small, Ä added).
   Done in SYSTEM.tsv and seen in game: main menu, mode banners, area names, gate banners, tags, command windows,
-  smith menu, prompts, button hints, link messages (link/prompts/smith not seen in game yet). **Left:** credits
-  1698-1781 (narrow 16-px frames; widen with w=), big mode banners 1889-1892/1898-1906, round type icons 0624-0635,
-  0054/0700 check, EFFECT 0386-0389 封印 / 0402-0406 パラメータ, BG screens (T_TTL06 title logo + katakana,
-  T_C01 copyright, SM_BG12, SP_BG12 しょじすう: KCG LZ tiles + KMP map, needs a BG tool), then the visual-QA tour
-  (`qa_gate.py`), verdicts, jp_left. Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
+  smith menu, prompts, button hints, link messages (link/prompts/smith not seen in game yet), staff roll
+  1698-1781 (D15; `wl=` grows right-aligned frames left, right edge = old ink edge), ÄRM type balls 0624-0635
+  (`bgrow=`), big Story/Dungeon Mode banners (`font=huge`), mode option bars 1893-1906 (`bgrep=`, `grad=`);
+  EFFECT.tsv: Sealed 0386-0389, Stats wipe 0402-0406. BG screens via `tools/bgtext.py` + `gfx/BG.tsv` (map cells
+  re-tiled, KCG re-compressed; per-cell palette bank kept unless `pal=`): title logo redrawn (D16), copyright,
+  smith ÄRM grades, OWNED. Space: SYSTEM.NCD grew +130 KB; `nfp.pack` now moves `MAP42_A.KMP` past the gap when
+  needed (verified in game, docs/re/nfp.md). **Left:** 0054/0700 in-game check, visual-QA tour (`tools/tour.py`
+  EN + `tour_jp`, `qa_gate.py`, brief `docs/visual-qa-brief.md`), verdicts, jp_left.
+  Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
 - **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
   polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words
   (s/es plural; any trailing letters only when the JP stretches the name: ギンタ～ン -> Gintaaan), record name fields

@@ -12,7 +12,8 @@
 --   script: redirect OPEN.SPC straight to the named script;
 --   boot:  no redirect (title / normal new game).
 -- Globals: SCENE (required), SCENES (path of scenes.lua; default tools/debug/scenes.lua), AFTER (route
--- played once the warp is done), GOD=1 (see scenes.lua god table). Logs "warp done <frame>" or fails the run.
+-- played once the warp is done), GOD=1 (see scenes.lua god table), TOUR_MASH=n (press A every n frames after the
+-- warp, for the whole run: tools/tour.py; emu.py's own MASH mashes from frame 0). Logs "warp done <frame>" or fails the run.
 local mem = emu.memType.gbaMemory
 local DIR, NFILES = 0x081C0960, 830 -- MAR.NFP directory: 16-byte entries, 12-byte name
 local GET, UNPACKED = 0x0807AC3C, 0x080050D2
@@ -120,7 +121,8 @@ end)
 
 emu.addEventCallback(L.safe(function()
   if stage ~= "done" then emu.setInput(input, 0)
-  elseif sc.mash and (L.frame - tdone) % sc.mash < 6 and L.frame - tdone < (sc.mash_until or 1e9) then
+  elseif (TOUR_MASH or sc.mash) and (L.frame - tdone) % (TOUR_MASH or sc.mash) < 6
+      and L.frame - tdone < (TOUR_MASH and 1e9 or sc.mash_until or 1e9) then -- tour: A every TOUR_MASH frames
     emu.setInput({ a = true }, 0)
   end
 end), emu.eventType.inputPolled)
