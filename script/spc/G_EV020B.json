@@ -1,0 +1,657 @@
+[
+ {
+  "id": "G_EV020B:00919",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:00936",
+  "jp": "{C0F04}けんかは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV020B:00953",
+  "jp": "やめよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV020B:00a58",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:00a75",
+  "jp": "{C0F04}ギンタのともだちなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV020B:00a9c",
+  "jp": "わるい人じゃないよね？",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV020B:00b50",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:00b6f",
+  "jp": "{C0F04}（このコね…ギンタンが助けたコ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:00c0c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:00c2b",
+  "jp": "{C0F04}（むむ！女のかん！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:00c7e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:00c9d",
+  "jp": "{C0F04}（このコのそんざい、あたしにとって",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:00cd2",
+  "jp": "　すっごくじゃまになる！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:0105b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01078",
+  "jp": "{C0F04}それでさ",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01093",
+  "jp": "魔力ってなんなんだよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01267",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01282",
+  "jp": "{C0F04}ÄＲＭつかいならだれでも",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:012ad",
+  "jp": "もっている{C0D04}『気』{C0F04}みたいなもんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01303",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:0131e",
+  "jp": "{C0F04}強力なÄＲＭをつかったり",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01373",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:0138e",
+  "jp": "{C0F04}ÄＲＭつかいのけいけんを",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:013b9",
+  "jp": "つめばあがっていくぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:0154e",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:0156d",
+  "jp": "{C0F04}オ、オイラたちのまりょくは",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV020B:0159a",
+  "jp": "どれくらいっスかね！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV020B:01618",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01635",
+  "jp": "{C0F04}そうだな、どれくらいだ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01660",
+  "jp": "オッサン！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:016d4",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:016ef",
+  "jp": "{C0F04}そうだな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:018cc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:018e9",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01a6b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01a8a",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV020B:01b28",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01b43",
+  "jp": "{C0F04}ゼロだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01b5e",
+  "jp": "ものすげぇよわい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01c8e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01cab",
+  "jp": "{C0F04}ちょっとはつよくなったと",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01cd6",
+  "jp": "思ってたんだけどな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:01d52",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01d6d",
+  "jp": "{C0F04}てめぇらはÄＲＭをもっていても",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01d9e",
+  "jp": "つかいこなしてねぇんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01e4a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01e65",
+  "jp": "{C0F04}今からてめぇらを",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01e88",
+  "jp": "{C0904}修練（しゅうれん）の門{C0F04}へ送る",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01edc",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01ef7",
+  "jp": "{C0F04}そこならだれにもじゃまされずに",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01f28",
+  "jp": "修行ができるはずだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01f64",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:01f7f",
+  "jp": "{C0F04}何をするかは、そこにいるガーディアンが",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01fb8",
+  "jp": "おしえてくれる",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:01ff0",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:0200b",
+  "jp": "{C0F04}わかったな？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:02056",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:02071",
+  "jp": "{C0F04}じゃあみんな",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:02090",
+  "jp": "そのとびらの上に立て",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:028cc",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 215,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:028e7",
+  "jp": "{C0F04}おら！てめーもだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 215,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:0290a",
+  "jp": "このクソ魔女（まじょ）！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 215,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:02a19",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:02a38",
+  "jp": "{C0F04}え～～～！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:02a57",
+  "jp": "なんでよ！このクソおやじ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV020B:02e8c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:02ea7",
+  "jp": "{C0F04}じゃあいくぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:02ec8",
+  "jp": "ディメンションÄＲＭ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:02f0a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:02f25",
+  "jp": "{C0F04}『修練の門』！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:031f4",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:03211",
+  "jp": "{C0F04}うわぁぁぁああ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV020B:0360c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 297,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:03627",
+  "jp": "{C0F04}これでダンナもつよくなっていった…",
+  "en": "",
+  "call": "MswStr",
+  "box": 297,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020B:03686",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 0
+ },
+ {
+  "id": "G_EV020B:036a1",
+  "jp": "{C0F04}どうなるかはてめぇらしだいよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 1,
+  "speaker": "エド"
+ }
+]

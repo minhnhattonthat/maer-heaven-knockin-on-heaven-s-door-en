@@ -1,0 +1,446 @@
+[
+ {
+  "id": "G_EV061:00874",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:00891",
+  "jp": "{C0F04}え？やばい、って何が？",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:009cd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:009ec",
+  "jp": "{C0F04}だから…",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:00bc4",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:00be3",
+  "jp": "{C0F04}こいつよ、こいつ",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:00c66",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:00c83",
+  "jp": "{C0F04}…ボクは…そんな",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV061:00d72",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:00d91",
+  "jp": "{C0F04}あんた…このÄＲＭをつかって",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:00dc0",
+  "jp": "何をたくらんでいるわけ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:010b2",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:010d1",
+  "jp": "{C0F04}言いな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:01156",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01173",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV061:01307",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01324",
+  "jp": "{C0F04}なんでそんなこと言うんだよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:01493",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:014b0",
+  "jp": "{C0F04}マールはいっしょにたたかってくれる",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:014e5",
+  "jp": "なかまじゃないか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:01588",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:015a7",
+  "jp": "{C0F04}ギ、ギンタン…",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:01657",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01674",
+  "jp": "{C0F04}ÄＲＭどろぼうの",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:01697",
+  "jp": "ドロシーのほうがよっぽどあやしいぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:017b6",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:017d5",
+  "jp": "{C0F04}え…",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:019a1",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:019be",
+  "jp": "{C0F04}なんてこと言うのギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01a51",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01a6e",
+  "jp": "{C0F04}ドロシー、しんぱいして",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01a97",
+  "jp": "言ってくれてるんじゃない！",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01b19",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01b36",
+  "jp": "{C0F04}だいじな仲間に",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01b57",
+  "jp": "そんなこと言うギンタ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01cad",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01cca",
+  "jp": "{C0F04}きらいだよっ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:01e2b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01e48",
+  "jp": "{C0F04}う…うるさい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:01f73",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:01f90",
+  "jp": "{C0F04}行くぞ！マール！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV061:0201d",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:0203a",
+  "jp": "{C0F04}は、はい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV061:0284e",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:0286d",
+  "jp": "{C0F04}あ！待つっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV061:02892",
+  "jp": "ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV061:02c0b",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:02c28",
+  "jp": "{C0F04}ギンタ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV061:02d7d",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:02d9c",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV061:030c2",
+  "jp": "ダンジョンモードに",
+  "en": "",
+  "call": "MswStr",
+  "box": 264,
+  "line": 0
+ },
+ {
+  "id": "G_EV061:030e0",
+  "jp": "{C0904}鍛錬（たんれん）の門{C0F04}が追加されました",
+  "en": "",
+  "call": "MswStr",
+  "box": 264,
+  "line": 1
+ }
+]

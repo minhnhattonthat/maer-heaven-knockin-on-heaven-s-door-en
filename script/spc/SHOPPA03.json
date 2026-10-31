@@ -1,0 +1,79 @@
+[
+ {
+  "id": "SHOPPA03:00141",
+  "jp": "{C0D04}［道具屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA03:0015e",
+  "jp": "{C0F04}らっしゃい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 1,
+  "speaker": "道具屋"
+ },
+ {
+  "id": "SHOPPA03:001a9",
+  "jp": "{C0D04}［道具屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA03:001c6",
+  "jp": "{C0F04}長たびのおともにべんりな",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 1,
+  "speaker": "道具屋"
+ },
+ {
+  "id": "SHOPPA03:001f1",
+  "jp": "アイテムはいかがかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 2,
+  "speaker": "道具屋"
+ },
+ {
+  "id": "SHOPPA03:00259",
+  "jp": "{C0D04}［道具屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA03:00276",
+  "jp": "{C0F04}ほかにも見ていくのかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "道具屋"
+ },
+ {
+  "id": "SHOPPA03:003d1",
+  "jp": "{C0D04}［道具屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA03:003ee",
+  "jp": "{C0F04}おや、何を買取ろうかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "道具屋"
+ }
+]

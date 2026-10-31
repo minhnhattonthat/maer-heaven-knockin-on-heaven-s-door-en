@@ -1,0 +1,664 @@
+[
+ {
+  "id": "EV_AL03:00611",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:0062e",
+  "jp": "{C0F04}はぁ…はぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:00796",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:007b3",
+  "jp": "{C0F04}ギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:007ce",
+  "jp": "しっかりせい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:0095b",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:0097c",
+  "jp": "{C0F04}…つ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:00995",
+  "jp": "力まかせになぐりやがって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:009d9",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:009fa",
+  "jp": "{C0F04}…それにしても",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:00a45",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:00a66",
+  "jp": "{C0F04}（どうもこのバッボ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:00a8d",
+  "jp": "　別人格のようだな）",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:00b01",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:00b1e",
+  "jp": "{C0F04}こ、こわさないでくれよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:00b71",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:00b8e",
+  "jp": "{C0F04}こんなヤツでも",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:00baf",
+  "jp": "オ、オレの…ダチ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:00e39",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:00e56",
+  "jp": "{C0F04}おいおまえ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:00e9f",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:00ec0",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:01015",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01032",
+  "jp": "{C0F04}ていこうせんから",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01055",
+  "jp": "ひと思いにこわせ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01093",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:010b0",
+  "jp": "{C0F04}そのかわり、",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:010cf",
+  "jp": "ギンタにゆび一本ふれるな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01115",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01132",
+  "jp": "{C0F04}ギンタはワシの家来！",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01159",
+  "jp": "死なせるワケにはいかんからな",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:0119f",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:011c0",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_AL03:01536",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01553",
+  "jp": "{C0F04}あ！こらまて！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01a5c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01a79",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:01ab8",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01ad5",
+  "jp": "{C0F04}あれ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:01aee",
+  "jp": "ここは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:01c09",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01c28",
+  "jp": "{C0F04}きがついたっスね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:01c4d",
+  "jp": "ここはパヅタウンのはずれっスよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:01d7e",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01d9b",
+  "jp": "{C0F04}なっさけないのぉ",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01dbe",
+  "jp": "あんなヒヨッコにたおされて！",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01e04",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01e21",
+  "jp": "{C0F04}ワシがいなければ",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01e44",
+  "jp": "いまごろおまえはどーなって",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01f49",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01f66",
+  "jp": "{C0F04}おわーーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL03:01fb7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:01fd4",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02013",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:02032",
+  "jp": "{C0F04}オイラかごの中で見てたっスよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:02061",
+  "jp": "すなおじゃないっスね、バッボ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:0211d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:0213a",
+  "jp": "{C0F04}あいつは？",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:0222b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:0224a",
+  "jp": "{C0F04}『ねらわれるたちばを",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:02271",
+  "jp": "　みずからえらんだなら』",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:022b3",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:022d2",
+  "jp": "{C0F04}『強くなれ』",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:023c5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:023e4",
+  "jp": "{C0F04}そういってたっスよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL03:02433",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:02450",
+  "jp": "{C0F04}…そっか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02497",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:024b4",
+  "jp": "{C0F04}（あいつ…バッボをこわさなかった）",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02513",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:02530",
+  "jp": "{C0F04}（信じたんじゃなくて",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02557",
+  "jp": "　ためしているんだな…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02599",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:025b6",
+  "jp": "{C0F04}…ジャック",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02713",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 0
+ },
+ {
+  "id": "EV_AL03:02730",
+  "jp": "{C0F04}オレ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL03:02749",
+  "jp": "つよくなる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

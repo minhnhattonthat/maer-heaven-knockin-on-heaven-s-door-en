@@ -1,0 +1,45 @@
+[
+ {
+  "id": "EV_ICE06:00237",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE06:00256",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE06:00295",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE06:002b4",
+  "jp": "{C0F04}ここから先はギンタンに",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE06:002dd",
+  "jp": "がんばってもらわないとね♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

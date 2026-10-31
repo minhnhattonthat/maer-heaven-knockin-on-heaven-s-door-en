@@ -1,0 +1,34 @@
+[
+ {
+  "id": "FULL_ITM:00086",
+  "jp": "アイテム入れ中",
+  "en": "",
+  "call": "MswStr",
+  "box": 2,
+  "line": 0
+ },
+ {
+  "id": "FULL_ITM:007ee",
+  "jp": "ÄＲＭ１０コずつ入れ中",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 1
+ },
+ {
+  "id": "FULL_ITM:009b4",
+  "jp": "マジックストーン１０コずつ入れ中",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2
+ },
+ {
+  "id": "FULL_ITM:00b78",
+  "jp": "マジックストーン１０コずつ入れ中　おわり",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 2
+ }
+]

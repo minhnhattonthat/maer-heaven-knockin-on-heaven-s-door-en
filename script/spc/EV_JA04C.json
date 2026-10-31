@@ -1,0 +1,45 @@
+[
+ {
+  "id": "EV_JA04C:004a3",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04C:004c6",
+  "jp": "{C0F04}（ただし……）",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA04C:00511",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04C:00534",
+  "jp": "{C0F04}（必ず元気でかえってくるんだよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA04C:00567",
+  "jp": "　ジャック…！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "ジャックの母"
+ }
+]

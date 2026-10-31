@@ -1,0 +1,416 @@
+[
+ {
+  "id": "HI_M24_1:00282",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:0029f",
+  "jp": "{C0F04}う！うわ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:002e8",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00307",
+  "jp": "{C0F04}なんだぁ？…コレ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_1:003f0",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:0040d",
+  "jp": "{C0F04}な、なぜこのような場所が",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M24_1:00438",
+  "jp": "地下に…！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M24_1:00755",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00774",
+  "jp": "{C0F04}さっきから気になっているんスけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_1:007a9",
+  "jp": "足元のコレ…何っスかね？",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_1:007eb",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00808",
+  "jp": "{C0F04}何か…大きなもので",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:0082d",
+  "jp": "ほったみたいだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:00867",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00884",
+  "jp": "{C0F04}だとしたら…コレ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:008a9",
+  "jp": "そうとうでっかいぞ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:00ca5",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00cc2",
+  "jp": "{C0F04}そっかぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24_1:00da1",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00dbe",
+  "jp": "{C0F04}よし！それなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24_1:00ddf",
+  "jp": "わたしもてつだうよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24_1:00f1d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00f38",
+  "jp": "{C0F04}ところでマールどの…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "HI_M24_1:00f89",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:00fa4",
+  "jp": "{C0F04}その封印されたÄＲＭとは",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "HI_M24_1:00fcf",
+  "jp": "いかようなÄＲＭなのですかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "HI_M24_1:010e7",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:01104",
+  "jp": "{C0F04}はい……",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:0111f",
+  "jp": "それは巨人のガーディアンÄＲＭで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:0116b",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:01188",
+  "jp": "{C0F04}３つのパーツから",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:011ab",
+  "jp": "なりたっているそうです",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:011eb",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:01208",
+  "jp": "{C0F04}３つ全てあつめたとき",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:0122f",
+  "jp": "『巨人の力』が手に入ると…",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:0139b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:013b8",
+  "jp": "{C0F04}！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:013f9",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:01416",
+  "jp": "{C0F04}このフシギなどうくつには",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:01441",
+  "jp": "『うで』が封印されているみたいですね",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_1:0160f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:0162c",
+  "jp": "{C0F04}…すげぇ！すげぇぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:01653",
+  "jp": "なんか合体ロボットみたいだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_1:01763",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:01782",
+  "jp": "{C0F04}…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_1:017c7",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_1:017e6",
+  "jp": "{C0F04}がったい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_1:01803",
+  "jp": "ろぼっと…？？？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
+  "speaker": "ジャック"
+ }
+]

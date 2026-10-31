@@ -1,0 +1,122 @@
+[
+ {
+  "id": "G_EV063:00321",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:00340",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV063:0048f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:004ac",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV063:00529",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:00546",
+  "jp": "{C0F04}（いまさらゴメンなんて",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV063:0056f",
+  "jp": "　いえるかよ！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV063:008e3",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:00900",
+  "jp": "{C0F04}ギンタ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV063:00a2e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:00a4b",
+  "jp": "{C0F04}一人でだいじょうぶだから！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV063:00a78",
+  "jp": "ほうっておいてくれ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV063:00bd5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "G_EV063:00bf4",
+  "jp": "{C0F04}ガンコものっス…",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "ジャック"
+ }
+]

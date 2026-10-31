@@ -1,0 +1,70 @@
+[
+ {
+  "id": "EV_START:00617",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "EV_START:00634",
+  "jp": "{C0F04}…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_START:00935",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "EV_START:00952",
+  "jp": "{C0F04}…どこだぁココ…？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_START:00c8f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "EV_START:00cac",
+  "jp": "{C0F04}ウソだろ…？…イヤ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_START:01090",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 0
+ },
+ {
+  "id": "EV_START:010ad",
+  "jp": "{C0F04}夢じゃねぇーーーーーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

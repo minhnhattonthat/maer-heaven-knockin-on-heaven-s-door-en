@@ -1,0 +1,258 @@
+[
+ {
+  "id": "G_EV025:0080c",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:00829",
+  "jp": "{C0F04}…ギンタ",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:00844",
+  "jp": "とりひきさせてくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:0099f",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:009bc",
+  "jp": "{C0F04}…オレたちはもうたたかえない",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:009eb",
+  "jp": "みのがしてくれるなら…",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:00bc3",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:00be0",
+  "jp": "{C0F04}このÄＲＭをやろう",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:00dfb",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:00e18",
+  "jp": "{C0F04}ＯＫ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025:00e5d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:00e7a",
+  "jp": "{C0F04}おっさんのケガもなおせるしな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025:013f7",
+  "jp": "{C0D04}癒しの天使　ＣＬ３{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:01425",
+  "jp": "もらった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1
+ },
+ {
+  "id": "G_EV025:016b7",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:016d4",
+  "jp": "{C0F04}今回はオレの負けだよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:01763",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:01780",
+  "jp": "{C0F04}でもね…",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:0179b",
+  "jp": "次はそっちのばんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:017d7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:017f4",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025:01833",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:01850",
+  "jp": "{C0F04}おめーがつよくなったって",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:0187b",
+  "jp": "いうのなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:018ed",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:0190a",
+  "jp": "{C0F04}オレっちはもっと上にいくぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:01d0d",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:01d2a",
+  "jp": "{C0F04}（わすれるな！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV025:01db5",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 0
+ },
+ {
+  "id": "G_EV025:01dd2",
+  "jp": "{C0F04}（ギンタ）",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 1,
+  "speaker": "イアン"
+ }
+]

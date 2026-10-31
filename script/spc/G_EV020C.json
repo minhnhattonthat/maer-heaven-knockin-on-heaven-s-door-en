@@ -1,0 +1,476 @@
+[
+ {
+  "id": "G_EV020C:00256",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00271",
+  "jp": "{C0F04}でてこいよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00290",
+  "jp": "そこにいるやつ",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00745",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00766",
+  "jp": "{C0F04}お久しぶりです",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:00787",
+  "jp": "アランさん",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:00c4a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00c65",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00dba",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00dd5",
+  "jp": "{C0F04}おめぇアルヴィスか！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00e28",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00e43",
+  "jp": "{C0F04}６年前クロスガードの",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00e6a",
+  "jp": "なかまだったガキか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:00f93",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:00fb4",
+  "jp": "{C0F04}アランさん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:00fd3",
+  "jp": "ぼくにはじかんがあまりのこされていない",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:01061",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01082",
+  "jp": "{C0F04}こんどこそ、ファントムを",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:010ad",
+  "jp": "たおさなければならないんです",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:010f3",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01114",
+  "jp": "{C0F04}そのために…",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:01133",
+  "jp": "門ばんピエロを、はつどうしました",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:011bb",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:011d6",
+  "jp": "{C0F04}ギンタをよんだのは",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:011fb",
+  "jp": "おまえだったのか",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01273",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01294",
+  "jp": "{C0F04}ええ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:012ad",
+  "jp": "でもあんなよわいヤツがきてしまった",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:01337",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01352",
+  "jp": "{C0F04}へへ、きついな",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01373",
+  "jp": "でもまぁそういってやるなよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:013f5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01410",
+  "jp": "{C0F04}たしかによわいし",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01433",
+  "jp": "たよりないかもしれねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01473",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:0148e",
+  "jp": "{C0F04}だがな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:014d3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:014ee",
+  "jp": "{C0F04}おめぇがよびだし",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01511",
+  "jp": "オレが封印したバッボを手に入れた",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01599",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:015b4",
+  "jp": "{C0F04}こいつはぐうぜんか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:01643",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01664",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV020C:016a3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:016be",
+  "jp": "{C0F04}オレはそう思わねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:0170d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01728",
+  "jp": "{C0F04}もしかしたらあのバカ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:0177b",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:01796",
+  "jp": "{C0F04}こんどこそ",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:017b3",
+  "jp": "メルヘヴンをすくう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:017f1",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:0180c",
+  "jp": "{C0F04}救世主になるかも",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:0182f",
+  "jp": "しれねえぜ",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV020C:018a1",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 0
+ },
+ {
+  "id": "G_EV020C:018c2",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 1,
+  "speaker": "アルヴィス"
+ }
+]

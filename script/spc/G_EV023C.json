@@ -1,0 +1,338 @@
+[
+ {
+  "id": "G_EV023C:00465",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00482",
+  "jp": "{C0F04}！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023C:0079e",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:007bb",
+  "jp": "{C0F04}…修練の門",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV023C:007d8",
+  "jp": "しゅうりょうです！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV023C:0096b",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00988",
+  "jp": "{C0F04}（こいつ…ちがう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023C:009ad",
+  "jp": "　氷の城であったときとは…ちがう！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023C:00b1c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00b39",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00b78",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00b95",
+  "jp": "{C0F04}おっさん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00cec",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00d09",
+  "jp": "{C0F04}この『修練の門』を",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00d2e",
+  "jp": "はつどうしている３日かん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00d72",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00d8f",
+  "jp": "{C0F04}ずっとオレたちを守って",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00db8",
+  "jp": "くれてたんだってな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00df6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00e13",
+  "jp": "{C0F04}スノウにきいたよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:00fb5",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:00fd2",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV023C:010f1",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:0110c",
+  "jp": "{C0F04}まってたぜ",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023C:01129",
+  "jp": "ギンタ",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023C:01197",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:011b4",
+  "jp": "{C0F04}ありがとう、おっさん",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:011db",
+  "jp": "あとは、まかせてくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:01257",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:01274",
+  "jp": "{C0F04}こいつらは",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:01291",
+  "jp": "オレがたおす！",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:0141e",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:0143b",
+  "jp": "{C0F04}ならこっちにこい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023C:01462",
+  "jp": "オレっちのえもの！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023C:018e5",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:01902",
+  "jp": "{C0F04}いくぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:0191d",
+  "jp": "バッボ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV023C:01a3a",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV023C:01a57",
+  "jp": "{C0F04}うむ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "バッボ"
+ }
+]

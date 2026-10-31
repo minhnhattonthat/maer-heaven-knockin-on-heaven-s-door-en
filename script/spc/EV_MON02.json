@@ -1,0 +1,242 @@
+[
+ {
+  "id": "EV_MON02:00455",
+  "jp": "{C0D04}［メリロ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:00472",
+  "jp": "{C0F04}…以上が、しれんのないようです",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:004a3",
+  "jp": "わかりました？",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:005a6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:005c3",
+  "jp": "{C0F04}ようするに、どんどん進んでいけば",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:005f6",
+  "jp": "いいんだな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:0062c",
+  "jp": "{C0D04}［メリロ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:00649",
+  "jp": "{C0F04}あなたのシックスセンスをとぎすまして",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00680",
+  "jp": "正しい道をみつけてください",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:006c4",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:006e1",
+  "jp": "{C0F04}ジャックもちがう空間で",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:0070a",
+  "jp": "がんばってるんだろうな",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:00842",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:0085f",
+  "jp": "{C0F04}いっちょやるか",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:00880",
+  "jp": "スノウ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_MON02:0097d",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:0099a",
+  "jp": "{C0F04}うんっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_MON02:009e1",
+  "jp": "{C0D04}［メリロ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:009fe",
+  "jp": "{C0F04}アラン様からギンタさんに",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00a29",
+  "jp": "とどけものがあります",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00b17",
+  "jp": "{C0D04}ハンマーアーム{C0F04}、{C0D04}ダガーアーム{C0F04}、",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:00b5d",
+  "jp": "{C0D04}バブルランチャー{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1
+ },
+ {
+  "id": "EV_MON02:00b89",
+  "jp": "もらった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2
+ },
+ {
+  "id": "EV_MON02:00bff",
+  "jp": "{C0D04}［メリロ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:00c1c",
+  "jp": "{C0F04}マジックストーンを使うときは、デッキに",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00c55",
+  "jp": "入れるのをわすれないでくださいね",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 2,
+  "speaker": "メリロ"
+ },
+ {
+  "id": "EV_MON02:00c9f",
+  "jp": "{C0D04}［メリロ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 0
+ },
+ {
+  "id": "EV_MON02:00cbc",
+  "jp": "{C0F04}では、ゴールでまたお会いしましょう",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 1,
+  "speaker": "メリロ"
+ }
+]

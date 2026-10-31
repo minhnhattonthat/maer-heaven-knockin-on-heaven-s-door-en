@@ -1,0 +1,50 @@
+[
+ {
+  "id": "DITEMCOM:0013d",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 0
+ },
+ {
+  "id": "DITEMCOM:002ea",
+  "jp": "これ以上アイテムを持てません",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "DITEMCOM:005e9",
+  "jp": "C0F04 を",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1
+ },
+ {
+  "id": "DITEMCOM:00600",
+  "jp": "手に入れた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2
+ },
+ {
+  "id": "DITEMCOM:00944",
+  "jp": "C0F04 を",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1
+ },
+ {
+  "id": "DITEMCOM:0095b",
+  "jp": "手に入れた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2
+ }
+]

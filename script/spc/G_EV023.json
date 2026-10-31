@@ -1,0 +1,697 @@
+[
+ {
+  "id": "G_EV023:0066f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0068a",
+  "jp": "{C0F04}（今日で３日か…",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:006ad",
+  "jp": "さすがにねむいぜ…！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:00862",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0087f",
+  "jp": "{C0F04}みーーつけた！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "G_EV023:009b5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:009d0",
+  "jp": "{C0F04}…！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:00de1",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:00dfe",
+  "jp": "{C0F04}犬のおじさん♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:01302",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0131d",
+  "jp": "{C0F04}（チェス…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0133e",
+  "jp": "　こんなときに！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0149b",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:014b8",
+  "jp": "{C0F04}魔力（まりょく）をふうじこめるなんて",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:014ef",
+  "jp": "さすがだよねぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:01567",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:01584",
+  "jp": "{C0F04}さがすの、くろうしちゃった",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:015db",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:015f6",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0196a",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:01987",
+  "jp": "{C0F04}ギンタ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:019a2",
+  "jp": "どこだい？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:01ac1",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:01adc",
+  "jp": "{C0F04}…しらねぇなぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:020d5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:020f0",
+  "jp": "{C0F04}…ぐぁ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02222",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0223f",
+  "jp": "{C0F04}とぼけないでよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0228a",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:022a7",
+  "jp": "{C0F04}うちらのつよさは",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:022ca",
+  "jp": "かいきゅうになってるんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0234a",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02367",
+  "jp": "{C0F04}ポーン・ルーク・ビショップ・ナイトの順",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:023a0",
+  "jp": "ちなみにオレっちはルークだけど",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:02426",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02443",
+  "jp": "{C0F04}ポーンがいちばんよわくて",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0246e",
+  "jp": "ナイトがいちばんつよい",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:024ae",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:024cb",
+  "jp": "{C0F04}６年前のせんそうでたたかっていた",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:024fe",
+  "jp": "あんたなら知ってるよね",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0253e",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02559",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02598",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:025b5",
+  "jp": "{C0F04}あんたは本来なら",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:025d8",
+  "jp": "ナイトくらいのつよさなのにさ",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0265c",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02679",
+  "jp": "{C0F04}どうしちゃったの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0269e",
+  "jp": "ってくらい、今、よわいよねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:026e4",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02701",
+  "jp": "{C0F04}すっごいつかれてるみたいだし？",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0275c",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02779",
+  "jp": "{C0F04}この『修練の門』を",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:0279e",
+  "jp": "はつどうしているからかなーーー？",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:02826",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 219,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02841",
+  "jp": "{C0F04}だれでもしってるようなことを",
+  "en": "",
+  "call": "MswStr",
+  "box": 219,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0289a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:028b5",
+  "jp": "{C0F04}ぺらぺらぺらぺらと",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:028da",
+  "jp": "うるせーよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02912",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0292d",
+  "jp": "{C0F04}そんならこのオレさまを",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02956",
+  "jp": "たおしてみやがれよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02aa8",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02ac3",
+  "jp": "{C0F04}ああぁあ！！？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:02c26",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 237,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02c43",
+  "jp": "{C0F04}…！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 237,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:02fb5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:02fd0",
+  "jp": "{C0F04}…う…はっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0301b",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:03036",
+  "jp": "{C0F04}（ギンタ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0307f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0309a",
+  "jp": "{C0F04}（なぁ…信じさせてくれよ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:03368",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:03383",
+  "jp": "{C0F04}…ギ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:033c6",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:033e1",
+  "jp": "{C0F04}ギ…ン…",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV023:0350f",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 288,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0352c",
+  "jp": "{C0F04}ふぅ～～う",
+  "en": "",
+  "call": "MswStr",
+  "box": 288,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:03573",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:03590",
+  "jp": "{C0F04}こいつで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV023:03681",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 295,
+  "line": 0
+ },
+ {
+  "id": "G_EV023:0369e",
+  "jp": "{C0F04}フィニーーーーーーーーーーッシュ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 295,
+  "line": 1,
+  "speaker": "イアン"
+ }
+]

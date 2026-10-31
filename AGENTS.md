@@ -15,7 +15,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder (`$SKILL`
 ## Paths
 - Original ROM: `rom/MAER Heaven - Knockin' on Heaven's Door (Japan).gba` (16 MiB, game code BM9J, gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`).
 - Emulator: this repo's own MesenCE in `tools/mesen/` (release 2.2.1, https://github.com/nesdev-org/MesenCE/releases/download/2.2.1/Mesen_2.2.1_Windows.zip; GBA BIOS `tools/mesen/Firmware/gba_bios.bin` via `fetch_emu.py gba-bios`; gitignored; settings in `tools/emu-config/`). Savestates: `work/states/`.
-- Text: `script/` (format decided in phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/` (`spc/<NAME>.json`, `code.json`, `records.json`; written by `python -X utf8 tools/extract.py`, which keeps `en`; format in `docs/re/text.md` §Script files). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 - Build-time copies of skill scripts: `tools/tbl.py`, `tools/bps.py`, `tools/romdiff.py`. QA tools (`emu.py`, `play.py`, `qa_gate.py`, `jp_left.py`) run from `$SKILL/scripts/`.
 
 ## Rulings

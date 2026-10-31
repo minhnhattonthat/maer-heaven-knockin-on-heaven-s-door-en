@@ -1,0 +1,79 @@
+[
+ {
+  "id": "SHOPPE02:001b9",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 0
+ },
+ {
+  "id": "SHOPPE02:001e2",
+  "jp": "{C0F04}いらっしゃい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPE02:0022f",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 0
+ },
+ {
+  "id": "SHOPPE02:00258",
+  "jp": "{C0F04}そなえあればうれいなし",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPE02:00281",
+  "jp": "マジックストーンはいかがですか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 2,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPE02:002f3",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "SHOPPE02:0031c",
+  "jp": "{C0F04}ほかに何かありますか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPE02:00475",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "SHOPPE02:0049e",
+  "jp": "{C0F04}何を買取りましょうか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ }
+]

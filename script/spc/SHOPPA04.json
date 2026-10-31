@@ -1,0 +1,96 @@
+[
+ {
+  "id": "SHOPPA04:000f6",
+  "jp": "{C0D04}［宿屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA04:00111",
+  "jp": "{C0F04}おつかれでしたら、ぜひ私どもの宿に！",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 1,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:00172",
+  "jp": "{C0D04}［宿屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA04:0018d",
+  "jp": "{C0F04}１００Ｐで何名さまでもかまいません",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 1,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:001c2",
+  "jp": "おとまりになりますか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 2,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:00231",
+  "jp": "{C0D04}［宿屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA04:0024c",
+  "jp": "{C0F04}ピューターがたりないようです",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:0027b",
+  "jp": "またおこしください",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "宿屋"
+ },
+ {
+  "id": "SHOPPA04:00426",
+  "jp": "すっかり元気になった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA04:005c5",
+  "jp": "{C0D04}［宿屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA04:005e0",
+  "jp": "{C0F04}またおこしください",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "宿屋"
+ }
+]

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "G_EV001:0074b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "G_EV001:0076a",
+  "jp": "{C0F04}さて…",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV001:00783",
+  "jp": "まずは{C0904}『パヅタウン』{C0F04}に行くっスよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV001:008ea",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "G_EV001:00907",
+  "jp": "{C0F04}『パヅタウン』？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV001:00994",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "G_EV001:009b3",
+  "jp": "{C0F04}そっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV001:009ce",
+  "jp": "この辺りでは、いちばん大きな街っス",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "ジャック"
+ }
+]

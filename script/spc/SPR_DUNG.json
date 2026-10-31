@@ -1,0 +1,42 @@
+[
+ {
+  "id": "SPR_DUNG:001b6",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 0
+ },
+ {
+  "id": "SPR_DUNG:0033b",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 0
+ },
+ {
+  "id": "SPR_DUNG:004c0",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "SPR_DUNG:00645",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 0
+ },
+ {
+  "id": "SPR_DUNG:007ca",
+  "jp": "からっぽだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ }
+]

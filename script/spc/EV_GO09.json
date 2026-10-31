@@ -1,0 +1,458 @@
+[
+ {
+  "id": "EV_GO09:0031a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:00337",
+  "jp": "{C0F04}あ、なんだこりゃ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:006c4",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:006df",
+  "jp": "{C0F04}ふね？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO09:0080d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:0082a",
+  "jp": "{C0F04}ボロボロだな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:00936",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:00953",
+  "jp": "{C0F04}・・・！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:00970",
+  "jp": "魔力（まりょく）！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:00cca",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:00ce7",
+  "jp": "{C0F04}オレはチェスの兵隊",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:00d0c",
+  "jp": "ギロムってんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:00d46",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:00d63",
+  "jp": "{C0F04}のこのこでてきやがって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:00d8e",
+  "jp": "ぶっころされるかくごできてんのかぁ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:00efd",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:00f1a",
+  "jp": "{C0F04}なんでぇ…ガキ一人か？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:010c4",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:010e1",
+  "jp": "{C0F04}一人ではないわ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_GO09:01104",
+  "jp": "ぶれいもの！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_GO09:011e6",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01203",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01242",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:0125f",
+  "jp": "{C0F04}バッボ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01350",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:0136d",
+  "jp": "{C0F04}そうか、てめぇが話にきく",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01398",
+  "jp": "ファントムのÄＲＭをつかってるヤツか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:014fe",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:0151b",
+  "jp": "{C0F04}おまえがヴェストリを",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:01542",
+  "jp": "こわしたのか？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:015ba",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:015d7",
+  "jp": "{C0F04}こわしたのは、オルコってやつだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01608",
+  "jp": "オレはころしせんもんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01686",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:016a3",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:016e6",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01703",
+  "jp": "{C0F04}…{C0904}ちていこ{C0F04}にあるってうわさの",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01740",
+  "jp": "ÄＲＭをさがしにきたんだがよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01786",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:017a3",
+  "jp": "{C0F04}このふねの中にはありゃしねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:017fc",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01819",
+  "jp": "{C0F04}てめぇÄＲＭひろったか！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:018ae",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:018cb",
+  "jp": "{C0F04}おとなしくだせば",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:018ee",
+  "jp": "はんごろしでゆるしてやるぜぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01a4a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01a67",
+  "jp": "{C0F04}バッボ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:01a82",
+  "jp": "あいつぶったおすぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO09:01afe",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01b1b",
+  "jp": "{C0F04}なんだーーー？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01b3e",
+  "jp": "きにいらねぇ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO09:01c20",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "EV_GO09:01c3d",
+  "jp": "{C0F04}こっちこいやぁ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "ギロム"
+ }
+]

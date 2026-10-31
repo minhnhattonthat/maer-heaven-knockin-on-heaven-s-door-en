@@ -1,0 +1,518 @@
+[
+ {
+  "id": "EV_RT03:004b2",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:004cf",
+  "jp": "{C0F04}よっ…と",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_RT03:005fd",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:0061a",
+  "jp": "{C0F04}あ…あんた、だれ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:006a7",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:006c6",
+  "jp": "{C0F04}ドロシーよ、はじめまして♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00806",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00821",
+  "jp": "{C0F04}（ド！！ドロシィー！？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "EV_RT03:008ac",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:008cb",
+  "jp": "{C0F04}今のリングアーマー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:0091c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:0093b",
+  "jp": "{C0F04}私がもってる中では",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00960",
+  "jp": "最弱クラスとはいえおみごとよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:009a6",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:009c5",
+  "jp": "{C0F04}何のÄＲＭ使ったの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00bac",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00bcb",
+  "jp": "{C0F04}んん？…ヘンねぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00bf0",
+  "jp": "ÄＲＭがないわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00c66",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00c83",
+  "jp": "{C0904}『あーむ』{C0F04}って…何だ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:00cb5",
+  "jp": "今の魔法みたいなやつのこと！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:00d3b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00d5a",
+  "jp": "{C0F04}ÄＲＭも知らないって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00d83",
+  "jp": "キミどこのイナカ者よ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00e01",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00e20",
+  "jp": "{C0F04}ÄＲＭはね…魔法…といえばそうかな",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00e7f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00e9e",
+  "jp": "{C0F04}魔力（まりょく）によって",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00ec9",
+  "jp": "{C0904}彫金（ちょうきん）{C0F04}された…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:00f1b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:00f3a",
+  "jp": "{C0F04}特殊能力を持つ{C0904}アクセサリー{C0F04}のことよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:01051",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:0106e",
+  "jp": "{C0F04}アクセサリー！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:01091",
+  "jp": "他にもある？？見せて見せて！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:0110f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:0112e",
+  "jp": "{C0F04}（ってことは…この子…素手で",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:0115d",
+  "jp": "リングアーマーを投げ飛ばしたってこと？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:011af",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:011ce",
+  "jp": "{C0F04}（こんなとこにいるから",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:011f7",
+  "jp": "ÄＲＭもってると思ったのに…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:012e9",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:01308",
+  "jp": "{C0F04}………………",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:01327",
+  "jp": "………………！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:013d3",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:013f2",
+  "jp": "{C0F04}ÄＲＭ…欲しい？",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:01415",
+  "jp": "あたしについてきたら、アゲル♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:01507",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:01524",
+  "jp": "{C0F04}ホント！？…わかった！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:0154f",
+  "jp": "じゃあな、岩の親子元気でな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_RT03:019d3",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:019ee",
+  "jp": "{C0F04}だ、だめです！ボッチャン！",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "EV_RT03:01b10",
+  "jp": "{C0D04}［子岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:01b2b",
+  "jp": "{C0F04}どうしたのお父さん？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1,
+  "speaker": "子岩"
+ },
+ {
+  "id": "EV_RT03:01b7e",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:01b99",
+  "jp": "{C0F04}あれはドロシー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "EV_RT03:01bbc",
+  "jp": "あく名高い魔女（まじょ）だ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 2,
+  "speaker": "親岩"
+ },
+ {
+  "id": "EV_RT03:0213c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 174,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:0215b",
+  "jp": "{C0F04}ここを道なりに進めば目的の場所につくよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 174,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_RT03:021f6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "EV_RT03:02213",
+  "jp": "{C0F04}よし！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

@@ -36,8 +36,30 @@ and VWF decision: phase 5.** Whether single-byte ASCII is drawn (half-width) is 
 | Source | Size | Pointer form | Notes |
 |---|---|---|---|
 | Event scripts, 334 SPC files in MAR.NFP | 5 563 display lines, 119 KB | inline in bytecode, addressed by the following `22` op | `script.md` |
-| Item / ARM / card records, 0x1B0970-0x1BE7EF | 445 records x 0x80 | fixed records, no pointers | +0x02 8-char ID, +0x0C name (0x22-byte field), +0x2E description (0x30-byte field), rest stats. More tables follow up to ~0x1BEC1E (not yet decoded) |
-| Literal-pool strings 0x87468-0x8A000 | ~138 JP strings | u32 `0x08xxxxxx` in Thumb literal pools | system/menu messages: save/load, shop (ＲＭ屋), elements, 「%s　ＧＥＴ！！」. Mixed with resource names (`ARM_DA01`, `MAR.NFP`) that must stay |
+| ARM / card records, 0x1B0970-0x1BE7EF | 445 records x 0x80 | fixed records, no pointers | +0x02 8-char ID, +0x0C name (0x22-byte field), +0x2E description (0x22-byte field; verified: longest 32 bytes, zero fill, first stat byte at +0x50), rest stats |
+| Item records, 0x1BE7E0 + 0x50*i, i 0-13 | 13 items + record 0 | fixed records | same name/description fields (0x22 each); record 0 has no name and desc 「　」 and its first 16 bytes overlap the last ARM record's zero tail |
+| String block 0x87300-0x89537 | 136 JP strings | u32 `0x08xxxxxx` in Thumb literal pools and pointer tables (0x1B0768.., 0x1BECEC.., 0x1BF22C..) | system/menu messages: save/load, shop (ＲＭ屋), elements, 「%s　ＧＥＴ！！」, link-cable messages, party names. Mixed with resource names (`ARM_DA01`, `MAR.NFP`), natives and format strings (`T0000 C0F04 %s`) that must stay. Every JP string has a pointer; one pointer (0x13D884) points 10 bytes into 「キャラクターをえらんでください」 (= 「ーをえらんでください」) |
 | Graphics text | - | - | `graphics.md` |
 
 An SJIS sweep of 0x000000-0x1C0920 outside those ranges finds only noise (code bytes that happen to decode).
+Phase 4 re-check (verified): a strict sweep (NUL-terminated runs of 3+ full-width chars, half kana) finds nothing
+outside the string block and the record tables, and nothing in the non-script archive files (graphics, font).
+
+## Script files (phase 4; `tools/extract.py`, codec `tools/text.py`, tests `tests/test_extract.py`)
+
+`python -X utf8 tools/extract.py` writes `script/` from the original ROM; re-running keeps `en`/`status`/`notes`
+per id (a changed `jp` under a translation sets `status: jp-changed`). JSON lists, `indent=1`, UTF-8.
+
+| File | Entries | id | Extra fields |
+|---|---|---|---|
+| `script/spc/<NAME>.json` (170 scripts) | 5 563 (3 199 unique) | `NAME:<CODE pos of the 0x10 op>` (the `build(edits=)` key) | `call` (always `MswStr`), `box` (index of the call in the file), `line` (push index; line 0 = speaker label, 2 156 of them `{C0D04}［name］{C0F04}`), `speaker` |
+| `script/code.json` | 136 | `code:<ROM offset>` | `refs` (pointer locations), `subrefs` (pointers into the middle, by byte offset), `slot` (bytes incl. NUL padding) |
+| `script/records.json` | 917 (660 unique) | `arm123.name` / `item005.desc` | `addr`, `max` (bytes before the NUL) |
+
+Text form (`text.py`): Shift-JIS decoded; colour codes ` C0F04 ` -> `{C0F04}` (the 6 with odd spacing stay
+literal); user glyphs F040 -> `♥`, F056 -> `Ä`, other user glyphs `{Fxxx}`. Leading/trailing full-width spaces are
+text (the opening narration lays out lines with them). Not extracted, by rule: pure-ASCII script strings
+(4 472 identifiers incl. two name-less labels ` C0D04  C0F04 `), ASCII strings of the string block, ARM IDs
+(+0x02, password characters). Graphics text is separate (`graphics.md`).
+Tests: every `jp` re-encodes to the ROM bytes; every script string is extracted iff it has a byte >= 0x80; every
+string-block string likewise; record fields hold one string + zero fill; `script/` equals a fresh extraction.

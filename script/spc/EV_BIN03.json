@@ -1,0 +1,105 @@
+[
+ {
+  "id": "EV_BIN03:006b1",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN03:006d0",
+  "jp": "{C0F04}わたしは、そのなかでも",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN03:006f9",
+  "jp": "レアなÄＲＭをあつめてるの",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN03:0073d",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN03:0075c",
+  "jp": "{C0F04}『バッボ』を手に入れたら",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN03:00787",
+  "jp": "ボウヤにはダガーÄＲＭあげる♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN03:007ff",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN03:0081c",
+  "jp": "{C0F04}その『バッボ』ほしいな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN03:008a1",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN03:008c0",
+  "jp": "{C0F04}ダ・メ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN03:0093d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN03:0095a",
+  "jp": "{C0F04}なんだよ、ケチ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

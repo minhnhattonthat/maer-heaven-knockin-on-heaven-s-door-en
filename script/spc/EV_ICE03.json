@@ -1,0 +1,132 @@
+[
+ {
+  "id": "EV_ICE03:00442",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE03:0045f",
+  "jp": "{C0F04}だれか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_ICE03:0047a",
+  "jp": "城（しろ）に入りましたね",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_ICE03:004bc",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE03:004d9",
+  "jp": "{C0F04}ああ…犬かな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_ICE03:004fa",
+  "jp": "ずいぶんはやく戻ってきたな",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_ICE03:00785",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE03:007a0",
+  "jp": "{C0F04}つよい魔力（まりょく）と…",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE03:007cd",
+  "jp": "たいしたことないやつがすこし",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE03:008fc",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE03:00919",
+  "jp": "{C0F04}ハロウィンがこの封印をとく",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE03:00946",
+  "jp": "ÄＲＭをもってくるあいだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE03:00988",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE03:009a5",
+  "jp": "{C0F04}たいくつしないで",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE03:009c8",
+  "jp": "すみそうだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "イアン"
+ }
+]

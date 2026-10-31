@@ -1,0 +1,130 @@
+[
+ {
+  "id": "G_EV040:00997",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:009b6",
+  "jp": "{C0F04}…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:00a1e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:00a3d",
+  "jp": "{C0F04}ね、ギンタン知らない？",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:00baf",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:00bcc",
+  "jp": "{C0F04}えーと…あれ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV040:00bed",
+  "jp": "さっきまでいたのに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV040:00c88",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:00ca7",
+  "jp": "{C0F04}（きになるな…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:00d9e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:00dbd",
+  "jp": "{C0F04}ちょっとさがしてくる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV040:013ad",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:013ca",
+  "jp": "{C0F04}あ！ドロシー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV040:01455",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "G_EV040:01472",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "スノウ"
+ }
+]

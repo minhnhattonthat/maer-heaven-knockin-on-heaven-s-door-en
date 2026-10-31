@@ -1,0 +1,242 @@
+[
+ {
+  "id": "EV_JA02:00515",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00532",
+  "jp": "{C0F04}ジャック！",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA02:00662",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:0067f",
+  "jp": "{C0F04}待てギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA02:006c8",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:006e5",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA02:00728",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00745",
+  "jp": "{C0F04}かれは今男になろうとしてる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA02:00774",
+  "jp": "おまえも男ならわかるであろう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA02:007be",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:007db",
+  "jp": "{C0F04}気合を入れるところを",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA02:00802",
+  "jp": "見とどけようではないか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA02:00882",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:0089f",
+  "jp": "{C0F04}（ジャック…！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA02:00a43",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00a62",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA02:00b8a",
+  "jp": "{C0D04}［ガルー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00ba7",
+  "jp": "{C0F04}ジャック～",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ガルー"
+ },
+ {
+  "id": "EV_JA02:00bc4",
+  "jp": "ま～～～～た出てきたんかぁ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ガルー"
+ },
+ {
+  "id": "EV_JA02:00c0c",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00c2b",
+  "jp": "{C0F04}いいかげんにするっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA02:00c54",
+  "jp": "これ以上家の畑をあらすと…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA02:00def",
+  "jp": "{C0D04}［ルーガ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00e0c",
+  "jp": "{C0F04}またそのセリフかよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "ルーガ"
+ },
+ {
+  "id": "EV_JA02:00e5f",
+  "jp": "{C0D04}［ガルー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00e7c",
+  "jp": "{C0F04}これ以上あらすと…何かくれんのかよぉ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "ガルー"
+ },
+ {
+  "id": "EV_JA02:00f8b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "EV_JA02:00faa",
+  "jp": "{C0F04}ぶっとばす！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "ジャック"
+ }
+]

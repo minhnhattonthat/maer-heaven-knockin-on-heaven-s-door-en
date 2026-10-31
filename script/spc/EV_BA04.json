@@ -1,0 +1,378 @@
+[
+ {
+  "id": "EV_BA04:002a4",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:002c3",
+  "jp": "{C0F04}ＯＫＯＫ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:002e0",
+  "jp": "上出来よ♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00314",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00333",
+  "jp": "{C0F04}バトルで出すことができるÄＲＭの数は",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:0036a",
+  "jp": "２０コが限界だからね",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:003a8",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:003c7",
+  "jp": "{C0F04}もし、それ以上のÄＲＭを持っていたら",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:003fe",
+  "jp": "その中から２０コをえらばなきゃいけないわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00450",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:0046f",
+  "jp": "{C0F04}そのÄＲＭの組み合わせを",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:0049a",
+  "jp": "{C0904}『デッキ』{C0F04}というの",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:004e4",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00503",
+  "jp": "{C0904}『デッキ』{C0F04}をかえるには{C0904}コマンド{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:0054b",
+  "jp": "ひらいて、{C0904}デッキエディット{C0F04}をえらんでね",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:005a9",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:005c8",
+  "jp": "{C0904}コマンド{C0F04}をひらくのは、{C0904}スタートボタン{C0F04}よ",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:0078c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:007a9",
+  "jp": "{C0F04}ねぇ、ほんとにコレもらっていいの！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BA04:00842",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00861",
+  "jp": "{C0F04}いいのよ～～",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00880",
+  "jp": "そんなブサイク趣味じゃないし！",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:008c8",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:008e7",
+  "jp": "{C0F04}さっきのガーディアンÄＲＭ",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00914",
+  "jp": "いただいちゃったしね♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00954",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00973",
+  "jp": "{C0F04}ありがと！助けてくれて！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:009ca",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:009e9",
+  "jp": "{C0F04}また会えるとうれしいよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00a14",
+  "jp": "バイバイ、ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00cfe",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00d1d",
+  "jp": "{C0F04}「でもね…」",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00d66",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00d85",
+  "jp": "{C0F04}「それをもってると、いろんなヤツに",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00dba",
+  "jp": "　ねらわれると思う」",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00df8",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:00e17",
+  "jp": "{C0F04}「生きてるウェポンÄＲＭなんて",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:00e48",
+  "jp": "　レア中のレアだからね」",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA04:01041",
+  "jp": "{C0904}【コマンド】{C0F04}…{C0D04}スタートボタン",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:0107e",
+  "jp": "{C0F04}デッキをへんしゅうしたり",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1
+ },
+ {
+  "id": "EV_BA04:010a9",
+  "jp": "ステータスを見ることができます",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 2
+ },
+ {
+  "id": "EV_BA04:010f1",
+  "jp": "{C0904}【セーブ】{C0F04}…{C0D04}セレクトボタン",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "EV_BA04:0112c",
+  "jp": "{C0F04}ゲームのとちゅうけいかを",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1
+ },
+ {
+  "id": "EV_BA04:01157",
+  "jp": "きろくすることができます",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "EV_BIN01:00506",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN01:00523",
+  "jp": "{C0F04}うぉーーーーーーっ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN01:0054a",
+  "jp": "スゲェーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN01:00588",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN01:005a5",
+  "jp": "{C0F04}この中に宝物があるのか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN01:006e5",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN01:00704",
+  "jp": "{C0F04}どんなÄＲＭなのかは知らないけどね",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN01:00763",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN01:00782",
+  "jp": "{C0F04}相当なレアÄＲＭのはずよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN01:007ad",
+  "jp": "あたしはそのÄＲＭ{C0904}『バッボ』{C0F04}がねらいなの",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

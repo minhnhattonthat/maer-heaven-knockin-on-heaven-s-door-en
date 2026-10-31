@@ -1,0 +1,1433 @@
+[
+ {
+  "id": "END2:00a35",
+  "jp": "{C0D04}［エド］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "END2:00a57",
+  "jp": "つかれたぁ",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00a6d",
+  "jp": "つかれたっと…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00c3c",
+  "jp": "{C0D04}［エド］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "END2:00c5e",
+  "jp": "あ～～あ",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00c72",
+  "jp": "ダレかのせいで",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00caa",
+  "jp": "{C0D04}［エド］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "END2:00ccc",
+  "jp": "よけいなチカラつかって",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00cee",
+  "jp": "つかれちまったよなぁ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:00e1b",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "END2:00e3f",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:00f93",
+  "jp": "{C0D04}［エド］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "END2:00fb5",
+  "jp": "さ、とりあえず、ねるとすっか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:01009",
+  "jp": "{C0D04}［エド］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "END2:0102b",
+  "jp": "いくぞ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "END2:0123d",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "END2:01261",
+  "jp": "う、うん……",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0199f",
+  "jp": "{C0D04}［ドロシー］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "END2:019c5",
+  "jp": "元気だすんだよ……",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "END2:019e3",
+  "jp": "ギンタン…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "END2:01c48",
+  "jp": "{C0D04}　C0F04 ",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 0
+ },
+ {
+  "id": "END2:01c63",
+  "jp": "　　　　　　……………………　　　",
+  "en": "",
+  "call": "MswStr",
+  "box": 162,
+  "line": 1
+ },
+ {
+  "id": "END2:01dda",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 0
+ },
+ {
+  "id": "END2:01dfe",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:0219a",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 194,
+  "line": 0
+ },
+ {
+  "id": "END2:021be",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 194,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:023de",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 0
+ },
+ {
+  "id": "END2:02402",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:02509",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 0
+ },
+ {
+  "id": "END2:0252d",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:02680",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 0
+ },
+ {
+  "id": "END2:026a4",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:0274e",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 0
+ },
+ {
+  "id": "END2:02772",
+  "jp": "少しおちついた？",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:02888",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 0
+ },
+ {
+  "id": "END2:028ac",
+  "jp": "…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:028c0",
+  "jp": "う、うん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:029d4",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 0
+ },
+ {
+  "id": "END2:029f8",
+  "jp": "ギンタでも、おちこむことあるんだね",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:02a50",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 0
+ },
+ {
+  "id": "END2:02a74",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:02ae6",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 0
+ },
+ {
+  "id": "END2:02b0a",
+  "jp": "…おちこんでるように見えた？",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:02c06",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 0
+ },
+ {
+  "id": "END2:02c2a",
+  "jp": "ちょっとだけ……ね",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:02d1c",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 254,
+  "line": 0
+ },
+ {
+  "id": "END2:02d40",
+  "jp": "そっか……",
+  "en": "",
+  "call": "MswStr",
+  "box": 254,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:02e50",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 0
+ },
+ {
+  "id": "END2:02e74",
+  "jp": "でも、もう平気だ",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:02f64",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 265,
+  "line": 0
+ },
+ {
+  "id": "END2:02f88",
+  "jp": "うん♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 265,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0306e",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 0
+ },
+ {
+  "id": "END2:03092",
+  "jp": "…",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:030ca",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 272,
+  "line": 0
+ },
+ {
+  "id": "END2:030ee",
+  "jp": "…",
+  "en": "",
+  "call": "MswStr",
+  "box": 272,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:032e3",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 0
+ },
+ {
+  "id": "END2:03307",
+  "jp": "…ね、おぼえてる？",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0334f",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 286,
+  "line": 0
+ },
+ {
+  "id": "END2:03373",
+  "jp": "いつか、ギンタがわたしに",
+  "en": "",
+  "call": "MswStr",
+  "box": 286,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03397",
+  "jp": "いってくれたことがあったよね",
+  "en": "",
+  "call": "MswStr",
+  "box": 286,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03487",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 291,
+  "line": 0
+ },
+ {
+  "id": "END2:034ab",
+  "jp": "『オレはがんばってスノウたすける！』",
+  "en": "",
+  "call": "MswStr",
+  "box": 291,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:034db",
+  "jp": "…って…",
+  "en": "",
+  "call": "MswStr",
+  "box": 291,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0365f",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 300,
+  "line": 0
+ },
+ {
+  "id": "END2:03683",
+  "jp": "…",
+  "en": "",
+  "call": "MswStr",
+  "box": 300,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:03765",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 305,
+  "line": 0
+ },
+ {
+  "id": "END2:03789",
+  "jp": "すごくやさしいコトバだった",
+  "en": "",
+  "call": "MswStr",
+  "box": 305,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:037d9",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 307,
+  "line": 0
+ },
+ {
+  "id": "END2:037fd",
+  "jp": "うれしかったよ♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 307,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:039a0",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 316,
+  "line": 0
+ },
+ {
+  "id": "END2:039c4",
+  "jp": "…　…　…",
+  "en": "",
+  "call": "MswStr",
+  "box": 316,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:03aae",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 321,
+  "line": 0
+ },
+ {
+  "id": "END2:03ad2",
+  "jp": "わたしだって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 321,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03aec",
+  "jp": "ホントはスゴく弱い人間だよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 321,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03d07",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 332,
+  "line": 0
+ },
+ {
+  "id": "END2:03d2b",
+  "jp": "チェスだってこわい",
+  "en": "",
+  "call": "MswStr",
+  "box": 332,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03d73",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 334,
+  "line": 0
+ },
+ {
+  "id": "END2:03d97",
+  "jp": "エドをもどしてあげられるかも…",
+  "en": "",
+  "call": "MswStr",
+  "box": 334,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03dc1",
+  "jp": "不安でこわい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 334,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:03ea3",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 339,
+  "line": 0
+ },
+ {
+  "id": "END2:03ec7",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 339,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:03f03",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 341,
+  "line": 0
+ },
+ {
+  "id": "END2:03f27",
+  "jp": "でもね…",
+  "en": "",
+  "call": "MswStr",
+  "box": 341,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0400f",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 346,
+  "line": 0
+ },
+ {
+  "id": "END2:04033",
+  "jp": "ギンタのきもちに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 346,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04051",
+  "jp": "心がすくわれたんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 346,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04139",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 351,
+  "line": 0
+ },
+ {
+  "id": "END2:0415d",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 351,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:044a9",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 370,
+  "line": 0
+ },
+ {
+  "id": "END2:044cd",
+  "jp": "やっぱりがんばろうって！",
+  "en": "",
+  "call": "MswStr",
+  "box": 370,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0451b",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 372,
+  "line": 0
+ },
+ {
+  "id": "END2:0453f",
+  "jp": "『がんばって、ギンタをたすける！』",
+  "en": "",
+  "call": "MswStr",
+  "box": 372,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04641",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 377,
+  "line": 0
+ },
+ {
+  "id": "END2:04665",
+  "jp": "…って",
+  "en": "",
+  "call": "MswStr",
+  "box": 377,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04677",
+  "jp": "そう………思うよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 377,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04870",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 388,
+  "line": 0
+ },
+ {
+  "id": "END2:04894",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 388,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04900",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 391,
+  "line": 0
+ },
+ {
+  "id": "END2:04924",
+  "jp": "いずれは…元のせかいに",
+  "en": "",
+  "call": "MswStr",
+  "box": 391,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04946",
+  "jp": "戻らなくちゃならないけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 391,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:0498a",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 393,
+  "line": 0
+ },
+ {
+  "id": "END2:049ae",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 393,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04a10",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 396,
+  "line": 0
+ },
+ {
+  "id": "END2:04a34",
+  "jp": "オレ、まだまだ、だな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 396,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04a80",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 398,
+  "line": 0
+ },
+ {
+  "id": "END2:04aa4",
+  "jp": "まだ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 398,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04ab6",
+  "jp": "よわいよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 398,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04b94",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 403,
+  "line": 0
+ },
+ {
+  "id": "END2:04bb8",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 403,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:04cc4",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 409,
+  "line": 0
+ },
+ {
+  "id": "END2:04ce8",
+  "jp": "こんなよわいまま、戻ったら",
+  "en": "",
+  "call": "MswStr",
+  "box": 409,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04d0e",
+  "jp": "まってるヤツらにわらわれちまう",
+  "en": "",
+  "call": "MswStr",
+  "box": 409,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04d56",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 411,
+  "line": 0
+ },
+ {
+  "id": "END2:04d7a",
+  "jp": "それに、エドのオッサンにも",
+  "en": "",
+  "call": "MswStr",
+  "box": 411,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04da0",
+  "jp": "やくそくしちまったからさ",
+  "en": "",
+  "call": "MswStr",
+  "box": 411,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04e8c",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 416,
+  "line": 0
+ },
+ {
+  "id": "END2:04eb0",
+  "jp": "つよくなる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 416,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04ec8",
+  "jp": "って…………！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 416,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04f04",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 418,
+  "line": 0
+ },
+ {
+  "id": "END2:04f28",
+  "jp": "だから…まだまだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 418,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:04f44",
+  "jp": "がんばらないとな………！",
+  "en": "",
+  "call": "MswStr",
+  "box": 418,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:05030",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 423,
+  "line": 0
+ },
+ {
+  "id": "END2:05054",
+  "jp": "……うん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 423,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:0506a",
+  "jp": "やっとギンタらしくなった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 423,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:05158",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 428,
+  "line": 0
+ },
+ {
+  "id": "END2:0517c",
+  "jp": "…おう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 428,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:052eb",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 437,
+  "line": 0
+ },
+ {
+  "id": "END2:0530f",
+  "jp": "…うん？",
+  "en": "",
+  "call": "MswStr",
+  "box": 437,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:0577a",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 464,
+  "line": 0
+ },
+ {
+  "id": "END2:0579e",
+  "jp": "ギンタ！ギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 464,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:057ba",
+  "jp": "月を見て！",
+  "en": "",
+  "call": "MswStr",
+  "box": 464,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:057ee",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 466,
+  "line": 0
+ },
+ {
+  "id": "END2:05812",
+  "jp": "………！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 466,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:05a9f",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 482,
+  "line": 0
+ },
+ {
+  "id": "END2:05ac1",
+  "jp": "これからチェスの兵隊の",
+  "en": "",
+  "call": "MswStr",
+  "box": 482,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05ae3",
+  "jp": "進撃が始まる！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 482,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05b1d",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 484,
+  "line": 0
+ },
+ {
+  "id": "END2:05b3f",
+  "jp": "せかいはチェスの兵隊を恐れ",
+  "en": "",
+  "call": "MswStr",
+  "box": 484,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05b65",
+  "jp": "チェスの兵隊によって絶望し",
+  "en": "",
+  "call": "MswStr",
+  "box": 484,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05ba9",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 486,
+  "line": 0
+ },
+ {
+  "id": "END2:05bcb",
+  "jp": "チェスの兵隊に服従することで",
+  "en": "",
+  "call": "MswStr",
+  "box": 486,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05bf3",
+  "jp": "のみ生き長らえられるのだ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 486,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05daa",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 496,
+  "line": 0
+ },
+ {
+  "id": "END2:05dcc",
+  "jp": "ひれ伏せ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 496,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05e0e",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 498,
+  "line": 0
+ },
+ {
+  "id": "END2:05e30",
+  "jp": "恐怖せよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 498,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:05e72",
+  "jp": "{C0D04}［ペタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 500,
+  "line": 0
+ },
+ {
+  "id": "END2:05e94",
+  "jp": "チェスをあがめよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 500,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "END2:0635b",
+  "jp": "　　　　　…　…　…　…　…　",
+  "en": "",
+  "call": "MswStr",
+  "box": 531,
+  "line": 1
+ },
+ {
+  "id": "END2:06496",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 538,
+  "line": 0
+ },
+ {
+  "id": "END2:064ba",
+  "jp": "チェスの兵隊…！！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 538,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:064dc",
+  "jp": "…いい気になりやがって！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 538,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:065f1",
+  "jp": "{C0D04}［スノウ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 544,
+  "line": 0
+ },
+ {
+  "id": "END2:06615",
+  "jp": "うん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 544,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:06627",
+  "jp": "ファイトだよ、ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 544,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "END2:06821",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 554,
+  "line": 0
+ },
+ {
+  "id": "END2:06845",
+  "jp": "メルヘヴンがどんなに広くても！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 554,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:069e7",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 562,
+  "line": 0
+ },
+ {
+  "id": "END2:06a0b",
+  "jp": "おまえらがどこに現れようとも！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 562,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:06bbc",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 572,
+  "line": 0
+ },
+ {
+  "id": "END2:06be0",
+  "jp": "おまえら…一人一人…",
+  "en": "",
+  "call": "MswStr",
+  "box": 572,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:06c2a",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 574,
+  "line": 0
+ },
+ {
+  "id": "END2:06c4e",
+  "jp": "ぜったい",
+  "en": "",
+  "call": "MswStr",
+  "box": 574,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:06c62",
+  "jp": "ぶっつぶしてやるからなぁ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 574,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:06caa",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 576,
+  "line": 0
+ },
+ {
+  "id": "END2:06cce",
+  "jp": "オレの大好きな、このメルヘヴンを",
+  "en": "",
+  "call": "MswStr",
+  "box": 576,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "END2:06cfa",
+  "jp": "まもるんだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 576,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

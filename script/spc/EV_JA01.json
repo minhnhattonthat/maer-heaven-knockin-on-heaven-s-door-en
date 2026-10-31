@@ -1,0 +1,783 @@
+[
+ {
+  "id": "EV_JA01:0052f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0054c",
+  "jp": "{C0F04}家があるぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:0067e",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0069b",
+  "jp": "{C0F04}ムム！なにやら、うまそうなにおい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA01:00a1c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:00a39",
+  "jp": "{C0F04}…畑だ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:00a54",
+  "jp": "なんか育ててるのかな",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:00ef3",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:00f12",
+  "jp": "{C0F04}きたっス、母ちゃん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:00f3b",
+  "jp": "ヤツらだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:00f71",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:00f90",
+  "jp": "{C0F04}オイラ今日こそは！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:010ca",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:010ed",
+  "jp": "{C0F04}およしジャック！",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:0113a",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0115d",
+  "jp": "{C0F04}今度こそ",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:01178",
+  "jp": "ころされちまうよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:014d2",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:014f1",
+  "jp": "{C0F04}危ないから母ちゃんはかくれてるっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:0163d",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:01660",
+  "jp": "{C0F04}ジャック！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:01ac4",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:01ae3",
+  "jp": "{C0F04}いいかげんにするっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:01f26",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:01f45",
+  "jp": "{C0F04}この怪物どもーーーーーーーー！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:0233b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0235a",
+  "jp": "{C0F04}オイラん家の畑をこれ以上ーーーーー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:02465",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:02484",
+  "jp": "{C0F04}あ、あんた…",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:024a3",
+  "jp": "だれっスか？？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:026af",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:026cc",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:0270b",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:02728",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA01:02c80",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:02c9d",
+  "jp": "{C0F04}この野菜すんごくウマイ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:02cca",
+  "jp": "ありがとう、おばさん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:02df5",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 267,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:02e18",
+  "jp": "{C0F04}そうかいそうかい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 267,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:02e3d",
+  "jp": "たんとお食べ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 267,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:02ff1",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03010",
+  "jp": "{C0F04}つーか、あんたダレっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:030a5",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 280,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:030c2",
+  "jp": "{C0F04}ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 280,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03109",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03126",
+  "jp": "{C0F04}ちがうせかいから来たばっか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03155",
+  "jp": "ヨロシク！",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03299",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:032b6",
+  "jp": "{C0F04}ギンタのやつ、畑に入るなり",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA01:032e3",
+  "jp": "野菜を食ってしまってな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 290,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA01:03363",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 293,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03382",
+  "jp": "{C0F04}（これ、ÄＲＭっスよね！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 293,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03445",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 297,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03464",
+  "jp": "{C0F04}（なんで食ってるっスか！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 297,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03529",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 301,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03548",
+  "jp": "{C0F04}（なんで生きてるんスか！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 301,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03677",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 307,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0369a",
+  "jp": "{C0F04}ジャックは私の息子",
+  "en": "",
+  "call": "MswStr",
+  "box": 307,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:036e9",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 309,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0370c",
+  "jp": "{C0F04}二人で野菜をつくって、それを食べたり",
+  "en": "",
+  "call": "MswStr",
+  "box": 309,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:03743",
+  "jp": "売ったりして生活しているんだよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 309,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:037c9",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 312,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:037e6",
+  "jp": "{C0F04}そ、そっか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 312,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03805",
+  "jp": "（母ちゃん…か）",
+  "en": "",
+  "call": "MswStr",
+  "box": 312,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:0383f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 314,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0385c",
+  "jp": "{C0F04}（元気かな）",
+  "en": "",
+  "call": "MswStr",
+  "box": 314,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:0393f",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 320,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0395c",
+  "jp": "{C0F04}アオォオォオォォン",
+  "en": "",
+  "call": "MswStr",
+  "box": 320,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_JA01:03aab",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 328,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03aca",
+  "jp": "{C0F04}来たっスね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 328,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03ae9",
+  "jp": "人狼のとうぞく{C0904}『ルーガルーブラザーズ』{C0F04}！",
+  "en": "",
+  "call": "MswStr",
+  "box": 328,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03c32",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 335,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03c4f",
+  "jp": "{C0F04}人狼（じんろう）！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 335,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03c76",
+  "jp": "かっこいいな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 335,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA01:03cee",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 338,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03d0d",
+  "jp": "{C0F04}ドロボーにかっこいいも悪いもないっスよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 338,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03db0",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 341,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03dcf",
+  "jp": "{C0F04}…今まで",
+  "en": "",
+  "call": "MswStr",
+  "box": 341,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03e14",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 343,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03e33",
+  "jp": "{C0F04}…今まであいつらの前では",
+  "en": "",
+  "call": "MswStr",
+  "box": 343,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03e5e",
+  "jp": "足がふるえて何もできなかった…",
+  "en": "",
+  "call": "MswStr",
+  "box": 343,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03ee4",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 346,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03f03",
+  "jp": "{C0F04}今度こそ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 346,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03f4a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 348,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:03f69",
+  "jp": "{C0F04}自分の力で道をひらくっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 348,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:03f96",
+  "jp": "いくじなしを捨てるっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 348,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA01:042fd",
+  "jp": "{C0D04}［ジャックの母］",
+  "en": "",
+  "call": "MswStr",
+  "box": 369,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:04320",
+  "jp": "{C0F04}おまち！！ジャック！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 369,
+  "line": 1,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:04349",
+  "jp": "ころされちまうよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 369,
+  "line": 2,
+  "speaker": "ジャックの母"
+ },
+ {
+  "id": "EV_JA01:04470",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 376,
+  "line": 0
+ },
+ {
+  "id": "EV_JA01:0448d",
+  "jp": "{C0F04}くそ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 376,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

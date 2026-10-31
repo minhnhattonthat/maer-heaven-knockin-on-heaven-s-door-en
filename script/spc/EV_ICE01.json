@@ -1,0 +1,425 @@
+[
+ {
+  "id": "EV_ICE01:00935",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00952",
+  "jp": "{C0F04}すっげーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE01:00975",
+  "jp": "この城（しろ）、こおってるぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE01:00aa6",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00ac5",
+  "jp": "{C0F04}でも、この城の",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE01:00ae6",
+  "jp": "まわりだけっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE01:00c79",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00c94",
+  "jp": "{C0F04}ひめさまがみずからふうじたのです",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00cc7",
+  "jp": "ごじしんの、体ごと…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00d43",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00d60",
+  "jp": "{C0F04}…どうして！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE01:00de9",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00e04",
+  "jp": "{C0F04}…その身をねらわれているからです！",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00e63",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00e7e",
+  "jp": "{C0F04}とおくはなれたわが国に",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00ea7",
+  "jp": "あたらしく来た王妃…",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00ee5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00f00",
+  "jp": "{C0F04}よこしまな欲望にみをまかせ",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00f2d",
+  "jp": "国のけんりょくをにぎり",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00f6d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:00f88",
+  "jp": "{C0F04}きにいらないものを",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00fad",
+  "jp": "つぎつぎに消していき…",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:00fed",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:01008",
+  "jp": "{C0F04}そのねらいが、ついに",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:0102f",
+  "jp": "ひめさまにまでおよんだのです！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:010b5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:010d4",
+  "jp": "{C0F04}ひどい…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE01:0111b",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:01136",
+  "jp": "{C0F04}それに気付いた私たちは国を出て",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01167",
+  "jp": "海をこえ山をこえ…にげました",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:011ad",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:011c8",
+  "jp": "{C0F04}しかし、ついにこの",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:011ed",
+  "jp": "さいはての島においつめられ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01271",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:0128c",
+  "jp": "{C0F04}ひめさまは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:012ab",
+  "jp": "みずからをふうじたのです！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:012f1",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:0130e",
+  "jp": "{C0F04}…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE01:0134f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:0136a",
+  "jp": "{C0F04}もう追っ手が中にいるかも",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01395",
+  "jp": "しれません",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:013c9",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:013e4",
+  "jp": "{C0F04}もしそうでなかったとしても",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01411",
+  "jp": "いそがないと…",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01449",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:01464",
+  "jp": "{C0F04}つめたい氷の中で",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01487",
+  "jp": "ひめさまのお命は…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE01:01505",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE01:01522",
+  "jp": "{C0F04}よし、まかせろ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

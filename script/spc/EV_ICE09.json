@@ -1,0 +1,769 @@
+[
+ {
+  "id": "EV_ICE09:00421",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0043c",
+  "jp": "{C0F04}この先です！",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:0056e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0058b",
+  "jp": "{C0F04}行くぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:00c2c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:00c49",
+  "jp": "{C0F04}え…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:01004",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01021",
+  "jp": "{C0F04}こっ…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:01066",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01083",
+  "jp": "{C0F04}小雪ぃーーーーーーーーーー！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:0161a",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01637",
+  "jp": "{C0F04}おいおい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:01654",
+  "jp": "子供だぜ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:01771",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0178c",
+  "jp": "{C0F04}でも見て",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:017a7",
+  "jp": "おもしろいのがいっしょにいます",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:017ef",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0180a",
+  "jp": "{C0F04}この島にある、ときいていたので",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:0183b",
+  "jp": "ついでにさがそうと思っていたのですが",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:01889",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:018a4",
+  "jp": "{C0F04}向こうからきてくれちゃいましたね",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:01a56",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01a73",
+  "jp": "{C0F04}小雪！小雪ーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:01b62",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01b7f",
+  "jp": "{C0F04}立ち入り…きんし",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:01ba2",
+  "jp": "だよーーーん",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:01d63",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01d7e",
+  "jp": "{C0F04}ギンタどの！",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01d9d",
+  "jp": "おちついてくだされ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01ddb",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01df6",
+  "jp": "{C0F04}あの方は「コユキ」という方では",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01e27",
+  "jp": "ありませぬぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01e5f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01e7a",
+  "jp": "{C0F04}メルヘヴンの",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01e99",
+  "jp": "象徴（しょうちょう）であるわが国…",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01ee5",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 174,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01f00",
+  "jp": "{C0F04}『レスターヴァ』の",
+  "en": "",
+  "call": "MswStr",
+  "box": 174,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01f25",
+  "jp": "正統後継者（せいとうこうけいしゃ）",
+  "en": "",
+  "call": "MswStr",
+  "box": 174,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:01f71",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 176,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:01f8c",
+  "jp": "{C0F04}スノウひめでございます！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 176,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:020cc",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:020eb",
+  "jp": "{C0F04}れれれ…レスターヴァ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:02140",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0215f",
+  "jp": "{C0F04}おひめさま中のおひめさま！",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:021b6",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:021d5",
+  "jp": "{C0F04}それがこんな田舎の島で",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:021fe",
+  "jp": "氷づけになって逃げている…",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:02242",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02261",
+  "jp": "{C0F04}いったいこのせかいに",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:02288",
+  "jp": "なにがおこってるんだ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE09:02446",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02463",
+  "jp": "{C0F04}…エド！",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:0247e",
+  "jp": "あの氷はとかせるんだな！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:02500",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0251b",
+  "jp": "{C0F04}はい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:02534",
+  "jp": "火のÄＲＭをあずかっております！",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE09:02628",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02645",
+  "jp": "{C0F04}かよわき少女をいたぶる",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_ICE09:0266e",
+  "jp": "やばん人め！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_ICE09:02831",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0284c",
+  "jp": "{C0F04}バッボ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:02867",
+  "jp": "別人格になってます",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 2,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:0298c",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:029a9",
+  "jp": "{C0F04}そなの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:029ee",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02a0b",
+  "jp": "{C0F04}オレっち、６年前の戦争には",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:02a38",
+  "jp": "さんかしてないから知らないけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:02a82",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02a9f",
+  "jp": "{C0F04}ね、ロコちゃん",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:02ac0",
+  "jp": "ちょっとこいつとあそんでいいかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:02b4a",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02b65",
+  "jp": "{C0F04}別にかまいませんが…",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:02bb6",
+  "jp": "{C0D04}［ロコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:02bd1",
+  "jp": "{C0F04}とりあえず私のほうがとしうえなので",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 1,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:02c06",
+  "jp": "『ちゃん』づけはやめてください",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 2,
+  "speaker": "ロコ"
+ },
+ {
+  "id": "EV_ICE09:03030",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0304d",
+  "jp": "{C0F04}ということで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:0306e",
+  "jp": "１ＶＳ１の対決といこうじゃない？",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:031a1",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:031be",
+  "jp": "{C0F04}いいぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:031d9",
+  "jp": "のった！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:032b7",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 271,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:032d4",
+  "jp": "{C0F04}気に入った…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 271,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:033c9",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 276,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:033e6",
+  "jp": "{C0F04}オレはギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 276,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:03407",
+  "jp": "東京の中学生だ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 276,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE09:034ed",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE09:0350a",
+  "jp": "{C0F04}オレはイアン…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE09:0352d",
+  "jp": "チェスの兵隊だよ～～～ん♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 2,
+  "speaker": "イアン"
+ }
+]

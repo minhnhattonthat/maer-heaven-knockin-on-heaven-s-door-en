@@ -1,0 +1,485 @@
+[
+ {
+  "id": "CH_ESC:00191",
+  "jp": "はじめからやる？",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:002af",
+  "jp": "オープニングとばしてやる？",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:0040c",
+  "jp": "あたしとバッボをとりに行って",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00434",
+  "jp": "祭壇の前についたところから？",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:0060c",
+  "jp": "バッボをゲットした後に行く？",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:008fe",
+  "jp": "オイラの畑の手前に行くっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00ab0",
+  "jp": "ルーガルー戦の直前から",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00ad2",
+  "jp": "やるっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:00bfd",
+  "jp": "ルーガルーを倒したところに",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00c23",
+  "jp": "行くっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:00e13",
+  "jp": "パヅタウンの手前に",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00e31",
+  "jp": "直行するか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:00fb8",
+  "jp": "盗賊に奪われたバッボを",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:00fda",
+  "jp": "オレが取り返してやるところか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:011dc",
+  "jp": "あたしを助けにきてくれるの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:012df",
+  "jp": "じつはもう、あたしの所まで",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01305",
+  "jp": "来てるんでしょ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:013f0",
+  "jp": "なんだ、イアンも倒してしまったんだね？",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01607",
+  "jp": "ペリカに入ったところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01709",
+  "jp": "修練の門の前に行くところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:0180f",
+  "jp": "ジャックとドロシーが",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:0182f",
+  "jp": "修練の門に入ったところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01928",
+  "jp": "ギンタとスノウが",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01944",
+  "jp": "修練の門に入ったところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01a3c",
+  "jp": "ギンタが修練の門を終えた",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01a60",
+  "jp": "ところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01b48",
+  "jp": "ギンタがイアンと再び",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01b68",
+  "jp": "相見えるところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:01c59",
+  "jp": "ジャックとギドが戦うところからだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01e6c",
+  "jp": "ルベリアの砦にとんでくるんやな",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:01f70",
+  "jp": "オレがメルの現状を話すとこやな",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:021a8",
+  "jp": "マジックカーペットに乗る？",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:023b2",
+  "jp": "ヴェストリに入るところから",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:023d8",
+  "jp": "はじめるっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:024c2",
+  "jp": "ヴェストリから地底湖へ",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:024e4",
+  "jp": "行くところからはじめるっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:025dc",
+  "jp": "トムと行動するところから",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02600",
+  "jp": "はじめるっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:026ea",
+  "jp": "解放したヴェストリに入るところから",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02718",
+  "jp": "はじめるっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 217,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:0290c",
+  "jp": "３つのダンジョンの入り口に行く？",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02aa3",
+  "jp": "タロスの手とたたかっちゃう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02c25",
+  "jp": "タロスの足とたたかっちゃう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02da7",
+  "jp": "タロスの頭とたたかっちゃう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:02f29",
+  "jp": "タロスとたたかっちゃう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:031a7",
+  "jp": "もしかしてエンディングを見てしまう気ですか",
+  "en": "",
+  "call": "MswStr",
+  "box": 282,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:032b4",
+  "jp": "もしかしてスタッフロールだけが見たいとか",
+  "en": "",
+  "call": "MswStr",
+  "box": 287,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:033c0",
+  "jp": "イベント無しでペリカに入るのですか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 292,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:0351c",
+  "jp": "イベント無しでルベリアに入るのですか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:03784",
+  "jp": "全員使えるようにして、",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:037a6",
+  "jp": "パーティへんこう可能にするか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:03c2d",
+  "jp": "バトルするか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:03e14",
+  "jp": "アイテムとÄＲＭを満タンにするのか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 337,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:03e44",
+  "jp": "ちょっと時間かかるぞ",
+  "en": "",
+  "call": "MswStr",
+  "box": 337,
+  "line": 1
+ },
+ {
+  "id": "CH_ESC:03ff6",
+  "jp": "フェイスチェックはじめるで",
+  "en": "",
+  "call": "MswStr",
+  "box": 347,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:042b5",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 363,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:042da",
+  "jp": "{C0F04}彫金するの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 363,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "CH_ESC:04370",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 367,
+  "line": 0
+ },
+ {
+  "id": "CH_ESC:04395",
+  "jp": "{C0F04}レシピを教えてくれたら、つくれるÄＲＭも",
+  "en": "",
+  "call": "MswStr",
+  "box": 367,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "CH_ESC:043d0",
+  "jp": "ふえるの",
+  "en": "",
+  "call": "MswStr",
+  "box": 367,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ }
+]

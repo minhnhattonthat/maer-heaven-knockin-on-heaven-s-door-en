@@ -1,0 +1,252 @@
+[
+ {
+  "id": "HI_M11:0015f",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:0017c",
+  "jp": "{C0F04}ヴェストリがどんなことになってるか",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:001b1",
+  "jp": "わかったろう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:001e9",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00206",
+  "jp": "{C0F04}私はね、クロスガードのメンバーだったんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:0026b",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00288",
+  "jp": "{C0F04}しかし…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:002d3",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:002f0",
+  "jp": "{C0F04}何のていこうもできなかった…",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00349",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00366",
+  "jp": "{C0F04}たった二人のチェスの兵隊に",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00393",
+  "jp": "むりょくだったんだ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:004a0",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:004bd",
+  "jp": "{C0F04}その二人はどこ行った？",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M11:006a1",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:006be",
+  "jp": "{C0F04}とにかく…見てくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:006e3",
+  "jp": "このありさまを…さ",
+  "en": "",
+  "call": "MswStr",
+  "box": 39,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00866",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00883",
+  "jp": "{C0F04}とにかく…見てくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:008a8",
+  "jp": "このありさまを…さ",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00a0a",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00a27",
+  "jp": "{C0F04}あんたたち",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00a44",
+  "jp": "…何しに来なさった…",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00a82",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00a9f",
+  "jp": "{C0F04}チェスの兵隊か？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00ac4",
+  "jp": "助けにきたのか？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00b00",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 0
+ },
+ {
+  "id": "HI_M11:00b1d",
+  "jp": "{C0F04}どちらでもいいがね…",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "HI_M11:00b44",
+  "jp": "とにかくこのヴェストリを見てくれよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
+  "speaker": "村の人"
+ }
+]

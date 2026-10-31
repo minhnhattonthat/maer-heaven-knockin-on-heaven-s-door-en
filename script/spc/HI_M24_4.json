@@ -1,0 +1,731 @@
+[
+ {
+  "id": "HI_M24_4:0032c",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00349",
+  "jp": "{C0F04}それにしても深いね…",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24_4:00370",
+  "jp": "落ちたら…どうなるんだろう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24_4:003ec",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00409",
+  "jp": "{C0F04}……………",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:004b5",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:004d2",
+  "jp": "{C0F04}こ、こわいこというなよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:00bae",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00bcb",
+  "jp": "{C0F04}あちゃーー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:00cfd",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00d1c",
+  "jp": "{C0F04}先にすすむのは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:00d3f",
+  "jp": "ちょっとムリ…っスねぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:00de6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00e03",
+  "jp": "{C0F04}スノウがいてくれればなぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:00f04",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:00f21",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_4:0104f",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:0106c",
+  "jp": "{C0F04}ギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "HI_M24_4:01087",
+  "jp": "ギンターー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
+  "id": "HI_M24_4:0117f",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:0119e",
+  "jp": "{C0F04}お！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:0127b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01298",
+  "jp": "{C0F04}ま、まさか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:012b7",
+  "jp": "スノウ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:01608",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01627",
+  "jp": "{C0F04}ギンターーーン♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:017dd",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:017fa",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:018af",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:018ce",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:01b87",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01ba6",
+  "jp": "{C0F04}ギンターーーン♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01bc9",
+  "jp": "って…あらぁ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01c01",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01c20",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01d30",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01d4f",
+  "jp": "{C0F04}なにこの",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01d94",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01db3",
+  "jp": "{C0F04}『なんだおまえかよ！』",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01ddc",
+  "jp": "みたいな空気は！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:01ec2",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:01edf",
+  "jp": "{C0F04}だってほら…",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:02162",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02181",
+  "jp": "{C0F04}（げ！…デカイ氷！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:021d2",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:021f1",
+  "jp": "{C0F04}………",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:022f4",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02313",
+  "jp": "{C0F04}（ち！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:023b7",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:023d6",
+  "jp": "{C0F04}（それでスノウをまっていたってワケね！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:0243b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:0245a",
+  "jp": "{C0F04}………",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:024db",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:024fa",
+  "jp": "{C0F04}（…負けるもんか！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:025f5",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02614",
+  "jp": "{C0F04}ほ、ほほほほ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02635",
+  "jp": "なによそれくらいの氷！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02675",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02694",
+  "jp": "{C0F04}このドロシー姉さんなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:026bd",
+  "jp": "ヨユウよ、ヨ・ユ・ウ♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:028ab",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:028c8",
+  "jp": "{C0F04}ドロシー",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:028e3",
+  "jp": "ムリしないほうがいいよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:029c0",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:029df",
+  "jp": "{C0F04}しんぱいしてくれるの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02a08",
+  "jp": "うれし～な～～…っと",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02cc5",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 235,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02ce4",
+  "jp": "{C0F04}いーーーーーーーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 235,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02e97",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02eb6",
+  "jp": "{C0F04}だだだだだだだいじょうぶよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:02f0d",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:02f2c",
+  "jp": "{C0F04}ほほほほほほほらほら！",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:03029",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:03048",
+  "jp": "{C0F04}ドロシー、スカートが",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:0306f",
+  "jp": "カチンコチンにこおってるっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 249,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:03121",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:03140",
+  "jp": "{C0F04}（ス、スカートの中身も",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:03169",
+  "jp": "　かちんこちんなんですけど…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M24_4:03291",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:032ae",
+  "jp": "{C0F04}や、やっぱりさ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:032d1",
+  "jp": "いったん地上に戻ってスノウよんでこよう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 259,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_4:03359",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:03378",
+  "jp": "{C0F04}そ…そっスね…",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_4:03553",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_4:03572",
+  "jp": "{C0F04}～～～～～～～～",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 1,
+  "speaker": "ドロシー"
+ }
+]

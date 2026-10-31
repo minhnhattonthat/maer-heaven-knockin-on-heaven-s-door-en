@@ -1,0 +1,800 @@
+[
+ {
+  "id": "G_EV025B:0038d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:003a8",
+  "jp": "{C0F04}ちっとは役にたつように",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:003d1",
+  "jp": "なったみてーだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:0040b",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:00426",
+  "jp": "{C0F04}これから南下して、ヒルドたいりくにいくぞ",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00645",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:00662",
+  "jp": "{C0F04}ヒルドたいりく？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:006ef",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0070a",
+  "jp": "{C0F04}そうだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00725",
+  "jp": "チェスの兵隊たいじに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:007d9",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:007f4",
+  "jp": "{C0F04}たい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:008ab",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:008c6",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00d2a",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:00d47",
+  "jp": "{C0F04}おはよ！エド！",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:00ea2",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:00ebd",
+  "jp": "{C0F04}おお、ひめさま！",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00ee0",
+  "jp": "おひさしゅうございます！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00f62",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:00f7d",
+  "jp": "{C0F04}そしてギンタどの！",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:00fa2",
+  "jp": "アランの中から見ていました！",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:01107",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01122",
+  "jp": "{C0F04}ずいぶんと",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:0113f",
+  "jp": "成長なさいましたな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:011bb",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:011d8",
+  "jp": "{C0F04}へへ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:01251",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0126c",
+  "jp": "{C0F04}ところで…ひめさま…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:01295",
+  "jp": "お気付きですか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:013b8",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:013d5",
+  "jp": "{C0F04}…うん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:0156f",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0158e",
+  "jp": "{C0F04}な、なんスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV025B:0182e",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0184b",
+  "jp": "{C0F04}わたし、レスターヴァから",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:01876",
+  "jp": "逃げだすまえの日に…",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:018b4",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:018d1",
+  "jp": "{C0F04}城の占い師から",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:018f2",
+  "jp": "こう、お告げがあったの",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:019aa",
+  "jp": "{C0D04}［占い師］",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:019c7",
+  "jp": "{C0F04}『城からにげなさい、ひめ！』",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01a20",
+  "jp": "{C0D04}［占い師］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01a3d",
+  "jp": "{C0F04}『あらたなる軍をおつくりになるのです』",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01aa0",
+  "jp": "{C0D04}［占い師］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01abd",
+  "jp": "{C0F04}『七人のゆうしゃをさがすのです』",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01b1a",
+  "jp": "{C0D04}［占い師］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01b37",
+  "jp": "{C0F04}『そしてその七人は",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01b5c",
+  "jp": "　かならずやひめさまを…』",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01ba0",
+  "jp": "{C0D04}［占い師］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01bbd",
+  "jp": "{C0F04}『メルヘヴンを守るものたちと",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01bec",
+  "jp": "　なりましょう…！』",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
+  "speaker": "占い師"
+ },
+ {
+  "id": "G_EV025B:01dd3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:01df0",
+  "jp": "{C0F04}七人…か",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:01e71",
+  "jp": "　　　　　　　　（１）",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 1
+ },
+ {
+  "id": "G_EV025B:02196",
+  "jp": "　　　　　　　　（２）",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 1
+ },
+ {
+  "id": "G_EV025B:023d8",
+  "jp": "　　　　　　　　（３）",
+  "en": "",
+  "call": "MswStr",
+  "box": 192,
+  "line": 1
+ },
+ {
+  "id": "G_EV025B:025ea",
+  "jp": "　　　　　　　　（４）",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1
+ },
+ {
+  "id": "G_EV025B:0266e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0268d",
+  "jp": "{C0F04}えぇ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV025B:026a8",
+  "jp": "わたしもぉ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV025B:028a4",
+  "jp": "　　　　　　　　（５）",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 1
+ },
+ {
+  "id": "G_EV025B:02928",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02945",
+  "jp": "{C0F04}ワ！ワシもか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV025B:02966",
+  "jp": "ワシもなのかぁ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV025B:02b5f",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02b7c",
+  "jp": "{C0F04}６年前、チェスの兵隊とたたかった",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:02baf",
+  "jp": "クロスガードぐんが、すごくよわっている…",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:02c3f",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02c5c",
+  "jp": "{C0F04}だから、わたしたちで、",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:02c85",
+  "jp": "チェスとたたかうチームをつくる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 239,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV025B:02dee",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02e0b",
+  "jp": "{C0F04}スノウを入れて",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:02e2c",
+  "jp": "八人だけのぐんだんか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:02eaa",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02ec7",
+  "jp": "{C0F04}チームのなまえ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:02eea",
+  "jp": "メルヘヴンをすくう八戦士で！",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:02f6e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:02f8b",
+  "jp": "{C0904}『メル』",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:02fa6",
+  "jp": "{C0F04}にしようぜ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:0313a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:03159",
+  "jp": "{C0F04}いいっスね！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV025B:0332f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 272,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0334a",
+  "jp": "{C0F04}ならば『メル』",
+  "en": "",
+  "call": "MswStr",
+  "box": 272,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:0336b",
+  "jp": "しゅつげきですかな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 272,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:034ee",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:0350b",
+  "jp": "{C0F04}ヒルドたいりくへ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:03530",
+  "jp": "どうやっていくんだ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 281,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV025B:035ae",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:035c9",
+  "jp": "{C0F04}ディメンションÄＲＭをつかいます！",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:035fe",
+  "jp": "まずは…とくとごらんあれ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV025B:036d7",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 0
+ },
+ {
+  "id": "G_EV025B:036f2",
+  "jp": "{C0F04}…それっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 1,
+  "speaker": "エド"
+ }
+]

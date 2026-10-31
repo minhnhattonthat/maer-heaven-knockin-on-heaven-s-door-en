@@ -1,0 +1,199 @@
+[
+ {
+  "id": "HI_M00:0030e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:0032b",
+  "jp": "{C0F04}こんなくだもの、見たことない…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:0038a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:003a7",
+  "jp": "{C0F04}…たべられるのかな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:003f8",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00415",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:0042c",
+  "jp": "いちおう、１コもらっとこ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:004dd",
+  "jp": "{C0D04}サックリの実{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00505",
+  "jp": "手に入れた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 1
+ },
+ {
+  "id": "HI_M00:009c9",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:009e6",
+  "jp": "{C0F04}赤い岩！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00a2d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00a4a",
+  "jp": "{C0F04}うわーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00a67",
+  "jp": "カメラもってくればよかったあーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00ab3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00ad0",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00ae7",
+  "jp": "あ、あれ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00b1b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00b38",
+  "jp": "{C0F04}そういえばオレ",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00b59",
+  "jp": "メガネかけてないのによく見えるぞ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00ee1",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "HI_M00:00efe",
+  "jp": "{C0F04}ここだな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M00:00f1b",
+  "jp": "水をくんで…と…",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

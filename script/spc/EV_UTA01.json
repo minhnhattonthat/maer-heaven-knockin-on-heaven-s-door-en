@@ -1,0 +1,632 @@
+[
+ {
+  "id": "EV_UTA01:01068",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01085",
+  "jp": "{C0F04}ギンターーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_UTA01:010aa",
+  "jp": "やっとるかーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_UTA01:010e8",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01105",
+  "jp": "{C0F04}こっちはたのしんでるでーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_UTA01:01134",
+  "jp": "見てみぃ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_UTA01:01168",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01185",
+  "jp": "{C0F04}両手に花や！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_UTA01:01200",
+  "jp": "{C0D04}［村の女の子］",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01221",
+  "jp": "{C0F04}きゃーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 1,
+  "speaker": "村の女の子"
+ },
+ {
+  "id": "EV_UTA01:0123e",
+  "jp": "もうナナシさんたら！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
+  "speaker": "村の女の子"
+ },
+ {
+  "id": "EV_UTA01:0136a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01387",
+  "jp": "{C0F04}はははは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:013a4",
+  "jp": "（ハァ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:014ea",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01505",
+  "jp": "{C0F04}ひめさま…",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:01522",
+  "jp": "ワタクシ、ワタクシ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:0162b",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01648",
+  "jp": "{C0F04}うん？",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_UTA01:016c3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:016de",
+  "jp": "{C0F04}このような人のあたたかみに",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:0170b",
+  "jp": "ふれることができる日が…",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:0174d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01768",
+  "jp": "{C0F04}ひめさまにおとずれようとは…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:01799",
+  "jp": "ワダクシ…ワダグジはぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:01843",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01860",
+  "jp": "{C0F04}はいはい♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_UTA01:0187d",
+  "jp": "ほら、ハンカチ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_UTA01:018ef",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:0190a",
+  "jp": "{C0F04}あああありがとうございまぶ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_UTA01:01963",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01980",
+  "jp": "{C0F04}あ…ははははは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_UTA01:01b30",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01b4d",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:01c87",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01ca6",
+  "jp": "{C0F04}みんなけっこう",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_UTA01:01cc7",
+  "jp": "元気じゃない",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_UTA01:01cfd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01d1c",
+  "jp": "{C0F04}あーんなにおちこんでたのにねぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_UTA01:01d79",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01d96",
+  "jp": "{C0F04}ほんとうに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:01db5",
+  "jp": "生きるゆうきをとりもどした…",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:01dfb",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01e18",
+  "jp": "{C0F04}ジャックさんの作物も",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:01e3f",
+  "jp": "たったひとばんでたくさん実をつけた",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:01f86",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:01fa5",
+  "jp": "{C0F04}いやいやいや…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_UTA01:01fc8",
+  "jp": "てれるっスよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_UTA01:02047",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:02064",
+  "jp": "{C0F04}スノウさんは村のみんなを",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:0208f",
+  "jp": "ちりょうしてくれた…",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:020cd",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:020ea",
+  "jp": "{C0F04}そしてギンタさんたち…",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:0213d",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:0215a",
+  "jp": "{C0F04}あの『チェスの兵隊』を",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:02183",
+  "jp": "たおしてしまった",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:021bd",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:021da",
+  "jp": "{C0F04}あなたのような子供が",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:02201",
+  "jp": "チェスとたたかってがんばっている",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:0224b",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:02268",
+  "jp": "{C0F04}大人のわれわれが",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:0228b",
+  "jp": "くすぶってるわけにはいきません",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_UTA01:023bf",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:023dc",
+  "jp": "{C0F04}へへへへ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:0245b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:02478",
+  "jp": "{C0F04}…ジャック、ちょっと",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:0249f",
+  "jp": "さんぽでもしないか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:025d8",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:025f7",
+  "jp": "{C0F04}ギンタもいっちょまえに",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_UTA01:02620",
+  "jp": "てれるんスね！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_UTA01:0265a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 0
+ },
+ {
+  "id": "EV_UTA01:02677",
+  "jp": "{C0F04}う、うるさいなぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_UTA01:0269c",
+  "jp": "いくぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

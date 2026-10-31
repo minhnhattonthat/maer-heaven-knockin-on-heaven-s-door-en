@@ -1,0 +1,441 @@
+[
+ {
+  "id": "G_EV024:0096a",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:00987",
+  "jp": "{C0F04}ごほぁ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:00a06",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:00a23",
+  "jp": "{C0F04}（うそだろ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:00a42",
+  "jp": "　氷の城をでてからまだ、すう日だぞ！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:00bb6",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:00bd3",
+  "jp": "{C0F04}（それなのに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:00bf4",
+  "jp": "　こいつ、ビショップくらいつよい！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:00ca2",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:00cbf",
+  "jp": "{C0F04}ギンタ～～～～～ン♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "G_EV024:00e01",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:00e1e",
+  "jp": "{C0F04}そ、その声は！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:0147b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:0149a",
+  "jp": "{C0F04}キャーーーーーーーー♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:01525",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:01542",
+  "jp": "{C0F04}わ・わ・わ・わ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:0178a",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:017a7",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV024:0181e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:0183d",
+  "jp": "{C0F04}…ちょ",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:01978",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:01995",
+  "jp": "{C0F04}…！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV024:01a72",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:01a91",
+  "jp": "{C0F04}な…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:01aaa",
+  "jp": "このっ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:01c58",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:01c73",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV024:01dad",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:01dca",
+  "jp": "{C0F04}ま、まてよ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:01deb",
+  "jp": "ドロシーがいるってことは…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV024:021af",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:021ce",
+  "jp": "{C0F04}ひさしぶりっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV024:021f1",
+  "jp": "ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV024:02691",
+  "jp": "{C0D04}［ギド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:026ac",
+  "jp": "{C0F04}…イアン",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 1,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:026c7",
+  "jp": "ここはわたしにまかせてください",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 2,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:027da",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:027f7",
+  "jp": "{C0F04}ま、まて！",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:02814",
+  "jp": "おまえの力じゃ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 230,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV024:0284e",
+  "jp": "{C0D04}［ギド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:02869",
+  "jp": "{C0F04}わかっています",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 1,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:0288a",
+  "jp": "でも…",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 2,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:0295e",
+  "jp": "{C0D04}［ギド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:02979",
+  "jp": "{C0F04}あの魔力（まりょく）のいちばん",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 1,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:029aa",
+  "jp": "低そうなやつならば！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 2,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV024:02b33",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:02b52",
+  "jp": "{C0F04}あら…",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:02b6b",
+  "jp": "なめられちゃったものねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 247,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:02cfb",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 0
+ },
+ {
+  "id": "G_EV024:02d1a",
+  "jp": "{C0F04}キミの力、見せておやり！",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV024:02d45",
+  "jp": "ジャック！",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

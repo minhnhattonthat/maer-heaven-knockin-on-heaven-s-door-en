@@ -1,0 +1,829 @@
+[
+ {
+  "id": "CH_M09A:000ec",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00109",
+  "jp": "{C0F04}もうデッキはくんでいるかい？",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00162",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:0017f",
+  "jp": "{C0F04}バトルでÄＲＭをつかうには",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:001ac",
+  "jp": "デッキにÄＲＭをくまないと、いけないよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:001fc",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00219",
+  "jp": "{C0F04}デッキには　{C0904}２０{C0F04}こまでÄＲＭをくめるから",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00262",
+  "jp": "よくかんがえてÄＲＭをえらぶんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:003b6",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:003d3",
+  "jp": "{C0F04}ÄＲＭにはそれぞれ、魔力コストが",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00406",
+  "jp": "きまっているの",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:0043e",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:0045b",
+  "jp": "{C0F04}デッキをくむとき、じぶんの魔力をこえる",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00494",
+  "jp": "ÄＲＭをくむことは、できないのよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:004de",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:004fb",
+  "jp": "{C0F04}ちゅういしてね",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00650",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:0066d",
+  "jp": "{C0F04}この辺にたむろしている",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00696",
+  "jp": "とうぞくたちにおかしな動きがある",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:006e0",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:006fd",
+  "jp": "{C0F04}かねめのものをもっているなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:0072c",
+  "jp": "きをつけるんだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "CH_M09A:00872",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:0088f",
+  "jp": "{C0F04}と、とうぞく？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:009a7",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:009c6",
+  "jp": "{C0F04}この街でとうぞくがあばれた",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:009f3",
+  "jp": "なんて話は、あまりきかないっスけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:00c32",
+  "jp": "{C0D04}［店主］",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00c4d",
+  "jp": "{C0F04}あら！ジャックちゃん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:00c76",
+  "jp": "いらっしゃい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 2,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:00d79",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00d98",
+  "jp": "{C0F04}こんちわっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:00de3",
+  "jp": "{C0D04}［店主］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00dfe",
+  "jp": "{C0F04}お母さんは元気？",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:00e4b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:00e6a",
+  "jp": "{C0F04}おかげで元気すぎる",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:00e8f",
+  "jp": "くらいっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:0101a",
+  "jp": "{C0D04}［店主］",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01035",
+  "jp": "{C0F04}ここはパヅタウンのいちばよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:01196",
+  "jp": "{C0D04}［店主］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:011b1",
+  "jp": "{C0F04}ÄＲＭやマジックストーンは",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:011de",
+  "jp": "使う人によって、向き不向きがあるよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:0122a",
+  "jp": "{C0D04}［店主］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01245",
+  "jp": "{C0F04}買うときは、使えるかどうか",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:01272",
+  "jp": "ちゃんとかくにんしておくんだね",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "店主"
+ },
+ {
+  "id": "CH_M09A:01405",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01424",
+  "jp": "{C0F04}いらっしゃい♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:0153a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01557",
+  "jp": "{C0F04}ディメンションÄＲＭってある？",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:015b2",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:015d1",
+  "jp": "{C0F04}あるわよ♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:015ee",
+  "jp": "ちょっとねだんがはるけれど",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01632",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01651",
+  "jp": "{C0F04}どんなのがいいの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:016a0",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:016bd",
+  "jp": "{C0F04}オレが見たやつは…",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:0170c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01729",
+  "jp": "{C0F04}目が十字で",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01746",
+  "jp": "舌を出してる形してた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01786",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:017a5",
+  "jp": "{C0F04}それ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:017e8",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01807",
+  "jp": "{C0904}『門ばんピエロ』{C0F04}！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:0192a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01949",
+  "jp": "{C0F04}…！？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:0198e",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:019ad",
+  "jp": "{C0F04}ディメンションの中では",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:019d6",
+  "jp": "さい高クラスのÄＲＭよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01a18",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01a37",
+  "jp": "{C0F04}だれも見たことないだろうし",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01a64",
+  "jp": "どういう能力があるかもわからない",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01aae",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01acd",
+  "jp": "{C0F04}どっかのえらい王さまとか、魔女（まじょ）",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01b08",
+  "jp": "とかじゃないともってないわね",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:01be6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01c03",
+  "jp": "{C0F04}さがすの…",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01c20",
+  "jp": "たいへんそうだな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01c5c",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01c7b",
+  "jp": "{C0F04}なんか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:01c96",
+  "jp": "ちょっとうれしそうっスよ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:01cdc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01cf9",
+  "jp": "{C0F04}だって…まだまだこのせかいを",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01d28",
+  "jp": "ぼうけんできるんだぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01e00",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01e1d",
+  "jp": "{C0F04}ジャックとも",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01e3c",
+  "jp": "いっしょにいられるしな",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M09A:01f14",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01f33",
+  "jp": "{C0F04}…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "CH_M09A:01fd4",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:01ff3",
+  "jp": "{C0F04}『門ばんピエロ』はさすがに",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:02020",
+  "jp": "ないけれど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:02056",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:02075",
+  "jp": "{C0F04}他のÄＲＭはたくさん",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:0209c",
+  "jp": "おいてあるわよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
+  "speaker": "ÄＲＭ屋"
+ },
+ {
+  "id": "CH_M09A:020d4",
+  "jp": "{C0D04}［ÄＲＭ屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 0
+ },
+ {
+  "id": "CH_M09A:020f3",
+  "jp": "{C0F04}見ていかない？",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 1,
+  "speaker": "ÄＲＭ屋"
+ }
+]

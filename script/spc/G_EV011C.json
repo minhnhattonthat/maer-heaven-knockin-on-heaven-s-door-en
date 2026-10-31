@@ -1,0 +1,524 @@
+[
+ {
+  "id": "G_EV011C:00538",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00553",
+  "jp": "{C0F04}子供にまでそんな",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00576",
+  "jp": "つらい思いをさせちまう…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:005ba",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:005d5",
+  "jp": "{C0F04}それが…",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:0072a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00747",
+  "jp": "{C0F04}チェスの兵隊…！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:007d6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:007f3",
+  "jp": "{C0F04}オッサン！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:0083a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00857",
+  "jp": "{C0F04}チェスのおやぶん",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:0087a",
+  "jp": "ぶったおしにいこう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:008ba",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:008d7",
+  "jp": "{C0F04}どうせねらわれるなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:008fe",
+  "jp": "こっちから行くさ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:0097a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00995",
+  "jp": "{C0F04}っつっても…",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:009de",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:009f9",
+  "jp": "{C0F04}とおいぞ…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00a80",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00a9b",
+  "jp": "{C0F04}もとのせかいに",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00abc",
+  "jp": "かえりたくねぇのか…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00b3a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00b57",
+  "jp": "{C0F04}あとまわしだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:00be0",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00bfd",
+  "jp": "{C0F04}オレもこのせかい、まもりてぇ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:00c98",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00cb3",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00cf2",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00d0d",
+  "jp": "{C0F04}チェスのしたっぱに負けたやつが",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00d3e",
+  "jp": "ナマイキいうじゃねぇか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00d80",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00d9b",
+  "jp": "{C0F04}ダンナみてーにつよくなれるのか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00df8",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00e13",
+  "jp": "{C0F04}チェスたおせるのかよ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:00f7e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:00f9b",
+  "jp": "{C0F04}強くなる！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:01022",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:0103f",
+  "jp": "{C0F04}たおす！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:011db",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:011fa",
+  "jp": "{C0F04}ギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV011C:01215",
+  "jp": "かっこいいっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV011C:0124f",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:0126e",
+  "jp": "{C0F04}オイラもいっしょに",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV011C:01293",
+  "jp": "メルヘヴン、まもるっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV011C:01317",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01334",
+  "jp": "{C0F04}おう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011C:015c3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:015de",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:0161d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01638",
+  "jp": "{C0F04}（ダンナ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:01681",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:0169c",
+  "jp": "{C0F04}（こいつ、あんたと同じこといってるよ）",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:01a75",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01a90",
+  "jp": "{C0F04}よし…",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:01ad3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01aee",
+  "jp": "{C0F04}久々にあれでも、やるか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:01b81",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01b9c",
+  "jp": "{C0F04}行くぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011C:01d00",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "G_EV011C:01d1d",
+  "jp": "{C0F04}あ…うん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

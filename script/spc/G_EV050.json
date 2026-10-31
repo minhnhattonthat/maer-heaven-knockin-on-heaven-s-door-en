@@ -1,0 +1,474 @@
+[
+ {
+  "id": "G_EV050:00954",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:00971",
+  "jp": "{C0F04}なるほどなぁ…それで",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:00998",
+  "jp": "ドロシーちゃんプンプンなんや",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:00b9c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:00bbb",
+  "jp": "{C0F04}…ふん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:00f78",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:00f95",
+  "jp": "{C0F04}わははは",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:00fb0",
+  "jp": "ま、それはともかく…",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:0102c",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01049",
+  "jp": "{C0F04}なんや、とうぞくダマシイを",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:01076",
+  "jp": "ゆさぶる話やな、そのÄＲＭ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:011a5",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:011c2",
+  "jp": "{C0F04}でっかい『うで』と",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV050:011e7",
+  "jp": "たたかったんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 93,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV050:01376",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01393",
+  "jp": "{C0F04}ま、ワシらの前では",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV050:013b8",
+  "jp": "オモチャのようだったがな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 102,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV050:01578",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01595",
+  "jp": "{C0F04}おそらく…次は『あし』の封印を",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV050:015c6",
+  "jp": "とくことになると思います",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV050:01646",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01663",
+  "jp": "{C0F04}ワイもいっしょに行ってエエ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:01692",
+  "jp": "ギンタやないけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:017e4",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01801",
+  "jp": "{C0F04}なんかワクワクするで！",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:01892",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:018af",
+  "jp": "{C0F04}おう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV050:018c8",
+  "jp": "いっしょに行こうよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV050:01946",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01963",
+  "jp": "{C0F04}というわけでよろしくな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:0198e",
+  "jp": "マール！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV050:01a00",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01a1d",
+  "jp": "{C0F04}はい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV050:01a36",
+  "jp": "とっても心づよいです！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV050:01eea",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:01f07",
+  "jp": "{C0F04}あ、あのう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:01f26",
+  "jp": "ドロシー…？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:0206e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:0208d",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:0210a",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:02127",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:02166",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:02185",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:021c4",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:021e3",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:022cc",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:022eb",
+  "jp": "{C0F04}ふん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV050:028fa",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:02917",
+  "jp": "{C0F04}わ、わたしのせいなのかな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV050:02a57",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:02a76",
+  "jp": "{C0F04}ちがうと思うっス…",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV050:02b03",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:02b22",
+  "jp": "{C0F04}今はほうっておくっスよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV050:03599",
+  "jp": "ダンジョンモードに",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 0
+ },
+ {
+  "id": "G_EV050:035b7",
+  "jp": "{C0904}練磨（れんま）の門{C0F04}が追加されました",
+  "en": "",
+  "call": "MswStr",
+  "box": 299,
+  "line": 1
+ }
+]

@@ -1,0 +1,690 @@
+[
+ {
+  "id": "G_EV011:0073d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:00758",
+  "jp": "{C0F04}スノウ助けてごくろうだった",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:00785",
+  "jp": "ガキども",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:007b7",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:007d2",
+  "jp": "{C0F04}たらふく、くっていいぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:00d63",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:00d80",
+  "jp": "{C0F04}たらふく…って…",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011:00eb6",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:00ed5",
+  "jp": "{C0F04}チーズと豆がちょっとだけっスよ…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV011:0112c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01147",
+  "jp": "{C0F04}あん！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:015ab",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:015c8",
+  "jp": "{C0F04}本当にありがとう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:015ed",
+  "jp": "スノウってよんでね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:0174a",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01765",
+  "jp": "{C0F04}…ところでギンタ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:017b4",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:017cf",
+  "jp": "{C0F04}おまえ、このせかいにきて",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:017fa",
+  "jp": "１０日くらいだったな",
+  "en": "",
+  "call": "MswStr",
+  "box": 133,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01921",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:0193e",
+  "jp": "{C0F04}うん",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011:0197f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:0199a",
+  "jp": "{C0F04}なら、まだなにもわからねぇだろ",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:019cb",
+  "jp": "せつめいしてやるからよくきけよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01a51",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01a6e",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011:01aeb",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01b06",
+  "jp": "{C0F04}今、オレたちがいるのは",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01b2f",
+  "jp": "パヅリカっていう小さい島だ",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01b73",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01b8e",
+  "jp": "{C0F04}南の大きいたいりくにある、",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01bbb",
+  "jp": "レスターヴァってところが",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01e4f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01e6a",
+  "jp": "{C0F04}このスノウが生まれたところだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01ec3",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01ede",
+  "jp": "{C0F04}レスターヴァってのは、まわりの",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01f0f",
+  "jp": "小さい国々を統治してきた",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:01f8f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:01fac",
+  "jp": "{C0F04}スノウはそこのおひめさまなのか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011:02009",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02024",
+  "jp": "{C0F04}ま、今じゃチェスのアジトに",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02051",
+  "jp": "なっちまってるが…",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02109",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 176,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02126",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 176,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:0233e",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02359",
+  "jp": "{C0F04}このせつめいをするのも",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02382",
+  "jp": "２回目だからラクだな",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:023c0",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:023db",
+  "jp": "{C0F04}６年まえ、おまえと同じせかいから",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:0240e",
+  "jp": "来たやつだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02480",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:0249b",
+  "jp": "{C0F04}チェスの兵隊にたいこうするために",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:024ce",
+  "jp": "けっせいされた{C0904}『クロスガード軍』",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:0251f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:0253a",
+  "jp": "{C0F04}そのリーダーだった男だ",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:0258d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:025a8",
+  "jp": "{C0F04}オレたちは{C0904}『ダンナ』{C0F04}って呼んでた",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02651",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:0266e",
+  "jp": "{C0F04}あ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV011:026ed",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02708",
+  "jp": "{C0F04}そう、チェスの兵隊しれいとう",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02737",
+  "jp": "{C0904}『ファントム』{C0F04}とあいうちで",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02789",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:027a4",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:027b9",
+  "jp": "死んじまったがな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02914",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02931",
+  "jp": "{C0F04}…エド！",
+  "en": "",
+  "call": "MswStr",
+  "box": 213,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:029b4",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:029cf",
+  "jp": "{C0F04}ん？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02ba5",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02bc2",
+  "jp": "{C0F04}バッボさんとお外で",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:02be7",
+  "jp": "あそんでくるね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 226,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:02c21",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02c3c",
+  "jp": "{C0F04}近くにみょうな魔力（まりょく）はないが…",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02c77",
+  "jp": "あんまりとおくまで行くなよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011:02cfb",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02d18",
+  "jp": "{C0F04}うん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:02d31",
+  "jp": "行こう！バッボさん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 231,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV011:02daf",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 0
+ },
+ {
+  "id": "G_EV011:02dcc",
+  "jp": "{C0F04}う、うむ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 1,
+  "speaker": "バッボ"
+ }
+]

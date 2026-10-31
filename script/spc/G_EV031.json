@@ -1,0 +1,96 @@
+[
+ {
+  "id": "G_EV031:0051b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 0
+ },
+ {
+  "id": "G_EV031:00538",
+  "jp": "{C0F04}…うん？",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV031:00fe9",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 0
+ },
+ {
+  "id": "G_EV031:01006",
+  "jp": "{C0F04}きゃーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV031:0113e",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "G_EV031:01159",
+  "jp": "{C0F04}ひめさまぁ～～！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV031:012fd",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "G_EV031:0131c",
+  "jp": "{C0F04}うわ！うわ！うわーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV031:01490",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "G_EV031:014ad",
+  "jp": "{C0F04}紳士（しんし）はこういうときこそ",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV031:014e0",
+  "jp": "おちついて…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
+  "speaker": "バッボ"
+ }
+]

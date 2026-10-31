@@ -1,0 +1,148 @@
+[
+ {
+  "id": "G_EV013:007b0",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:007cd",
+  "jp": "{C0F04}で？",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:007e4",
+  "jp": "どうなのよ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:0081a",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:00837",
+  "jp": "{C0F04}た、たたたしかに見たよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "G_EV013:0088e",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:008ab",
+  "jp": "{C0F04}丸くて、ヒゲのあるÄＲＭを",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "G_EV013:008d8",
+  "jp": "もったしゅうだんだろ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "G_EV013:00a39",
+  "jp": "{C0D04}［ギド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:00a54",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "ギド"
+ },
+ {
+  "id": "G_EV013:00bb2",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:00bcf",
+  "jp": "{C0F04}そう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:00be8",
+  "jp": "サンキューーーー♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:00c62",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:00c7f",
+  "jp": "{C0F04}（まだこの辺りにいるかな？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "G_EV013:00d16",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "G_EV013:00d33",
+  "jp": "{C0F04}（ギンタ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "イアン"
+ }
+]

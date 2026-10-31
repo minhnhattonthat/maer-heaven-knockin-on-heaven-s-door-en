@@ -1,0 +1,904 @@
+[
+ {
+  "id": "HI_M24:002ca",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:002e7",
+  "jp": "{C0F04}まずは中に入ってみよう",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0033a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:00359",
+  "jp": "{C0F04}そっスね",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24:00751",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0076e",
+  "jp": "{C0F04}は～～ん…ここやね",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:0088d",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:008aa",
+  "jp": "{C0F04}…ヴェストリにこんなばしょが",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:008d9",
+  "jp": "あったなんて、きいたことないで？",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:00a4e",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:00a6b",
+  "jp": "{C0F04}入り口がひとつ、ふたつ",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:00cb4",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:00cd1",
+  "jp": "{C0F04}みっ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:00ffa",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0101f",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:0111f",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0113c",
+  "jp": "{C0F04}（…なんや、この",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:0115f",
+  "jp": "　『いくうかん』は！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01249",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01266",
+  "jp": "{C0F04}彫金師（ちょうきんし）！",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:01291",
+  "jp": "ÄＲＭをつくってくれるんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0137f",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0139c",
+  "jp": "{C0F04}ちょ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:013b5",
+  "jp": "『ちょう・きんし』さん？",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:014cf",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:014f4",
+  "jp": "{C0F04}なまえのわける場所が",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:0151b",
+  "jp": "ちがうですのん",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:01553",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01570",
+  "jp": "{C0F04}（の、のん？？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01593",
+  "jp": "あ、こ、こらすんまへん",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:016ab",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:016d0",
+  "jp": "{C0F04}へんてこりんな言葉づかいして",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:016ff",
+  "jp": "おまえ、むかつくですのん",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:017eb",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01808",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 125,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:018f3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01910",
+  "jp": "{C0F04}い、いこうよ、ナナシ",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:01a0b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01a28",
+  "jp": "{C0F04}お、おう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01bb7",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01bd4",
+  "jp": "{C0F04}………",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01c4d",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01c72",
+  "jp": "{C0F04}………",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:01d80",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01d9d",
+  "jp": "{C0F04}（おいギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01dbe",
+  "jp": "　あいつ、ゴッツこっち見とるで！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M24:01eb6",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:01ed3",
+  "jp": "{C0F04}（き、きにしない、きにしない！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0220f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0222c",
+  "jp": "{C0F04}くそっ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:02247",
+  "jp": "みんな冷たいや",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:022af",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:022cc",
+  "jp": "{C0F04}ギンタさん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24:0234d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0236a",
+  "jp": "{C0F04}気にすんなって！",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0244f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0246c",
+  "jp": "{C0F04}オレひとりでも、さいごのパーツ",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:0249d",
+  "jp": "手にいれてみせるからさ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24:02579",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:02596",
+  "jp": "{C0F04}は、はい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24:025b3",
+  "jp": "ありがとうございます！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 196,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24:026de",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:026fb",
+  "jp": "{C0F04}（くくくくくく…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24:02a5b",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:02a7c",
+  "jp": "{C0F04}なるほど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 224,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:02bee",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:02c0f",
+  "jp": "{C0F04}ヴェストリの近くに",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:02c34",
+  "jp": "こんなところが…",
+  "en": "",
+  "call": "MswStr",
+  "box": 233,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:0301a",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0303f",
+  "jp": "{C0F04}…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 257,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03145",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 263,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03166",
+  "jp": "{C0F04}な、なんだ！なんだ！このコは！",
+  "en": "",
+  "call": "MswStr",
+  "box": 263,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03197",
+  "jp": "ばちがいにもホドがあるぞ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 263,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03287",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:032a2",
+  "jp": "{C0F04}彫金師ちゃんだそうだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "HI_M24:032f3",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03318",
+  "jp": "{C0F04}…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03407",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 275,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03428",
+  "jp": "{C0F04}ちょ…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 275,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03443",
+  "jp": "…近ごろの彫金師は",
+  "en": "",
+  "call": "MswStr",
+  "box": 275,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:0347f",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:034a0",
+  "jp": "{C0F04}す、すすんでるというか……",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:034cd",
+  "jp": "なんというか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:035f4",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03619",
+  "jp": "{C0F04}おい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 284,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03708",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03729",
+  "jp": "{C0F04}うわ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 289,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:0394a",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 301,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:0396f",
+  "jp": "{C0F04}そこはかとなく",
+  "en": "",
+  "call": "MswStr",
+  "box": 301,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03990",
+  "jp": "ムカつくヤツですのん",
+  "en": "",
+  "call": "MswStr",
+  "box": 301,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03abd",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 308,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03ae2",
+  "jp": "{C0F04}こっち来い！",
+  "en": "",
+  "call": "MswStr",
+  "box": 308,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03b01",
+  "jp": "ぶんなぐるですのん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 308,
+  "line": 2,
+  "speaker": "彫金師ベリーニ"
+ },
+ {
+  "id": "HI_M24:03be3",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03c04",
+  "jp": "{C0F04}あ…あの",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03c1f",
+  "jp": "その…えー",
+  "en": "",
+  "call": "MswStr",
+  "box": 313,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03d33",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 319,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03d50",
+  "jp": "{C0F04}さ、さ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 319,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24:03d6b",
+  "jp": "気にしないでいそごうよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 319,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "HI_M24:03e59",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 324,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03e7a",
+  "jp": "{C0F04}あ、ああ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 324,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03ec1",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03ee2",
+  "jp": "{C0F04}（気にしないでって…いわれても）",
+  "en": "",
+  "call": "MswStr",
+  "box": 326,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "HI_M24:03f60",
+  "jp": "{C0D04}［彫金師ベリーニ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 329,
+  "line": 0
+ },
+ {
+  "id": "HI_M24:03f85",
+  "jp": "{C0F04}…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 329,
+  "line": 1,
+  "speaker": "彫金師ベリーニ"
+ }
+]

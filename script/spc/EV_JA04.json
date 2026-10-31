@@ -1,0 +1,302 @@
+[
+ {
+  "id": "EV_JA04:00655",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00674",
+  "jp": "{C0F04}（オイラがあんなに苦労した",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA04:006a1",
+  "jp": "　ルーガルーの攻撃を軽くかわした！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA04:006f1",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00710",
+  "jp": "{C0F04}（つよい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA04:0072d",
+  "jp": "　ギンタ…何者っスか！？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_JA04:00a08",
+  "jp": "{C0D04}［ルーガ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00a25",
+  "jp": "{C0F04}く、くそ！！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "ルーガ"
+ },
+ {
+  "id": "EV_JA04:00a72",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00a8f",
+  "jp": "{C0F04}ジャックはもういくじなしじゃねぇぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA04:00ac6",
+  "jp": "本当のいくじなしはおまえらだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_JA04:00b10",
+  "jp": "{C0D04}［ガルー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00b2d",
+  "jp": "{C0F04}こんなやつらにオレたちが負けるなんて…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ガルー"
+ },
+ {
+  "id": "EV_JA04:00fa0",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:00fbb",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:00ffa",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:01015",
+  "jp": "{C0F04}ルーガルー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:01034",
+  "jp": "おまえ達に仕事を頼みにきてみれば…",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:01080",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:0109b",
+  "jp": "{C0F04}なんだこのざまは",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:01311",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:0132e",
+  "jp": "{C0F04}おまえらおしおきじゃ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA04:01357",
+  "jp": "もう悪さできんようにしてやる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_JA04:0139f",
+  "jp": "{C0D04}［ルーガ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:013bc",
+  "jp": "{C0F04}ひえええぇぇぇぇぇ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "ルーガ"
+ },
+ {
+  "id": "EV_JA04:01567",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:01582",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:015c5",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:015e0",
+  "jp": "{C0F04}（バッボ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:01629",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:01644",
+  "jp": "{C0F04}（そうか、封印をといたのはおまえか…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 121,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:016a7",
+  "jp": "{C0D04}［ペタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:016c2",
+  "jp": "{C0F04}（ふふふふふふ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "ペタ"
+ },
+ {
+  "id": "EV_JA04:01a6d",
+  "jp": "{C0D04}［ルーガ＆ガルー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 0
+ },
+ {
+  "id": "EV_JA04:01a92",
+  "jp": "{C0F04}ぎゃ～～～～～！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 1,
+  "speaker": "ルーガ＆ガルー"
+ }
+]

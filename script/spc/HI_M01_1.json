@@ -1,0 +1,45 @@
+[
+ {
+  "id": "HI_M01_1:002db",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "HI_M01_1:002fa",
+  "jp": "{C0F04}そこ穴あいてるわよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M01_1:00321",
+  "jp": "気をつけてね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M01_1:00359",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "HI_M01_1:00376",
+  "jp": "{C0F04}う…うん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

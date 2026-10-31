@@ -1,0 +1,267 @@
+[
+ {
+  "id": "HI_M07:002b0",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:002cd",
+  "jp": "{C0F04}…そっちはナナシたちが",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:002f6",
+  "jp": "すすんだみちだぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:00332",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:0034f",
+  "jp": "{C0F04}あ…そっか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M07:006af",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:006cc",
+  "jp": "{C0F04}！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:007da",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:007f7",
+  "jp": "{C0F04}どうしたバッボ…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M07:00846",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:00863",
+  "jp": "{C0F04}なにかいる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:00944",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:00961",
+  "jp": "{C0F04}…そこにだれかおるな！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:009b6",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:009d3",
+  "jp": "{C0F04}出て来い！！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M07:00e27",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:00e44",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "HI_M07:011cd",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:011ea",
+  "jp": "{C0F04}そっちはギンタが",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M07:0120d",
+  "jp": "行ったみちやな",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M07:01245",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:01264",
+  "jp": "{C0F04}もどってきちゃった？",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M07:01697",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:016b4",
+  "jp": "{C0F04}おっと…",
+  "en": "",
+  "call": "MswStr",
+  "box": 139,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M07:016f9",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:01718",
+  "jp": "{C0F04}…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "HI_M07:01759",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:01776",
+  "jp": "{C0F04}気付いたか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M07:01795",
+  "jp": "さすが、魔女（まじょ）、やな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "HI_M07:017dd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "HI_M07:017fc",
+  "jp": "{C0F04}魔力（まりょく）…",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ドロシー"
+ }
+]

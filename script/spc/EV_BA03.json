@@ -1,0 +1,320 @@
+[
+ {
+  "id": "EV_BA03:002c0",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:002df",
+  "jp": "{C0F04}いい？よく聞いてね",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:0032e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:0034d",
+  "jp": "{C0F04}まず、この{C0904}マジックストーン{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:0038a",
+  "jp": "あげるわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:003f9",
+  "jp": "マジックストーンを",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:00417",
+  "jp": "２０コもらった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1
+ },
+ {
+  "id": "EV_BA03:0049f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:004be",
+  "jp": "{C0F04}ふつうのÄＲＭは、高い魔力がないと",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:004f3",
+  "jp": "使えないの",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00527",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:00546",
+  "jp": "{C0F04}マジックストーンは、魔力のひくいキミでも",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00581",
+  "jp": "使えるべんりなÄＲＭってとこね",
+  "en": "",
+  "call": "MswStr",
+  "box": 30,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:005c9",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:005e8",
+  "jp": "{C0F04}バトル中に{C0904}Ａボタン{C0F04}をおすと",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00623",
+  "jp": "ÄＲＭをえらぶことができるわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00669",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:00688",
+  "jp": "{C0904}ÄＲＭ{C0F04}の{C0904}Ａ{C0F04}ね",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:006bc",
+  "jp": "わかった？",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:006f0",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:0070f",
+  "jp": "{C0F04}ボタンをおせば、持っているÄＲＭから",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00746",
+  "jp": "{C0904}５コ{C0F04}のÄＲＭを取り出すわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00796",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:007b5",
+  "jp": "{C0F04}そこから、使いたいÄＲＭをえらぶのよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00816",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:00835",
+  "jp": "{C0F04}ÄＲＭをえらんだら、そのÄＲＭと",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00868",
+  "jp": "{C0904}シンクロ{C0F04}するまで時間が必要なの",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:008be",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:008dd",
+  "jp": "{C0904}シンクロゲージ{C0F04}が光ったら",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:0090f",
+  "jp": "ÄＲＭを使える合図よ",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:0094d",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:0096c",
+  "jp": "{C0F04}ÄＲＭを使うときも{C0904}Ａボタン{C0F04}ね",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:009d3",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:009f2",
+  "jp": "{C0F04}とりあえずやってみましょ♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00a49",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 0
+ },
+ {
+  "id": "EV_BA03:00a68",
+  "jp": "{C0F04}このさきに魔物の気配がしてるわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BA03:00a99",
+  "jp": "がんばってやっつけてね♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "OBJ_D:00205",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 0
+ },
+ {
+  "id": "OBJ_D:00224",
+  "jp": "{C0F04}こんな低レベルのまほうじん、",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "OBJ_D:00253",
+  "jp": "じゃまだから消してあげるわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "OBJ_D:0054a",
+  "jp": "見えないまほうのかべで",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "OBJ_D:0056c",
+  "jp": "さえぎられている",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1
+ }
+]

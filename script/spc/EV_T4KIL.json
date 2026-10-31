@@ -1,0 +1,447 @@
+[
+ {
+  "id": "EV_T4KIL:01004",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01021",
+  "jp": "{C0F04}やったで！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_T4KIL:0117a",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01197",
+  "jp": "{C0F04}ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_T4KIL:01324",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01341",
+  "jp": "{C0F04}ふう…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T4KIL:01525",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01542",
+  "jp": "{C0F04}あわわ…ボクの…ボクのタロスが！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 128,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:016b1",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:016d2",
+  "jp": "{C0F04}なにが『ボクの』だよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_T4KIL:016f9",
+  "jp": "いにしえの知恵を悪用しやがって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "EV_T4KIL:01889",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:018a6",
+  "jp": "{C0F04}ニ度とわるさできぬよう",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_T4KIL:018cf",
+  "jp": "こらしめてくれる！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_T4KIL:01b67",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01b84",
+  "jp": "{C0F04}あわわわわ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 158,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:01d30",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01d4b",
+  "jp": "{C0F04}まぁ…まてよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:01e00",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01e1b",
+  "jp": "{C0F04}おい、そこのちびメガネ",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:01eac",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01ec9",
+  "jp": "{C0F04}ファントムに…ファントムに",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:01ef6",
+  "jp": "『タロス』を手に入れたって",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:01f3a",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:01f57",
+  "jp": "{C0F04}いいたかったのに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:020bc",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 184,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:020d9",
+  "jp": "{C0F04}ギンタなんかじゃなくて",
+  "en": "",
+  "call": "MswStr",
+  "box": 184,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:02102",
+  "jp": "ボクをほめてほしかったのに！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 184,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:021f4",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02211",
+  "jp": "{C0F04}うわぁぁぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:023bd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:023dc",
+  "jp": "{C0F04}あららら…",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T4KIL:023f9",
+  "jp": "オコチャマなやつー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T4KIL:024e1",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:024fc",
+  "jp": "{C0F04}いけよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:025e9",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02606",
+  "jp": "{C0F04}ひっく…ひっく…",
+  "en": "",
+  "call": "MswStr",
+  "box": 209,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:026fd",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02718",
+  "jp": "{C0F04}おっと、そのÄＲＭはおいていけよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:02775",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02790",
+  "jp": "{C0F04}てめぇみたいなガキには",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:027b9",
+  "jp": "すぎたオモチャだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 216,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:027f3",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02810",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 218,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T4KIL:02ede",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 261,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:02ef9",
+  "jp": "{C0F04}さて…と",
+  "en": "",
+  "call": "MswStr",
+  "box": 261,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:03027",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 269,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:03042",
+  "jp": "{C0F04}オレたちもかえるとするか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 269,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_T4KIL:031ab",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:031c8",
+  "jp": "{C0F04}よっしゃ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 277,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_T4KIL:0320f",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 0
+ },
+ {
+  "id": "EV_T4KIL:0322c",
+  "jp": "{C0F04}ここの人間を…ヴェストリ地上へ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 279,
+  "line": 1,
+  "speaker": "ナナシ"
+ }
+]

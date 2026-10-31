@@ -1,0 +1,44 @@
+[
+ {
+  "id": "OBJ_G:00205",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 0
+ },
+ {
+  "id": "OBJ_G:00222",
+  "jp": "{C0F04}いくぞ！　バッボ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OBJ_G:0033e",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "OBJ_G:0035b",
+  "jp": "{C0F04}またワシ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "OBJ_G:005f0",
+  "jp": "でっかい岩が道をふさいでいる",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ }
+]

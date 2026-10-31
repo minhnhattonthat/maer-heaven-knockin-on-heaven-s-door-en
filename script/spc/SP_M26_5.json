@@ -1,0 +1,299 @@
+[
+ {
+  "id": "SP_M26_5:00219",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:0023a",
+  "jp": "{C0F04}ふん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "SP_M26_5:0027d",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:0029e",
+  "jp": "{C0F04}こう足場がわるくちゃ",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "SP_M26_5:002c5",
+  "jp": "ギンタ、おまえじゃどうしようもないだろ",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "SP_M26_5:0077f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:0079c",
+  "jp": "{C0F04}う、うん……",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:00906",
+  "jp": "ふかい穴があいている",
+  "en": "",
+  "call": "MswStr",
+  "box": 66,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:00b7c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:00b9b",
+  "jp": "{C0F04}よっと…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M26_5:00be2",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:00c01",
+  "jp": "{C0F04}ほら！ギンタン！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M26_5:00c26",
+  "jp": "こっちこっち！",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M26_5:00d29",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:00d46",
+  "jp": "{C0F04}ドロシー…………",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:0105e",
+  "jp": "見えないまほうのかべで",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:01080",
+  "jp": "さえぎられている",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1
+ },
+ {
+  "id": "SP_M26_5:012e6",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:01303",
+  "jp": "{C0F04}ここはわたしのでばんだよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 130,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "SP_M26_5:01555",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:01572",
+  "jp": "{C0F04}ありがとう…みんな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:015c3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:015e0",
+  "jp": "{C0F04}オレみたいなヤツに",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:01605",
+  "jp": "こんなにしてもらって…",
+  "en": "",
+  "call": "MswStr",
+  "box": 148,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:016ad",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:016cc",
+  "jp": "{C0F04}おちこむことないっスよ、ギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M26_5:01729",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:01748",
+  "jp": "{C0F04}オイラだって、ギンタがいなければ",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M26_5:0177b",
+  "jp": "ヨワムシのままだったっスよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M26_5:017c1",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:017de",
+  "jp": "{C0F04}ジャック…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 156,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_5:018bf",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:018de",
+  "jp": "{C0F04}…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "SP_M26_5:01ad8",
+  "jp": "氷が道をふさいでいる",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_5:01f6f",
+  "jp": "{C0D04}６５７０Ｐ{C0F04}が入っていた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 0
+ }
+]

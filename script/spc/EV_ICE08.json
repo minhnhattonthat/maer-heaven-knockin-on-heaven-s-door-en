@@ -1,0 +1,45 @@
+[
+ {
+  "id": "EV_ICE08:0024b",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE08:00268",
+  "jp": "{C0F04}この階だな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE08:0039a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE08:003b9",
+  "jp": "{C0F04}もう追っ手が来てるかもしれないっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE08:003f0",
+  "jp": "き、気をつけて行くっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2,
+  "speaker": "ジャック"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "OBJ_J:00221",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 0
+ },
+ {
+  "id": "OBJ_J:00240",
+  "jp": "{C0F04}この下に何かありそうっスね",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "OBJ_J:0026d",
+  "jp": "穴をほってみるっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "OBJ_J:00628",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "OBJ_J:00647",
+  "jp": "{C0F04}やっぱり、くうどうになってるっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "OBJ_J:0067a",
+  "jp": "入ってみるっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "OBJ_J:00863",
+  "jp": "穴が土でうまっている",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ }
+]

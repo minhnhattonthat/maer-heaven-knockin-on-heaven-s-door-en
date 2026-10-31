@@ -1,0 +1,79 @@
+[
+ {
+  "id": "SHOPPA02:001af",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA02:001d8",
+  "jp": "{C0F04}いらっしゃいまっせ～～",
+  "en": "",
+  "call": "MswStr",
+  "box": 8,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPA02:0022b",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA02:00254",
+  "jp": "{C0F04}ようこそ、わがマジックストーン店へ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPA02:0028d",
+  "jp": "ごゆるりとおえらびくっださいね～",
+  "en": "",
+  "call": "MswStr",
+  "box": 10,
+  "line": 2,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPA02:002ff",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA02:00328",
+  "jp": "{C0F04}ごゆるりとおえらびくっださいね～",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ },
+ {
+  "id": "SHOPPA02:0048b",
+  "jp": "{C0D04}［マジックストーン屋］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "SHOPPA02:004b4",
+  "jp": "{C0F04}何を売るつもりかっしら～？",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "マジックストーン屋"
+ }
+]

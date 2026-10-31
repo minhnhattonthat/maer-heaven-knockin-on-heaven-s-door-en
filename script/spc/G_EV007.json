@@ -1,0 +1,335 @@
+[
+ {
+  "id": "G_EV007:0039d",
+  "jp": "{C0D04}［手下］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:003b8",
+  "jp": "{C0F04}ボス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "手下"
+ },
+ {
+  "id": "G_EV007:0050b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00528",
+  "jp": "{C0F04}なんや！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:0056f",
+  "jp": "{C0D04}［手下］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:0058a",
+  "jp": "{C0F04}うごきのあるチェスをはっけん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "手下"
+ },
+ {
+  "id": "G_EV007:006e7",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00704",
+  "jp": "{C0F04}！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:00747",
+  "jp": "{C0D04}［手下］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00762",
+  "jp": "{C0F04}ヒルドたいりくの北西！",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "手下"
+ },
+ {
+  "id": "G_EV007:0078b",
+  "jp": "まだあばれているらしい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 2,
+  "speaker": "手下"
+ },
+ {
+  "id": "G_EV007:0080b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00828",
+  "jp": "{C0F04}…ちていこのヴェストリか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:008bd",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:008da",
+  "jp": "{C0F04}それなら、ワイの持っている",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:00907",
+  "jp": "ディメンションÄＲＭで行ける！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 43,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:00951",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:0096e",
+  "jp": "{C0F04}…どうや、メル？",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:009bb",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:009d8",
+  "jp": "{C0F04}自分をつれてってみんか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:00a03",
+  "jp": "いっしゅんでヤツらのところに行けるで！",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:00b3c",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00b5b",
+  "jp": "{C0F04}と、とうぞくを、なかまにぃ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV007:00cd5",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00cf4",
+  "jp": "{C0F04}わたしいいよぉ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV007:00e62",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:00e7f",
+  "jp": "{C0F04}かってに決めるなブス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV007:01027",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:01044",
+  "jp": "{C0F04}ヴェストリまで飛ばせてくれ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 79,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV007:010dd",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:010fa",
+  "jp": "{C0F04}ナナシ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV007:01260",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:0127d",
+  "jp": "{C0F04}よっしゃ行くで！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:01376",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:01393",
+  "jp": "{C0F04}ディメンションÄＲＭはつどう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:0142e",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:0144b",
+  "jp": "{C0F04}このメンバーを…",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV007:01498",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "G_EV007:014b5",
+  "jp": "{C0F04}ヴェストリへ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ナナシ"
+ }
+]

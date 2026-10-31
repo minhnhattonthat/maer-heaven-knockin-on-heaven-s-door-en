@@ -1,0 +1,45 @@
+[
+ {
+  "id": "G_EV041:00ec5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "G_EV041:00ee4",
+  "jp": "{C0F04}だ、だいじょうぶっスか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV041:01049",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "G_EV041:01068",
+  "jp": "{C0F04}だいじょぶよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV041:01087",
+  "jp": "とほほ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

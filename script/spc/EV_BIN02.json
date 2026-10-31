@@ -1,0 +1,71 @@
+[
+ {
+  "id": "EV_BIN02:006c5",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN02:006e2",
+  "jp": "{C0F04}…じゃあÄＲＭってたくさんしゅるいが",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN02:00719",
+  "jp": "あるんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_BIN02:00834",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN02:00853",
+  "jp": "{C0F04}そうよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN02:00896",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "EV_BIN02:008b5",
+  "jp": "{C0F04}武器となるウェポンÄＲＭ",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_BIN02:008e0",
+  "jp": "守護者を呼ぶガーディアンÄＲＭ…とかね",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

@@ -1,0 +1,406 @@
+[
+ {
+  "id": "EV_ICE10:005d7",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:005f4",
+  "jp": "{C0F04}いてててて…",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:00613",
+  "jp": "…うひゃははははは！",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:00651",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0066e",
+  "jp": "{C0F04}やるじゃん、ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:00697",
+  "jp": "右うで、おれちゃった！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:007c2",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:007df",
+  "jp": "{C0F04}おまえ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:007fa",
+  "jp": "スゲーな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:00983",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:009a2",
+  "jp": "{C0F04}す…すげーたたかいっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE10:00d64",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:00d83",
+  "jp": "{C0F04}…エド！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE10:00da0",
+  "jp": "な、なんかようすがヘンだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_ICE10:0124f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0126c",
+  "jp": "{C0F04}エ…エド？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:0139e",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:013bb",
+  "jp": "{C0F04}ち…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:013d4",
+  "jp": "出たね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 113,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:01582",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0159d",
+  "jp": "{C0F04}…おはよう、ってやつだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:01d0c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:01d27",
+  "jp": "{C0F04}ねばったじゃねぇか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:01d4e",
+  "jp": "ほめてやるぜ",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:01e6d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:01e8a",
+  "jp": "{C0F04}おっさん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:01ea7",
+  "jp": "エド、どこにかくした？",
+  "en": "",
+  "call": "MswStr",
+  "box": 168,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:01ee7",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:01f02",
+  "jp": "{C0F04}オレだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:01f83",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:01fa0",
+  "jp": "{C0F04}エドは犬じゃ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:02101",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0211c",
+  "jp": "{C0F04}オレだっつーの",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:02167",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:02184",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_ICE10:0233f",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 192,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0235c",
+  "jp": "{C0F04}おーい、犬のおじさん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 192,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:023ed",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:02408",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:02485",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:024a2",
+  "jp": "{C0F04}あんた、さいきん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:024c7",
+  "jp": "うちのメンバーのひょうばん悪いよぉ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 2,
+  "speaker": "イアン"
+ },
+ {
+  "id": "EV_ICE10:02553",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:0256e",
+  "jp": "{C0F04}けっ、ふいてんじゃねーよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:02599",
+  "jp": "こんなガキにうでおられたヤツがよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_ICE10:02623",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE10:02640",
+  "jp": "{C0F04}…っ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 204,
+  "line": 1,
+  "speaker": "イアン"
+ }
+]

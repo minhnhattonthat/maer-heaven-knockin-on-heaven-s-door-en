@@ -1,0 +1,277 @@
+[
+ {
+  "id": "EV_GO07:0046f",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:0048a",
+  "jp": "{C0F04}キミ、なんて名前？",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:005c2",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:005df",
+  "jp": "{C0F04}ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:005fc",
+  "jp": "虎水ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00634",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:0064f",
+  "jp": "{C0F04}かわった名前だね",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:0069c",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:006b9",
+  "jp": "{C0F04}そうか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:006fe",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:0071b",
+  "jp": "{C0F04}ちがうせかいからきた",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00742",
+  "jp": "人間だからかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:0077c",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00797",
+  "jp": "{C0F04}ちがう…せかい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:007e4",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00801",
+  "jp": "{C0F04}門ばんピエロっていうÄＲＭに",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00830",
+  "jp": "よばれてきたんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:009c1",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:009de",
+  "jp": "{C0F04}こいつはオレのÄＲＭバッボ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00a0f",
+  "jp": "いっしょにチェスをたおすんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00a95",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00ab0",
+  "jp": "{C0F04}…ふーーーーん",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:00b6f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00b8c",
+  "jp": "{C0F04}ふーんってなんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00bb1",
+  "jp": "ふーん！って",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO07:00c5b",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00c76",
+  "jp": "{C0F04}いたたた、ごめんよ…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:00d07",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00d22",
+  "jp": "{C0F04}…でも",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:00d3b",
+  "jp": "ワクワクしてきた…",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "トム"
+ },
+ {
+  "id": "EV_GO07:00d77",
+  "jp": "{C0D04}［トム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 0
+ },
+ {
+  "id": "EV_GO07:00d92",
+  "jp": "{C0F04}きたい、してるよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 1,
+  "speaker": "トム"
+ }
+]

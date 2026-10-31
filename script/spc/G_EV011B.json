@@ -1,0 +1,139 @@
+[
+ {
+  "id": "G_EV011B:01027",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:01042",
+  "jp": "{C0F04}強ェコだよな、まったく…",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:01097",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:010b2",
+  "jp": "{C0F04}今まで、ハコに入れられて大事にされて",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:010e9",
+  "jp": "くらしてきた『ひめさま』だってのに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:01137",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:01152",
+  "jp": "{C0F04}ははおやが死んで、代わりのははおやには",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:0118b",
+  "jp": "命をねらわれている始末だ",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:011cd",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:011e8",
+  "jp": "{C0F04}それなのに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:01252",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:0126d",
+  "jp": "{C0F04}へこたれずにわらってやがる…",
+  "en": "",
+  "call": "MswStr",
+  "box": 108,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:012c6",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:012e1",
+  "jp": "{C0F04}いつかまた、いいことあるよねって",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV011B:0133e",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "G_EV011B:01359",
+  "jp": "{C0F04}わらってやがるんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "エド"
+ }
+]

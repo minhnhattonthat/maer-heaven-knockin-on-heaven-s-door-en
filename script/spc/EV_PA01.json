@@ -1,0 +1,269 @@
+[
+ {
+  "id": "EV_PA01:00443",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00462",
+  "jp": "{C0F04}ここが『パヅタウン』っス",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:004b7",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:004d6",
+  "jp": "{C0F04}この近くじゃ、いちばん",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:004ff",
+  "jp": "おおきな街っス",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00537",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00556",
+  "jp": "{C0F04}オイラ、田舎ものなのでよくは",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00585",
+  "jp": "知らないスけど",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:005bd",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:005dc",
+  "jp": "{C0F04}ÄＲＭには{C0904}『ディメンション』{C0F04}という",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:0061f",
+  "jp": "しゅるいがあるっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00744",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00761",
+  "jp": "{C0F04}ディメンション…",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_PA01:007ae",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:007cd",
+  "jp": "{C0F04}ちがう所にワープできたりするらしいっス",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00830",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:0084f",
+  "jp": "{C0F04}ギンタは、たぶんそのディメンションの",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00886",
+  "jp": "強力なヤツでこのせかいにワープしたんスよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:008d8",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:008f7",
+  "jp": "{C0F04}このパヅタウンでは",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:0091c",
+  "jp": "いちばがあって、たいていのものがあるし…",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:0096e",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:0098d",
+  "jp": "{C0F04}ÄＲＭを売ってるヤツもいるっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:009ea",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00a09",
+  "jp": "{C0F04}ギンタがいたせかいへかえれる",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00a38",
+  "jp": "ÄＲＭのじょうほうもあるかも…",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00abe",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00add",
+  "jp": "{C0F04}さ、いろいろ話をきいて",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00b06",
+  "jp": "みるっスよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_PA01:00b3e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "EV_PA01:00b5b",
+  "jp": "{C0F04}…うん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

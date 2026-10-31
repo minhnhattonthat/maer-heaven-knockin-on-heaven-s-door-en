@@ -1,0 +1,45 @@
+[
+ {
+  "id": "G_EV012:00874",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "G_EV012:0088f",
+  "jp": "{C0F04}スノウ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV012:008aa",
+  "jp": "行くぞ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV012:00a13",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "G_EV012:00a30",
+  "jp": "{C0F04}あ、はーーい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "スノウ"
+ }
+]

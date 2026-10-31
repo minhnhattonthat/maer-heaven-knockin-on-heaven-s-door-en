@@ -1,0 +1,79 @@
+[
+ {
+  "id": "EV_AL04:0022a",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 0
+ },
+ {
+  "id": "EV_AL04:00249",
+  "jp": "{C0F04}つよくなるには…",
+  "en": "",
+  "call": "MswStr",
+  "box": 13,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL04:0037f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "EV_AL04:0039c",
+  "jp": "{C0F04}魔物とたたかうのが",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL04:003c1",
+  "jp": "いちばんだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL04:003f9",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "EV_AL04:00416",
+  "jp": "{C0F04}ガンガンいくぜ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL04:00463",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "EV_AL04:00482",
+  "jp": "{C0F04}いくっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "ジャック"
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "SP_M01:0055d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "SP_M01:0057a",
+  "jp": "{C0F04}いよいしょおーーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M01:009bb",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 0
+ },
+ {
+  "id": "SP_M01:009da",
+  "jp": "{C0F04}（すご…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M01:009f7",
+  "jp": "　バカぢからねぇーー）",
+  "en": "",
+  "call": "MswStr",
+  "box": 61,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M01:00b20",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 0
+ },
+ {
+  "id": "SP_M01:00b3d",
+  "jp": "{C0F04}やっぱり…",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M01:00b5a",
+  "jp": "オレはこのせかいにきてかわった！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 68,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M01:00f09",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "SP_M01:00f26",
+  "jp": "{C0F04}中に入れそうもないな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

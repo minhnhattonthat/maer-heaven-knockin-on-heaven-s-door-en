@@ -1,0 +1,200 @@
+[
+ {
+  "id": "EV_GO12:00a39",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:00a56",
+  "jp": "{C0F04}ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "EV_GO12:00b86",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:00ba3",
+  "jp": "{C0F04}おう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 65,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO12:00d3b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:00d5a",
+  "jp": "{C0F04}ギンターーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_GO12:00f5b",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:00f76",
+  "jp": "{C0F04}おかえりなさいませ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_GO12:00f9d",
+  "jp": "ごぶじでなによりです！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_GO12:01015",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:01032",
+  "jp": "{C0F04}し…しんじられん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_GO12:01081",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:0109e",
+  "jp": "{C0F04}こんな子供が",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_GO12:010bd",
+  "jp": "チェスをたおしたなんて！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "EV_GO12:011e8",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:01205",
+  "jp": "{C0F04}なーに",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO12:0121e",
+  "jp": "かるいもんやで♥",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO12:01341",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:0135c",
+  "jp": "{C0F04}ギンタどのも、村の方も",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_GO12:01385",
+  "jp": "なんにせよおつかれでしょう…",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_GO12:013cb",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 0
+ },
+ {
+  "id": "EV_GO12:013e6",
+  "jp": "{C0F04}ここはひとつ…パーっと",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_GO12:0140f",
+  "jp": "祝いのうたげといきましょうぞ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 106,
+  "line": 2,
+  "speaker": "エド"
+ }
+]

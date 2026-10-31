@@ -1,0 +1,27 @@
+[
+ {
+  "id": "OBJ_S:00221",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 0
+ },
+ {
+  "id": "OBJ_S:0023e",
+  "jp": "{C0F04}氷をとかすね",
+  "en": "",
+  "call": "MswStr",
+  "box": 15,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "OBJ_S:004b9",
+  "jp": "氷が道をふさいでいる",
+  "en": "",
+  "call": "MswStr",
+  "box": 35,
+  "line": 0
+ }
+]

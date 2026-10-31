@@ -1,0 +1,79 @@
+[
+ {
+  "id": "EV_ICE04:0038c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE04:003ab",
+  "jp": "{C0F04}さて…と",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:003f0",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE04:0040f",
+  "jp": "{C0F04}ここにかんじられる魔力（まりょく）は…",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:00472",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE04:00491",
+  "jp": "{C0F04}いちばん上のフロアに",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:004b8",
+  "jp": "つよそうな二人…",
+  "en": "",
+  "call": "MswStr",
+  "box": 24,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_ICE04:004f2",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 0
+ },
+ {
+  "id": "EV_ICE04:00511",
+  "jp": "{C0F04}このフロアにたっぷり…と",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 1,
+  "speaker": "ドロシー"
+ }
+]

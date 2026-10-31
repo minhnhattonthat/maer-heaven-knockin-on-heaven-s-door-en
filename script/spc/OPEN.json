@@ -1,0 +1,1241 @@
+[
+ {
+  "id": "OPEN:00400",
+  "jp": "　　これは…　　　　　　かけだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 1
+ },
+ {
+  "id": "OPEN:00731",
+  "jp": "　　　　ÄＲＭよ　　　　いざなえ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1
+ },
+ {
+  "id": "OPEN:0087b",
+  "jp": "　　　　　そして　　　　　応えよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 1
+ },
+ {
+  "id": "OPEN:008e1",
+  "jp": "　　　　　　異界の住人！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1
+ },
+ {
+  "id": "OPEN:00d83",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "OPEN:00da7",
+  "jp": "…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:00db9",
+  "jp": "出たな！魔物（まもの）め！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:00dfd",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "OPEN:00e21",
+  "jp": "よーし、今こそこの",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:00e3f",
+  "jp": "伝説の聖剣を試すとき！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:00e81",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "OPEN:00ea5",
+  "jp": "おりゃぁああ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:00ec1",
+  "jp": "聖剣『ホーリーサンダーフォース』！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01593",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 0
+ },
+ {
+  "id": "OPEN:015b7",
+  "jp": "聖剣『ホーリーサンダーフォース』！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:016c0",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "OPEN:016e4",
+  "jp": "……",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:016f4",
+  "jp": "はれ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01756",
+  "jp": "{C0D04}［先生］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01778",
+  "jp": "……ギンタァ",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "先生"
+ },
+ {
+  "id": "OPEN:01790",
+  "jp": "まぁたてめぇか！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 2,
+  "speaker": "先生"
+ },
+ {
+  "id": "OPEN:017ce",
+  "jp": "{C0D04}［先生］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "OPEN:017f0",
+  "jp": "グラウンド１００周してこいや！",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "先生"
+ },
+ {
+  "id": "OPEN:0181a",
+  "jp": "このアホンダラ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "先生"
+ },
+ {
+  "id": "OPEN:01856",
+  "jp": "{C0D04}［クラスメート］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01880",
+  "jp": "わはははははははははは",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 1,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:018a2",
+  "jp": "はははははははははは！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 2,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:0194e",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01972",
+  "jp": "……",
+  "en": "",
+  "call": "MswStr",
+  "box": 151,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01a70",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01a94",
+  "jp": "ふぅ～～～～～",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01ad8",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01afa",
+  "jp": "１００周走れた？",
+  "en": "",
+  "call": "MswStr",
+  "box": 159,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01b40",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01b64",
+  "jp": "８周でたおれた",
+  "en": "",
+  "call": "MswStr",
+  "box": 161,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01ba8",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01bca",
+  "jp": "あははは",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01bde",
+  "jp": "あいかわらず体力ないなぁ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01c22",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01c44",
+  "jp": "それで…今日は",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01c5e",
+  "jp": "どんなユメ見てたの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01c9c",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01cc0",
+  "jp": "いつもと一緒さ",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01cda",
+  "jp": "おとぎの国！メルヘンの国！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 167,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01d20",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01d44",
+  "jp": "平和なせかいにまおうが現れて",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01d6c",
+  "jp": "ひめをさらう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 169,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01da6",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01dca",
+  "jp": "オレはまおうとたたかう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01dee",
+  "jp": "ひめを助ける！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01e2a",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01e4c",
+  "jp": "それで？",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01e60",
+  "jp": "そのおひめさまは…わたしよりかわいいの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01eb2",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01ed6",
+  "jp": "どうかな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01eec",
+  "jp": "１００倍くらいはかわいいかもな",
+  "en": "",
+  "call": "MswStr",
+  "box": 175,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:01f34",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01f56",
+  "jp": "あぁ～～～！",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01f6e",
+  "jp": "ひっどーーーい",
+  "en": "",
+  "call": "MswStr",
+  "box": 177,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01fa6",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 0
+ },
+ {
+  "id": "OPEN:01fc8",
+  "jp": "…",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:01fd6",
+  "jp": "でもさぁ",
+  "en": "",
+  "call": "MswStr",
+  "box": 179,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02008",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 0
+ },
+ {
+  "id": "OPEN:0202a",
+  "jp": "同じユメを",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02040",
+  "jp": "１０２回も見てるんでしょ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02084",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 0
+ },
+ {
+  "id": "OPEN:020a8",
+  "jp": "そう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 183,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:020e6",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 0
+ },
+ {
+  "id": "OPEN:0210a",
+  "jp": "おかしの家、しゃべる木",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0212c",
+  "jp": "３本のクビがある鳥だっている",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02172",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02196",
+  "jp": "妖精だってたくさんいる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 187,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:021e4",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02208",
+  "jp": "そんなユメを",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02220",
+  "jp": "１０２回も見てるんだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0225e",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02282",
+  "jp": "そんなユメみたいなせかいがあったら",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:022b0",
+  "jp": "いちどでいいから行ってみたいよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:022fa",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "OPEN:0231c",
+  "jp": "…",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02354",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02376",
+  "jp": "そだね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:0238a",
+  "jp": "きっと行けるよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:023c6",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 0
+ },
+ {
+  "id": "OPEN:023ea",
+  "jp": "ホントにそう思うか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0240a",
+  "jp": "小雪だけだぞ、この話して笑わないの",
+  "en": "",
+  "call": "MswStr",
+  "box": 197,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02456",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02478",
+  "jp": "だって、今日見たユメで",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:0249a",
+  "jp": "１０３回目でしょう？",
+  "en": "",
+  "call": "MswStr",
+  "box": 199,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:024d8",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 0
+ },
+ {
+  "id": "OPEN:024fa",
+  "jp": "うん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:0250c",
+  "jp": "行けるよ、きっと！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 201,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:0268f",
+  "jp": "　　　つ　な　が　っ　た　！",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 1
+ },
+ {
+  "id": "OPEN:02885",
+  "jp": "{C0D04}［門ばんピエロ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 0
+ },
+ {
+  "id": "OPEN:028af",
+  "jp": "トンネル…",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 1,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:028c5",
+  "jp": "カイツウでーーーース♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 222,
+  "line": 2,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:02986",
+  "jp": "{C0D04}［クラスメート］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 0
+ },
+ {
+  "id": "OPEN:029b0",
+  "jp": "うわ！なんだこれ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 1,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:029d0",
+  "jp": "なにがおきてるんだ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 2,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:02a12",
+  "jp": "{C0D04}［クラスメート］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02a3c",
+  "jp": "なんだありゃーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 1,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:02a5c",
+  "jp": "化けものだぁ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 2,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:02b8e",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02bb2",
+  "jp": "見ろよ小雪！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 236,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02bf6",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02c1a",
+  "jp": "ユメじゃなかったぞ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 238,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02c68",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 240,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02c8c",
+  "jp": "ユメじゃ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 240,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02ca2",
+  "jp": "ない……！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 240,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:02cda",
+  "jp": "{C0D04}［門ばんピエロ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02d04",
+  "jp": "見えテル",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 1,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:02d18",
+  "jp": "みたいですネ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 242,
+  "line": 2,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:02d52",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02d74",
+  "jp": "わたし…何も見えない…",
+  "en": "",
+  "call": "MswStr",
+  "box": 244,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02dc0",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 246,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02de2",
+  "jp": "見えるの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 246,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02df8",
+  "jp": "ギンタにはそのせかいが見えるの？",
+  "en": "",
+  "call": "MswStr",
+  "box": 246,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02e42",
+  "jp": "{C0D04}［門ばんピエロ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02e6c",
+  "jp": "見えている人ダケ",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 1,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:02e88",
+  "jp": "お入りくだサイ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 2,
+  "speaker": "門ばんピエロ"
+ },
+ {
+  "id": "OPEN:02ec4",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02ee6",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 250,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:02fcd",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 0
+ },
+ {
+  "id": "OPEN:02ff1",
+  "jp": "オレ…いくよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 256,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:03037",
+  "jp": "{C0D04}［クラスメート］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 0
+ },
+ {
+  "id": "OPEN:03061",
+  "jp": "バカ何いってるんだギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 1,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:03089",
+  "jp": "早くもどってこい！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 258,
+  "line": 2,
+  "speaker": "クラスメート"
+ },
+ {
+  "id": "OPEN:030c7",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 0
+ },
+ {
+  "id": "OPEN:030e9",
+  "jp": "………",
+  "en": "",
+  "call": "MswStr",
+  "box": 260,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:03125",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 0
+ },
+ {
+  "id": "OPEN:03147",
+  "jp": "あ～～あ、ずるいなぁ",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:03167",
+  "jp": "ギンタだけ…かぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 262,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:031a3",
+  "jp": "{C0D04}［小雪］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 264,
+  "line": 0
+ },
+ {
+  "id": "OPEN:031c5",
+  "jp": "じゃあ約束！",
+  "en": "",
+  "call": "MswStr",
+  "box": 264,
+  "line": 1,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:031dd",
+  "jp": "後でたくさんきかせてね！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 264,
+  "line": 2,
+  "speaker": "小雪"
+ },
+ {
+  "id": "OPEN:03221",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 0
+ },
+ {
+  "id": "OPEN:03245",
+  "jp": "…おう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:03285",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 0
+ },
+ {
+  "id": "OPEN:032a9",
+  "jp": "（ずっとあこがれてた",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:032c9",
+  "jp": "　外国よりも外のせかい！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 268,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0330f",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 0
+ },
+ {
+  "id": "OPEN:03333",
+  "jp": "（ワクワクが…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 270,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "OPEN:0339a",
+  "jp": "{C0D04}［ギンタ］{C0F04}",
+  "en": "",
+  "call": "MswStr",
+  "box": 273,
+  "line": 0
+ },
+ {
+  "id": "OPEN:033be",
+  "jp": "（止まらねぇ！！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 273,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

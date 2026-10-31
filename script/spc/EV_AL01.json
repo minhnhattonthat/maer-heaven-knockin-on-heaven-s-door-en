@@ -1,0 +1,355 @@
+[
+ {
+  "id": "EV_AL01:0064d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:0066a",
+  "jp": "{C0F04}…なんだ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:0093c",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:00959",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_AL01:00bd4",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:00bf1",
+  "jp": "{C0F04}生きてるÄＲＭ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 71,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_AL01:00ea1",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:00ebe",
+  "jp": "{C0F04}まちがいなく",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_AL01:00edd",
+  "jp": "高くうれるねぇ",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_AL01:010e7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:01104",
+  "jp": "{C0F04}だれだよ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:01121",
+  "jp": "何か用！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:01691",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:016ae",
+  "jp": "{C0F04}ギンタぁ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL01:016cd",
+  "jp": "ジャックぅーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 135,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_AL01:01c42",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:01c5f",
+  "jp": "{C0F04}いててて…",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:01c7c",
+  "jp": "ジャック！だいじょうぶか！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 171,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:01f89",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:01fa8",
+  "jp": "{C0F04}な、なんとか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL01:020dc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:020f9",
+  "jp": "{C0F04}バッボはへいきだったか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:022ae",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:022cb",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:022e4",
+  "jp": "やべぇ！あいつぬすまれた！",
+  "en": "",
+  "call": "MswStr",
+  "box": 207,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:02366",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:02385",
+  "jp": "{C0F04}バッボがねらいだったのか！",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL01:023dc",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:023fb",
+  "jp": "{C0F04}こんなところに",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL01:0241c",
+  "jp": "とうぞくがでるなんて！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 212,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL01:0245e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:0247b",
+  "jp": "{C0F04}やっぱりアイツ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:0249e",
+  "jp": "とんでもないÄＲＭ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 214,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:027c4",
+  "jp": "{C0D04}［街の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:027e1",
+  "jp": "{C0F04}あんたたち、さっきのとうぞく",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 1,
+  "speaker": "街の人"
+ },
+ {
+  "id": "EV_AL01:02810",
+  "jp": "向こうのほうにいったよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 2,
+  "speaker": "街の人"
+ },
+ {
+  "id": "EV_AL01:0293d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:0295a",
+  "jp": "{C0F04}よし、おいかけよう！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 241,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_AL01:02a96",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 0
+ },
+ {
+  "id": "EV_AL01:02ab5",
+  "jp": "{C0F04}いそぐっス！",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_AL01:02ad4",
+  "jp": "あいつら足がはやいっスよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 2,
+  "speaker": "ジャック"
+ }
+]

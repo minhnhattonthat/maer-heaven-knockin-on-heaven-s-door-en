@@ -1,0 +1,138 @@
+[
+ {
+  "id": "SP_M26_2:00703",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:00720",
+  "jp": "{C0F04}これか…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 41,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_2:008ad",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:008ca",
+  "jp": "{C0F04}では…あけますよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "SP_M26_2:00a5f",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:00a7c",
+  "jp": "{C0F04}（ごくっ！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "SP_M26_2:01119",
+  "jp": "グゥゥゥゥウウウウウウウゥゥゥゥゥ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:01415",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:01432",
+  "jp": "{C0F04}出たな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_2:014b7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:014d4",
+  "jp": "{C0F04}いしアタマたいけつだ、バッボ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M26_2:0163f",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:0165c",
+  "jp": "{C0F04}なら、このワシがまけるわけには",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "SP_M26_2:0168d",
+  "jp": "いかんな！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "SP_M26_2:01701",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "SP_M26_2:0171e",
+  "jp": "{C0F04}いっくぜーーーーーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ギンタ"
+ }
+]

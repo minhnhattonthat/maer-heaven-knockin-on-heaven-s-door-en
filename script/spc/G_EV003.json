@@ -1,0 +1,413 @@
+[
+ {
+  "id": "G_EV003:008ab",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:008ca",
+  "jp": "{C0F04}いたたたた…",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "G_EV003:00d15",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:00d32",
+  "jp": "{C0F04}みんな平気か！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:00edc",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:00ef9",
+  "jp": "{C0F04}な、なんとか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV003:00fd0",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:00fed",
+  "jp": "{C0F04}何だ！？いったい…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:0145d",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:0147a",
+  "jp": "{C0F04}キミら…チェスの兵隊やろ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:01530",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:0154d",
+  "jp": "{C0F04}死刑…や！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:016dc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:016f9",
+  "jp": "{C0F04}な…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:01854",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01871",
+  "jp": "{C0F04}オレたちは{C0904}『メル』{C0F04}だ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:018aa",
+  "jp": "{C0904}チェス{C0F04}はおまえらだろうが！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:0193c",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01959",
+  "jp": "{C0F04}あーーん？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:019e0",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:019fd",
+  "jp": "{C0F04}いきなりケンカ売ってきやがって！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:01a9a",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01ab7",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 147,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:01af8",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01b15",
+  "jp": "{C0F04}オレたちゃチェスたおそうと",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:01b42",
+  "jp": "してるんだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 149,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV003:01bcf",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01bec",
+  "jp": "{C0F04}あれ…自分なんかかんちがいしとった",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:01c21",
+  "jp": "みたいやなぁ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 153,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:01c59",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:01c76",
+  "jp": "{C0F04}そか、きみらもチェスの兵隊はてきか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:01cad",
+  "jp": "ついといで！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:0203c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:02057",
+  "jp": "{C0F04}（ひめさま…！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 178,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV003:02196",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:021b3",
+  "jp": "{C0F04}（うん…ルベリアのとうぞくしゅうだん…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV003:02250",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:0226d",
+  "jp": "{C0F04}（わるい人じゃ…なさそうね！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 189,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV003:02797",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:027b6",
+  "jp": "{C0F04}どうしたのよ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 221,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV003:028ce",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:028eb",
+  "jp": "{C0F04}う、うん…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 228,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV003:02b7a",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 243,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:02b97",
+  "jp": "{C0F04}…おお！",
+  "en": "",
+  "call": "MswStr",
+  "box": 243,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:02bb2",
+  "jp": "よくみりゃカワイコチャン２人！",
+  "en": "",
+  "call": "MswStr",
+  "box": 243,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:02c92",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 0
+ },
+ {
+  "id": "G_EV003:02caf",
+  "jp": "{C0F04}…あ…とと、イカンイカン",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV003:02cda",
+  "jp": "行くで！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 248,
+  "line": 2,
+  "speaker": "ナナシ"
+ }
+]

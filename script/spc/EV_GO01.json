@@ -1,0 +1,457 @@
+[
+ {
+  "id": "EV_GO01:0042f",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:0044c",
+  "jp": "{C0F04}ま、{C0D04}まり{C0F04}ょく！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO01:004a7",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:004c4",
+  "jp": "{C0F04}へ！マヌケなてめぇでも",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO01:004ed",
+  "jp": "気付いたか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 2,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO01:00525",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:00542",
+  "jp": "{C0B04}う{C0F04}、う{C0904}ん{C0F04}！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO01:0059e",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:005bb",
+  "jp": "{C0F04}３人だ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 33,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_GO01:00874",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:00891",
+  "jp": "{C0F04}村のれんちゅうじゃねぇな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 51,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO01:009d1",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:009ee",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO01:00a2d",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:00a4a",
+  "jp": "{C0F04}…{C0B04}なん{C0F04}で{C0904}も{C0F04}いい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO01:00af1",
+  "jp": "{C0D04}［ギロム］",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:00b0e",
+  "jp": "{C0F04}少しは手ごたえのあるヤツと",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 1,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO01:00b3b",
+  "jp": "たたかえそうだぜ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 63,
+  "line": 2,
+  "speaker": "ギロム"
+ },
+ {
+  "id": "EV_GO01:010c1",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:010e0",
+  "jp": "{C0F04}…ギンタン…",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:010ff",
+  "jp": "かおがこわ～～い",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:01139",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01158",
+  "jp": "{C0F04}何おこってるの？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:01290",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:012ad",
+  "jp": "{C0F04}あたりまえだろ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO01:012fc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01319",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO01:01358",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01375",
+  "jp": "{C0F04}オレ、あの人たちに",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO01:0139a",
+  "jp": "あきらめてほしくないんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 109,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_GO01:013de",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:013fd",
+  "jp": "{C0F04}（ギンタン…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 111,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:0159d",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:015ba",
+  "jp": "{C0F04}ここにÄＲＭがかくされとる",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:015e7",
+  "jp": "うわさはきいたことある",
+  "en": "",
+  "call": "MswStr",
+  "box": 120,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:01627",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01644",
+  "jp": "{C0F04}それで、チェスに",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:01667",
+  "jp": "ねらわれたんやろな",
+  "en": "",
+  "call": "MswStr",
+  "box": 122,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:016a3",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:016c2",
+  "jp": "{C0F04}なるほどねぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:0174b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01768",
+  "jp": "{C0F04}…それにしても…",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:017b5",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:017d2",
+  "jp": "{C0F04}なんや、うすらさむい気が",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:017fd",
+  "jp": "じゅうまんしてるのぉ～",
+  "en": "",
+  "call": "MswStr",
+  "box": 129,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:018e7",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01904",
+  "jp": "{C0F04}…ぜったい、なんかいるで！",
+  "en": "",
+  "call": "MswStr",
+  "box": 134,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO01:01a71",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01a90",
+  "jp": "{C0F04}ちょちょちょちょっと！",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:01ab9",
+  "jp": "おどかさないでちょうだい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 141,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:01afd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "EV_GO01:01b1c",
+  "jp": "{C0F04}わたし、そういうの",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO01:01b41",
+  "jp": "にがてなんだから！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 2,
+  "speaker": "ドロシー"
+ }
+]

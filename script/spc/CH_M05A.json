@@ -1,0 +1,80 @@
+[
+ {
+  "id": "CH_M05A:001b7",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 0
+ },
+ {
+  "id": "CH_M05A:001d4",
+  "jp": "{C0F04}エドにとっくんの成果を",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "CH_M05A:001fd",
+  "jp": "見せてあげて",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "CH_M05A:0044f",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 0
+ },
+ {
+  "id": "CH_M05A:0046a",
+  "jp": "{C0F04}ギン…タ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "CH_M05A:00487",
+  "jp": "まってたぜ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 28,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "CH_M05A:006fa",
+  "jp": "{C0D04}［イアン］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "CH_M05A:00717",
+  "jp": "{C0F04}かくごはいいかい？",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "イアン"
+ },
+ {
+  "id": "CH_M05A:0073c",
+  "jp": "いくぜ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 2,
+  "speaker": "イアン"
+ }
+]

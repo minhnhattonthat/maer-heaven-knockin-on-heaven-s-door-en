@@ -1,0 +1,188 @@
+[
+ {
+  "id": "D_VS_R:00112",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:0012d",
+  "jp": "{C0F04}ドっ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:0020c",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:00227",
+  "jp": "{C0F04}ドッチをむいてもいいお天気ですな",
+  "en": "",
+  "call": "MswStr",
+  "box": 12,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:00284",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:0029f",
+  "jp": "{C0F04}ことりがおとしていったものですが",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:002d2",
+  "jp": "よろしければお使いください",
+  "en": "",
+  "call": "MswStr",
+  "box": 14,
+  "line": 2,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:0039a",
+  "jp": "{C0D04}ジッパー{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:003be",
+  "jp": "もらった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 20,
+  "line": 1
+ },
+ {
+  "id": "D_VS_R:00551",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:0056c",
+  "jp": "{C0F04}ドっ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 31,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:0064b",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:00666",
+  "jp": "{C0F04}ドウキがするほどいいお天気ですな",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:006c3",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:006de",
+  "jp": "{C0F04}ことりがおとしていったものですが",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:00711",
+  "jp": "よろしければお使いください",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 2,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:007d9",
+  "jp": "{C0D04}レインドッグ{C0F04}を",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:00801",
+  "jp": "もらった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1
+ },
+ {
+  "id": "D_VS_R:00953",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:0096e",
+  "jp": "{C0F04}ドっ…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 53,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "D_VS_R:00a4d",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "D_VS_R:00a68",
+  "jp": "{C0F04}ドコまでもいいお天気ですな",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "親岩"
+ }
+]

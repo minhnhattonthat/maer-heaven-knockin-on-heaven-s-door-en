@@ -1,0 +1,527 @@
+[
+ {
+  "id": "EV_EDO01:002eb",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:00308",
+  "jp": "{C0F04}…む！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 16,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_EDO01:00e66",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:00e83",
+  "jp": "{C0F04}犬だーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:00feb",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0100a",
+  "jp": "{C0F04}息はしてるみたいっス…",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:01107",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:01124",
+  "jp": "{C0F04}こいつブサイクじゃのう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_EDO01:0114f",
+  "jp": "わははははは！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_EDO01:011c5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:011e4",
+  "jp": "{C0F04}（バッボもいえたかおじゃ",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:0120f",
+  "jp": "　ないっスけどねぇ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:01565",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:01582",
+  "jp": "{C0F04}…おう！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "EV_EDO01:016b2",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:016cf",
+  "jp": "{C0F04}おわ！　あやしい犬め！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_EDO01:016f8",
+  "jp": "名をなのれ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "EV_EDO01:017da",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:017f5",
+  "jp": "{C0F04}わたしですかな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:01818",
+  "jp": "名はエドワード！",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:01852",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0186d",
+  "jp": "{C0F04}あなたたちこそ",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:0188e",
+  "jp": "こんなところで…ぅはっ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:018d0",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:018eb",
+  "jp": "{C0F04}今ので２回ねたことに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:01914",
+  "jp": "あと１回ねなくては！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:019fe",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:01a1b",
+  "jp": "{C0F04}…？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:01a34",
+  "jp": "ねる？？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:01d48",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:01d63",
+  "jp": "{C0F04}…ぐーーーー！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:01ec0",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:01edf",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 173,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:0202e",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0204b",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 181,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:023c1",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:023dc",
+  "jp": "{C0F04}ぅはっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:023f9",
+  "jp": "ね、ねむれん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:02471",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0248c",
+  "jp": "{C0F04}こうしてるあいだにも…",
+  "en": "",
+  "call": "MswStr",
+  "box": 206,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:024df",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:024fa",
+  "jp": "{C0F04}わがひめぎみの命が",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:0251f",
+  "jp": "きけんにさらされているというのに！",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:0273d",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 220,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0275c",
+  "jp": "{C0F04}ひめ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 220,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_EDO01:027df",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:027fa",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:0280f",
+  "jp": "…むむ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 223,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:02843",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:0285e",
+  "jp": "{C0F04}あなた方はÄＲＭつかいでは！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 225,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:028b9",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:028d4",
+  "jp": "{C0F04}ならば、このメルヘヴンを",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:028ff",
+  "jp": "すくうと思って",
+  "en": "",
+  "call": "MswStr",
+  "box": 227,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:02937",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:02952",
+  "jp": "{C0F04}このエドワード…",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:02975",
+  "jp": "エドにごどうこうねがえませぬか！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 229,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "EV_EDO01:029ff",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:02a1c",
+  "jp": "{C0F04}なんだかわからないけど…",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:02a47",
+  "jp": "とにかくいってみるよ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 232,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_EDO01:02a87",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 0
+ },
+ {
+  "id": "EV_EDO01:02aa2",
+  "jp": "{C0F04}かたじけない！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 234,
+  "line": 1,
+  "speaker": "エド"
+ }
+]

@@ -1,0 +1,173 @@
+[
+ {
+  "id": "G_EV044:00434",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00453",
+  "jp": "{C0F04}ふんだふんだふうんだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV044:00840",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:0085d",
+  "jp": "{C0F04}（おこることないのに…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV044:00926",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00945",
+  "jp": "{C0F04}ふーーーんだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 49,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV044:00cba",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00cd7",
+  "jp": "{C0F04}おーーギンタか",
+  "en": "",
+  "call": "MswStr",
+  "box": 70,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV044:00d60",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00d7d",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV044:00dfa",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00e17",
+  "jp": "{C0F04}アカン、はらイッパイになったら",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV044:00e48",
+  "jp": "ちょっとねむたなってきたで",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV044:00fab",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:00fc8",
+  "jp": "{C0F04}なさけない…",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV044:0104f",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:0106c",
+  "jp": "{C0F04}つくづくなさけない！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV044:010fd",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV044:0111a",
+  "jp": "{C0F04}ねたいときには",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV044:0113b",
+  "jp": "ねるのがいちばんや",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 2,
+  "speaker": "ナナシ"
+ }
+]

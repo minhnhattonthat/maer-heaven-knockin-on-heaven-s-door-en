@@ -1,0 +1,45 @@
+[
+ {
+  "id": "CH_M00A:00294",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 0
+ },
+ {
+  "id": "CH_M00A:002af",
+  "jp": "{C0F04}何かごようがおありですかな",
+  "en": "",
+  "call": "MswStr",
+  "box": 17,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "CH_M00A:0059a",
+  "jp": "{C0D04}［親岩］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "CH_M00A:005b5",
+  "jp": "{C0F04}この先、北のほうに小川があるので",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "親岩"
+ },
+ {
+  "id": "CH_M00A:005e8",
+  "jp": "水をくんできてくれませんか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 2,
+  "speaker": "親岩"
+ }
+]

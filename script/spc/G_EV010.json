@@ -1,0 +1,45 @@
+[
+ {
+  "id": "G_EV010:005bf",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "G_EV010:005da",
+  "jp": "{C0F04}とりあえず、はらごしらえだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV010:00631",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "G_EV010:0064c",
+  "jp": "{C0F04}街の北にめし屋がある",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV010:00673",
+  "jp": "そこへ行こう",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 2,
+  "speaker": "エド"
+ }
+]

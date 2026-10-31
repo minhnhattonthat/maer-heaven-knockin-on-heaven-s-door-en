@@ -1,0 +1,269 @@
+[
+ {
+  "id": "G_EV043:0030c",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:0032b",
+  "jp": "{C0F04}ギンタン、あんまり",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV043:00350",
+  "jp": "ふらふらしちゃダメよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 18,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV043:003f3",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00412",
+  "jp": "{C0F04}ちていこでチェスとたたかったときの",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV043:00447",
+  "jp": "つかれ、ギンタンまだとれてないでしょ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 22,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV043:00580",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:0059d",
+  "jp": "{C0F04}う…うん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 29,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV043:0090c",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00929",
+  "jp": "{C0F04}村の人は、みんな",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV043:0094c",
+  "jp": "おやすみのじゅんび、はじめたよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV043:00a7d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00a98",
+  "jp": "{C0F04}もうすぐ日もおちますゆえ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV043:00b2d",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00b48",
+  "jp": "{C0F04}われわれも宿をさがさないと",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV043:00b75",
+  "jp": "いけませんな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV043:00ed5",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00ef2",
+  "jp": "{C0F04}おーーギンタか",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV043:00f7b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:00f98",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 84,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV043:01015",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:01032",
+  "jp": "{C0F04}アカン、くいすぎたわ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV043:0105b",
+  "jp": "く、くるしー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV043:011b2",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:011cf",
+  "jp": "{C0F04}…バカものめ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 95,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV043:01258",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:01275",
+  "jp": "{C0F04}おまえもすこしは",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV043:01298",
+  "jp": "紳士（しんし）らしくなれ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "G_EV043:0131a",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "G_EV043:01337",
+  "jp": "{C0F04}いちばん紳士じゃない",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV043:0135e",
+  "jp": "おまえさんに、いわれとーないわ",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "ナナシ"
+ }
+]

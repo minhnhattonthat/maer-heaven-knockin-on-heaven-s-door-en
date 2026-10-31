@@ -1,0 +1,906 @@
+[
+ {
+  "id": "HI_M24_2:00364",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00381",
+  "jp": "{C0F04}……！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:003c8",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:003e5",
+  "jp": "{C0F04}だれかいるぞ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 25,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00432",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00451",
+  "jp": "{C0F04}ギンタ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:0046e",
+  "jp": "気をつけるっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 27,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:00542",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0055f",
+  "jp": "{C0F04}（さっき一人でここに",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00586",
+  "jp": "　入っていったやつか？）",
+  "en": "",
+  "call": "MswStr",
+  "box": 32,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00911",
+  "jp": "{C0D04}［？？？］",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0092e",
+  "jp": "{C0F04}キミは…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 55,
+  "line": 1,
+  "speaker": "？？？"
+ },
+ {
+  "id": "HI_M24_2:00a0d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00a2a",
+  "jp": "{C0F04}オレはギンタ…『メル』っていう",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00a5b",
+  "jp": "チェスの兵隊と戦うチームのもんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00aa7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00ac4",
+  "jp": "{C0F04}そこで何してるんだ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00aeb",
+  "jp": "なまえは？",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00b1f",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00b3c",
+  "jp": "{C0F04}ボ…ボクはマール…",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:00cb3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00cd0",
+  "jp": "{C0F04}マール…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00ceb",
+  "jp": "…まさかチェスの兵隊か？",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:00ee5",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:00f02",
+  "jp": "{C0F04}ち、ちちちちちがいますよぅ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 83,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:0102b",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01048",
+  "jp": "{C0F04}ヴェストリのちかくにすんでいて…",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:010a5",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:010c2",
+  "jp": "{C0F04}古い遺跡（いせき）とかを",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:010ed",
+  "jp": "しらべているものです",
+  "en": "",
+  "call": "MswStr",
+  "box": 91,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:011c3",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:011e2",
+  "jp": "{C0F04}遺跡？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:011fd",
+  "jp": "ここ、なんかの遺跡なのか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:01241",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0125e",
+  "jp": "{C0F04}古い…ÄＲＭが封印されているのです",
+  "en": "",
+  "call": "MswStr",
+  "box": 98,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01355",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01372",
+  "jp": "{C0F04}ÄＲＭが？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:013bb",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:013d8",
+  "jp": "{C0F04}先ほど…ちていこで大きい",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01403",
+  "jp": "しょうげきがあって…それで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01449",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01466",
+  "jp": "{C0F04}それで、ここにつうじる",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:0148f",
+  "jp": "とびらの封印がとけたようなのです",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01571",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0158e",
+  "jp": "{C0F04}しょうげき？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:015af",
+  "jp": "あ…そういえば…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 112,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:015eb",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01608",
+  "jp": "{C0F04}（オレ…ガーゴイルで…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 114,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:0168d",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:016aa",
+  "jp": "{C0F04}このÄＲＭはボクのような",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:016d5",
+  "jp": "魔力（まりょく）の少ない人でも",
+  "en": "",
+  "call": "MswStr",
+  "box": 117,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:0171d",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0173a",
+  "jp": "{C0F04}つかいこなすことが",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:0175f",
+  "jp": "できるといわれています",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01837",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01854",
+  "jp": "{C0F04}……",
+  "en": "",
+  "call": "MswStr",
+  "box": 124,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:01895",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:018b2",
+  "jp": "{C0F04}おまえ、そのÄＲＭ手に入れて",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:018e1",
+  "jp": "どうするつもりなんだ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 126,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:019b9",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:019d6",
+  "jp": "{C0F04}もちろん、チェスとたたかいます！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 131,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01acd",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01aea",
+  "jp": "{C0F04}ボクの国も…ヤツらに",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01b11",
+  "jp": "はかいされてしまいました…",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01b55",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01b72",
+  "jp": "{C0F04}あなた方みたいに、ゆうかんに",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01ba1",
+  "jp": "チェスにたちむかう人たちがいる…",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01c83",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01ca0",
+  "jp": "{C0F04}ボクもまけていられません！",
+  "en": "",
+  "call": "MswStr",
+  "box": 143,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:01cf7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01d14",
+  "jp": "{C0F04}…そっか…",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:01df3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01e10",
+  "jp": "{C0F04}じゃあそのÄＲＭさがし",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:01e39",
+  "jp": "オレもてつだってやるよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:01f15",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:01f32",
+  "jp": "{C0F04}ほ、ほんとうですか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:020b5",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:020d4",
+  "jp": "{C0F04}そっスね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 163,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:0211b",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0213a",
+  "jp": "{C0F04}いっしょにたたかってくれる人は",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:0216b",
+  "jp": "多いほうがいいっス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 165,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "HI_M24_2:02243",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:02260",
+  "jp": "{C0F04}うむ！たしかに！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 170,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M24_2:022af",
+  "jp": "{C0D04}［バッボ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:022cc",
+  "jp": "{C0F04}その若さで、その心がけ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M24_2:022f7",
+  "jp": "気に入った！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
+  "speaker": "バッボ"
+ },
+ {
+  "id": "HI_M24_2:02457",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:02474",
+  "jp": "{C0F04}というわけでよろしくな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:0249f",
+  "jp": "オレはギンタ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 180,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:0256f",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:0258c",
+  "jp": "{C0F04}こっちがジャック！",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:02673",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:02690",
+  "jp": "{C0F04}そしてこいつがオレのÄＲＭ",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:026bd",
+  "jp": "バッボ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:02789",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:027a6",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:027bb",
+  "jp": "（バッボ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:02889",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:028a6",
+  "jp": "{C0F04}…マール？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:02987",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:029a4",
+  "jp": "{C0F04}あ！はい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:029c1",
+  "jp": "よろしくおねがいします！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "HI_M24_2:02a9d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 0
+ },
+ {
+  "id": "HI_M24_2:02aba",
+  "jp": "{C0F04}おう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "HI_M24_2:02ad3",
+  "jp": "まかせろ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 210,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

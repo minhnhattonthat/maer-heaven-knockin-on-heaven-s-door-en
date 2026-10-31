@@ -1,0 +1,354 @@
+[
+ {
+  "id": "EV_GO04:007ef",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:0080c",
+  "jp": "{C0F04}ま{C0D04}りょ{C0F04}く！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 48,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:00863",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00880",
+  "jp": "{C0904}つよ{C0F04}い{C0B04}ま{C0F04}りょく！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 50,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:008e4",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 52,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00901",
+  "jp": "{C0F04}おまえら…{C0B04}て{C0D04}き{C0F04}？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 52,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:00a4e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00a6d",
+  "jp": "{C0F04}うっわ…！",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:00a8a",
+  "jp": "気色わる…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:00b6c",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00b89",
+  "jp": "{C0F04}お、{C0B04}お{C0F04}れ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:00bb6",
+  "jp": "{C0904}きも{C0F04}ちわる{C0D04}く{C0F04}ない！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 2,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:00d87",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00da6",
+  "jp": "{C0F04}あ、あぶないわね！",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:00ede",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00efb",
+  "jp": "{C0F04}下がっとってえーーよーー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 80,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:00f52",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:00f6f",
+  "jp": "{C0F04}じぶんにまかしとき！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 82,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:01000",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:0101f",
+  "jp": "{C0F04}あらま、よゆうねぇ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:01070",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:0108f",
+  "jp": "{C0F04}でも、あいつ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:010da",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:010f9",
+  "jp": "{C0F04}からだがすっごく、かたくなるタイプの",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:01130",
+  "jp": "ÄＲＭつけてるわよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_GO04:011aa",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:011c7",
+  "jp": "{C0F04}そんなんわかってる",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:011ec",
+  "jp": "じぶんをだれやと思ってる？",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:01230",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:0124d",
+  "jp": "{C0F04}ルベリアのボス、ナナシや！",
+  "en": "",
+  "call": "MswStr",
+  "box": 94,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:012a4",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:012c1",
+  "jp": "{C0F04}チェスの兵隊",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:012e0",
+  "jp": "ぶちのめしたいきもちやったらな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 96,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:013d4",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:013f1",
+  "jp": "{C0F04}ギンタにだって",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:01412",
+  "jp": "負けてへんのや！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 101,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "EV_GO04:0144e",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:0146b",
+  "jp": "{C0F04}おま{C0B04}えら{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:01496",
+  "jp": "おれ、{C0904}だれ{C0F04}かしら{C0D04}ない{C0F04}のか？",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 2,
+  "speaker": "オルコ"
+ },
+ {
+  "id": "EV_GO04:014f6",
+  "jp": "{C0D04}［オルコ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "EV_GO04:01513",
+  "jp": "{C0F04}チェス{C0B04}の{C0904}こま{C0F04}、{C0D04}オル{C0F04}コだぞ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "オルコ"
+ }
+]

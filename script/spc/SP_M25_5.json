@@ -1,0 +1,414 @@
+[
+ {
+  "id": "SP_M25_5:00bdd",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:00bfc",
+  "jp": "{C0F04}へぇ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:00c15",
+  "jp": "どれどれ？？",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:00c4b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:00c6a",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:00ce7",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:00d06",
+  "jp": "{C0F04}（なんか…イヤなかんじがする",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:00d35",
+  "jp": "　この宝ばこ…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 77,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:00eb5",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:00ed2",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:00f11",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:00f2e",
+  "jp": "{C0F04}ドロシーちゃん、ちょっと",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:00f59",
+  "jp": "ここはたのむわ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 88,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:00ff7",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:01016",
+  "jp": "{C0F04}へ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:01790",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:017ad",
+  "jp": "{C0F04}気になる…",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:017ca",
+  "jp": "あのもんしょう、どこかで見たで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:01814",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:01831",
+  "jp": "{C0F04}…たしか、きみょうな",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:01858",
+  "jp": "古文書のようなヤツや",
+  "en": "",
+  "call": "MswStr",
+  "box": 142,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:01896",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:018b3",
+  "jp": "{C0F04}どっかの古いどうくつで",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:018dc",
+  "jp": "手に入れたんやなかったかな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 144,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:019ed",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:01a0a",
+  "jp": "{C0F04}…たしかルベリアにあったな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 150,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:01a63",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:01a80",
+  "jp": "{C0F04}ディメンションÄＲＭ",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:01aa7",
+  "jp": "『アンダータ』！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 152,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "SP_M25_5:0204f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:0206e",
+  "jp": "{C0F04}なに？あいつ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 190,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:021d8",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:021f5",
+  "jp": "{C0F04}ド、ドロシーさん！",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "SP_M25_5:0221a",
+  "jp": "ボクがあけます！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "SP_M25_5:022ba",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:022d9",
+  "jp": "{C0F04}あ、ああ、はい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 202,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:02364",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:02383",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:02c3d",
+  "jp": "ァァァアアアアアァァァ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 266,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:02f7b",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 287,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:02f9a",
+  "jp": "{C0F04}あ、あしぃ～～～～！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 287,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:030fd",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 295,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:0311a",
+  "jp": "{C0F04}やっぱりそうきたか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 295,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "SP_M25_5:031ab",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 298,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:031ca",
+  "jp": "{C0F04}このドロシーさまをあいてに",
+  "en": "",
+  "call": "MswStr",
+  "box": 298,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:031f7",
+  "jp": "『あし』だけではむかうとは",
+  "en": "",
+  "call": "MswStr",
+  "box": 298,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "SP_M25_5:03351",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 305,
+  "line": 0
+ },
+ {
+  "id": "SP_M25_5:03370",
+  "jp": "{C0F04}いいドキョウだわ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 305,
+  "line": 1,
+  "speaker": "ドロシー"
+ }
+]

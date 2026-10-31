@@ -1,0 +1,53 @@
+[
+ {
+  "id": "G_EV002:00599",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 0
+ },
+ {
+  "id": "G_EV002:005b6",
+  "jp": "{C0F04}来たで…",
+  "en": "",
+  "call": "MswStr",
+  "box": 34,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV002:0065a",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "G_EV002:00677",
+  "jp": "{C0F04}やれっ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV002:006bc",
+  "jp": "{C0D04}［手下］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "G_EV002:006d7",
+  "jp": "{C0F04}はっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "手下"
+ }
+]

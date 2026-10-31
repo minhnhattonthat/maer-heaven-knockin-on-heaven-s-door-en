@@ -1,0 +1,105 @@
+[
+ {
+  "id": "G_EV042:00ede",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 0
+ },
+ {
+  "id": "G_EV042:00efb",
+  "jp": "{C0F04}スノウ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV042:00f16",
+  "jp": "ちょっと力をかしてほしいんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 92,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV042:0107d",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 0
+ },
+ {
+  "id": "G_EV042:0109a",
+  "jp": "{C0F04}おねがいします！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 100,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "G_EV042:011d2",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "G_EV042:011ef",
+  "jp": "{C0F04}…え…とー…",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV042:0138d",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 0
+ },
+ {
+  "id": "G_EV042:013aa",
+  "jp": "{C0F04}こいつはマール！",
+  "en": "",
+  "call": "MswStr",
+  "box": 116,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV042:01435",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 0
+ },
+ {
+  "id": "G_EV042:01452",
+  "jp": "{C0F04}くわしいことは",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV042:01473",
+  "jp": "行きながら話すからさ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 119,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "id": "EV_T2KIL:00771",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:00790",
+  "jp": "{C0F04}どうよ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 46,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:008e7",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:00904",
+  "jp": "{C0F04}やったぁ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T2KIL:009f7",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:00a16",
+  "jp": "{C0F04}どれどれ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:00a33",
+  "jp": "こんなÄＲＭみったこっとな～いゾっと♪",
+  "en": "",
+  "call": "MswStr",
+  "box": 59,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:00e9c",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:00eb9",
+  "jp": "{C0F04}ありがとうございました！",
+  "en": "",
+  "call": "MswStr",
+  "box": 86,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T2KIL:011e3",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:01202",
+  "jp": "{C0F04}え、えええと…",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:0124d",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:0126a",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T2KIL:012e7",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:01304",
+  "jp": "{C0F04}（へへ…ラッキー♥）",
+  "en": "",
+  "call": "MswStr",
+  "box": 110,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T2KIL:013ff",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:0141e",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 115,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:0149f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:014be",
+  "jp": "{C0F04}（こいつ…今…",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:014df",
+  "jp": "　なんだろう、このイヤなかんじの魔力…）",
+  "en": "",
+  "call": "MswStr",
+  "box": 118,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_T2KIL:01677",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:01694",
+  "jp": "{C0F04}これでふたつそろった！",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T2KIL:016bd",
+  "jp": "もうひとつのとびらもあいているよな！",
+  "en": "",
+  "call": "MswStr",
+  "box": 127,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T2KIL:017b5",
+  "jp": "{C0D04}［マール］",
+  "en": "",
+  "call": "MswStr",
+  "box": 132,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:017d2",
+  "jp": "{C0F04}はい！",
+  "en": "",
+  "call": "MswStr",
+  "box": 132,
+  "line": 1,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T2KIL:017eb",
+  "jp": "のこりのパーツはあたまです！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 132,
+  "line": 2,
+  "speaker": "マール"
+ },
+ {
+  "id": "EV_T2KIL:018dd",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:018fa",
+  "jp": "{C0F04}よし！ドロシー！",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T2KIL:0191d",
+  "jp": "いったんもどろう！",
+  "en": "",
+  "call": "MswStr",
+  "box": 137,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "EV_T2KIL:01a9f",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 0
+ },
+ {
+  "id": "EV_T2KIL:01abe",
+  "jp": "{C0F04}え、ええ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 146,
+  "line": 1,
+  "speaker": "ドロシー"
+ }
+]

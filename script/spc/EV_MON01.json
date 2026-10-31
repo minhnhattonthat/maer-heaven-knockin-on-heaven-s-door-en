@@ -1,0 +1,244 @@
+[
+ {
+  "id": "EV_MON01:0046c",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:0048b",
+  "jp": "{C0F04}うぎゃあーーーっ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_MON01:004b2",
+  "jp": "ここはドコーーーっ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 36,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_MON01:0060e",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:0062d",
+  "jp": "{C0F04}こりゃディメンションÄＲＭの中…",
+  "en": "",
+  "call": "MswStr",
+  "box": 45,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_MON01:0068a",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:006a9",
+  "jp": "{C0F04}こんなものを発動させるとは",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_MON01:006d6",
+  "jp": "あのオヤジただものじゃないね",
+  "en": "",
+  "call": "MswStr",
+  "box": 47,
+  "line": 2,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "EV_MON01:008a0",
+  "jp": "{C0D04}［ブモル］",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:008bd",
+  "jp": "{C0F04}今からここでのしれんを説明するから",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:008f2",
+  "jp": "よーくきくんぢゃ",
+  "en": "",
+  "call": "MswStr",
+  "box": 58,
+  "line": 2,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:0092c",
+  "jp": "{C0D04}［ブモル］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:00949",
+  "jp": "{C0F04}ここは、はてしなくつづく",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00974",
+  "jp": "ダンジョンになっておる",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:009b4",
+  "jp": "{C0D04}［ブモル］",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:009d1",
+  "jp": "{C0F04}ただひたすらゴールをめざす",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:009fe",
+  "jp": "やることはそれだけぢゃ",
+  "en": "",
+  "call": "MswStr",
+  "box": 62,
+  "line": 2,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00a3e",
+  "jp": "{C0D04}［ブモル］",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:00a5b",
+  "jp": "{C0F04}わかったならさっさと行け！",
+  "en": "",
+  "call": "MswStr",
+  "box": 64,
+  "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00aea",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:00b09",
+  "jp": "{C0F04}それだけ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_MON01:00b26",
+  "jp": "なんだか、らくしょうっスね",
+  "en": "",
+  "call": "MswStr",
+  "box": 67,
+  "line": 2,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_MON01:00b6a",
+  "jp": "{C0D04}［ブモル］",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:00b87",
+  "jp": "{C0F04}とちゅうでセーブしてやすむことは",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 1,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00bba",
+  "jp": "できんからな",
+  "en": "",
+  "call": "MswStr",
+  "box": 69,
+  "line": 2,
+  "speaker": "ブモル"
+ },
+ {
+  "id": "EV_MON01:00c88",
+  "jp": "{C0D04}［ジャック］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "EV_MON01:00ca7",
+  "jp": "{C0F04}な、なんだか",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "ジャック"
+ },
+ {
+  "id": "EV_MON01:00cc6",
+  "jp": "らくしょうじゃなさそうっスね",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 2,
+  "speaker": "ジャック"
+ }
+]

@@ -1,0 +1,269 @@
+[
+ {
+  "id": "G_EV006:01048",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01065",
+  "jp": "{C0F04}こ、これは…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 97,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:0119b",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:011b8",
+  "jp": "{C0F04}ルベリアの同志たちの…",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:011e1",
+  "jp": "はかや",
+  "en": "",
+  "call": "MswStr",
+  "box": 104,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:0171e",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:0173b",
+  "jp": "{C0F04}ひどい…",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "G_EV006:01869",
+  "jp": "{C0D04}［ドロシー］",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01888",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 145,
+  "line": 1,
+  "speaker": "ドロシー"
+ },
+ {
+  "id": "G_EV006:01a1c",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01a39",
+  "jp": "{C0F04}ここだけやあらへん…",
+  "en": "",
+  "call": "MswStr",
+  "box": 154,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01ac8",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01ae5",
+  "jp": "{C0F04}ここメルヘヴン全土が今",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01b0e",
+  "jp": "はかばになりつつあるんや！",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01c68",
+  "jp": "{C0D04}［ナナシ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01c85",
+  "jp": "{C0F04}チェスの兵隊のヤツらの",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 1,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01cae",
+  "jp": "おかげでな！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 164,
+  "line": 2,
+  "speaker": "ナナシ"
+ },
+ {
+  "id": "G_EV006:01e07",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:01e22",
+  "jp": "{C0F04}これは…チェスの兵隊が",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV006:01e4b",
+  "jp": "本気で攻めてきたあかし！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 172,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV006:02005",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:02022",
+  "jp": "{C0F04}こんなにたくさんの人を",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:0204b",
+  "jp": "ころして…！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 182,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:020c3",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:020e0",
+  "jp": "{C0F04}（みんながチェスの兵隊を",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:0210b",
+  "jp": "　たおそうとしている気持ちが）",
+  "en": "",
+  "call": "MswStr",
+  "box": 185,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:02191",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:021ae",
+  "jp": "{C0F04}（いたいくらいわかった！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 188,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:02245",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 0
+ },
+ {
+  "id": "G_EV006:02262",
+  "jp": "{C0F04}（ぜんめつさせなきゃ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "G_EV006:0228b",
+  "jp": "　いけないんだ！！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 191,
+  "line": 2,
+  "speaker": "ギンタ"
+ }
+]

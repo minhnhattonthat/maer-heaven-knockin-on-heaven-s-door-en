@@ -1,0 +1,484 @@
+[
+ {
+  "id": "CH_M11:000ec",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00109",
+  "jp": "{C0F04}ははは…どうだい？",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:0012e",
+  "jp": "きもちのいいこわされっぷりだろ？",
+  "en": "",
+  "call": "MswStr",
+  "box": 7,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00178",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00195",
+  "jp": "{C0F04}好きにしてくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:001b6",
+  "jp": "家もはたけも、つぶされた",
+  "en": "",
+  "call": "MswStr",
+  "box": 9,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:001f8",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00215",
+  "jp": "{C0F04}ヴェストリはもうおわりだ",
+  "en": "",
+  "call": "MswStr",
+  "box": 11,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:0035a",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00377",
+  "jp": "{C0F04}そんなこというなよ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M11:003a0",
+  "jp": "元気出してくれ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 19,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M11:003dc",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:003f9",
+  "jp": "{C0F04}こわされたって、また",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M11:00420",
+  "jp": "作ればいいじゃんか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 21,
+  "line": 2,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M11:00460",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:0047d",
+  "jp": "{C0F04}ムダさ…作ってもまた",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:004a4",
+  "jp": "こわされるだけさ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 23,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00518",
+  "jp": "{C0D04}［ギンタ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00535",
+  "jp": "{C0F04}…！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 26,
+  "line": 1,
+  "speaker": "ギンタ"
+ },
+ {
+  "id": "CH_M11:006e5",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00702",
+  "jp": "{C0F04}…そこにだれかいるのかい？",
+  "en": "",
+  "call": "MswStr",
+  "box": 38,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00759",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00776",
+  "jp": "{C0F04}チェスの兵隊か…",
+  "en": "",
+  "call": "MswStr",
+  "box": 40,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:007c3",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:007e0",
+  "jp": "{C0F04}ころすつもりなら",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00803",
+  "jp": "一息にたのむよ",
+  "en": "",
+  "call": "MswStr",
+  "box": 42,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:0083b",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00858",
+  "jp": "{C0F04}せめて、それくらいのなさけは",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00887",
+  "jp": "かけてくれる…よな…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 44,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:009ed",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00a0a",
+  "jp": "{C0F04}もう…何もかもおわりよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 54,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00a5f",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00a7c",
+  "jp": "{C0F04}この子にたべさせるものさえ",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00aa9",
+  "jp": "のこっていない…",
+  "en": "",
+  "call": "MswStr",
+  "box": 56,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00cf9",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00d16",
+  "jp": "{C0F04}わたしたち…",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "CH_M11:00d35",
+  "jp": "助けにきました！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 72,
+  "line": 2,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "CH_M11:00d71",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00d8e",
+  "jp": "{C0F04}助け…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 74,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00dd3",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00df0",
+  "jp": "{C0F04}いまさらおそいよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 76,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00e3f",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00e5c",
+  "jp": "{C0F04}われわれは、もう",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00e7f",
+  "jp": "生きる気力すらないのだ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 78,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:00ef9",
+  "jp": "{C0D04}［スノウ］",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00f16",
+  "jp": "{C0F04}そ…そんな…",
+  "en": "",
+  "call": "MswStr",
+  "box": 81,
+  "line": 1,
+  "speaker": "スノウ"
+ },
+ {
+  "id": "CH_M11:00fab",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:00fc8",
+  "jp": "{C0F04}助け…？",
+  "en": "",
+  "call": "MswStr",
+  "box": 85,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:0100d",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:0102a",
+  "jp": "{C0F04}いまさらおそいよ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 87,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:01079",
+  "jp": "{C0D04}［村の人］",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:01096",
+  "jp": "{C0F04}われわれは、もう",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 1,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:010b9",
+  "jp": "生きる気力すらないのだ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 89,
+  "line": 2,
+  "speaker": "村の人"
+ },
+ {
+  "id": "CH_M11:01221",
+  "jp": "{C0D04}［女の子］",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 0
+ },
+ {
+  "id": "CH_M11:0123e",
+  "jp": "{C0F04}あーん　あーん",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 1,
+  "speaker": "女の子"
+ },
+ {
+  "id": "CH_M11:0125f",
+  "jp": "あーん　あーん",
+  "en": "",
+  "call": "MswStr",
+  "box": 99,
+  "line": 2,
+  "speaker": "女の子"
+ }
+]

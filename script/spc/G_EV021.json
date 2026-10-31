@@ -1,0 +1,595 @@
+[
+ {
+  "id": "G_EV021:0062f",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:0064c",
+  "jp": "{C0B04}う…うわ…うわぁあ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 37,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:00967",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:00988",
+  "jp": "{C0F04}…！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:009a1",
+  "jp": "な、なんだ！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 57,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:00a17",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:00a38",
+  "jp": "{C0F04}ディメンションÄＲＭの",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:00a61",
+  "jp": "つうしん…か！？",
+  "en": "",
+  "call": "MswStr",
+  "box": 60,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:00c31",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:00c4e",
+  "jp": "{C0B04}おのれチェス！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:00c71",
+  "jp": "６年前にこわされた街を…",
+  "en": "",
+  "call": "MswStr",
+  "box": 73,
+  "line": 2,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:00cb3",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:00cd0",
+  "jp": "{C0B04}ここまでたてなおした",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:00cf7",
+  "jp": "街を…こわされてたまるか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 75,
+  "line": 2,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:00f4c",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:00f67",
+  "jp": "{C0F04}…",
+  "en": "",
+  "call": "MswStr",
+  "box": 90,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:0113c",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:01159",
+  "jp": "{C0B04}メルヘヴン全土のクロスガード！",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:0118a",
+  "jp": "このつうしんがきこえるか！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 103,
+  "line": 2,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:011d0",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:011ed",
+  "jp": "{C0B04}チェスの兵隊の…",
+  "en": "",
+  "call": "MswStr",
+  "box": 105,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:0123a",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:01257",
+  "jp": "{C0B04}ふっかつ…だ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 107,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:014dc",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:014f7",
+  "jp": "{C0F04}……！",
+  "en": "",
+  "call": "MswStr",
+  "box": 123,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:016d0",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:016ed",
+  "jp": "{C0B04}こっちも…火のうみだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 136,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:01742",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:0175f",
+  "jp": "{C0B04}だめだ！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:0177e",
+  "jp": "…アランはどこだ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 138,
+  "line": 2,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:017bc",
+  "jp": "{C0D04}［－－－］",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:017d9",
+  "jp": "{C0B04}クロスガードＮｏ２だった男！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 140,
+  "line": 1,
+  "speaker": "－－－"
+ },
+ {
+  "id": "G_EV021:01a49",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:01a6a",
+  "jp": "{C0F04}くそ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:01a85",
+  "jp": "アランさん！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 155,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:01abd",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:01ade",
+  "jp": "{C0F04}これは…まちがいない！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 157,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:01b71",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:01b92",
+  "jp": "{C0F04}『ファントムのふっかつ』！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 160,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:01fe1",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02002",
+  "jp": "{C0F04}おそわれている街を",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:02027",
+  "jp": "助けにいきましょう！！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 186,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:02152",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:0216d",
+  "jp": "{C0F04}アルヴィス",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:0218a",
+  "jp": "たのみがある",
+  "en": "",
+  "call": "MswStr",
+  "box": 193,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:021c0",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:021db",
+  "jp": "{C0F04}人々を助けにいってくれ",
+  "en": "",
+  "call": "MswStr",
+  "box": 195,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:0226c",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:0228d",
+  "jp": "{C0F04}…な",
+  "en": "",
+  "call": "MswStr",
+  "box": 198,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:022ce",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:022e9",
+  "jp": "{C0F04}オレはここにのこる",
+  "en": "",
+  "call": "MswStr",
+  "box": 200,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:02376",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02397",
+  "jp": "{C0F04}何をいってるんだ！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:023bc",
+  "jp": "『ごうけつアラン』ともあろう方が！",
+  "en": "",
+  "call": "MswStr",
+  "box": 203,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:02408",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02423",
+  "jp": "{C0F04}今は『エド』だ…",
+  "en": "",
+  "call": "MswStr",
+  "box": 205,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:024ae",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:024c9",
+  "jp": "{C0F04}たのむぜ、アルヴィス…",
+  "en": "",
+  "call": "MswStr",
+  "box": 208,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:0255a",
+  "jp": "{C0D04}［アルヴィス］",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:0257b",
+  "jp": "{C0F04}あなたに…",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 1,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:02598",
+  "jp": "しつぼうしました！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 211,
+  "line": 2,
+  "speaker": "アルヴィス"
+ },
+ {
+  "id": "G_EV021:02c00",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02c1b",
+  "jp": "{C0F04}（つよくなる！",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:02c3c",
+  "jp": "　たおす！！）",
+  "en": "",
+  "call": "MswStr",
+  "box": 251,
+  "line": 2,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:02c74",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02c8f",
+  "jp": "{C0F04}…ギンタ、おめぇそういったよな？",
+  "en": "",
+  "call": "MswStr",
+  "box": 253,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:02cec",
+  "jp": "{C0D04}［エド］",
+  "en": "",
+  "call": "MswStr",
+  "box": 255,
+  "line": 0
+ },
+ {
+  "id": "G_EV021:02d07",
+  "jp": "{C0F04}オレはダンナと同じこと",
+  "en": "",
+  "call": "MswStr",
+  "box": 255,
+  "line": 1,
+  "speaker": "エド"
+ },
+ {
+  "id": "G_EV021:02d30",
+  "jp": "いいやがったおまえをしんじるぜ！！",
+  "en": "",
+  "call": "MswStr",
+  "box": 255,
+  "line": 2,
+  "speaker": "エド"
+ }
+]
