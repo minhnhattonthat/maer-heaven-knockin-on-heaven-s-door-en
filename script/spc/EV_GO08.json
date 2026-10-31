@@ -2,7 +2,7 @@
  {
   "id": "EV_GO08:0046f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GO08:005da",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 34,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GO08:006f6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 39,
   "line": 0

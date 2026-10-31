@@ -2,7 +2,7 @@
  {
   "id": "G_EV040:00997",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV040:00a1e",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 63,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV040:00baf",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 71,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV040:00c88",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 75,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV040:00d9e",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV040:013ad",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 116,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "G_EV040:01455",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 119,
   "line": 0

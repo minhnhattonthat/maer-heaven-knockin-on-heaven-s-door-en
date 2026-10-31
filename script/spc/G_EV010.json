@@ -2,7 +2,7 @@
  {
   "id": "G_EV010:005bf",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV010:00631",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 40,
   "line": 0

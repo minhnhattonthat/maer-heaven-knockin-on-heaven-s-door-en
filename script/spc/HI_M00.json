@@ -2,7 +2,7 @@
  {
   "id": "HI_M00:0030e",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 21,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M00:0038a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 23,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M00:003f8",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 25,
   "line": 0
@@ -104,7 +104,7 @@
  {
   "id": "HI_M00:009c9",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 64,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "HI_M00:00a2d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 66,
   "line": 0
@@ -156,7 +156,7 @@
  {
   "id": "HI_M00:00ab3",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 68,
   "line": 0
@@ -182,7 +182,7 @@
  {
   "id": "HI_M00:00b1b",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -208,7 +208,7 @@
  {
   "id": "HI_M00:00ee1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 95,
   "line": 0

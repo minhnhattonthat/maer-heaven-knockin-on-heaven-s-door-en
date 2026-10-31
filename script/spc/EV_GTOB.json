@@ -2,7 +2,7 @@
  {
   "id": "EV_GTOB:002f1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GTOB:0045a",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 26,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GTOB:0051c",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 29,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_GTOB:00590",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_GTOB:00660",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 34,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_GTOB:00782",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_GTOB:009e3",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 52,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_GTOB:00b89",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 61,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_GTOB:00bf3",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 63,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_GTOB:012c6",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 105,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_GTOB:0132c",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 107,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "G_EV002:00599",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 34,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV002:0065a",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV002:006bc",
   "jp": "{C0D04}［手下］",
-  "en": "",
+  "en": "{C0D04}[Henchman]",
   "call": "MswStr",
   "box": 40,
   "line": 0

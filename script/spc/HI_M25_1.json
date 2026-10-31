@@ -2,7 +2,7 @@
  {
   "id": "HI_M25_1:00252",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M25_1:0034a",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 21,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M25_1:0040a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "HI_M25_1:0050e",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 29,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "HI_M25_1:006c6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "HI_M25_1:0072e",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 39,
   "line": 0

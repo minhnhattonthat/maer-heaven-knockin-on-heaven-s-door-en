@@ -2,7 +2,7 @@
  {
   "id": "G_EV052:004b4",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 28,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV052:00556",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV052:0073a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 41,
   "line": 0

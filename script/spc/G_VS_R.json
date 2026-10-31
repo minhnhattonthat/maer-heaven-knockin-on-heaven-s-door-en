@@ -2,7 +2,7 @@
  {
   "id": "G_VS_R:00112",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 7,
   "line": 0
@@ -52,7 +52,7 @@
  {
   "id": "G_VS_R:0029a",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -78,7 +78,7 @@
  {
   "id": "G_VS_R:003d8",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 23,
   "line": 0

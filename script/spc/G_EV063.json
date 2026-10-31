@@ -2,7 +2,7 @@
  {
   "id": "G_EV063:00321",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV063:0048f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV063:00529",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV063:008e3",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV063:00a2e",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 58,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV063:00bd5",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 66,
   "line": 0

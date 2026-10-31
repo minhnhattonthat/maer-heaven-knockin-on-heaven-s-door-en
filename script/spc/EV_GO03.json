@@ -2,7 +2,7 @@
  {
   "id": "EV_GO03:0048a",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GO03:00514",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 32,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GO03:00673",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_GO03:006ff",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 41,
   "line": 0

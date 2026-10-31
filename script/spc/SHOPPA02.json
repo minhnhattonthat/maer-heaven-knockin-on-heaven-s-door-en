@@ -2,7 +2,7 @@
  {
   "id": "SHOPPA02:001af",
   "jp": "{C0D04}［マジックストーン屋］",
-  "en": "",
+  "en": "{C0D04}[Magic Stone Dealer]",
   "call": "MswStr",
   "box": 8,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SHOPPA02:0022b",
   "jp": "{C0D04}［マジックストーン屋］",
-  "en": "",
+  "en": "{C0D04}[Magic Stone Dealer]",
   "call": "MswStr",
   "box": 10,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SHOPPA02:002ff",
   "jp": "{C0D04}［マジックストーン屋］",
-  "en": "",
+  "en": "{C0D04}[Magic Stone Dealer]",
   "call": "MswStr",
   "box": 11,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "SHOPPA02:0048b",
   "jp": "{C0D04}［マジックストーン屋］",
-  "en": "",
+  "en": "{C0D04}[Magic Stone Dealer]",
   "call": "MswStr",
   "box": 20,
   "line": 0

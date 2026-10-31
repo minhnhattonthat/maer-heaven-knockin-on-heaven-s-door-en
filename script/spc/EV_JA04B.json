@@ -2,7 +2,7 @@
  {
   "id": "EV_JA04B:005f0",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_JA04B:0079d",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_JA04B:00954",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 54,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_JA04B:009be",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 56,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_JA04B:00b0d",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 63,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_JA04B:00b71",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 65,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_JA04B:00bfb",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_JA04B:00c95",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 69,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_JA04B:00e5a",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_JA04B:00ebc",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_JA04B:00f38",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 82,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_JA04B:01068",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_JA04B:01104",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 89,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_JA04B:0178a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 132,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "EV_JA04B:0180a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 134,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "EV_JA04B:0195f",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 141,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "EV_JA04B:019eb",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "EV_JA04B:01ba8",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 152,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "EV_JA04B:01d74",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 160,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "EV_JA04B:01df8",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 162,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "EV_JA04B:01e90",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 164,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "EV_BIN01:00506",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_BIN01:00588",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_BIN01:006e5",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 40,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_BIN01:00763",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 42,
   "line": 0

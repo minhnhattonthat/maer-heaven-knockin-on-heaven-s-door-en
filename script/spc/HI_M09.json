@@ -2,7 +2,7 @@
  {
   "id": "HI_M09:0024e",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 16,
   "line": 0

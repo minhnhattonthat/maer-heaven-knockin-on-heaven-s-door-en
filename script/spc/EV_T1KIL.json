@@ -2,7 +2,7 @@
  {
   "id": "EV_T1KIL:006bf",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 40,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_T1KIL:00839",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 48,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_T1KIL:00a29",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 58,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_T1KIL:00ba5",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 66,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_T1KIL:00c4f",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 69,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_T1KIL:00d55",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 74,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_T1KIL:00ec7",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 82,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_T1KIL:00fcd",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_T1KIL:010c3",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 91,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_T1KIL:01197",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 94,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_T1KIL:0132f",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 102,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_T1KIL:0152d",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 112,
   "line": 0

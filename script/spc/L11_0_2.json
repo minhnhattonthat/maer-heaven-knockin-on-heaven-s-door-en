@@ -2,7 +2,7 @@
  {
   "id": "L11_0_2:00430",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 28,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "L11_0_2:00552",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "L11_0_2:00c79",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 79,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "L11_0_2:00d83",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 84,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "L11_0_2:00dff",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 86,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "L11_0_2:00f3b",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 93,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "L11_0_2:0122e",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 112,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "L11_0_2:01374",
   "jp": "{C0D04}［彫金師］",
-  "en": "",
+  "en": "{C0D04}[Engraver]",
   "call": "MswStr",
   "box": 120,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "L11_0_2:01492",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 126,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "L11_0_2:0158a",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 131,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "L11_0_2:015fc",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 133,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "L11_0_2:01692",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 135,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "L11_0_2:01722",
   "jp": "{C0D04}［彫金師］",
-  "en": "",
+  "en": "{C0D04}[Engraver]",
   "call": "MswStr",
   "box": 138,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "L11_0_2:017b0",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 141,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "L11_0_2:01973",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 152,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "L11_0_2:01a5c",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 157,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "L11_0_2:01aec",
   "jp": "{C0D04}［彫金師］",
-  "en": "",
+  "en": "{C0D04}[Engraver]",
   "call": "MswStr",
   "box": 160,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "L11_0_2:01c42",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 167,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "L11_0_2:01d2b",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 171,
   "line": 0

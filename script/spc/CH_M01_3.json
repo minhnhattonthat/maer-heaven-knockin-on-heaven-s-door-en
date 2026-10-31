@@ -2,7 +2,7 @@
  {
   "id": "CH_M01_3:0025d",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M01_3:00538",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 34,
   "line": 0

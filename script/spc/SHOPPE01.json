@@ -2,7 +2,7 @@
  {
   "id": "SHOPPE01:001dc",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 8,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SHOPPE01:00276",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 9,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SHOPPE01:003ea",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 18,
   "line": 0

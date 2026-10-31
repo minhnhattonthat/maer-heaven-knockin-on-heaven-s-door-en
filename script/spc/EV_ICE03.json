@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE03:00442",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 28,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE03:004bc",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_ICE03:00785",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 47,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_ICE03:008fc",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 54,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_ICE03:00988",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 56,
   "line": 0

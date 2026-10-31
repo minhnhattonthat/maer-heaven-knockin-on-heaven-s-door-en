@@ -2,7 +2,7 @@
  {
   "id": "EV_BA01:00498",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 26,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_BA01:005e7",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_BA01:006b1",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 36,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_BA01:00783",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_BA01:00f62",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_BA01:0106c",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 93,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_BA01:0114e",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 97,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_BA01:0125a",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 101,
   "line": 0
@@ -234,7 +234,7 @@
  {
   "id": "EV_BA01:01d14",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 171,
   "line": 0
@@ -260,7 +260,7 @@
  {
   "id": "EV_BA01:01d86",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 173,
   "line": 0
@@ -286,7 +286,7 @@
  {
   "id": "EV_BA01:01ef1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 180,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "EV_BA01:020d0",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 189,
   "line": 0
@@ -338,7 +338,7 @@
  {
   "id": "EV_BA01:02231",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 196,
   "line": 0
@@ -364,7 +364,7 @@
  {
   "id": "EV_BA01:022f9",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 199,
   "line": 0
@@ -390,7 +390,7 @@
  {
   "id": "EV_BA01:02367",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 201,
   "line": 0
@@ -416,7 +416,7 @@
  {
   "id": "EV_BA01:0243b",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 204,
   "line": 0
@@ -442,7 +442,7 @@
  {
   "id": "EV_BA01:024b5",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 206,
   "line": 0
@@ -468,7 +468,7 @@
  {
   "id": "EV_BA01:0254f",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 208,
   "line": 0
@@ -494,7 +494,7 @@
  {
   "id": "EV_BA01:02626",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 211,
   "line": 0
@@ -520,7 +520,7 @@
  {
   "id": "EV_BA01:027f7",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 220,
   "line": 0

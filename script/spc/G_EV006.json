@@ -2,7 +2,7 @@
  {
   "id": "G_EV006:01048",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 97,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV006:0119b",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 104,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV006:0171e",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 138,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV006:01869",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 145,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV006:01a1c",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 154,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV006:01ac8",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 157,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "G_EV006:01c68",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 164,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "G_EV006:01e07",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 172,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "G_EV006:02005",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 182,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "G_EV006:020c3",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 185,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "G_EV006:02191",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 188,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "G_EV006:02245",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 191,
   "line": 0

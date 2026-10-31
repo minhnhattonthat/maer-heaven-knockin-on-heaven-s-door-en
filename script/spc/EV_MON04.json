@@ -2,7 +2,7 @@
  {
   "id": "EV_MON04:00548",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_MON04:005ca",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 39,
   "line": 0

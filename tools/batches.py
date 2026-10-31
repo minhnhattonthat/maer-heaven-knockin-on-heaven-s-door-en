@@ -191,7 +191,7 @@ def check_unit(u, en, rows):
     else:
         errs += lint.record_errors(u['members'][0], en)
     for sec, jp, ten, notes, avoid in rows:
-        if 'loose' in notes or not has_term(u['jp'], jp):
+        if 'loose' in notes or not (ten[:1].isupper() or ten[:1] == 'Ä') or not has_term(u['jp'], jp):
             continue
         forms = [f.strip() for f in ten.split('/')]
         if not any(f.lower() in en.lower() for f in forms):
@@ -233,6 +233,19 @@ def check(name, us=None, quiet=False):
     return out if not errs else None
 
 
+def place(lines, slots):
+    """English lines -> one string per slot. Starts at the Japanese's first used line when the English still fits
+    from there (a narration line in the middle of the box stays there); a Japanese line centred with fullwidth
+    spaces gets its English centred with spaces."""
+    first = next(k for k, e in enumerate(slots) if e['jp'])
+    k = first if first + len(lines) <= len(slots) else 0
+    out = [''] * k + list(lines) + [''] * (len(slots) - k - len(lines))
+    if all(e['jp'].startswith('　　') for e in slots if e['jp']):
+        sp = lint.width(' ')
+        out = [' ' * ((lint.LINE_PX - lint.width(s)) // 2 // sp) + s if s else s for s in out]
+    return out
+
+
 def merge(names):
     store = load_store()
     us = units(store)
@@ -244,8 +257,7 @@ def merge(names):
             u = us[i]
             for m in u['members']:
                 if u['kind'] == 'script':
-                    lines, _ = lint.wrap(en, u['lines'])
-                    lines += [''] * (len(m) - len(lines))
+                    lines = place(lint.wrap(en, u['lines'])[0], m)
                     for e, ln in zip(m, lines):
                         e['en'] = ln if ln or not e['jp'] else ' '  # a Japanese line the English doesn't need: blank
                 else:

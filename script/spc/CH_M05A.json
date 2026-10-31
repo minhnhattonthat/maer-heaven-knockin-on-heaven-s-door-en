@@ -2,7 +2,7 @@
  {
   "id": "CH_M05A:001b7",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 12,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M05A:0044f",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 28,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "CH_M05A:006fa",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 45,
   "line": 0

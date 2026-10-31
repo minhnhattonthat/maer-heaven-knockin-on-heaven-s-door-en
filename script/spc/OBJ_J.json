@@ -2,7 +2,7 @@
  {
   "id": "OBJ_J:00221",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 15,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "OBJ_J:00628",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 42,
   "line": 0

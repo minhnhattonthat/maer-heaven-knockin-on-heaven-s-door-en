@@ -2,7 +2,7 @@
  {
   "id": "CH_M00A:00294",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 17,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M00A:0059a",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 36,
   "line": 0

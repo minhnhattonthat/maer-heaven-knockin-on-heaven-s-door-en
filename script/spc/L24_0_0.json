@@ -2,7 +2,7 @@
  {
   "id": "L24_0_0:008f2",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 54,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "L24_0_0:0098c",
   "jp": "{C0D04}［ジャック］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Jack]{C0F04}",
   "call": "MswStr",
   "box": 57,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "L24_0_0:00b26",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 65,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "L24_0_0:00ddf",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "L24_0_0:00f95",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "L24_0_0:0137a",
   "jp": "{C0D04}［？？？］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[???]{C0F04}",
   "call": "MswStr",
   "box": 113,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "L24_0_0:01442",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 117,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "L24_0_0:01548",
   "jp": "{C0D04}［ジャック］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Jack]{C0F04}",
   "call": "MswStr",
   "box": 122,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "L24_0_0:0167e",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 128,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "L24_0_0:016f2",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 130,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "L24_0_0:0176a",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 132,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "L24_0_0:0187a",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 137,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "L24_0_0:01912",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 139,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "L24_0_0:019ec",
   "jp": "{C0D04}［ジャック］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Jack]{C0F04}",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "L24_0_0:01a8c",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 146,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "L24_0_0:01bd0",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 151,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "L24_0_0:01c5a",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 153,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "L24_0_0:01d4c",
   "jp": "{C0D04}［ジャック］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Jack]{C0F04}",
   "call": "MswStr",
   "box": 157,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "L24_0_0:01e26",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 161,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "L24_0_0:01ea8",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 163,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "L24_0_0:01f90",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 167,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "L24_0_0:023b8",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 189,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "L24_0_0:0246e",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 192,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "L24_0_0:024fe",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 194,
   "line": 0
@@ -626,7 +626,7 @@
  {
   "id": "L24_0_0:025a4",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 196,
   "line": 0
@@ -652,7 +652,7 @@
  {
   "id": "L24_0_0:02646",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 198,
   "line": 0
@@ -678,7 +678,7 @@
  {
   "id": "L24_0_0:026e0",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 200,
   "line": 0
@@ -704,7 +704,7 @@
  {
   "id": "L24_0_0:02784",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 202,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "L24_0_0:0281a",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 204,
   "line": 0
@@ -756,7 +756,7 @@
  {
   "id": "L24_0_0:028b6",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 206,
   "line": 0
@@ -782,7 +782,7 @@
  {
   "id": "L24_0_0:029e6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 211,
   "line": 0

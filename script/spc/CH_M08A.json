@@ -2,7 +2,7 @@
  {
   "id": "CH_M08A:001dc",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 13,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M08A:0034b",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 21,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "CH_M08A:00420",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 25,
   "line": 0

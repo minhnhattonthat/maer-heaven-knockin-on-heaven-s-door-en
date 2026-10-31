@@ -2,7 +2,7 @@
  {
   "id": "SP_M01_3:0025d",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M01_3:005d7",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 38,
   "line": 0

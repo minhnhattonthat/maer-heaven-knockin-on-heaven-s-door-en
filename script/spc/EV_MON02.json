@@ -2,7 +2,7 @@
  {
   "id": "EV_MON02:00455",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_MON02:005a6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 42,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_MON02:0062c",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_MON02:006c4",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_MON02:00842",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_MON02:0097d",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_MON02:009e1",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -208,7 +208,7 @@
  {
   "id": "EV_MON02:00bff",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 75,
   "line": 0
@@ -234,7 +234,7 @@
  {
   "id": "EV_MON02:00c9f",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 77,
   "line": 0

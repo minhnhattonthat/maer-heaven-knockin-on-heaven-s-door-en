@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE04:0038c",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE04:003f0",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_ICE04:00472",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_ICE04:004f2",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 26,
   "line": 0

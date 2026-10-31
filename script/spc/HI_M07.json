@@ -2,7 +2,7 @@
  {
   "id": "HI_M07:002b0",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 18,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M07:00332",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M07:006af",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 42,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "HI_M07:007da",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 49,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "HI_M07:00846",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "HI_M07:00944",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 56,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "HI_M07:009b6",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 58,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "HI_M07:00e27",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 86,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "HI_M07:011cd",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 110,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "HI_M07:01245",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 112,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "HI_M07:01697",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 139,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "HI_M07:016f9",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 141,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "HI_M07:01759",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "HI_M07:017dd",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 145,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "EV_RT03:004b2",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_RT03:005fd",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 34,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_RT03:006a7",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_RT03:00806",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_RT03:008ac",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 47,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_RT03:0091c",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 49,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_RT03:009a6",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_RT03:00bac",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 61,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_RT03:00c66",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 64,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_RT03:00d3b",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_RT03:00e01",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_RT03:00e7f",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 72,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_RT03:00f1b",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 74,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_RT03:01051",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 79,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "EV_RT03:0110f",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 82,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "EV_RT03:011af",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 84,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "EV_RT03:012e9",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 89,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "EV_RT03:013d3",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 93,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "EV_RT03:01507",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 98,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "EV_RT03:019d3",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 128,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "EV_RT03:01b10",
   "jp": "{C0D04}［子岩］",
-  "en": "",
+  "en": "{C0D04}[Little Rock]",
   "call": "MswStr",
   "box": 135,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "EV_RT03:01b7e",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 137,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "EV_RT03:0213c",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 174,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "EV_RT03:021f6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 177,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "HI_M26_2:00252",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M26_2:002f2",
   "jp": "{C0D04}［バッボ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Babbo]{C0F04}",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M26_2:00498",
   "jp": "{C0D04}［マール］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Marl]{C0F04}",
   "call": "MswStr",
   "box": 27,
   "line": 0

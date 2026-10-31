@@ -2,7 +2,7 @@
  {
   "id": "SP_M24_4:00c06",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 72,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M24_4:00d7a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SP_M24_4:00f00",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "SP_M24_4:00f80",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "SP_M24_4:0116c",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 99,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "SP_M24_4:01206",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 102,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "SP_M24_4:012b4",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 105,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "SP_M24_4:0146a",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 114,
   "line": 0
@@ -234,7 +234,7 @@
  {
   "id": "SP_M24_4:01f1b",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 187,
   "line": 0
@@ -260,7 +260,7 @@
  {
   "id": "SP_M24_4:020c5",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 196,
   "line": 0
@@ -286,7 +286,7 @@
  {
   "id": "SP_M24_4:02269",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 204,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "SP_M24_4:02c1d",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 271,
   "line": 0
@@ -338,7 +338,7 @@
  {
   "id": "SP_M24_4:02d4c",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 278,
   "line": 0
@@ -364,7 +364,7 @@
  {
   "id": "SP_M24_4:02e78",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 283,
   "line": 0

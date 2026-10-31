@@ -2,7 +2,7 @@
  {
   "id": "CH_M26_6:00aac",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M26_6:00c18",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 68,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "CH_M26_6:00d28",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 73,
   "line": 0
@@ -104,7 +104,7 @@
  {
   "id": "CH_M26_6:026a1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 231,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "CH_M26_6:02827",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 239,
   "line": 0
@@ -156,7 +156,7 @@
  {
   "id": "CH_M26_6:028db",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 242,
   "line": 0
@@ -182,7 +182,7 @@
  {
   "id": "CH_M26_6:02a23",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 247,
   "line": 0
@@ -208,7 +208,7 @@
  {
   "id": "CH_M26_6:02c51",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 258,
   "line": 0
@@ -234,7 +234,7 @@
  {
   "id": "CH_M26_6:02d7d",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 263,
   "line": 0
@@ -260,7 +260,7 @@
  {
   "id": "CH_M26_6:02de7",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 265,
   "line": 0
@@ -286,7 +286,7 @@
  {
   "id": "CH_M26_6:03036",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 275,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "CH_M26_6:03140",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 280,
   "line": 0
@@ -338,7 +338,7 @@
  {
   "id": "CH_M26_6:0335e",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 291,
   "line": 0
@@ -364,7 +364,7 @@
  {
   "id": "CH_M26_6:033be",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 293,
   "line": 0
@@ -390,7 +390,7 @@
  {
   "id": "CH_M26_6:034da",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 298,
   "line": 0
@@ -416,7 +416,7 @@
  {
   "id": "CH_M26_6:03536",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 300,
   "line": 0
@@ -442,7 +442,7 @@
  {
   "id": "CH_M26_6:036d0",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 307,
   "line": 0
@@ -468,7 +468,7 @@
  {
   "id": "CH_M26_6:037ee",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 312,
   "line": 0
@@ -494,7 +494,7 @@
  {
   "id": "CH_M26_6:03878",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 314,
   "line": 0
@@ -520,7 +520,7 @@
  {
   "id": "CH_M26_6:038f6",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 316,
   "line": 0
@@ -546,7 +546,7 @@
  {
   "id": "CH_M26_6:03af5",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 326,
   "line": 0
@@ -572,7 +572,7 @@
  {
   "id": "CH_M26_6:03c0b",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 331,
   "line": 0
@@ -598,7 +598,7 @@
  {
   "id": "CH_M26_6:03dd2",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 341,
   "line": 0
@@ -624,7 +624,7 @@
  {
   "id": "CH_M26_6:03e2e",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 343,
   "line": 0
@@ -650,7 +650,7 @@
  {
   "id": "CH_M26_6:03f44",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 348,
   "line": 0
@@ -676,7 +676,7 @@
  {
   "id": "CH_M26_6:0405a",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 353,
   "line": 0
@@ -702,7 +702,7 @@
  {
   "id": "CH_M26_6:040b8",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 355,
   "line": 0
@@ -728,7 +728,7 @@
  {
   "id": "CH_M26_6:041f8",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 360,
   "line": 0

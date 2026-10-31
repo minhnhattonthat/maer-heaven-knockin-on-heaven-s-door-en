@@ -2,7 +2,7 @@
  {
   "id": "EV_T2KIL:00771",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_T2KIL:008e7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 54,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_T2KIL:009f7",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 59,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_T2KIL:00e9c",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 86,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_T2KIL:011e3",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 105,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_T2KIL:0124d",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 107,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_T2KIL:012e7",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 110,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_T2KIL:013ff",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 115,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_T2KIL:0149f",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 118,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_T2KIL:01677",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 127,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_T2KIL:017b5",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 132,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_T2KIL:018dd",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 137,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_T2KIL:01a9f",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 146,
   "line": 0

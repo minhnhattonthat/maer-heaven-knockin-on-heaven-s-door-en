@@ -2,7 +2,7 @@
  {
   "id": "EV_PA01:00443",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_PA01:004b7",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 29,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_PA01:00537",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_PA01:005bd",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_PA01:00744",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 40,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_PA01:007ae",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 42,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_PA01:00830",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_PA01:008d8",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_PA01:0096e",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 48,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_PA01:009ea",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 50,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_PA01:00abe",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_PA01:00b3e",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 55,
   "line": 0

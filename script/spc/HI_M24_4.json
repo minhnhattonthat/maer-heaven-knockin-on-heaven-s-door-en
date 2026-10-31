@@ -2,7 +2,7 @@
  {
   "id": "HI_M24_4:0032c",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 17,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M24_4:003ec",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M24_4:004b5",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "HI_M24_4:00bae",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 65,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "HI_M24_4:00cfd",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 72,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "HI_M24_4:00de6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 76,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "HI_M24_4:00f04",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 81,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "HI_M24_4:0104f",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "HI_M24_4:0117f",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 94,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "HI_M24_4:0127b",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 99,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "HI_M24_4:01608",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 119,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "HI_M24_4:017dd",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 129,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "HI_M24_4:018af",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 133,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "HI_M24_4:01b87",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 149,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "HI_M24_4:01c01",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 151,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "HI_M24_4:01d30",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 157,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "HI_M24_4:01d94",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 159,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "HI_M24_4:01ec2",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 164,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "HI_M24_4:02162",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 180,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "HI_M24_4:021d2",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 182,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "HI_M24_4:022f4",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 189,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "HI_M24_4:023b7",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 193,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "HI_M24_4:0243b",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 195,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "HI_M24_4:024db",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 198,
   "line": 0
@@ -626,7 +626,7 @@
  {
   "id": "HI_M24_4:025f5",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 203,
   "line": 0
@@ -652,7 +652,7 @@
  {
   "id": "HI_M24_4:02675",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 205,
   "line": 0
@@ -678,7 +678,7 @@
  {
   "id": "HI_M24_4:028ab",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 216,
   "line": 0
@@ -704,7 +704,7 @@
  {
   "id": "HI_M24_4:029c0",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 221,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "HI_M24_4:02cc5",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 235,
   "line": 0
@@ -756,7 +756,7 @@
  {
   "id": "HI_M24_4:02e97",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 242,
   "line": 0
@@ -782,7 +782,7 @@
  {
   "id": "HI_M24_4:02f0d",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 244,
   "line": 0
@@ -808,7 +808,7 @@
  {
   "id": "HI_M24_4:03029",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 249,
   "line": 0
@@ -834,7 +834,7 @@
  {
   "id": "HI_M24_4:03121",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 253,
   "line": 0
@@ -860,7 +860,7 @@
  {
   "id": "HI_M24_4:03291",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 259,
   "line": 0
@@ -886,7 +886,7 @@
  {
   "id": "HI_M24_4:03359",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 262,
   "line": 0
@@ -912,7 +912,7 @@
  {
   "id": "HI_M24_4:03553",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 270,
   "line": 0

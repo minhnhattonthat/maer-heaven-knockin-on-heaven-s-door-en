@@ -2,7 +2,7 @@
  {
   "id": "EV_VE01:00836",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 48,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_VE01:008a6",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 50,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_VE01:009ff",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 57,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_VE01:00b4e",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 64,
   "line": 0

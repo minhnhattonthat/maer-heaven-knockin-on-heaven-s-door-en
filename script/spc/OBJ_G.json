@@ -2,7 +2,7 @@
  {
   "id": "OBJ_G:00205",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "OBJ_G:0033e",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 21,
   "line": 0

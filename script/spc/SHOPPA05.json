@@ -2,7 +2,7 @@
  {
   "id": "SHOPPA05:00463",
   "jp": "{C0D04}［露天］",
-  "en": "",
+  "en": "{C0D04}[Street Vendor]",
   "call": "MswStr",
   "box": 12,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SHOPPA05:0050d",
   "jp": "{C0D04}［露天］",
-  "en": "",
+  "en": "{C0D04}[Street Vendor]",
   "call": "MswStr",
   "box": 13,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SHOPPA05:0067f",
   "jp": "{C0D04}［露天］",
-  "en": "",
+  "en": "{C0D04}[Street Vendor]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "SHOPPA05:0093c",
   "jp": "{C0D04}［露天］",
-  "en": "",
+  "en": "{C0D04}[Street Vendor]",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "SHOPPA05:009be",
   "jp": "{C0D04}［露天］",
-  "en": "",
+  "en": "{C0D04}[Street Vendor]",
   "call": "MswStr",
   "box": 41,
   "line": 0

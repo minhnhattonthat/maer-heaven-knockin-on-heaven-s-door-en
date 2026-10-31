@@ -2,7 +2,7 @@
  {
   "id": "EV_GO07:0046f",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GO07:005c2",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 34,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GO07:00634",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 36,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_GO07:0069c",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_GO07:006fe",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 40,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_GO07:0077c",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 42,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_GO07:007e4",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_GO07:009c1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_GO07:00a95",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 56,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_GO07:00b6f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_GO07:00c5b",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 64,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_GO07:00d07",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_GO07:00d77",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 69,
   "line": 0

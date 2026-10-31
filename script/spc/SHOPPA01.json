@@ -2,7 +2,7 @@
  {
   "id": "SHOPPA01:001b9",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 8,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SHOPPA01:00223",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 10,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SHOPPA01:002d9",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 11,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "SHOPPA01:0044f",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 20,
   "line": 0

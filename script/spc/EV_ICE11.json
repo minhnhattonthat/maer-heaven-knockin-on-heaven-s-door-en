@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE11:00776",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 43,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE11:008c9",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 50,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_ICE11:00935",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 52,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_ICE11:00c81",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 71,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_ICE11:00f45",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_ICE11:00fa1",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 89,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_ICE11:01031",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 91,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_ICE11:010c1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 93,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_ICE11:01145",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 95,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_ICE11:01313",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 107,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_ICE11:013fb",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 112,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "EV_ICE11:01950",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 144,
   "line": 0
@@ -338,7 +338,7 @@
  {
   "id": "EV_ICE11:019bc",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 146,
   "line": 0

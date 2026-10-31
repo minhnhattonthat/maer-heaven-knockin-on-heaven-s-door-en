@@ -2,7 +2,7 @@
  {
   "id": "G_EV060:0087a",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV060:0094a",
   "jp": "{C0D04}［手下１］",
-  "en": "",
+  "en": "{C0D04}[Henchman 1]",
   "call": "MswStr",
   "box": 55,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV060:00a7a",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV060:00b06",
   "jp": "{C0D04}［手下１］",
-  "en": "",
+  "en": "{C0D04}[Henchman 1]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV060:00b76",
   "jp": "{C0D04}［手下２］",
-  "en": "",
+  "en": "{C0D04}[Henchman 2]",
   "call": "MswStr",
   "box": 64,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV060:00c48",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "G_EV060:00d06",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "G_EV060:00dc7",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 74,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "G_EV060:00f45",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 81,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "G_EV060:01591",
   "jp": "{C0D04}［手下１］",
-  "en": "",
+  "en": "{C0D04}[Henchman 1]",
   "call": "MswStr",
   "box": 120,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "G_EV060:0160e",
   "jp": "{C0D04}［手下２］",
-  "en": "",
+  "en": "{C0D04}[Henchman 2]",
   "call": "MswStr",
   "box": 123,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "G_EV060:016c9",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 127,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "G_EV060:01784",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 131,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "G_EV060:01830",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 134,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "G_EV060:0189e",
   "jp": "{C0D04}［手下１］",
-  "en": "",
+  "en": "{C0D04}[Henchman 1]",
   "call": "MswStr",
   "box": 136,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "G_EV060:018fa",
   "jp": "{C0D04}［手下２］",
-  "en": "",
+  "en": "{C0D04}[Henchman 2]",
   "call": "MswStr",
   "box": 138,
   "line": 0

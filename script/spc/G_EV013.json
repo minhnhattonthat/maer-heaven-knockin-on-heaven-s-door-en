@@ -2,7 +2,7 @@
  {
   "id": "G_EV013:007b0",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 47,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV013:0081a",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 49,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV013:0088e",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV013:00a39",
   "jp": "{C0D04}［ギド］",
-  "en": "",
+  "en": "{C0D04}[Gido]",
   "call": "MswStr",
   "box": 59,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV013:00bb2",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV013:00c62",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "G_EV013:00d16",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 73,
   "line": 0

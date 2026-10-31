@@ -2,7 +2,7 @@
  {
   "id": "EV_MON06:00204",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_MON06:00282",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 16,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_MON06:0031e",
   "jp": "{C0D04}［メリロ］",
-  "en": "",
+  "en": "{C0D04}[Merillo]",
   "call": "MswStr",
   "box": 18,
   "line": 0

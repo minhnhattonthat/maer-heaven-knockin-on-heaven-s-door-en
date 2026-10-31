@@ -2,7 +2,7 @@
  {
   "id": "EV_BA02:0050d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_BA02:00866",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_BA02:008e2",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 55,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_BA02:00a43",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_BA02:00ae3",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 65,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_BA02:00c5d",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 72,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_BA02:00cdd",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 74,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_BA02:00d7d",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 76,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_BA02:00de9",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_BA02:00fc2",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_BA02:0106a",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_BA02:01122",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 93,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_BA02:01186",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 95,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_BA02:012ba",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 100,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE08:0024b",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE08:0039a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 21,
   "line": 0

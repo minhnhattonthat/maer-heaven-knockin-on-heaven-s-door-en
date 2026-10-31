@@ -2,7 +2,7 @@
  {
   "id": "CH_M09A:000ec",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 7,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M09A:00162",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 9,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "CH_M09A:001fc",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 11,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "CH_M09A:003b6",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "CH_M09A:0043e",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "CH_M09A:004de",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "CH_M09A:00650",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "CH_M09A:006e0",
   "jp": "{C0D04}［街の人］",
-  "en": "",
+  "en": "{C0D04}[Townsperson]",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "CH_M09A:00872",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "CH_M09A:009a7",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "CH_M09A:00c32",
   "jp": "{C0D04}［店主］",
-  "en": "",
+  "en": "{C0D04}[Shopkeeper]",
   "call": "MswStr",
   "box": 66,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "CH_M09A:00d79",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 73,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "CH_M09A:00de3",
   "jp": "{C0D04}［店主］",
-  "en": "",
+  "en": "{C0D04}[Shopkeeper]",
   "call": "MswStr",
   "box": 75,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "CH_M09A:00e4b",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 77,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "CH_M09A:0101a",
   "jp": "{C0D04}［店主］",
-  "en": "",
+  "en": "{C0D04}[Shopkeeper]",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "CH_M09A:01196",
   "jp": "{C0D04}［店主］",
-  "en": "",
+  "en": "{C0D04}[Shopkeeper]",
   "call": "MswStr",
   "box": 97,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "CH_M09A:0122a",
   "jp": "{C0D04}［店主］",
-  "en": "",
+  "en": "{C0D04}[Shopkeeper]",
   "call": "MswStr",
   "box": 99,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "CH_M09A:01405",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 110,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "CH_M09A:0153a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 117,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "CH_M09A:015b2",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 119,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "CH_M09A:01632",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 121,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "CH_M09A:016a0",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 123,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "CH_M09A:0170c",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 125,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "CH_M09A:01786",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 127,
   "line": 0
@@ -626,7 +626,7 @@
  {
   "id": "CH_M09A:017e8",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 129,
   "line": 0
@@ -652,7 +652,7 @@
  {
   "id": "CH_M09A:0192a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 136,
   "line": 0
@@ -678,7 +678,7 @@
  {
   "id": "CH_M09A:0198e",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 138,
   "line": 0
@@ -704,7 +704,7 @@
  {
   "id": "CH_M09A:01a18",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 140,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "CH_M09A:01aae",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 142,
   "line": 0
@@ -756,7 +756,7 @@
  {
   "id": "CH_M09A:01be6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 147,
   "line": 0
@@ -782,7 +782,7 @@
  {
   "id": "CH_M09A:01c5c",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 149,
   "line": 0
@@ -808,7 +808,7 @@
  {
   "id": "CH_M09A:01cdc",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 151,
   "line": 0
@@ -834,7 +834,7 @@
  {
   "id": "CH_M09A:01e00",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 156,
   "line": 0
@@ -860,7 +860,7 @@
  {
   "id": "CH_M09A:01f14",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 161,
   "line": 0
@@ -886,7 +886,7 @@
  {
   "id": "CH_M09A:01fd4",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 165,
   "line": 0
@@ -912,7 +912,7 @@
  {
   "id": "CH_M09A:02056",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 167,
   "line": 0
@@ -938,7 +938,7 @@
  {
   "id": "CH_M09A:020d4",
   "jp": "{C0D04}［ÄＲＭ屋］",
-  "en": "",
+  "en": "{C0D04}[ÄRM Dealer]",
   "call": "MswStr",
   "box": 169,
   "line": 0

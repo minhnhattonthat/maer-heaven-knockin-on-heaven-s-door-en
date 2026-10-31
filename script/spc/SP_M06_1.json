@@ -2,7 +2,7 @@
  {
   "id": "SP_M06_1:00256",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 16,
   "line": 0

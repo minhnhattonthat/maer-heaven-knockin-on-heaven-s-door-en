@@ -2,7 +2,7 @@
  {
   "id": "EV_AL02B:00630",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_AL02B:007b7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 43,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_AL02B:00a11",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 57,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_AL02B:00b17",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 61,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_AL02B:00b95",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 63,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_AL02B:00d0d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_AL02B:012ff",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 106,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_AL02B:01450",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 113,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_AL02B:0162b",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 122,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_AL02B:016c4",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 124,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_AL02B:0178a",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 127,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_AL02B:01816",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 129,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_AL02B:01979",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 136,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_AL02B:01a1f",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 139,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "EV_AL02B:01a8b",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 141,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "EV_AL02B:01b11",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "EV_AL02B:01ce6",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 152,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "EV_AL02B:01d44",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 154,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "EV_AL02B:01dce",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 156,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "EV_AL02B:01f1a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 162,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "EV_AL02B:0206e",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 168,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "EV_AL02B:020f2",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 170,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "EV_AL02B:02232",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 175,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "EV_AL02B:0228e",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 177,
   "line": 0
@@ -626,7 +626,7 @@
  {
   "id": "EV_AL02B:0232a",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 179,
   "line": 0
@@ -652,7 +652,7 @@
  {
   "id": "EV_AL02B:023c4",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 181,
   "line": 0
@@ -678,7 +678,7 @@
  {
   "id": "EV_AL02B:0244e",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 183,
   "line": 0
@@ -704,7 +704,7 @@
  {
   "id": "EV_AL02B:02590",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 188,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "EV_AL02B:026c2",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 193,
   "line": 0
@@ -756,7 +756,7 @@
  {
   "id": "EV_AL02B:02740",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 195,
   "line": 0
@@ -782,7 +782,7 @@
  {
   "id": "EV_AL02B:027cc",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 197,
   "line": 0
@@ -808,7 +808,7 @@
  {
   "id": "EV_AL02B:02854",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 199,
   "line": 0
@@ -834,7 +834,7 @@
  {
   "id": "EV_AL02B:0297a",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 204,
   "line": 0
@@ -860,7 +860,7 @@
  {
   "id": "EV_AL02B:029e6",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 206,
   "line": 0
@@ -886,7 +886,7 @@
  {
   "id": "EV_AL02B:02a80",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 208,
   "line": 0
@@ -912,7 +912,7 @@
  {
   "id": "EV_AL02B:02aee",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 210,
   "line": 0
@@ -938,7 +938,7 @@
  {
   "id": "EV_AL02B:02b78",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 212,
   "line": 0
@@ -964,7 +964,7 @@
  {
   "id": "EV_AL02B:02c0c",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 214,
   "line": 0
@@ -990,7 +990,7 @@
  {
   "id": "EV_AL02B:02c74",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 216,
   "line": 0
@@ -1016,7 +1016,7 @@
  {
   "id": "EV_AL02B:02cda",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 218,
   "line": 0
@@ -1042,7 +1042,7 @@
  {
   "id": "EV_AL02B:02d5a",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 220,
   "line": 0
@@ -1068,7 +1068,7 @@
  {
   "id": "EV_AL02B:02f0b",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 227,
   "line": 0
@@ -1094,7 +1094,7 @@
  {
   "id": "EV_AL02B:0301f",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 232,
   "line": 0
@@ -1120,7 +1120,7 @@
  {
   "id": "EV_AL02B:0309f",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 234,
   "line": 0
@@ -1146,7 +1146,7 @@
  {
   "id": "EV_AL02B:031d5",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 239,
   "line": 0
@@ -1172,7 +1172,7 @@
  {
   "id": "EV_AL02B:03303",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 244,
   "line": 0
@@ -1198,7 +1198,7 @@
  {
   "id": "EV_AL02B:03491",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 251,
   "line": 0
@@ -1224,7 +1224,7 @@
  {
   "id": "EV_AL02B:034fd",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 253,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "EV_JA04:00655",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 36,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_JA04:006f1",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_JA04:00a08",
   "jp": "{C0D04}［ルーガ］",
-  "en": "",
+  "en": "{C0D04}[Luga]",
   "call": "MswStr",
   "box": 56,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_JA04:00a72",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 58,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_JA04:00b10",
   "jp": "{C0D04}［ガルー］",
-  "en": "",
+  "en": "{C0D04}[Garu]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_JA04:00fa0",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_JA04:00ffa",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 89,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_JA04:01080",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 91,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_JA04:01311",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 105,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_JA04:0139f",
   "jp": "{C0D04}［ルーガ］",
-  "en": "",
+  "en": "{C0D04}[Luga]",
   "call": "MswStr",
   "box": 107,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_JA04:01567",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 117,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_JA04:015c5",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 119,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_JA04:01629",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 121,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_JA04:016a7",
   "jp": "{C0D04}［ペタ］",
-  "en": "",
+  "en": "{C0D04}[Peta]",
   "call": "MswStr",
   "box": 123,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "EV_JA04:01a6d",
   "jp": "{C0D04}［ルーガ＆ガルー］",
-  "en": "",
+  "en": "{C0D04}[Luga & Garu]",
   "call": "MswStr",
   "box": 144,
   "line": 0

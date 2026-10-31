@@ -2,7 +2,7 @@
  {
   "id": "EV_AL04:0022a",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 13,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_AL04:0037f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_AL04:003f9",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_AL04:00463",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 24,
   "line": 0

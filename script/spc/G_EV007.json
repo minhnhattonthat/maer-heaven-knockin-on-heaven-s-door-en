@@ -2,7 +2,7 @@
  {
   "id": "G_EV007:0039d",
   "jp": "{C0D04}［手下］",
-  "en": "",
+  "en": "{C0D04}[Henchman]",
   "call": "MswStr",
   "box": 17,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV007:0050b",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 25,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV007:0056f",
   "jp": "{C0D04}［手下］",
-  "en": "",
+  "en": "{C0D04}[Henchman]",
   "call": "MswStr",
   "box": 27,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV007:006e7",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV007:00747",
   "jp": "{C0D04}［手下］",
-  "en": "",
+  "en": "{C0D04}[Henchman]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "G_EV007:0080b",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 40,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "G_EV007:008bd",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 43,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "G_EV007:00951",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "G_EV007:009bb",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 47,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "G_EV007:00b3c",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 54,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "G_EV007:00cd5",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "G_EV007:00e62",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 70,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "G_EV007:01027",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 79,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "G_EV007:010dd",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 82,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "G_EV007:01260",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "G_EV007:01376",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 95,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "G_EV007:0142e",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 98,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "G_EV007:01498",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 100,
   "line": 0

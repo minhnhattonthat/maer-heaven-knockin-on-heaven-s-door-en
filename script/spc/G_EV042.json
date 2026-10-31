@@ -2,7 +2,7 @@
  {
   "id": "G_EV042:00ede",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 92,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV042:0107d",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 100,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV042:011d2",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 107,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV042:0138d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 116,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV042:01435",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 119,
   "line": 0

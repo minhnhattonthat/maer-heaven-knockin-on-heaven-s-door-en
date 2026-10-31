@@ -2,7 +2,7 @@
  {
   "id": "HI_M01_1:002db",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M01_1:00359",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 22,
   "line": 0

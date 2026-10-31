@@ -2,7 +2,7 @@
  {
   "id": "G_EV025:0080c",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "G_EV025:0099f",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "G_EV025:00bc3",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 66,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "G_EV025:00dfb",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "G_EV025:00e5d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -156,7 +156,7 @@
  {
   "id": "G_EV025:016b7",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 133,
   "line": 0
@@ -182,7 +182,7 @@
  {
   "id": "G_EV025:01763",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 136,
   "line": 0
@@ -208,7 +208,7 @@
  {
   "id": "G_EV025:017d7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 138,
   "line": 0
@@ -234,7 +234,7 @@
  {
   "id": "G_EV025:01833",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 140,
   "line": 0
@@ -260,7 +260,7 @@
  {
   "id": "G_EV025:018ed",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -286,7 +286,7 @@
  {
   "id": "G_EV025:01d0d",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 167,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "G_EV025:01db5",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 170,
   "line": 0

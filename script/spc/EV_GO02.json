@@ -2,7 +2,7 @@
  {
   "id": "EV_GO02:0096a",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 57,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GO02:009d6",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 59,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GO02:00b61",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_GO02:00bcb",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 69,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_GO02:00d2c",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 76,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_GO02:00dac",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_GO02:00e48",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 81,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_GO02:00eb0",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 83,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_GO02:00fea",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_GO02:011b9",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 97,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_GO02:01235",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 99,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_GO02:012a5",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 101,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_GO02:013bf",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 106,
   "line": 0

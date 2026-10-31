@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE06:00237",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE06:00295",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 16,
   "line": 0

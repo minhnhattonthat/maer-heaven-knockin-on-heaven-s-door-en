@@ -2,7 +2,7 @@
  {
   "id": "EV_MON05:00204",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_MON05:0029a",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 16,
   "line": 0

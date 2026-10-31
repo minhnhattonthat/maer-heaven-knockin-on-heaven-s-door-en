@@ -2,7 +2,7 @@
  {
   "id": "EV_ICE12:007c9",
   "jp": "{C0D04}［バッボ＆ジャック］",
-  "en": "",
+  "en": "{C0D04}[Babbo & Jack]",
   "call": "MswStr",
   "box": 48,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_ICE12:00b6b",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 71,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_ICE12:00d08",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 80,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_ICE12:00e49",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_ICE12:0105d",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 98,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_ICE12:0134d",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 118,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_ICE12:01817",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 146,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_ICE12:0198e",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 154,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_ICE12:01b2a",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 162,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_ICE12:01bac",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 164,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_ICE12:01c36",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 166,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_ICE12:01cc6",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 168,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_ICE12:01d2c",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 170,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_ICE12:01db2",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 172,
   "line": 0
@@ -366,7 +366,7 @@
  {
   "id": "EV_ICE12:01e28",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 174,
   "line": 0
@@ -392,7 +392,7 @@
  {
   "id": "EV_ICE12:01eb4",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 176,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "EV_ICE12:01f46",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 178,
   "line": 0
@@ -444,7 +444,7 @@
  {
   "id": "EV_ICE12:01fc0",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 180,
   "line": 0
@@ -470,7 +470,7 @@
  {
   "id": "EV_ICE12:0201a",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 182,
   "line": 0
@@ -496,7 +496,7 @@
  {
   "id": "EV_ICE12:02191",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 190,
   "line": 0
@@ -522,7 +522,7 @@
  {
   "id": "EV_ICE12:021f5",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 192,
   "line": 0
@@ -548,7 +548,7 @@
  {
   "id": "EV_ICE12:02329",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 197,
   "line": 0
@@ -574,7 +574,7 @@
  {
   "id": "EV_ICE12:0243d",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 202,
   "line": 0
@@ -600,7 +600,7 @@
  {
   "id": "EV_ICE12:025b0",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 210,
   "line": 0
@@ -626,7 +626,7 @@
  {
   "id": "EV_ICE12:02664",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 213,
   "line": 0
@@ -652,7 +652,7 @@
  {
   "id": "EV_ICE12:026c4",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 215,
   "line": 0
@@ -678,7 +678,7 @@
  {
   "id": "EV_ICE12:0288d",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 224,
   "line": 0
@@ -704,7 +704,7 @@
  {
   "id": "EV_ICE12:0291d",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 226,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "EV_ICE12:02983",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 228,
   "line": 0
@@ -756,7 +756,7 @@
  {
   "id": "EV_ICE12:02a8b",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 233,
   "line": 0
@@ -782,7 +782,7 @@
  {
   "id": "EV_ICE12:02b01",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 235,
   "line": 0
@@ -808,7 +808,7 @@
  {
   "id": "EV_ICE12:02b77",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 237,
   "line": 0
@@ -834,7 +834,7 @@
  {
   "id": "EV_ICE12:02c73",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 242,
   "line": 0
@@ -860,7 +860,7 @@
  {
   "id": "EV_ICE12:02cff",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 244,
   "line": 0
@@ -886,7 +886,7 @@
  {
   "id": "EV_ICE12:02dff",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 249,
   "line": 0
@@ -912,7 +912,7 @@
  {
   "id": "EV_ICE12:02ecb",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 252,
   "line": 0
@@ -938,7 +938,7 @@
  {
   "id": "EV_ICE12:02fa3",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 256,
   "line": 0
@@ -964,7 +964,7 @@
  {
   "id": "EV_ICE12:03025",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 258,
   "line": 0
@@ -990,7 +990,7 @@
  {
   "id": "EV_ICE12:030c5",
   "jp": "{C0D04}［イアン］",
-  "en": "",
+  "en": "{C0D04}[Ian]",
   "call": "MswStr",
   "box": 260,
   "line": 0
@@ -1016,7 +1016,7 @@
  {
   "id": "EV_ICE12:03270",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 269,
   "line": 0
@@ -1042,7 +1042,7 @@
  {
   "id": "EV_ICE12:0338c",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 274,
   "line": 0
@@ -1068,7 +1068,7 @@
  {
   "id": "EV_ICE12:03412",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 276,
   "line": 0
@@ -1094,7 +1094,7 @@
  {
   "id": "EV_ICE12:0348e",
   "jp": "{C0D04}［ロコ］",
-  "en": "",
+  "en": "{C0D04}[Loco]",
   "call": "MswStr",
   "box": 278,
   "line": 0
@@ -1120,7 +1120,7 @@
  {
   "id": "EV_ICE12:03592",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 283,
   "line": 0
@@ -1146,7 +1146,7 @@
  {
   "id": "EV_ICE12:03614",
   "jp": "{C0D04}［ハロウィン］",
-  "en": "",
+  "en": "{C0D04}[Halloween]",
   "call": "MswStr",
   "box": 285,
   "line": 0
@@ -1172,7 +1172,7 @@
  {
   "id": "EV_ICE12:03b7d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 318,
   "line": 0
@@ -1198,7 +1198,7 @@
  {
   "id": "EV_ICE12:03cd2",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 325,
   "line": 0
@@ -1224,7 +1224,7 @@
  {
   "id": "EV_ICE12:03d5a",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 327,
   "line": 0
@@ -1250,7 +1250,7 @@
  {
   "id": "EV_ICE12:03dca",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 329,
   "line": 0
@@ -1276,7 +1276,7 @@
  {
   "id": "EV_ICE12:041e7",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 355,
   "line": 0
@@ -1302,7 +1302,7 @@
  {
   "id": "EV_ICE12:04263",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 357,
   "line": 0
@@ -1328,7 +1328,7 @@
  {
   "id": "EV_ICE12:043a0",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 364,
   "line": 0
@@ -1354,7 +1354,7 @@
  {
   "id": "EV_ICE12:04424",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 366,
   "line": 0
@@ -1380,7 +1380,7 @@
  {
   "id": "EV_ICE12:0467e",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 380,
   "line": 0
@@ -1406,7 +1406,7 @@
  {
   "id": "EV_ICE12:046dc",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 382,
   "line": 0
@@ -1432,7 +1432,7 @@
  {
   "id": "EV_ICE12:04752",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 384,
   "line": 0

@@ -98,7 +98,7 @@
  {
   "id": "OPEN:00d83",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 86,
   "line": 0
@@ -124,7 +124,7 @@
  {
   "id": "OPEN:00dfd",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 88,
   "line": 0
@@ -150,7 +150,7 @@
  {
   "id": "OPEN:00e81",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -176,7 +176,7 @@
  {
   "id": "OPEN:01593",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 134,
   "line": 0
@@ -202,7 +202,7 @@
  {
   "id": "OPEN:016c0",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 140,
   "line": 0
@@ -228,7 +228,7 @@
  {
   "id": "OPEN:01756",
   "jp": "{C0D04}［先生］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Teacher]{C0F04}",
   "call": "MswStr",
   "box": 143,
   "line": 0
@@ -254,7 +254,7 @@
  {
   "id": "OPEN:017ce",
   "jp": "{C0D04}［先生］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Teacher]{C0F04}",
   "call": "MswStr",
   "box": 145,
   "line": 0
@@ -280,7 +280,7 @@
  {
   "id": "OPEN:01856",
   "jp": "{C0D04}［クラスメート］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Classmate]{C0F04}",
   "call": "MswStr",
   "box": 147,
   "line": 0
@@ -306,7 +306,7 @@
  {
   "id": "OPEN:0194e",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 151,
   "line": 0
@@ -332,7 +332,7 @@
  {
   "id": "OPEN:01a70",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 157,
   "line": 0
@@ -358,7 +358,7 @@
  {
   "id": "OPEN:01ad8",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 159,
   "line": 0
@@ -384,7 +384,7 @@
  {
   "id": "OPEN:01b40",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 161,
   "line": 0
@@ -410,7 +410,7 @@
  {
   "id": "OPEN:01ba8",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 163,
   "line": 0
@@ -436,7 +436,7 @@
  {
   "id": "OPEN:01c22",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 165,
   "line": 0
@@ -462,7 +462,7 @@
  {
   "id": "OPEN:01c9c",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 167,
   "line": 0
@@ -488,7 +488,7 @@
  {
   "id": "OPEN:01d20",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 169,
   "line": 0
@@ -514,7 +514,7 @@
  {
   "id": "OPEN:01da6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 171,
   "line": 0
@@ -540,7 +540,7 @@
  {
   "id": "OPEN:01e2a",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 173,
   "line": 0
@@ -566,7 +566,7 @@
  {
   "id": "OPEN:01eb2",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 175,
   "line": 0
@@ -592,7 +592,7 @@
  {
   "id": "OPEN:01f34",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 177,
   "line": 0
@@ -618,7 +618,7 @@
  {
   "id": "OPEN:01fa6",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 179,
   "line": 0
@@ -644,7 +644,7 @@
  {
   "id": "OPEN:02008",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 181,
   "line": 0
@@ -670,7 +670,7 @@
  {
   "id": "OPEN:02084",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 183,
   "line": 0
@@ -696,7 +696,7 @@
  {
   "id": "OPEN:020e6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 185,
   "line": 0
@@ -722,7 +722,7 @@
  {
   "id": "OPEN:02172",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 187,
   "line": 0
@@ -748,7 +748,7 @@
  {
   "id": "OPEN:021e4",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 189,
   "line": 0
@@ -774,7 +774,7 @@
  {
   "id": "OPEN:0225e",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 191,
   "line": 0
@@ -800,7 +800,7 @@
  {
   "id": "OPEN:022fa",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 193,
   "line": 0
@@ -826,7 +826,7 @@
  {
   "id": "OPEN:02354",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 195,
   "line": 0
@@ -852,7 +852,7 @@
  {
   "id": "OPEN:023c6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 197,
   "line": 0
@@ -878,7 +878,7 @@
  {
   "id": "OPEN:02456",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 199,
   "line": 0
@@ -904,7 +904,7 @@
  {
   "id": "OPEN:024d8",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 201,
   "line": 0
@@ -954,7 +954,7 @@
  {
   "id": "OPEN:02885",
   "jp": "{C0D04}［門ばんピエロ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Gatekeeper Clown]{C0F04}",
   "call": "MswStr",
   "box": 222,
   "line": 0
@@ -980,7 +980,7 @@
  {
   "id": "OPEN:02986",
   "jp": "{C0D04}［クラスメート］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Classmate]{C0F04}",
   "call": "MswStr",
   "box": 227,
   "line": 0
@@ -1006,7 +1006,7 @@
  {
   "id": "OPEN:02a12",
   "jp": "{C0D04}［クラスメート］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Classmate]{C0F04}",
   "call": "MswStr",
   "box": 229,
   "line": 0
@@ -1032,7 +1032,7 @@
  {
   "id": "OPEN:02b8e",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 236,
   "line": 0
@@ -1058,7 +1058,7 @@
  {
   "id": "OPEN:02bf6",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 238,
   "line": 0
@@ -1084,7 +1084,7 @@
  {
   "id": "OPEN:02c68",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 240,
   "line": 0
@@ -1110,7 +1110,7 @@
  {
   "id": "OPEN:02cda",
   "jp": "{C0D04}［門ばんピエロ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Gatekeeper Clown]{C0F04}",
   "call": "MswStr",
   "box": 242,
   "line": 0
@@ -1136,7 +1136,7 @@
  {
   "id": "OPEN:02d52",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 244,
   "line": 0
@@ -1162,7 +1162,7 @@
  {
   "id": "OPEN:02dc0",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 246,
   "line": 0
@@ -1188,7 +1188,7 @@
  {
   "id": "OPEN:02e42",
   "jp": "{C0D04}［門ばんピエロ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Gatekeeper Clown]{C0F04}",
   "call": "MswStr",
   "box": 248,
   "line": 0
@@ -1214,7 +1214,7 @@
  {
   "id": "OPEN:02ec4",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 250,
   "line": 0
@@ -1240,7 +1240,7 @@
  {
   "id": "OPEN:02fcd",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 256,
   "line": 0
@@ -1266,7 +1266,7 @@
  {
   "id": "OPEN:03037",
   "jp": "{C0D04}［クラスメート］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Classmate]{C0F04}",
   "call": "MswStr",
   "box": 258,
   "line": 0
@@ -1292,7 +1292,7 @@
  {
   "id": "OPEN:030c7",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 260,
   "line": 0
@@ -1318,7 +1318,7 @@
  {
   "id": "OPEN:03125",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 262,
   "line": 0
@@ -1344,7 +1344,7 @@
  {
   "id": "OPEN:031a3",
   "jp": "{C0D04}［小雪］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Koyuki]{C0F04}",
   "call": "MswStr",
   "box": 264,
   "line": 0
@@ -1370,7 +1370,7 @@
  {
   "id": "OPEN:03221",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 266,
   "line": 0
@@ -1396,7 +1396,7 @@
  {
   "id": "OPEN:03285",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 268,
   "line": 0
@@ -1422,7 +1422,7 @@
  {
   "id": "OPEN:0330f",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 270,
   "line": 0
@@ -1448,7 +1448,7 @@
  {
   "id": "OPEN:0339a",
   "jp": "{C0D04}［ギンタ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Ginta]{C0F04}",
   "call": "MswStr",
   "box": 273,
   "line": 0

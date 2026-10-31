@@ -2,7 +2,7 @@
  {
   "id": "EV_JA04C:004a3",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_JA04C:00511",
   "jp": "{C0D04}［ジャックの母］",
-  "en": "",
+  "en": "{C0D04}[Jack's Mom]",
   "call": "MswStr",
   "box": 33,
   "line": 0

@@ -2,7 +2,7 @@
  {
   "id": "SHOPPA04:000f6",
   "jp": "{C0D04}［宿屋］",
-  "en": "",
+  "en": "{C0D04}[Innkeeper]",
   "call": "MswStr",
   "box": 7,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SHOPPA04:00172",
   "jp": "{C0D04}［宿屋］",
-  "en": "",
+  "en": "{C0D04}[Innkeeper]",
   "call": "MswStr",
   "box": 9,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SHOPPA04:00231",
   "jp": "{C0D04}［宿屋］",
-  "en": "",
+  "en": "{C0D04}[Innkeeper]",
   "call": "MswStr",
   "box": 11,
   "line": 0
@@ -104,7 +104,7 @@
  {
   "id": "SHOPPA04:005c5",
   "jp": "{C0D04}［宿屋］",
-  "en": "",
+  "en": "{C0D04}[Innkeeper]",
   "call": "MswStr",
   "box": 35,
   "line": 0

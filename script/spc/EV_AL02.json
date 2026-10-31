@@ -2,7 +2,7 @@
  {
   "id": "EV_AL02:0095d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 55,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_AL02:00ab0",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_AL02:01201",
   "jp": "{C0D04}［おやぶん］",
-  "en": "",
+  "en": "{C0D04}[Thief Boss]",
   "call": "MswStr",
   "box": 108,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_AL02:01273",
   "jp": "{C0D04}［おやぶん］",
-  "en": "",
+  "en": "{C0D04}[Thief Boss]",
   "call": "MswStr",
   "box": 110,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_AL02:018bc",
   "jp": "{C0D04}［こぶん］",
-  "en": "",
+  "en": "{C0D04}[Thief Lackey]",
   "call": "MswStr",
   "box": 150,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_AL02:01d4b",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 179,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_AL02:01dab",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 181,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_AL02:02254",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 209,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_AL02:023b7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 216,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_AL02:026b1",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 233,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_AL02:02711",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 235,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_AL02:0289f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 242,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_AL02:0292b",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 244,
   "line": 0
@@ -340,7 +340,7 @@
  {
   "id": "EV_AL02:0299d",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 246,
   "line": 0

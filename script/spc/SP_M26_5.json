@@ -2,7 +2,7 @@
  {
   "id": "SP_M26_5:00219",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 15,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M26_5:0027d",
   "jp": "{C0D04}［アルヴィス］",
-  "en": "",
+  "en": "{C0D04}[Alviss]",
   "call": "MswStr",
   "box": 17,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SP_M26_5:0077f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 56,
   "line": 0
@@ -104,7 +104,7 @@
  {
   "id": "SP_M26_5:00b7c",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 82,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "SP_M26_5:00be2",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 84,
   "line": 0
@@ -156,7 +156,7 @@
  {
   "id": "SP_M26_5:00d29",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 91,
   "line": 0
@@ -206,7 +206,7 @@
  {
   "id": "SP_M26_5:012e6",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 130,
   "line": 0
@@ -232,7 +232,7 @@
  {
   "id": "SP_M26_5:01555",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 146,
   "line": 0
@@ -258,7 +258,7 @@
  {
   "id": "SP_M26_5:015c3",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 148,
   "line": 0
@@ -284,7 +284,7 @@
  {
   "id": "SP_M26_5:016ad",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 152,
   "line": 0
@@ -310,7 +310,7 @@
  {
   "id": "SP_M26_5:01729",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 154,
   "line": 0
@@ -336,7 +336,7 @@
  {
   "id": "SP_M26_5:017c1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 156,
   "line": 0
@@ -362,7 +362,7 @@
  {
   "id": "SP_M26_5:018bf",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 161,
   "line": 0

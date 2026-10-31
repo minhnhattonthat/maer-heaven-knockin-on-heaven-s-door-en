@@ -2,7 +2,7 @@
  {
   "id": "EV_RT02:003d9",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_RT02:00530",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 29,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_RT02:005a6",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 31,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_RT02:00705",
   "jp": "{C0D04}［子岩］",
-  "en": "",
+  "en": "{C0D04}[Little Rock]",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_RT02:007af",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 41,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_RT02:00873",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_RT02:008e5",
   "jp": "{C0D04}［親岩］",
-  "en": "",
+  "en": "{C0D04}[Papa Rock]",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_RT02:0099b",
   "jp": "{C0D04}［子岩］",
-  "en": "",
+  "en": "{C0D04}[Little Rock]",
   "call": "MswStr",
   "box": 49,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_RT02:00e37",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_RT02:01484",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 115,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_RT02:014f8",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 117,
   "line": 0
@@ -288,7 +288,7 @@
  {
   "id": "EV_RT02:0176d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 131,
   "line": 0
@@ -314,7 +314,7 @@
  {
   "id": "EV_RT02:01806",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 134,
   "line": 0

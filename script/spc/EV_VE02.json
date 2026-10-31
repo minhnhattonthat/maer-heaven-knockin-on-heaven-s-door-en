@@ -2,7 +2,7 @@
  {
   "id": "EV_VE02:003ac",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_VE02:00440",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_VE02:00af4",
   "jp": "{C0D04}［ナナシ］",
-  "en": "",
+  "en": "{C0D04}[Nanashi]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_VE02:00c4b",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 69,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_VE02:00e02",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 78,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_VE02:00f1c",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 83,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_VE02:00fae",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 85,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_VE02:0102e",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_VE02:011d2",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 95,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_VE02:01240",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 97,
   "line": 0
@@ -262,7 +262,7 @@
  {
   "id": "EV_VE02:012b2",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 99,
   "line": 0
@@ -312,7 +312,7 @@
  {
   "id": "EV_VE02:01444",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 108,
   "line": 0
@@ -338,7 +338,7 @@
  {
   "id": "EV_VE02:014eb",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 110,
   "line": 0
@@ -364,7 +364,7 @@
  {
   "id": "EV_VE02:0155d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 112,
   "line": 0
@@ -390,7 +390,7 @@
  {
   "id": "EV_VE02:01a9b",
   "jp": "{C0D04}［スノウ］",
-  "en": "",
+  "en": "{C0D04}[Snow]",
   "call": "MswStr",
   "box": 144,
   "line": 0
@@ -416,7 +416,7 @@
  {
   "id": "EV_VE02:01c08",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 151,
   "line": 0
@@ -442,7 +442,7 @@
  {
   "id": "EV_VE02:01de4",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 161,
   "line": 0
@@ -468,7 +468,7 @@
  {
   "id": "EV_VE02:01f12",
   "jp": "{C0D04}［村の人］",
-  "en": "",
+  "en": "{C0D04}[Villager]",
   "call": "MswStr",
   "box": 166,
   "line": 0
@@ -494,7 +494,7 @@
  {
   "id": "EV_VE02:020b7",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 175,
   "line": 0
@@ -520,7 +520,7 @@
  {
   "id": "EV_VE02:0211b",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 177,
   "line": 0

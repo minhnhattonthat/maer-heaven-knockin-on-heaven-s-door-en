@@ -2,7 +2,7 @@
  {
   "id": "G_EV004:00124",
   "jp": "{C0D04}［手下］",
-  "en": "",
+  "en": "{C0D04}[Henchman]",
   "call": "MswStr",
   "box": 8,
   "line": 0

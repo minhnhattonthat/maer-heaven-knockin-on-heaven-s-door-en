@@ -2,7 +2,7 @@
  {
   "id": "CH_M24_A:001b7",
   "jp": "{C0D04}［彫金師ベリーニ］",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]",
   "call": "MswStr",
   "box": 12,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "CH_M24_A:00362",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "CH_M24_A:00408",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "CH_M24_A:004aa",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 26,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "CH_M24_A:00544",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 28,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "CH_M24_A:005e8",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "CH_M24_A:0067e",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 32,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "CH_M24_A:0071a",
   "jp": "{C0D04}［彫金師ベリーニ］{C0F04}",
-  "en": "",
+  "en": "{C0D04}[Engraver Bellini]{C0F04}",
   "call": "MswStr",
   "box": 34,
   "line": 0

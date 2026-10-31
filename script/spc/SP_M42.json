@@ -2,7 +2,7 @@
  {
   "id": "SP_M42:002b2",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M42:0034a",
   "jp": "{C0D04}［エド］",
-  "en": "",
+  "en": "{C0D04}[Ed]",
   "call": "MswStr",
   "box": 21,
   "line": 0

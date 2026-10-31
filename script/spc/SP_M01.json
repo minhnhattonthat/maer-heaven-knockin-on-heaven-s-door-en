@@ -2,7 +2,7 @@
  {
   "id": "SP_M01:0055d",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 33,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M01:009bb",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 61,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SP_M01:00b20",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 68,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "SP_M01:00f09",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 91,
   "line": 0

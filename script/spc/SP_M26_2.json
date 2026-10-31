@@ -2,7 +2,7 @@
  {
   "id": "SP_M26_2:00703",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 41,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "SP_M26_2:008ad",
   "jp": "{C0D04}［マール］",
-  "en": "",
+  "en": "{C0D04}[Marl]",
   "call": "MswStr",
   "box": 50,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "SP_M26_2:00a5f",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 59,
   "line": 0
@@ -104,7 +104,7 @@
  {
   "id": "SP_M26_2:01415",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 126,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "SP_M26_2:014b7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 129,
   "line": 0
@@ -156,7 +156,7 @@
  {
   "id": "SP_M26_2:0163f",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 137,
   "line": 0
@@ -182,7 +182,7 @@
  {
   "id": "SP_M26_2:01701",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 140,
   "line": 0

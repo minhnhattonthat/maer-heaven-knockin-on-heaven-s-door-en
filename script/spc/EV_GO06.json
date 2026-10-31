@@ -2,7 +2,7 @@
  {
   "id": "EV_GO06:004b0",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_GO06:005fd",
   "jp": "{C0D04}［？？？］",
-  "en": "",
+  "en": "{C0D04}[???]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_GO06:00671",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_GO06:0072b",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 42,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_GO06:007a1",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_GO06:0083b",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_GO06:008b7",
   "jp": "{C0D04}［トム］",
-  "en": "",
+  "en": "{C0D04}[Tom]",
   "call": "MswStr",
   "box": 48,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_GO06:009d7",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 53,
   "line": 0

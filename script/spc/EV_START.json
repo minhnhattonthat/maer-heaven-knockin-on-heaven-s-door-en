@@ -2,7 +2,7 @@
  {
   "id": "EV_START:00617",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_START:00935",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 65,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_START:00c8f",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 86,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_START:01090",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 111,
   "line": 0

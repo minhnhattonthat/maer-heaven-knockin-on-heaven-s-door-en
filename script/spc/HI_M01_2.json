@@ -2,7 +2,7 @@
  {
   "id": "HI_M01_2:002bf",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "HI_M01_2:00349",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 21,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "HI_M01_2:003db",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 23,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "HI_M01_2:0044d",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 25,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "HI_M01_2:004b1",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 27,
   "line": 0

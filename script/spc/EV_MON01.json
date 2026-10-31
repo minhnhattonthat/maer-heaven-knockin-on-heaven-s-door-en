@@ -2,7 +2,7 @@
  {
   "id": "EV_MON01:0046c",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 36,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_MON01:0060e",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_MON01:0068a",
   "jp": "{C0D04}［ドロシー］",
-  "en": "",
+  "en": "{C0D04}[Dorothy]",
   "call": "MswStr",
   "box": 47,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_MON01:008a0",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 58,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_MON01:0092c",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 60,
   "line": 0
@@ -132,7 +132,7 @@
  {
   "id": "EV_MON01:009b4",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 62,
   "line": 0
@@ -158,7 +158,7 @@
  {
   "id": "EV_MON01:00a3e",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 64,
   "line": 0
@@ -184,7 +184,7 @@
  {
   "id": "EV_MON01:00aea",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 67,
   "line": 0
@@ -210,7 +210,7 @@
  {
   "id": "EV_MON01:00b6a",
   "jp": "{C0D04}［ブモル］",
-  "en": "",
+  "en": "{C0D04}[Bumol]",
   "call": "MswStr",
   "box": 69,
   "line": 0
@@ -236,7 +236,7 @@
  {
   "id": "EV_MON01:00c88",
   "jp": "{C0D04}［ジャック］",
-  "en": "",
+  "en": "{C0D04}[Jack]",
   "call": "MswStr",
   "box": 74,
   "line": 0

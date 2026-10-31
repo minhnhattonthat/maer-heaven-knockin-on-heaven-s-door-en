@@ -2,7 +2,7 @@
  {
   "id": "EV_IWA:00213",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 14,
   "line": 0
@@ -28,7 +28,7 @@
  {
   "id": "EV_IWA:00344",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 21,
   "line": 0
@@ -54,7 +54,7 @@
  {
   "id": "EV_IWA:00577",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -80,7 +80,7 @@
  {
   "id": "EV_IWA:00603",
   "jp": "{C0D04}［バッボ］",
-  "en": "",
+  "en": "{C0D04}[Babbo]",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "EV_IWA:00675",
   "jp": "{C0D04}［ギンタ］",
-  "en": "",
+  "en": "{C0D04}[Ginta]",
   "call": "MswStr",
   "box": 39,
   "line": 0
