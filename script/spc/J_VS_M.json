@@ -19,7 +19,7 @@
  {
   "id": "J_VS_M:00095",
   "jp": "お礼にÄＲＭをくれたんだよ",
-  "en": "they gave me ÄRM as thanks, dear.",
+  "en": "they gave me an ÄRM as thanks, dear.",
   "call": "MswStr",
   "box": 2,
   "line": 2,
@@ -95,7 +95,7 @@
  {
   "id": "J_VS_M:002e9",
   "jp": "お礼にÄＲＭをくれたんだよ",
-  "en": "they gave me ÄRM as thanks, dear.",
+  "en": "they gave me an ÄRM as thanks, dear.",
   "call": "MswStr",
   "box": 15,
   "line": 2,

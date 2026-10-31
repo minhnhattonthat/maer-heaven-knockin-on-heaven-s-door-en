@@ -10,7 +10,7 @@
  {
   "id": "EV_BIN03:006d0",
   "jp": "{C0F04}わたしは、そのなかでも",
-  "en": "{C0F04}And out of all of them, I collect the",
+  "en": "{C0F04}And of all of them, I collect the rare ÄRM.",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_BIN03:006f9",
   "jp": "レアなÄＲＭをあつめてるの",
-  "en": "rare ÄRM.",
+  "en": " ",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BIN03:0075c",
   "jp": "{C0F04}『バッボ』を手に入れたら",
-  "en": "{C0F04}Once I get 'Babbo', I'll give you a dagger",
+  "en": "{C0F04}Once I get 'Babbo', I'll give you a Dagger",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_BIN03:008c0",
   "jp": "{C0F04}ダ・メ！",
-  "en": "{C0F04}No. Way!",
+  "en": "{C0F04}No~pe!",
   "call": "MswStr",
   "box": 50,
   "line": 1,

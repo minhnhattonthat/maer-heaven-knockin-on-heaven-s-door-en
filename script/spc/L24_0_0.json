@@ -62,7 +62,7 @@
  {
   "id": "L24_0_0:00b4a",
   "jp": "…こっちにもあるぞ！",
-  "en": "...There's more over here! The open one",
+  "en": "...There's one here too! The open ones...",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "L24_0_0:00b6a",
   "jp": "あいているのが、ひとつに…",
-  "en": "makes one...",
+  "en": "that's one...",
   "call": "MswStr",
   "box": 65,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "L24_0_0:01d72",
   "jp": "（で、ですのん…）",
-  "en": "(Wh-what's with all the nonn...)",
+  "en": "(N-n-nonn...)",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "L24_0_0:01fb4",
   "jp": "（な、なんか変わったしゃべりかただな",
-  "en": "(Wh-what a weird way of talkin'... It's",
+  "en": "(Wh-what a weird way of talking... It's",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "L24_0_0:01fe4",
   "jp": "　あたまがクラクラしてきた…）",
-  "en": "makin' my head spin...)",
+  "en": "making my head spin...)",
   "call": "MswStr",
   "box": 167,
   "line": 2,

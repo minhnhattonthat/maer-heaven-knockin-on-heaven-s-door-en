@@ -10,7 +10,7 @@
  {
   "id": "EV_JA04B:00613",
   "jp": "{C0F04}生きてたからいいものの！",
-  "en": "{C0F04}You're lucky you're still alive! You could've",
+  "en": "{C0F04}You're lucky you're alive, young man! You",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_JA04B:0063e",
   "jp": "死んでたかもしれないんだよ！",
-  "en": "been killed!",
+  "en": "could've been killed!",
   "call": "MswStr",
   "box": 37,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_JA04B:00971",
   "jp": "{C0F04}（母ちゃん…か）",
-  "en": "{C0F04}(A mom, huh...)",
+  "en": "{C0F04}(Mom, huh...)",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_JA04B:00b2c",
   "jp": "{C0F04}何スか？",
-  "en": "{C0F04}Yeah, what's up?",
+  "en": "{C0F04}Whatcha need?",
   "call": "MswStr",
   "box": 63,
   "line": 1,

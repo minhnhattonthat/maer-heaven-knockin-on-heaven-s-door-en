@@ -88,7 +88,7 @@
  {
   "id": "G_EV050:01049",
   "jp": "{C0F04}なんや、とうぞくダマシイを",
-  "en": "{C0F04}Man, that ÄRM sure gets a thief's",
+  "en": "{C0F04}Man, that ÄRM's story sure gets a thief's",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV050:01801",
   "jp": "{C0F04}なんかワクワクするで！",
-  "en": "{C0F04}this's got me all fired up!",
+  "en": "{C0F04}somethin' about this is gettin' me all",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV050:0182a",
   "jp": "",
-  "en": "",
+  "en": "fired up!",
   "call": "MswStr",
   "box": 122,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV050:01963",
   "jp": "{C0F04}というわけでよろしくな！",
-  "en": "{C0F04}So that's that. Nice ta meet ya, Marl!!",
+  "en": "{C0F04}So there ya go! Nice ta meet ya, Marl!!",
   "call": "MswStr",
   "box": 128,
   "line": 1,

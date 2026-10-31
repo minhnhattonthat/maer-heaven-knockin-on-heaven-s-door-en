@@ -218,7 +218,7 @@
  {
   "id": "EV_T1KIL:010e0",
   "jp": "{C0F04}これは『うで』のパーツだ…",
-  "en": "{C0F04}This is the 'Arms' part... If the seal on the",
+  "en": "{C0F04}This is the 'Arms' part. If the seal on the",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_T1KIL:0110d",
   "jp": "うでの封印をといた、ということは…",
-  "en": "'Arms' is broken, that means...",
+  "en": "Arms is broken, then...",
   "call": "MswStr",
   "box": 91,
   "line": 2,

@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE10:01d27",
   "jp": "{C0F04}ねばったじゃねぇか…",
-  "en": "{C0F04}You held out pretty good... I'll give ya that.",
+  "en": "{C0F04}You hung in there, didn't ya... I'll give",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_ICE10:01d4e",
   "jp": "ほめてやるぜ",
-  "en": " ",
+  "en": "ya that.",
   "call": "MswStr",
   "box": 161,
   "line": 2,

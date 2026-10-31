@@ -10,7 +10,7 @@
  {
   "id": "G_EV025B:003a8",
   "jp": "{C0F04}ちっとは役にたつように",
-  "en": "{C0F04}Looks like you finally got a little useful.",
+  "en": "{C0F04}Looks like you've finally started bein' a",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV025B:003d1",
   "jp": "なったみてーだな",
-  "en": " ",
+  "en": "little useful.",
   "call": "MswStr",
   "box": 17,
   "line": 2,
@@ -763,7 +763,7 @@
  {
   "id": "G_EV025B:02baf",
   "jp": "クロスガードぐんが、すごくよわっている…",
-  "en": "Chess Pieces 6 years ago is so weak now...",
+  "en": "Chess Pieces six years ago is so weak...",
   "call": "MswStr",
   "box": 236,
   "line": 2,
@@ -832,7 +832,7 @@
  {
   "id": "G_EV025B:02ec7",
   "jp": "{C0F04}チームのなまえ…",
-  "en": "{C0F04}Our team's name... the eight warriors who",
+  "en": "{C0F04}Our team's name... we're the eight warriors",
   "call": "MswStr",
   "box": 250,
   "line": 1,
@@ -841,7 +841,7 @@
  {
   "id": "G_EV025B:02eea",
   "jp": "メルヘヴンをすくう八戦士で！",
-  "en": "save MÄR Heaven...",
+  "en": "who save MÄR Heaven, so...",
   "call": "MswStr",
   "box": 250,
   "line": 2,

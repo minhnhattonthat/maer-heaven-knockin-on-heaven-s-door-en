@@ -36,7 +36,7 @@
  {
   "id": "SP_M26_5:0029e",
   "jp": "{C0F04}こう足場がわるくちゃ",
-  "en": "{C0F04}With footing this bad, Ginta, there's nothing",
+  "en": "{C0F04}With footing this bad, Ginta, someone like",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SP_M26_5:002c5",
   "jp": "ギンタ、おまえじゃどうしようもないだろ",
-  "en": "you can do.",
+  "en": "you can't do a thing.",
   "call": "MswStr",
   "box": 17,
   "line": 2,
@@ -214,7 +214,7 @@
  {
   "id": "SP_M26_5:01303",
   "jp": "{C0F04}ここはわたしのでばんだよ！",
-  "en": "{C0F04}This is my time to shine!",
+  "en": "{C0F04}It's my turn now!",
   "call": "MswStr",
   "box": 130,
   "line": 1,

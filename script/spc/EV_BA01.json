@@ -140,7 +140,7 @@
  {
   "id": "EV_BA01:01089",
   "jp": "{C0F04}なんじゃい、おまえは",
-  "en": "{C0F04}And who might you be?",
+  "en": "{C0F04}Hmph! And who might you be?",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "EV_BA01:020ed",
   "jp": "{C0F04}いやじゃ、ワシはまだ寝るんじゃ",
-  "en": "{C0F04}I refuse. I am going back to sleep.",
+  "en": "{C0F04}I will not! I am going back to sleep.",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -476,7 +476,7 @@
  {
   "id": "EV_BA01:0256c",
   "jp": "{C0904}バッボ{C0F04}の{C0904}Ｂ{C0F04}とおぼえるがよい",
-  "en": "{C0904}Babbo{C0F04} begins with {C0904}B{C0F04}, so remember it well!",
+  "en": "{C0904}Babbo{C0F04} starts with {C0904}B{C0F04}, so remember it well!",
   "call": "MswStr",
   "box": 208,
   "line": 1,

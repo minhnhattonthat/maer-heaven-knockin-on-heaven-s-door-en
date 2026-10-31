@@ -13,12 +13,14 @@ helps most.
 
 | Part | Status |
 |---|---|
-| Dialogue / story | Not started |
-| Menus, items, ARMs, system messages | Not started |
-| Title screen, logos, graphics with text | Not started |
-| Credits roll | Not started |
+| Dialogue / story | Translated (all 12 chapters, story-pass reviewed) |
+| Menus, items, ÄRM, system messages | Translated |
+| Title screen, logos, graphics with text | Translated (redrawn) |
+| Credits roll | Translated (names romanised) |
+| Debug chapter select (not reachable in normal play) | Left in Japanese |
 
-Work in progress: no patch yet. Known issues: see [Issues](../../issues).
+Known issues: see [Issues](../../issues). A few graphics with text (area name cards, recipe/password prompts,
+link-cable messages) were only checked in a preview, not in game.
 
 ## What's here
 

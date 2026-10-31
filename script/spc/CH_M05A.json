@@ -10,7 +10,7 @@
  {
   "id": "CH_M05A:001d4",
   "jp": "{C0F04}エドにとっくんの成果を",
-  "en": "{C0F04}Show Ed what all that training was for!",
+  "en": "{C0F04}Show Ed the results of all your training!",
   "call": "MswStr",
   "box": 12,
   "line": 1,

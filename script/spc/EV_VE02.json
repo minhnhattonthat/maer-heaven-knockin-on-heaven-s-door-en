@@ -62,7 +62,7 @@
  {
   "id": "EV_VE02:00b11",
   "jp": "{C0F04}…行くか、ギンタ！！",
-  "en": "{C0F04}...Shall we go, Ginta!!",
+  "en": "{C0F04}...Ready ta roll, Ginta!!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -372,7 +372,7 @@
  {
   "id": "EV_VE02:0157a",
   "jp": "{C0F04}ああ！カタキをとってくるよ！",
-  "en": "{C0F04}Yeah! We'll pay them back for you!",
+  "en": "{C0F04}Yeah! We'll avenge you!",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -424,7 +424,7 @@
  {
   "id": "EV_VE02:01c23",
   "jp": "{C0F04}はい！！",
-  "en": "{C0F04}Yes!!",
+  "en": "{C0F04}Yes, Princess!!",
   "call": "MswStr",
   "box": 151,
   "line": 1,

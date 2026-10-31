@@ -270,7 +270,7 @@
  {
   "id": "EV_GO05:00f08",
   "jp": "{C0F04}ギロム…とか言ってたわね…",
-  "en": "{C0F04}He said something about a Girom... I wonder",
+  "en": "{C0F04}He mentioned somebody called Girom, didn't",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_GO05:00f35",
   "jp": "ギンタンのほうにいるのかしら？",
-  "en": "if he's over by Gintan?",
+  "en": "he... I wonder if he's over by Gintan?",
   "call": "MswStr",
   "box": 81,
   "line": 2,

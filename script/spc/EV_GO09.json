@@ -140,7 +140,7 @@
  {
   "id": "EV_GO09:00d63",
   "jp": "{C0F04}のこのこでてきやがって…",
-  "en": "{C0F04}Waltzin' right out here... You ready to get",
+  "en": "{C0F04}Waltzin' right out here... Ya ready to get",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GO09:00d8e",
   "jp": "ぶっころされるかくごできてんのかぁ！？",
-  "en": "smashed to bits!?",
+  "en": "yourself killed!?",
   "call": "MswStr",
   "box": 76,
   "line": 2,

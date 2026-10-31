@@ -485,7 +485,7 @@
  {
   "id": "code:088650",
   "jp": "彫金材料がわかりましたのん！",
-  "en": "I know its engraving materials now, nonn!",
+  "en": "I figured out its engraving materials, nonn!",
   "slot": 32,
   "refs": [
    "1b0898"
@@ -539,7 +539,7 @@
  {
   "id": "code:0886c8",
   "jp": "Ｐで買いとります。",
-  "en": "P is my offer.",
+  "en": "P, that's my offer.",
   "slot": 20,
   "refs": [
    "1b0880"
@@ -665,7 +665,7 @@
  {
   "id": "code:0887c4",
   "jp": "だれにつかう？",
-  "en": "Use it on who?",
+  "en": "Who do you use it on?",
   "slot": 20,
   "refs": [
    "1b08b8"
@@ -1165,7 +1165,7 @@
  {
   "id": "code:089338",
   "jp": "強制的にタイトルに戻ります。",
-  "en": "will send you back to the title screen.",
+  "en": "will force you back to the title screen.",
   "slot": 32,
   "refs": [
    "1bf3cc"

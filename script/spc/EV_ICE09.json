@@ -582,7 +582,7 @@
  {
   "id": "EV_ICE09:02645",
   "jp": "{C0F04}かよわき少女をいたぶる",
-  "en": "{C0F04}Barbarians, tormenting a frail young girl!!",
+  "en": "{C0F04}You barbarians, tormenting a frail",
   "call": "MswStr",
   "box": 207,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_ICE09:0266e",
   "jp": "やばん人め！！",
-  "en": " ",
+  "en": "young girl!!",
   "call": "MswStr",
   "box": 207,
   "line": 2,
@@ -747,7 +747,7 @@
  {
   "id": "EV_ICE09:02c06",
   "jp": "『ちゃん』づけはやめてください",
-  "en": "please stop calling me \"-chan.\"",
+  "en": "please stop calling me '-chan.'",
   "call": "MswStr",
   "box": 233,
   "line": 2,
@@ -868,7 +868,7 @@
  {
   "id": "EV_ICE09:0350a",
   "jp": "{C0F04}オレはイアン…！",
-  "en": "{C0F04}I'm Ian...! One of the Chess Pieces~~~!",
+  "en": "{C0F04}I'm Ian...! One of the Chess Pieces,",
   "call": "MswStr",
   "box": 281,
   "line": 1,
@@ -877,7 +877,7 @@
  {
   "id": "EV_ICE09:0352d",
   "jp": "チェスの兵隊だよ～～～ん♪",
-  "en": " ",
+  "en": "that's me~~~!",
   "call": "MswStr",
   "box": 281,
   "line": 2,

@@ -88,7 +88,7 @@
  {
   "id": "HI_M24:008aa",
   "jp": "{C0F04}…ヴェストリにこんなばしょが",
-  "en": "{C0F04}...Never heard of a place like this bein' in",
+  "en": "{C0F04}...Ain't never heard of a place like this in",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "HI_M24:008d9",
   "jp": "あったなんて、きいたことないで？",
-  "en": "Vestry, y'know?",
+  "en": "Vestry, nope.",
   "call": "MswStr",
   "box": 49,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "EV_GTOB2:00205",
   "jp": "{C0F04}いや、助かった、すまなかったな、ギンタ！",
-  "en": "{C0F04}Ah, you saved me. My apologies, Ginta!",
+  "en": "{C0F04}Ah, I am saved! My apologies, Ginta!",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GTOB2:00352",
   "jp": "{C0F04}いやー、オレも…",
-  "en": "{C0F04}Aw, nah, I was just...",
+  "en": "{C0F04}Aw, nah, I...",
   "call": "MswStr",
   "box": 20,
   "line": 1,

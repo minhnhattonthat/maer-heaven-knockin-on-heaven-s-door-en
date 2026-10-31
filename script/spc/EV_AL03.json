@@ -62,7 +62,7 @@
  {
   "id": "EV_AL03:0097c",
   "jp": "{C0F04}…つ！",
-  "en": "{C0F04}Tch! Swinging his fists with nothing but",
+  "en": "{C0F04}Ngh...! Swinging his fists with nothing but",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_AL03:00a66",
   "jp": "{C0F04}（どうもこのバッボ…",
-  "en": "{C0F04}(This Babbo... it's like he's a",
+  "en": "{C0F04}(This Babbo... he acts like he has a mind of",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_AL03:00a8d",
   "jp": "　別人格のようだな）",
-  "en": "different person.)",
+  "en": "his own.)",
   "call": "MswStr",
   "box": 57,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_AL03:00b1e",
   "jp": "{C0F04}こ、こわさないでくれよ",
-  "en": "{C0F04}D-don't break him, please.",
+  "en": "{C0F04}D-don't break him!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_AL03:00b8e",
   "jp": "{C0F04}こんなヤツでも",
-  "en": "{C0F04}He may be like this, but he's m-my... friend...",
+  "en": "{C0F04}He may be like this, but he's m-my... buddy...",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_AL03:01553",
   "jp": "{C0F04}あ！こらまて！！",
-  "en": "{C0F04}Ah! Hey, wait!!",
+  "en": "{C0F04}Ah! You there, wait!!",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_AL03:01d9b",
   "jp": "{C0F04}なっさけないのぉ",
-  "en": "{C0F04}How pathetic! Beaten by such a fledgling!",
+  "en": "{C0F04}Hmph! How pathetic! Beaten by such",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_AL03:01dbe",
   "jp": "あんなヒヨッコにたおされて！",
-  "en": " ",
+  "en": "a fledgling!",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -738,7 +738,7 @@
  {
   "id": "EV_AL03:02530",
   "jp": "{C0F04}（信じたんじゃなくて",
-  "en": "{C0F04}(He doesn't trust me... he's testing me...)",
+  "en": "{C0F04}(He didn't trust me... he's testing me...)",
   "call": "MswStr",
   "box": 199,
   "line": 1,

@@ -530,7 +530,7 @@
  {
   "id": "EV_JA01:032b6",
   "jp": "{C0F04}ギンタのやつ、畑に入るなり",
-  "en": "{C0F04}The moment Ginta set foot in the field, he",
+  "en": "{C0F04}That Ginta fellow set foot in the field and",
   "call": "MswStr",
   "box": 290,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_JA01:032e3",
   "jp": "野菜を食ってしまってな！",
-  "en": "started eating the vegetables!",
+  "en": "started devouring the vegetables at once!",
   "call": "MswStr",
   "box": 290,
   "line": 2,
@@ -972,7 +972,7 @@
  {
   "id": "EV_JA01:0448d",
   "jp": "{C0F04}くそ！！",
-  "en": "{C0F04}Darn it!!",
+  "en": "{C0F04}Dang it!!",
   "call": "MswStr",
   "box": 376,
   "line": 1,

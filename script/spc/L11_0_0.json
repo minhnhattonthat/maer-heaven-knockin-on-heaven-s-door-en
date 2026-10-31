@@ -114,7 +114,7 @@
  {
   "id": "L11_0_0:00e4b",
   "jp": "うむ！サルはサルなりに",
-  "en": "Hmm! For a monkey, you did well!",
+  "en": "Hmm! For a monkey, you did quite well!",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "L11_0_0:01111",
   "jp": "まったくっスね",
-  "en": "You said it.",
+  "en": "You said it, y'know!",
   "call": "MswStr",
   "box": 99,
   "line": 1,

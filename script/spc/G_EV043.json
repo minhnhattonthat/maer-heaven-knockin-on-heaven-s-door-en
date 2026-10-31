@@ -114,7 +114,7 @@
  {
   "id": "G_EV043:00a98",
   "jp": "{C0F04}もうすぐ日もおちますゆえ…",
-  "en": "{C0F04}The sun will soon be setting...",
+  "en": "{C0F04}The sun will soon be setting, so...",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV043:011cf",
   "jp": "{C0F04}…バカものめ…",
-  "en": "{C0F04}...Foolish man...",
+  "en": "{C0F04}...You fool...",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV043:01275",
   "jp": "{C0F04}おまえもすこしは",
-  "en": "{C0F04}You might try acting a bit more like",
+  "en": "{C0F04}You would do well to act more like a",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV043:01298",
   "jp": "紳士（しんし）らしくなれ！",
-  "en": "a gentleman!",
+  "en": "gentleman yourself!",
   "call": "MswStr",
   "box": 98,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV043:01337",
   "jp": "{C0F04}いちばん紳士じゃない",
-  "en": "{C0F04}I don't wanna hear that from you, the least",
+  "en": "{C0F04}I ain't takin' that from the least gentlemanly",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV043:0135e",
   "jp": "おまえさんに、いわれとーないわ",
-  "en": "gentlemanly of the lot!",
+  "en": "guy here!",
   "call": "MswStr",
   "box": 101,
   "line": 2,

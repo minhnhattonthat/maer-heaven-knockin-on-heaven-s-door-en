@@ -218,7 +218,7 @@
  {
   "id": "EV_AL02B:0164c",
   "jp": "{C0904}『門ばんピエロ』{C0F04}をつかって",
-  "en": "{C0904}The 'Gatekeeper Clown'{C0F04} is what I used to",
+  "en": "{C0904}'Gatekeeper Clown'{C0F04}: I used it to summon a",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_AL02B:01680",
   "jp": "いせかいの住人をよびだした",
-  "en": "call a dweller of the other world.",
+  "en": "dweller of the other world.",
   "call": "MswStr",
   "box": 122,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_AL02B:01f37",
   "jp": "{C0904}チェス{C0F04}…{C0904}の{C0F04}　…{C0904}コマ{C0F04}？？",
-  "en": "{C0904}Chess{C0F04}...{C0904}Pie{C0F04} ...{C0904}ces{C0F04}??",
+  "en": "{C0904}The{C0F04}... {C0904}Chess{C0F04}... {C0904}Pieces{C0F04}??",
   "call": "MswStr",
   "box": 162,
   "line": 1,

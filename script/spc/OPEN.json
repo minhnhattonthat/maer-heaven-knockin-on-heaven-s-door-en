@@ -886,7 +886,7 @@
  {
   "id": "OPEN:02478",
   "jp": "だって、今日見たユメで",
-  "en": "Well, today's dream makes 103",
+  "en": "'Cause today's dream makes 103",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -1118,7 +1118,7 @@
  {
   "id": "OPEN:02d04",
   "jp": "見えテル",
-  "en": "Looks like you can SEE it, hmmm??",
+  "en": "Looks like you can SEEE it, hmmm??",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -1274,7 +1274,7 @@
  {
   "id": "OPEN:03061",
   "jp": "バカ何いってるんだギンタ！！",
-  "en": "Are you nuts, Ginta?! Get back here, quick!!",
+  "en": "Are you stupid, Ginta?! Get back",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -1283,7 +1283,7 @@
  {
   "id": "OPEN:03089",
   "jp": "早くもどってこい！！",
-  "en": " ",
+  "en": "here, quick!!",
   "call": "MswStr",
   "box": 258,
   "line": 2,
@@ -1456,7 +1456,7 @@
  {
   "id": "OPEN:033be",
   "jp": "（止まらねぇ！！！）",
-  "en": "(I can't stand it!!!)",
+  "en": "(It just won't stop!!!)",
   "call": "MswStr",
   "box": 273,
   "line": 1,

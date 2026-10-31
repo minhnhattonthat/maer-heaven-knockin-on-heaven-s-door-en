@@ -192,7 +192,7 @@
  {
   "id": "EV_GO01:00b0e",
   "jp": "{C0F04}少しは手ごたえのあるヤツと",
-  "en": "{C0F04}Looks like I finally get to fight somebody",
+  "en": "{C0F04}Looks like I get to fight somebody with at",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO01:00b3b",
   "jp": "たたかえそうだぜ！！",
-  "en": "with a little bite!!",
+  "en": "least a little bite!!",
   "call": "MswStr",
   "box": 63,
   "line": 2,

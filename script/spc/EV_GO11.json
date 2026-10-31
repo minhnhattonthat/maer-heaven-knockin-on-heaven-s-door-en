@@ -504,7 +504,7 @@
  {
   "id": "EV_GO11:01e4d",
   "jp": "{C0F04}…ÄＲＭをさしあげましょう…",
-  "en": "{C0F04}...we give you these ÄRM...",
+  "en": "{C0F04}...please accept this ÄRM...",
   "call": "MswStr",
   "box": 170,
   "line": 1,

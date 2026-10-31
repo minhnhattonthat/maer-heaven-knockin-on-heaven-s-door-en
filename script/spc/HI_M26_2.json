@@ -36,7 +36,7 @@
  {
   "id": "HI_M26_2:00316",
   "jp": "…むぅ…かんじる！かんじるぞ！！",
-  "en": "...Mmm... I sense it! I sense it! I sense a",
+  "en": "...Mmm... I sense it! I sense it!! I sense",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M26_2:00342",
   "jp": "つよい魔力（まりょく）をかんじる！",
-  "en": "powerful magic power!",
+  "en": "strong magic power!",
   "call": "MswStr",
   "box": 19,
   "line": 2,

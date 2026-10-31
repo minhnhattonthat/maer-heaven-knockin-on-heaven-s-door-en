@@ -580,7 +580,7 @@
  {
   "id": "END2:02f88",
   "jp": "うん♥",
-  "en": "Good♥",
+  "en": "Mm-hm♥",
   "call": "MswStr",
   "box": 265,
   "line": 1,
@@ -684,7 +684,7 @@
  {
   "id": "END2:03373",
   "jp": "いつか、ギンタがわたしに",
-  "en": "Once, Ginta, you said something to me.",
+  "en": "You once said something to me,",
   "call": "MswStr",
   "box": 286,
   "line": 1,
@@ -693,7 +693,7 @@
  {
   "id": "END2:03397",
   "jp": "いってくれたことがあったよね",
-  "en": " ",
+  "en": "Ginta, remember?",
   "call": "MswStr",
   "box": 286,
   "line": 2,
@@ -892,7 +892,7 @@
  {
   "id": "END2:03d97",
   "jp": "エドをもどしてあげられるかも…",
-  "en": "Whether I can ever bring Ed back... I'm so",
+  "en": "Whether I can ever change Ed back... I'm so",
   "call": "MswStr",
   "box": 334,
   "line": 1,
@@ -1074,7 +1074,7 @@
  {
   "id": "END2:04665",
   "jp": "…って",
-  "en": "...That's... what I've decided!",
+  "en": "...That's... what I think!",
   "call": "MswStr",
   "box": 377,
   "line": 1,
@@ -1265,7 +1265,7 @@
  {
   "id": "END2:04d0e",
   "jp": "まってるヤツらにわらわれちまう",
-  "en": "for me's gonna laugh at me.",
+  "en": "for me is gonna laugh at me.",
   "call": "MswStr",
   "box": 409,
   "line": 2,
@@ -1360,7 +1360,7 @@
  {
   "id": "END2:05054",
   "jp": "……うん！",
-  "en": "......Yeah! Now you sound like the real",
+  "en": "......Yeah! You're finally acting like the real",
   "call": "MswStr",
   "box": 423,
   "line": 1,

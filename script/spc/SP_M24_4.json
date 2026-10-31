@@ -242,7 +242,7 @@
  {
   "id": "SP_M24_4:01f38",
   "jp": "{C0F04}うわぁ…！",
-  "en": "{C0F04}Whoa...!",
+  "en": "{C0F04}Oh my...!",
   "call": "MswStr",
   "box": 187,
   "line": 1,
@@ -346,7 +346,7 @@
  {
   "id": "SP_M24_4:02d69",
   "jp": "{C0F04}やっぱりこんなデッカイ氷",
-  "en": "{C0F04}Yeah, tryin' to climb over ice this huge was",
+  "en": "{C0F04}Yeah, trying to cross over ice this huge was",
   "call": "MswStr",
   "box": 278,
   "line": 1,
@@ -372,7 +372,7 @@
  {
   "id": "SP_M24_4:02e97",
   "jp": "{C0F04}まったくっスね",
-  "en": "{C0F04}Ya got that right!",
+  "en": "{C0F04}You said it, y'know!",
   "call": "MswStr",
   "box": 283,
   "line": 1,

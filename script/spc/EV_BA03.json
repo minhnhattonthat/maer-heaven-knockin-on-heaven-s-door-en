@@ -268,7 +268,7 @@
  {
   "id": "EV_BA03:008dd",
   "jp": "{C0904}シンクロゲージ{C0F04}が光ったら",
-  "en": "{C0904}The Synchro Gauge{C0F04} lighting up is your sign",
+  "en": "{C0904}Synchro Gauge{C0F04} glowing? That's your sign",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -277,7 +277,7 @@
  {
   "id": "EV_BA03:0090f",
   "jp": "ÄＲＭを使える合図よ",
-  "en": "that the ÄRM is ready.",
+  "en": "you can use an ÄRM!",
   "call": "MswStr",
   "box": 42,
   "line": 2,

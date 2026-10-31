@@ -88,7 +88,7 @@
  {
   "id": "CH_M09A:003d3",
   "jp": "{C0F04}ÄＲＭにはそれぞれ、魔力コストが",
-  "en": "{C0F04}Every ÄRM has its own magic power cost,",
+  "en": "{C0F04}Every ÄRM has its own set magic",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "CH_M09A:00406",
   "jp": "きまっているの",
-  "en": "you know.",
+  "en": "power cost.",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "CH_M09A:01035",
   "jp": "{C0F04}ここはパヅタウンのいちばよ",
-  "en": "{C0F04}This is the Paz Town market!",
+  "en": "{C0F04}This is the Paz Town market, dear!",
   "call": "MswStr",
   "box": 88,
   "line": 1,

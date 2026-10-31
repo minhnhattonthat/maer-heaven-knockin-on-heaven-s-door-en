@@ -296,7 +296,7 @@
  {
   "id": "G_EV007:00e7f",
   "jp": "{C0F04}かってに決めるなブス！",
-  "en": "{C0F04}Who asked you, you ugly hag!",
+  "en": "{C0F04}Do not presume to decide for us, you",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV007:00ea8",
   "jp": "",
-  "en": "",
+  "en": "ugly hag!",
   "call": "MswStr",
   "box": 70,
   "line": 2,

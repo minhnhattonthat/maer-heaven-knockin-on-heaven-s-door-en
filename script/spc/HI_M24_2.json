@@ -62,7 +62,7 @@
  {
   "id": "HI_M24_2:00451",
   "jp": "{C0F04}ギンタ！！",
-  "en": "{C0F04}Ginta!! Careful now!!",
+  "en": "{C0F04}Ginta!! Watch yourself, y'know!!",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "HI_M24_2:0173a",
   "jp": "{C0F04}つかいこなすことが",
-  "en": "{C0F04}...and used with real skill, too.",
+  "en": "{C0F04}...and mastered, too.",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "HI_M24_2:018b2",
   "jp": "{C0F04}おまえ、そのÄＲＭ手に入れて",
-  "en": "{C0F04}And what are you planning to do once you",
+  "en": "{C0F04}You... what're you gonna do once you get",
   "call": "MswStr",
   "box": 126,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "HI_M24_2:018e1",
   "jp": "どうするつもりなんだ？",
-  "en": "get that ÄRM?",
+  "en": "that ÄRM?",
   "call": "MswStr",
   "box": 126,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "HI_M24_2:019d6",
   "jp": "{C0F04}もちろん、チェスとたたかいます！！",
-  "en": "{C0F04}Fight the Chess, of course!!",
+  "en": "{C0F04}I'll fight the Chess, of course!!",
   "call": "MswStr",
   "box": 131,
   "line": 1,

@@ -23,7 +23,7 @@
  {
   "id": "arm001.desc",
   "jp": "生きている、ふしぎなアーム",
-  "en": "A strange ÄRM that's alive",
+  "en": "A mysterious living ÄRM",
   "addr": "1b0a1e",
   "max": 33
  },
@@ -135,7 +135,7 @@
  {
   "id": "arm009.desc",
   "jp": "スコップをブーメランにしてとばす",
-  "en": "Throws a boomerang shovel",
+  "en": "Hurls the shovel as a boomerang",
   "addr": "1b0e1e",
   "max": 33
  },
@@ -149,7 +149,7 @@
  {
   "id": "arm010.desc",
   "jp": "スコップをドリルにしてぶつける",
-  "en": "Turns the shovel into a drill",
+  "en": "Rams foes with a drill shovel",
   "addr": "1b0e9e",
   "max": 33
  },
@@ -639,7 +639,7 @@
  {
   "id": "arm045.desc",
   "jp": "とってもかわいいガイドさん",
-  "en": "A super cute guide-san",
+  "en": "A super cute guide",
   "addr": "1b201e",
   "max": 33
  },
@@ -751,7 +751,7 @@
  {
   "id": "arm053.desc",
   "jp": "味方全員の体力が回復か半分に…",
-  "en": "All allies' HP: full or halved...",
+  "en": "Heals or halves all allies' HP...",
   "addr": "1b241e",
   "max": 33
  },
@@ -1213,7 +1213,7 @@
  {
   "id": "arm086.desc",
   "jp": "前向きにナイフで刺す",
-  "en": "Stabs straight ahead with a knife",
+  "en": "Stabs ahead with a knife",
   "addr": "1b349e",
   "max": 33
  },
@@ -1227,7 +1227,7 @@
  {
   "id": "arm087.desc",
   "jp": "前向きにこん棒でなぐる",
-  "en": "Swings a club straight ahead",
+  "en": "Swings a club ahead",
   "addr": "1b351e",
   "max": 33
  },
@@ -1241,7 +1241,7 @@
  {
   "id": "arm088.desc",
   "jp": "前向きに剣で斬る",
-  "en": "Sword slash straight ahead",
+  "en": "Cuts ahead with a sword",
   "addr": "1b359e",
   "max": 33
  },
@@ -1311,7 +1311,7 @@
  {
   "id": "arm093.desc",
   "jp": "前向きに水属性の剣で斬る",
-  "en": "Water sword slash ahead",
+  "en": "Cuts ahead with a Water sword",
   "addr": "1b381e",
   "max": 33
  },
@@ -1381,7 +1381,7 @@
  {
   "id": "arm098.desc",
   "jp": "前向きに火属性の剣で斬る",
-  "en": "Fire sword slash ahead",
+  "en": "Cuts ahead with a Fire sword",
   "addr": "1b3a9e",
   "max": 33
  },
@@ -1451,7 +1451,7 @@
  {
   "id": "arm103.desc",
   "jp": "前向きに木属性の剣で斬る",
-  "en": "Leaf sword slash ahead",
+  "en": "Cuts ahead with a Leaf sword",
   "addr": "1b3d1e",
   "max": 33
  },
@@ -1521,7 +1521,7 @@
  {
   "id": "arm108.desc",
   "jp": "前向きに風属性の剣で斬る",
-  "en": "Wind sword slash ahead",
+  "en": "Cuts ahead with a Wind sword",
   "addr": "1b3f9e",
   "max": 33
  },
@@ -1591,7 +1591,7 @@
  {
   "id": "arm113.desc",
   "jp": "前向きに地属性の剣で斬る",
-  "en": "Earth sword slash ahead",
+  "en": "Cuts ahead with an Earth sword",
   "addr": "1b421e",
   "max": 33
  },
@@ -1661,7 +1661,7 @@
  {
   "id": "arm118.desc",
   "jp": "前向きに雷属性の剣で斬る",
-  "en": "Thunder sword slash ahead",
+  "en": "Cuts ahead with a Thunder sword",
   "addr": "1b449e",
   "max": 33
  },
@@ -1703,7 +1703,7 @@
  {
   "id": "arm121.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1b461e",
   "max": 33
  },
@@ -1717,7 +1717,7 @@
  {
   "id": "arm122.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1b469e",
   "max": 33
  },
@@ -1731,7 +1731,7 @@
  {
   "id": "arm123.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1b471e",
   "max": 33
  },
@@ -1745,7 +1745,7 @@
  {
   "id": "arm124.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1b479e",
   "max": 33
  },
@@ -1759,7 +1759,7 @@
  {
   "id": "arm125.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1b481e",
   "max": 33
  },
@@ -1773,7 +1773,7 @@
  {
   "id": "arm126.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1b489e",
   "max": 33
  },
@@ -1787,7 +1787,7 @@
  {
   "id": "arm127.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1b491e",
   "max": 33
  },
@@ -1801,7 +1801,7 @@
  {
   "id": "arm128.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1b499e",
   "max": 33
  },
@@ -1815,7 +1815,7 @@
  {
   "id": "arm129.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1b4a1e",
   "max": 33
  },
@@ -1829,7 +1829,7 @@
  {
   "id": "arm130.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1b4a9e",
   "max": 33
  },
@@ -1843,7 +1843,7 @@
  {
   "id": "arm131.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1b4b1e",
   "max": 33
  },
@@ -1857,7 +1857,7 @@
  {
   "id": "arm132.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1b4b9e",
   "max": 33
  },
@@ -1871,7 +1871,7 @@
  {
   "id": "arm133.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1b4c1e",
   "max": 33
  },
@@ -1885,7 +1885,7 @@
  {
   "id": "arm134.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1b4c9e",
   "max": 33
  },
@@ -1899,7 +1899,7 @@
  {
   "id": "arm135.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1b4d1e",
   "max": 33
  },
@@ -1913,7 +1913,7 @@
  {
   "id": "arm136.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1b4d9e",
   "max": 33
  },
@@ -1927,7 +1927,7 @@
  {
   "id": "arm137.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1b4e1e",
   "max": 33
  },
@@ -1941,7 +1941,7 @@
  {
   "id": "arm138.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1b4e9e",
   "max": 33
  },
@@ -1955,7 +1955,7 @@
  {
   "id": "arm139.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1b4f1e",
   "max": 33
  },
@@ -1969,7 +1969,7 @@
  {
   "id": "arm140.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1b4f9e",
   "max": 33
  },
@@ -1983,7 +1983,7 @@
  {
   "id": "arm141.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1b501e",
   "max": 33
  },
@@ -1997,7 +1997,7 @@
  {
   "id": "arm142.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1b509e",
   "max": 33
  },
@@ -2011,7 +2011,7 @@
  {
   "id": "arm143.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1b511e",
   "max": 33
  },
@@ -2025,7 +2025,7 @@
  {
   "id": "arm144.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1b519e",
   "max": 33
  },
@@ -2039,7 +2039,7 @@
  {
   "id": "arm145.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1b521e",
   "max": 33
  },
@@ -2053,7 +2053,7 @@
  {
   "id": "arm146.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1b529e",
   "max": 33
  },
@@ -2067,7 +2067,7 @@
  {
   "id": "arm147.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1b531e",
   "max": 33
  },
@@ -2081,7 +2081,7 @@
  {
   "id": "arm148.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1b539e",
   "max": 33
  },
@@ -2095,7 +2095,7 @@
  {
   "id": "arm149.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1b541e",
   "max": 33
  },
@@ -2109,7 +2109,7 @@
  {
   "id": "arm150.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1b549e",
   "max": 33
  },
@@ -2123,7 +2123,7 @@
  {
   "id": "arm151.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1b551e",
   "max": 33
  },
@@ -2137,7 +2137,7 @@
  {
   "id": "arm152.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1b559e",
   "max": 33
  },
@@ -2151,7 +2151,7 @@
  {
   "id": "arm153.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1b561e",
   "max": 33
  },
@@ -2165,7 +2165,7 @@
  {
   "id": "arm154.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1b569e",
   "max": 33
  },
@@ -2179,7 +2179,7 @@
  {
   "id": "arm155.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1b571e",
   "max": 33
  },
@@ -2193,7 +2193,7 @@
  {
   "id": "arm156.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1b579e",
   "max": 33
  },
@@ -2207,7 +2207,7 @@
  {
   "id": "arm157.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1b581e",
   "max": 33
  },
@@ -2221,7 +2221,7 @@
  {
   "id": "arm158.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1b589e",
   "max": 33
  },
@@ -2235,7 +2235,7 @@
  {
   "id": "arm159.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1b591e",
   "max": 33
  },
@@ -2249,7 +2249,7 @@
  {
   "id": "arm160.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1b599e",
   "max": 33
  },
@@ -2263,7 +2263,7 @@
  {
   "id": "arm161.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1b5a1e",
   "max": 33
  },
@@ -2277,7 +2277,7 @@
  {
   "id": "arm162.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1b5a9e",
   "max": 33
  },
@@ -2291,7 +2291,7 @@
  {
   "id": "arm163.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1b5b1e",
   "max": 33
  },
@@ -2305,7 +2305,7 @@
  {
   "id": "arm164.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1b5b9e",
   "max": 33
  },
@@ -2319,7 +2319,7 @@
  {
   "id": "arm165.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1b5c1e",
   "max": 33
  },
@@ -2333,7 +2333,7 @@
  {
   "id": "arm166.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1b5c9e",
   "max": 33
  },
@@ -2347,7 +2347,7 @@
  {
   "id": "arm167.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1b5d1e",
   "max": 33
  },
@@ -2361,7 +2361,7 @@
  {
   "id": "arm168.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1b5d9e",
   "max": 33
  },
@@ -2375,7 +2375,7 @@
  {
   "id": "arm169.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1b5e1e",
   "max": 33
  },
@@ -2389,7 +2389,7 @@
  {
   "id": "arm170.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1b5e9e",
   "max": 33
  },
@@ -2403,7 +2403,7 @@
  {
   "id": "arm171.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1b5f1e",
   "max": 33
  },
@@ -2417,7 +2417,7 @@
  {
   "id": "arm172.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1b5f9e",
   "max": 33
  },
@@ -2431,7 +2431,7 @@
  {
   "id": "arm173.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1b601e",
   "max": 33
  },
@@ -2445,7 +2445,7 @@
  {
   "id": "arm174.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1b609e",
   "max": 33
  },
@@ -2459,7 +2459,7 @@
  {
   "id": "arm175.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1b611e",
   "max": 33
  },
@@ -2473,7 +2473,7 @@
  {
   "id": "arm176.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1b619e",
   "max": 33
  },
@@ -2487,7 +2487,7 @@
  {
   "id": "arm177.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1b621e",
   "max": 33
  },
@@ -2501,7 +2501,7 @@
  {
   "id": "arm178.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1b629e",
   "max": 33
  },
@@ -2515,7 +2515,7 @@
  {
   "id": "arm179.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1b631e",
   "max": 33
  },
@@ -2529,7 +2529,7 @@
  {
   "id": "arm180.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1b639e",
   "max": 33
  },
@@ -2571,7 +2571,7 @@
  {
   "id": "arm183.desc",
   "jp": "ほぼ確実に戦闘から逃げられる",
-  "en": "Flees battle almost every time",
+  "en": "You almost always flee battle",
   "addr": "1b651e",
   "max": 33
  },
@@ -2599,7 +2599,7 @@
  {
   "id": "arm185.desc",
   "jp": "体力が０になると自動的に回復する",
-  "en": "Auto-revives when HP hits 0",
+  "en": "Auto-heals when HP hits 0",
   "addr": "1b661e",
   "max": 33
  },
@@ -2683,7 +2683,7 @@
  {
   "id": "arm191.desc",
   "jp": "ＣＬ１のÄＲＭを使えなくする",
-  "en": "Blocks use of CL1 ÄRM",
+  "en": "Seals CL1 ÄRM",
   "addr": "1b691e",
   "max": 33
  },
@@ -2697,7 +2697,7 @@
  {
   "id": "arm192.desc",
   "jp": "ＣＬ２以下のÄＲＭを使えなくする",
-  "en": "Blocks use of CL2-or-lower ÄRM",
+  "en": "Seals ÄRM of CL2 or lower",
   "addr": "1b699e",
   "max": 33
  },
@@ -2711,7 +2711,7 @@
  {
   "id": "arm193.desc",
   "jp": "ＣＬ３以下のÄＲＭを使えなくする",
-  "en": "Blocks use of CL3-or-lower ÄRM",
+  "en": "Seals ÄRM of CL3 or lower",
   "addr": "1b6a1e",
   "max": 33
  },
@@ -2725,7 +2725,7 @@
  {
   "id": "arm194.desc",
   "jp": "ＣＬ４以下のÄＲＭを使えなくする",
-  "en": "Blocks use of CL4-or-lower ÄRM",
+  "en": "Seals ÄRM of CL4 or lower",
   "addr": "1b6a9e",
   "max": 33
  },
@@ -3215,7 +3215,7 @@
  {
   "id": "arm229.desc",
   "jp": "インドラの電撃で１体が動作不能",
-  "en": "Indra's shock stuns one foe",
+  "en": "Indra's zap paralyzes a foe",
   "addr": "1b7c1e",
   "max": 33
  },
@@ -3229,7 +3229,7 @@
  {
   "id": "arm230.desc",
   "jp": "インドラの大電撃で１体が動作不能",
-  "en": "Indra's big shock stuns one foe",
+  "en": "Indra's big zap paralyzes a foe",
   "addr": "1b7c9e",
   "max": 33
  },
@@ -3243,7 +3243,7 @@
  {
   "id": "arm231.desc",
   "jp": "インドラの超電撃で１体が動作不能",
-  "en": "Indra's super shock stuns one foe",
+  "en": "Indra's super zap paralyzes a foe",
   "addr": "1b7d1e",
   "max": 33
  },
@@ -3411,7 +3411,7 @@
  {
   "id": "arm243.desc",
   "jp": "ツタを足に絡ませて動きを止める",
-  "en": "Vines wrap its legs to stop it",
+  "en": "Vines bind a foe's legs in place",
   "addr": "1b831e",
   "max": 33
  },
@@ -3425,7 +3425,7 @@
  {
   "id": "arm244.desc",
   "jp": "ツタを体に絡ませて動きを止める",
-  "en": "Vines wrap its body to stop it",
+  "en": "Vines bind a foe's body in place",
   "addr": "1b839e",
   "max": 33
  },
@@ -3663,7 +3663,7 @@
  {
   "id": "arm261.desc",
   "jp": "巨大雷をおとしまわりに放電させる",
-  "en": "Giant bolt that sparks all around",
+  "en": "Giant bolt drops, sparking around",
   "addr": "1b8c1e",
   "max": 33
  },
@@ -3677,7 +3677,7 @@
  {
   "id": "arm262.desc",
   "jp": "使用可能な敵のセットÄＲＭを使う",
-  "en": "Uses an enemy's usable set ÄRM",
+  "en": "Uses a foe's set ÄRM if usable",
   "addr": "1b8c9e",
   "max": 33
  },
@@ -4265,7 +4265,7 @@
  {
   "id": "arm304.desc",
   "jp": "ガーゴイルのパンチがさくれつ",
-  "en": "Gargoyle lands a mighty punch",
+  "en": "Gargoyle's punch explodes",
   "addr": "1ba19e",
   "max": 33
  },
@@ -4293,7 +4293,7 @@
  {
   "id": "arm306.desc",
   "jp": "すごいガーゴイル！",
-  "en": "One awesome Gargoyle!",
+  "en": "An awesome Gargoyle!",
   "addr": "1ba29e",
   "max": 33
  },
@@ -4503,7 +4503,7 @@
  {
   "id": "arm321.desc",
   "jp": "前向きにナイフで刺す",
-  "en": "Stabs straight ahead with a knife",
+  "en": "Stabs ahead with a knife",
   "addr": "1baa1e",
   "max": 33
  },
@@ -4517,7 +4517,7 @@
  {
   "id": "arm322.desc",
   "jp": "前向きにこん棒でなぐる",
-  "en": "Swings a club straight ahead",
+  "en": "Swings a club ahead",
   "addr": "1baa9e",
   "max": 33
  },
@@ -4531,7 +4531,7 @@
  {
   "id": "arm323.desc",
   "jp": "前向きに剣で斬る",
-  "en": "Sword slash straight ahead",
+  "en": "Cuts ahead with a sword",
   "addr": "1bab1e",
   "max": 33
  },
@@ -4601,7 +4601,7 @@
  {
   "id": "arm328.desc",
   "jp": "前向きに水属性の剣で斬る",
-  "en": "Water sword slash ahead",
+  "en": "Cuts ahead with a Water sword",
   "addr": "1bad9e",
   "max": 33
  },
@@ -4671,7 +4671,7 @@
  {
   "id": "arm333.desc",
   "jp": "前向きに火属性の剣で斬る",
-  "en": "Fire sword slash ahead",
+  "en": "Cuts ahead with a Fire sword",
   "addr": "1bb01e",
   "max": 33
  },
@@ -4741,7 +4741,7 @@
  {
   "id": "arm338.desc",
   "jp": "前向きに木属性の剣で斬る",
-  "en": "Leaf sword slash ahead",
+  "en": "Cuts ahead with a Leaf sword",
   "addr": "1bb29e",
   "max": 33
  },
@@ -4811,7 +4811,7 @@
  {
   "id": "arm343.desc",
   "jp": "前向きに風属性の剣で斬る",
-  "en": "Wind sword slash ahead",
+  "en": "Cuts ahead with a Wind sword",
   "addr": "1bb51e",
   "max": 33
  },
@@ -4881,7 +4881,7 @@
  {
   "id": "arm348.desc",
   "jp": "前向きに地属性の剣で斬る",
-  "en": "Earth sword slash ahead",
+  "en": "Cuts ahead with an Earth sword",
   "addr": "1bb79e",
   "max": 33
  },
@@ -4951,7 +4951,7 @@
  {
   "id": "arm353.desc",
   "jp": "前向きに雷属性の剣で斬る",
-  "en": "Thunder sword slash ahead",
+  "en": "Cuts ahead with a Thunder sword",
   "addr": "1bba1e",
   "max": 33
  },
@@ -4993,7 +4993,7 @@
  {
   "id": "arm356.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1bbb9e",
   "max": 33
  },
@@ -5007,7 +5007,7 @@
  {
   "id": "arm357.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1bbc1e",
   "max": 33
  },
@@ -5021,7 +5021,7 @@
  {
   "id": "arm358.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1bbc9e",
   "max": 33
  },
@@ -5035,7 +5035,7 @@
  {
   "id": "arm359.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "Attack up +Water type",
+  "en": "Attack up, now Water type",
   "addr": "1bbd1e",
   "max": 33
  },
@@ -5049,7 +5049,7 @@
  {
   "id": "arm360.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1bbd9e",
   "max": 33
  },
@@ -5063,7 +5063,7 @@
  {
   "id": "arm361.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1bbe1e",
   "max": 33
  },
@@ -5077,7 +5077,7 @@
  {
   "id": "arm362.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1bbe9e",
   "max": 33
  },
@@ -5091,7 +5091,7 @@
  {
   "id": "arm363.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "Attack up +Fire type",
+  "en": "Attack up, now Fire type",
   "addr": "1bbf1e",
   "max": 33
  },
@@ -5105,7 +5105,7 @@
  {
   "id": "arm364.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1bbf9e",
   "max": 33
  },
@@ -5119,7 +5119,7 @@
  {
   "id": "arm365.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1bc01e",
   "max": 33
  },
@@ -5133,7 +5133,7 @@
  {
   "id": "arm366.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1bc09e",
   "max": 33
  },
@@ -5147,7 +5147,7 @@
  {
   "id": "arm367.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "Attack up +Leaf type",
+  "en": "Attack up, now Leaf type",
   "addr": "1bc11e",
   "max": 33
  },
@@ -5161,7 +5161,7 @@
  {
   "id": "arm368.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1bc19e",
   "max": 33
  },
@@ -5175,7 +5175,7 @@
  {
   "id": "arm369.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1bc21e",
   "max": 33
  },
@@ -5189,7 +5189,7 @@
  {
   "id": "arm370.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1bc29e",
   "max": 33
  },
@@ -5203,7 +5203,7 @@
  {
   "id": "arm371.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "Attack up +Wind type",
+  "en": "Attack up, now Wind type",
   "addr": "1bc31e",
   "max": 33
  },
@@ -5217,7 +5217,7 @@
  {
   "id": "arm372.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1bc39e",
   "max": 33
  },
@@ -5231,7 +5231,7 @@
  {
   "id": "arm373.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1bc41e",
   "max": 33
  },
@@ -5245,7 +5245,7 @@
  {
   "id": "arm374.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1bc49e",
   "max": 33
  },
@@ -5259,7 +5259,7 @@
  {
   "id": "arm375.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "Attack up +Earth type",
+  "en": "Attack up, now Earth type",
   "addr": "1bc51e",
   "max": 33
  },
@@ -5273,7 +5273,7 @@
  {
   "id": "arm376.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1bc59e",
   "max": 33
  },
@@ -5287,7 +5287,7 @@
  {
   "id": "arm377.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1bc61e",
   "max": 33
  },
@@ -5301,7 +5301,7 @@
  {
   "id": "arm378.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1bc69e",
   "max": 33
  },
@@ -5315,7 +5315,7 @@
  {
   "id": "arm379.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "Attack up +Thunder type",
+  "en": "Attack up, now Thunder type",
   "addr": "1bc71e",
   "max": 33
  },
@@ -5329,7 +5329,7 @@
  {
   "id": "arm380.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1bc79e",
   "max": 33
  },
@@ -5343,7 +5343,7 @@
  {
   "id": "arm381.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1bc81e",
   "max": 33
  },
@@ -5357,7 +5357,7 @@
  {
   "id": "arm382.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1bc89e",
   "max": 33
  },
@@ -5371,7 +5371,7 @@
  {
   "id": "arm383.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "Defense up +Water type",
+  "en": "Defense up, now Water type",
   "addr": "1bc91e",
   "max": 33
  },
@@ -5385,7 +5385,7 @@
  {
   "id": "arm384.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1bc99e",
   "max": 33
  },
@@ -5399,7 +5399,7 @@
  {
   "id": "arm385.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1bca1e",
   "max": 33
  },
@@ -5413,7 +5413,7 @@
  {
   "id": "arm386.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1bca9e",
   "max": 33
  },
@@ -5427,7 +5427,7 @@
  {
   "id": "arm387.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "Defense up +Fire type",
+  "en": "Defense up, now Fire type",
   "addr": "1bcb1e",
   "max": 33
  },
@@ -5441,7 +5441,7 @@
  {
   "id": "arm388.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1bcb9e",
   "max": 33
  },
@@ -5455,7 +5455,7 @@
  {
   "id": "arm389.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1bcc1e",
   "max": 33
  },
@@ -5469,7 +5469,7 @@
  {
   "id": "arm390.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1bcc9e",
   "max": 33
  },
@@ -5483,7 +5483,7 @@
  {
   "id": "arm391.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "Defense up +Leaf type",
+  "en": "Defense up, now Leaf type",
   "addr": "1bcd1e",
   "max": 33
  },
@@ -5497,7 +5497,7 @@
  {
   "id": "arm392.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1bcd9e",
   "max": 33
  },
@@ -5511,7 +5511,7 @@
  {
   "id": "arm393.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1bce1e",
   "max": 33
  },
@@ -5525,7 +5525,7 @@
  {
   "id": "arm394.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1bce9e",
   "max": 33
  },
@@ -5539,7 +5539,7 @@
  {
   "id": "arm395.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "Defense up +Wind type",
+  "en": "Defense up, now Wind type",
   "addr": "1bcf1e",
   "max": 33
  },
@@ -5553,7 +5553,7 @@
  {
   "id": "arm396.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1bcf9e",
   "max": 33
  },
@@ -5567,7 +5567,7 @@
  {
   "id": "arm397.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1bd01e",
   "max": 33
  },
@@ -5581,7 +5581,7 @@
  {
   "id": "arm398.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1bd09e",
   "max": 33
  },
@@ -5595,7 +5595,7 @@
  {
   "id": "arm399.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "Defense up +Earth type",
+  "en": "Defense up, now Earth type",
   "addr": "1bd11e",
   "max": 33
  },
@@ -5609,7 +5609,7 @@
  {
   "id": "arm400.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1bd19e",
   "max": 33
  },
@@ -5623,7 +5623,7 @@
  {
   "id": "arm401.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1bd21e",
   "max": 33
  },
@@ -5637,7 +5637,7 @@
  {
   "id": "arm402.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1bd29e",
   "max": 33
  },
@@ -5651,7 +5651,7 @@
  {
   "id": "arm403.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "Defense up +Thunder type",
+  "en": "Defense up, now Thunder type",
   "addr": "1bd31e",
   "max": 33
  },
@@ -5665,7 +5665,7 @@
  {
   "id": "arm404.desc",
   "jp": "ＣＬ１のÄＲＭを使えなくする",
-  "en": "Blocks use of CL1 ÄRM",
+  "en": "Seals CL1 ÄRM",
   "addr": "1bd39e",
   "max": 33
  },
@@ -5679,7 +5679,7 @@
  {
   "id": "arm405.desc",
   "jp": "ＣＬ２以下のÄＲＭを使えなくする",
-  "en": "Blocks use of CL2-or-lower ÄRM",
+  "en": "Seals ÄRM of CL2 or lower",
   "addr": "1bd41e",
   "max": 33
  },
@@ -5693,7 +5693,7 @@
  {
   "id": "arm406.desc",
   "jp": "ＣＬ３以下のÄＲＭを使えなくする",
-  "en": "Blocks use of CL3-or-lower ÄRM",
+  "en": "Seals ÄRM of CL3 or lower",
   "addr": "1bd49e",
   "max": 33
  },
@@ -5959,7 +5959,7 @@
  {
   "id": "arm425.desc",
   "jp": "インドラの電撃で１体が動作不能",
-  "en": "Indra's shock stuns one foe",
+  "en": "Indra's zap paralyzes a foe",
   "addr": "1bde1e",
   "max": 33
  },
@@ -6071,7 +6071,7 @@
  {
   "id": "arm433.desc",
   "jp": "ツタを足に絡ませて動きを止める",
-  "en": "Vines wrap its legs to stop it",
+  "en": "Vines bind a foe's legs in place",
   "addr": "1be21e",
   "max": 33
  },
@@ -6085,7 +6085,7 @@
  {
   "id": "arm434.desc",
   "jp": "ツタを体に絡ませて動きを止める",
-  "en": "Vines wrap its body to stop it",
+  "en": "Vines bind a foe's body in place",
   "addr": "1be29e",
   "max": 33
  },
@@ -6225,7 +6225,7 @@
  {
   "id": "arm444.desc",
   "jp": "素手用",
-  "en": "For bare hands",
+  "en": "For bare-handed use",
   "addr": "1be79e",
   "max": 33
  },

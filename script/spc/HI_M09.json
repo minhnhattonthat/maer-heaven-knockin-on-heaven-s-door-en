@@ -10,7 +10,7 @@
  {
   "id": "HI_M09:0026d",
   "jp": "{C0F04}街に来たんだし",
-  "en": "{C0F04}We came all the way to town, so let's ask",
+  "en": "{C0F04}We're in town now, so let's go ask",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M09:0028e",
   "jp": "いろいろ話をきいてみるっス",
-  "en": "folks around, y'know.",
+  "en": "around, y'know.",
   "call": "MswStr",
   "box": 16,
   "line": 2,

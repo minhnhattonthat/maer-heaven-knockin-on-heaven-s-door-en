@@ -10,7 +10,7 @@
  {
   "id": "SP_M42:002cd",
   "jp": "{C0F04}氷のことはスノウにまかせるんだ",
-  "en": "{C0F04}Leave the ice to Snow. Put Snow in the lead",
+  "en": "{C0F04}Ice is Snow's job. Stick Snow in the lead of",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "SP_M42:002fe",
   "jp": "スノウをパーティーの先頭にしてやれ",
-  "en": "of your party.",
+  "en": "the party.",
   "call": "MswStr",
   "box": 19,
   "line": 2,

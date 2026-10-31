@@ -164,7 +164,7 @@
  {
   "id": "G_EV025:016d4",
   "jp": "{C0F04}今回はオレの負けだよ",
-  "en": "{C0F04}This time, I lose.",
+  "en": "{C0F04}Okay, okay~ you win this round.",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -190,7 +190,7 @@
  {
   "id": "G_EV025:01780",
   "jp": "{C0F04}でもね…",
-  "en": "{C0F04}But y'know... next time, it's your turn.",
+  "en": "{C0F04}But hey... next time, it's your turn.",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -294,7 +294,7 @@
  {
   "id": "G_EV025:01d2a",
   "jp": "{C0F04}（わすれるな！）",
-  "en": "{C0F04}(Don't forget!)",
+  "en": "{C0F04}(Don't you forget it!)",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "G_EV025:01dd2",
   "jp": "{C0F04}（ギンタ）",
-  "en": "{C0F04}(Ginta)",
+  "en": "{C0F04}(Ginta...)",
   "call": "MswStr",
   "box": 170,
   "line": 1,

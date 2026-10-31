@@ -426,7 +426,7 @@
  {
   "id": "EV_EDO01:024fa",
   "jp": "{C0F04}わがひめぎみの命が",
-  "en": "{C0F04}my princess's life is in grave danger!",
+  "en": "{C0F04}the Princess's life is in grave danger!",
   "call": "MswStr",
   "box": 208,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_EDO01:02952",
   "jp": "{C0F04}このエドワード…",
-  "en": "{C0F04}would you accompany me, Edward... Ed, if",
+  "en": "{C0F04}would you accompany this Edward... this Ed,",
   "call": "MswStr",
   "box": 229,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_EDO01:02975",
   "jp": "エドにごどうこうねがえませぬか！？",
-  "en": "you please!?",
+  "en": "if you please!?",
   "call": "MswStr",
   "box": 229,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "EV_EDO01:02aa2",
   "jp": "{C0F04}かたじけない！！",
-  "en": "{C0F04}I am most grateful!!",
+  "en": "{C0F04}I am in your debt!!",
   "call": "MswStr",
   "box": 234,
   "line": 1,

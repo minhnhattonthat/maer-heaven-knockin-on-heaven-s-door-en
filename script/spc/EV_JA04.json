@@ -10,7 +10,7 @@
  {
   "id": "EV_JA04:00674",
   "jp": "{C0F04}（オイラがあんなに苦労した",
-  "en": "{C0F04}(He dodged the Loup-Garou's attacks easy,",
+  "en": "{C0F04}(He dodged the Loup-Garou's attacks like",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_JA04:006a1",
   "jp": "　ルーガルーの攻撃を軽くかわした！！）",
-  "en": "the ones I had such a hard time with!!)",
+  "en": "nothin', and I had a real hard time with 'em!!)",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_JA04:00710",
   "jp": "{C0F04}（つよい！",
-  "en": "{C0F04}(He's strong! Ginta... who are you?!)",
+  "en": "{C0F04}(He's strong! Ginta... just who are ya?!)",
   "call": "MswStr",
   "box": 38,
   "line": 1,

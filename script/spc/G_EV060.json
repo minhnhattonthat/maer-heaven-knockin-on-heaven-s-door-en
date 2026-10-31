@@ -10,7 +10,7 @@
  {
   "id": "G_EV060:00897",
   "jp": "{C0F04}おまえら、もっとキビキビと",
-  "en": "{C0F04}Oi, you lot! Put some hustle in that search!",
+  "en": "{C0F04}Hey, you guys! Put some hustle in",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV060:008c4",
   "jp": "さがさんかい！",
-  "en": " ",
+  "en": "that search!",
   "call": "MswStr",
   "box": 51,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "G_EV010:005da",
   "jp": "{C0F04}とりあえず、はらごしらえだ",
-  "en": "{C0F04}First things first, let's fill our bellies.",
+  "en": "{C0F04}First things first, we eat.",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV010:0064c",
   "jp": "{C0F04}街の北にめし屋がある",
-  "en": "{C0F04}There's a diner north of town. Let's",
+  "en": "{C0F04}There's a grub joint north of town. We're",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV010:00673",
   "jp": "そこへ行こう",
-  "en": "go there.",
+  "en": "headin' there.",
   "call": "MswStr",
   "box": 40,
   "line": 2,

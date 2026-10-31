@@ -10,7 +10,7 @@
  {
   "id": "HI_M25_2:001d4",
   "jp": "{C0F04}あーコラあかん！",
-  "en": "{C0F04}Aw, no good! Only Dorothy-chan can get",
+  "en": "{C0F04}Aw, no dice! Ain't nobody but Dorothy-chan",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M25_2:001f7",
   "jp": "ドロシーちゃんしか通れへんわ…",
-  "en": "through here...",
+  "en": "gettin' through here...",
   "call": "MswStr",
   "box": 12,
   "line": 2,

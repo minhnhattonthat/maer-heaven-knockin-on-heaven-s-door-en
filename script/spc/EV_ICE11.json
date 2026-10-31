@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE11:00c9c",
   "jp": "{C0F04}『ギンタ』っていったな？",
-  "en": "{C0F04}\"Ginta,\" was it? C'mere.",
+  "en": "{C0F04}'Ginta,' was it? C'mere.",
   "call": "MswStr",
   "box": 71,
   "line": 1,

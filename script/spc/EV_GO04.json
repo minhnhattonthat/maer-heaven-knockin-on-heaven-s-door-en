@@ -270,7 +270,7 @@
  {
   "id": "EV_GO04:010f9",
   "jp": "{C0F04}からだがすっごく、かたくなるタイプの",
-  "en": "{C0F04}...he's wearing the kind of ÄRM that makes",
+  "en": "{C0F04}he's wearing the kind of ÄRM that makes",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO04:011c7",
   "jp": "{C0F04}そんなんわかってる",
-  "en": "{C0F04}I know that. Who d'ya think I am?",
+  "en": "{C0F04}Ya think I don't know that? Who d'ya think",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_GO04:011ec",
   "jp": "じぶんをだれやと思ってる？",
-  "en": " ",
+  "en": "I am?",
   "call": "MswStr",
   "box": 92,
   "line": 2,
