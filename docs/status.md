@@ -18,8 +18,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   EFFECT.tsv: Sealed 0386-0389, Stats wipe 0402-0406. BG screens via `tools/bgtext.py` + `gfx/BG.tsv` (map cells
   re-tiled, KCG re-compressed; per-cell palette bank kept unless `pal=`): title logo redrawn (D16), copyright,
   smith ÄRM grades, OWNED. Space: SYSTEM.NCD grew +130 KB; `nfp.pack` now moves `MAP42_A.KMP` past the gap when
-  needed (verified in game, docs/re/nfp.md). **Left:** 0054/0700 in-game check, visual-QA tour (`tools/tour.py`
-  EN + `tour_jp`, `qa_gate.py`, brief `docs/visual-qa-brief.md`), verdicts, jp_left.
+  needed (verified in game, docs/re/nfp.md). Visual QA: `tools/tour.py` (EN -> `work/qa/tour`, JP baseline
+  `tools/tour.py <jp rom> --out work/qa/tour_jp`), `qa_gate.py init/todo`, verdicts by `tools/vqa_codex.py`
+  (codex exec, read-only, EN+JP sheets attached; brief `docs/visual-qa-brief.md`). **Left:** verdicts + fixes,
+  `qa_gate.py check`, jp_left, 0054/0700 in-game check.
   Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
 - **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
   polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words
@@ -122,4 +124,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `pxlen` rounding can leave right-aligned names up to 7 px short of the edge. Status-screen corner name, shop
   かう/うる menus etc. are graphics (`docs/re/graphics.md`), phase 8.
 - **Open bugs:** none.
-- **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by a human (headless only). Non-blocking.
+- **Waiting on the user:** D13 ÄRM type ball abbreviations (AT/DF/A+D/HEAL/SPEC) chosen on defaults; owner may
+  override (docs/decisions.md). Non-blocking. GUI keyboard input in `tools/mesen/Mesen.exe` not checked by a human (headless only). Non-blocking.

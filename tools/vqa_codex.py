@@ -9,6 +9,7 @@ Each call gets up to --per tour sheets and, where it exists, the original ROM's 
 import argparse
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -31,14 +32,17 @@ def ask(rows, brief):
               'No other text. Do not modify any file.')
     with tempfile.TemporaryDirectory() as t:
         out = os.path.join(t, 'last.txt')
-        cmd = ['codex', 'exec', '--sandbox', 'read-only', '--skip-git-repo-check', '--ephemeral', '-C', REPO,
+        cmd = [shutil.which('codex') or 'codex', 'exec', '--sandbox', 'read-only', '--skip-git-repo-check', '--ephemeral', '-C', REPO,
                '-o', out]
         for p in imgs:
             cmd += ['-i', p]
-        cmd += ['--', prompt]
-        subprocess.run(cmd, stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
-                       timeout=1800)
-        return open(out, encoding='utf8').read() if os.path.exists(out) else ''
+        cmd += ['--', '-']  # prompt on stdin: a multi-line argument doesn't survive the Windows codex.cmd shim
+        r = subprocess.run(cmd, input=prompt.encode('utf8'), capture_output=True, timeout=1800)
+        if not os.path.exists(out):
+            err = [ln for ln in (r.stdout + r.stderr).decode('utf8', 'replace').splitlines() if ln.startswith('ERROR')]
+            print('codex failed: %s' % (err[-1] if err else 'rc=%d' % r.returncode), file=sys.stderr)
+            return ''
+        return open(out, encoding='utf8').read()
 
 
 def main():
