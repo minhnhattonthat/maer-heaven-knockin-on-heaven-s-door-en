@@ -4,6 +4,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** 9 in progress (story pass, then release). Phase 8 closed 2026-11-01: visual QA 135/135 ok; graphics
   rows not reachable from a cold boot are preview-checked only (`docs/qa-gfx.md`). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
+- **2026-11-01 owner feedback:** COMMAND menu labels 0701-0706 redrawn in bold caps `font=menu`, left-aligned (D17); seen in game (`menu` warp). v1.0 zip predates it: rerun `tools/release.py`.
 - **Phase 9 (2026-11-01): story pass.** `tools/chapters.py` -> `work/qa/story/chapters/ch00-ch11.txt` (12 chapters
   from `docs/synopsis.md` headings); `qa_gate.py init work/qa/story/manifest.tsv ...`; one `reviewer` agent per
   chapter (`docs/story-reviewer-brief.md`), verdicts `work/qa/story/verdicts/<ch>.tsv`, Minors -> `docs/polish.md`.

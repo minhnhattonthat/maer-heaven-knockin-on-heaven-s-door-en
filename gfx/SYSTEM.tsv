@@ -28,12 +28,12 @@
 1905	Keep Exploring	rect=18,1,92,14 bgrep=100,4 bgfrom=1893 font=mid style=outline ol=4 grad=14,14,15,15
 1906	Keep Exploring	rect=18,1,92,14 bgrep=100,4 bgfrom=1893 font=mid style=outline ol=4 grad=6,6,5,5
 # main menu
-0701	Deck Edit	style=outline ol=15
-0702	Items	style=outline ol=15
-0703	Status	style=outline ol=15
-0704	ÄRM List	style=outline ol=15
-0705	Party Setup	style=outline ol=15
-0706	Get ÄRM	style=outline ol=15
+0701	DECK EDIT	font=menu align=l dy=1 style=outline ol=15
+0702	ITEMS	font=menu align=l dy=1 style=outline ol=15
+0703	STATUS	font=menu align=l dy=1 style=outline ol=15
+0704	ÄRM LIST	font=menu align=l dy=1 style=outline ol=15
+0705	PARTY SETUP	font=menu align=l dy=1 style=outline ol=15
+0706	GET ÄRM	font=menu align=l dy=1 style=outline ol=15
 # dungeon gate banners
 0790	Training Gate	style=outline ol=10
 0791	Honing Gate	style=outline ol=10 w=96
