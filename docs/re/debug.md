@@ -43,7 +43,13 @@ python -X utf8 tools/debug/regen.py [ROM] [--only a,b]
   array, r2 = result pointer.
 - **G = [0x03003FDC]** (0x020360C4 in the runs seen): story flags bit n at G+0xAC+(n>>3), bit n&7 (`SetBool`);
   vars u32 at G+0x2C+4n (`SetVar`); play mode u16 at G+0x4258; party records G+0x35E0+0x54*i (i<8): +2 HP s16,
-  +4 max HP. `scenes.lua`: `S.set_flag`, `S.set_var`, `S.god`.
+  +4 max HP; Pewter (money) u32 at G+0x38BC (RAM diff full_items vs shop state). `scenes.lua`: `S.set_flag`,
+  `S.set_var`, `S.set_pewter`, `S.god`.
+- **Cheats from a savestate** (play.py sessions, `emu.py --state-in`): `--script tools/debug/cheat.lua --var
+  PEWTER=50000 [--var GOD=1]`. Shop buy/sell runs: `work/play/shop2`, `work/play/sell` (states `shop_a2`, `shop_e1`).
+  Item use with stock: start from `full_items` (the COMMAND menu opens with START there, 999 999 P). The debug
+  chapter select loops back after the Talos questions when answered いいえ, so the engraver can't be reached with
+  full items that way.
 - **Battle**: B = [0x03004020], unit stride 0x688, unit 0 = leader. The leader's HP lives in four copies, all of
   which must change: u32 B+0x228 (setter 0x080096D8), u32 B+0x22C (bar, eased by 0x08009420), u32 B+0x604, u16
   B+0x3A6 (found by RAM search + write watch in the Loup-Garou fight). Zeroing all four gives GAME OVER

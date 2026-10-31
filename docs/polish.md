@@ -81,3 +81,7 @@ Minor review findings, deferred to one polish pass (phase 9). Each line gets tic
 - [ ] arm304.desc - さくれつ: "Gargoyle's punch explodes"
 - [ ] arm444.desc - "For bare-handed use"
 - [ ] arm041.name - カゴの鳥 "Bird Cage" vs "Caged Bird" (glossary UNSURE)
+
+## In game (phase 7 checks)
+- [ ] stat-up "HP went up by  0 points!" (`work/play/item/0008.png`): the code pads the number with fullwidth
+  blanks, so a 1-digit value shows wide gaps; consider dropping the spaces around it in code:088780 etc. / 088750

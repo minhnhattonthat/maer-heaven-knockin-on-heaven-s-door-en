@@ -2,9 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 done (2026-11-01); next is phase 7 (insert, fit, check). `build/maer_en.gba` = full English build
-  (every script line, code string and record; smoke ok). Other builds: `build/marker.gba` (`build.py --marker`),
-  `build/widthtest.gba` (`tools/widthtest.py`).
+- **Phase:** 7 done (2026-11-01); next is phase 8 (QA in the emulator: visual-QA tour with verdicts, graphics
+  text). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
+  Other builds: `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`).
+- **Phase 7 (2026-11-01):** every ROM write goes through `build.put` (log: offset, replaced bytes, new bytes,
+  writer; `engine.apply(rom, log)` too); `build.make()` = the English ROM from lines + tables. `tests/test_romdiff.py`
+  builds it in memory: `romdiff.check` with the log (no overlaps / overwrites / unlogged changes), every write inside
+  the allowed spans (archive 0x1C0920-0xF28406, spill 0xF2B450-0xFE0000, engine 0xFE4000-0xFE8000, strings
+  0xFE8000-0xFFF000, hook sites, sprintf formats, code.json refs, record fields), every record/code entry written
+  and each repointed ref landing on its English, no Thumb branch within 4 KB landing inside a hook. `romdiff.check`
+  now takes half-open ranges (an offset set of a 14 MiB archive needs GBs). Lint: non-empty jp with empty en
+  fails (except CH_ESC, `keep` windows, fullwidth-blank fields). `jp_left --gba-ptrs` on the English build: 2 noise
+  hits (0x3FA870 tile word -> 0x088880, whose real ref 0x1B0910 is repointed; 0x1ABF60 data word -> odd address in
+  the rebuilt archive). In game: shop price/buy/sell ("200 P, please.", "Armor Stone CL1: / Bought!", "50 P is my
+  offer.", "Knife Stone: / Sold!", "Not enough Pewter.", "Take it from where?"), WIN "Lightning Stone CL2
+  obtained!!", stat-up "HP went up by  0 points!" (spacing -> `docs/polish.md`) all fit. Money cheat
+  `tools/debug/cheat.lua` (`docs/re/debug.md`).
 - **Phase 6 (2026-11-01):** tools `tools/batches.py` (split/check/merge/fit/labels/pairs; a unit = one message box,
   deduplicated; English auto-wrapped onto the box's lines, ' / ' forces a break; narration keeps its middle line and
   fullwidth-space centring), `tools/lint.py` (run by `check.py`: chars, widths, colour codes per box, code-string
@@ -72,11 +85,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** phase 7 (insert, fit, check): lint is clean; still to do: `romdiff.py` with the allowed ranges (archive
-  block + spill, 0xFE4000-0xFFF000 engine/strings, code.json pointer refs, record fields, engine hook sites) as a
-  test; regen.py 73/73 on the English build (script growth vs heap: CODE size rule asserted, LZ77 heap 64 KB); check
-  composed code strings in game (shop "[item]:" / "Bought!", engraver, link, stat-up "went up by  5  points!",
-  WIN "%s obtained!!" with a long name, sort headers 40 px guess); `jp_left --gba-ptrs` on the English build.
+- **Next:** phase 8 (QA): screen tour through changed scenes (`$SKILL/references/emulator-qa.md`), `qa_gate.py`
+  manifest + read-only visual-QA verdicts (do it in a fresh read-only pass yourself; no nested workers); graphics
+  text (`docs/re/graphics.md` survey: title modes, menus, COMMAND/ITEM/STATUS headers' Japanese items, shop
+  かう/うる/やめる windows, dungeon gate banners, credits, chapter cards). Still unchecked in game: engraver composed
+  messages with materials (needs a scene that has items: e.g. a `pre` FULL_ITM step in warp.lua), link-cable
+  messages (no partner), sort headers (40 px guess). Speaker label "[---]" in the gate_* scene: check its JP.
   Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
 - **Open questions for later phases:**
   exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (lengthening every OPEN.SPC string

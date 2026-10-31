@@ -109,6 +109,8 @@ function S.set_flag(n, on)
   emu.write(a, on and (b | (1 << (n & 7))) or (b & ~(1 << (n & 7))), mem)
 end
 function S.set_var(n, v) emu.write32(G() + 0x2C + 4 * n, v, mem) end
+-- Pewter (money), u32 at G+0x38BC: 999999 after FULL_ITM's AddPewter, 0 in a shop state (RAM dump diff)
+function S.set_pewter(v) local g = G(); if g >= 0x02000000 then emu.write32(g + 0x38BC, v, mem) end end
 local peak = 0
 function S.god() -- GOD=1: refill every party member's field HP each frame, and undo damage to the battle leader
   local g = G()
