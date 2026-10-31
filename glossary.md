@@ -625,4 +625,19 @@ say `loose`: when the JP term is in a line, its English form (any of the `/`-sep
 | アームジュエル | ÄRM Jewel |  | engraving material? |  |
 
 ## Decisions from earlier batches
-- (none yet)
+- wave 1 (b001-b021), from translator reports:
+  - honorifics: ギンタどの -> Ginta-dono (Ed), 彫金師ちゃん -> Engraver-chan; ガイドさん / オレさま are not names (no -san/-sama forced);
+  - family words: 母ちゃん Ma, 父ちゃん Pa (Jack); 子岩's お父さん -> Papa; おばさん (Ginta to Jack's Mom) -> ma'am;
+  - insults/pet forms: トンガリあたま spiky-head, コゾウ (Halloween) boy (= 小僧 row), ブス (Babbo to Dorothy) ugly hag, オレっち (Ian) yours truly;
+  - terms: 同志 comrades, とうぞくしゅうだん band of thieves, 気 ki, いくうかん otherworldly space, 暗証番号 passcode,
+    スタッフロール staff roll, ユキちゃん Yuki-chan (Snow's snowman), ベル Bell (Alviss's fairy), メル服 MÄR Outfit, 制服 Uniform,
+    ジャック鳥 Jack Bird, ホーリーÄＲＭ Holy ÄRM, ストック Stock, パラメータ stats, ダークネス効果 Darkness effects, アイテム屋 Item Dealer;
+  - places (menus): ルベリアの砦 Luberia Fort, バッボのいせき Babbo's Ruins, ジャックの家 Jack's House, ジャックの畑 Jack's Field, 草原 Grasslands;
+  - stats/elements: 体力 HP, 攻撃力 Attack, 防御力 Defense, 魔力 Magic (status label) / magic power (text); elements Thunder,
+    Earth, Wind, Leaf (木; same as the リーフ ÄRM names), Fire, Water, No element; the 26 px status column says
+    "Bolt" for 雷 (Thunder is 35 px; a full word, not an abbreviation);
+  - battle WIN banner: "500 P gained!!", "%s obtained!!" (not "GET!!");
+  - item-get narration: ～を手に入れた -> "X / obtained!", ～をもらった -> "X / received!"; 【】 -> [ ];
+  - パワーストーン -> Powerstone (one word, so the Thunder CL names fit 112 px);
+  - stretched names: at most "Gintaaa" (t + 4 hex letters is a control code);
+  - Talos parts うで/あし/あたま -> 'Arms'/'Legs'/'Head' in quotes.

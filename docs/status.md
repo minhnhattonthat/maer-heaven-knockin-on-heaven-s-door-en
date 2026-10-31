@@ -2,17 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase 6 in progress (2026-11-01):** tools `tools/batches.py` (split/check/merge/fit/labels/pairs; a unit = one
-  message box, deduplicated; English auto-wrapped onto the box's lines, ' / ' forces a break; narration keeps its
-  middle line and fullwidth-space centring), `tools/lint.py` (run by `check.py`); extract now also emits the 1 328
-  empty MswStr lines (spare lines: verified in-game, `work/qa/p6_spare/box_001402.png`); briefs
-  `docs/translator-brief.md`, `docs/reviewer-brief.md`, `docs/story-reviewer-brief.md`; `docs/synopsis.md`,
-  `docs/style-reference.md`, `glossary.md` (593 rows; capitalised rows lint-enforced); speaker labels filled
-  (`batches.py labels`); 2 composed item boxes in DITEMCOM set by hand. Batches b001-b014 (+b015 tail) script,
-  b016 code strings, b017-b021 records; b001 merged.
-- **Phase:** 5 done (2026-11-01); next is phase 6 (translate). Last builds: `build/marker.gba`
-  (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`: script, record and code-string width tests);
-  `build/maer_en.gba` = original (identity).
+- **Phase:** 6 done (2026-11-01); next is phase 7 (insert, fit, check). `build/maer_en.gba` = full English build
+  (every script line, code string and record; smoke ok). Other builds: `build/marker.gba` (`build.py --marker`),
+  `build/widthtest.gba` (`tools/widthtest.py`).
+- **Phase 6 (2026-11-01):** tools `tools/batches.py` (split/check/merge/fit/labels/pairs; a unit = one message box,
+  deduplicated; English auto-wrapped onto the box's lines, ' / ' forces a break; narration keeps its middle line and
+  fullwidth-space centring), `tools/lint.py` (run by `check.py`: chars, widths, colour codes per box, code-string
+  windows, record limits); extract also emits the 1 328 empty MswStr lines (spare lines; verified in-game,
+  `work/qa/p6_spare/box_001402.png`); briefs `docs/translator-brief.md`, `docs/reviewer-brief.md`,
+  `docs/story-reviewer-brief.md`; `docs/synopsis.md`, `docs/style-reference.md`, `glossary.md` (593 rows +
+  wave-1 decisions; capitalised rows enforced by the batch check; honorific check only on Characters names);
+  speaker labels filled (`batches.py labels`); 2 composed item boxes in DITEMCOM set by hand. 21 batches
+  (b001-b015 script, b016 code strings, b017-b021 records) all check OK and merged; batch files live in `work/tl/`
+  (gitignored; the English is in `script/`). Review: 6 reviewers, every batch read; Critical 0; Important fixed
+  (Papa Rock Dor- joke, Bellini register, Talos 'Arms', Ed second-time line, Bellini Miss pun, shop imperative,
+  Marl hint, WIN banner "P gained!!" / "%s obtained!!", きっと, 木 = Leaf, Halloween コゾウ = boy) and re-read by the
+  controller; Minors in `docs/polish.md` (phase 9). Status element column widened (pad_to 26 -> 28,
+  `work/qa/p6_status2`): "Water" fits, 雷 = "Bolt" (Thunder 35 px can't), no abbreviations left. パワーストーン ->
+  "Powerstone" so Thunder CL names fit 112 px.
 - **Done:** Step 0, phase 1 (recon, `docs/re/`). Phase 5 (2026-11-01, `docs/re/vwf.md`):
   - code strings (`script/windows.json` 'code'): every code.json id sits in one window (test); renderer per string
     from `tools/lua/drawlog.lua` + `tools/debug/drawmap.py` (`work/qa/drawmap/map.tsv`); measured with
@@ -65,13 +72,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** phase 6 (translate). First the text lint in `tools/check.py`: width per `windows.json` (script lines:
-  `engine.width`; code strings: their window, `list_width` for list/ctr renderers, `bytes` limits, `composed`
-  notes), control codes matched, `[CcTt][0-9A-Fa-f]{4}` inside English = accidental code, `%s`/`%d` kept, warn on
-  guess/inferred windows. Batch tooling must skip `keep` code ids (build fills them) and CH_ESC.SPC. Code
-  messages compose with particles (`を`/`の`/`が` strings, price prefix): translate those as a set, reading the
-  callers (shop/engraver/link code at 0x08054000-0x080542FF, 0x0806D000-). Our LZ77 is greedy (+2%): an
-  optimal-parse compressor would cut spill if space gets tight (723 KiB free; marker build fits).
+- **Next:** phase 7 (insert, fit, check): lint is clean; still to do: `romdiff.py` with the allowed ranges (archive
+  block + spill, 0xFE4000-0xFFF000 engine/strings, code.json pointer refs, record fields, engine hook sites) as a
+  test; regen.py 73/73 on the English build (script growth vs heap: CODE size rule asserted, LZ77 heap 64 KB); check
+  composed code strings in game (shop "[item]:" / "Bought!", engraver, link, stat-up "went up by  5  points!",
+  WIN "%s obtained!!" with a long name, sort headers 40 px guess); `jp_left --gba-ptrs` on the English build.
+  Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
 - **Open questions for later phases:**
   exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (lengthening every OPEN.SPC string
   works, so none there); EWRAM script buffer size; ÄRM交換 mode shows nothing without a link partner; screens not

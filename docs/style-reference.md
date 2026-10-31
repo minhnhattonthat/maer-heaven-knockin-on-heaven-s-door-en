@@ -16,7 +16,7 @@ General: kid-friendly shonen, upbeat and funny; contractions everywhere in speec
 | Snow | わたし, ♥, バッボさん, です (light) | Sweet, bright, polite but warm: "Babbo-san", "Let's do our best!"; firm when angry |
 | Ed / Alan | (Ed) polite ～です, ひめさま; (Alan) オレ, てめぇ, ガキども, ボウズ, クソ魔女 | Ed: loyal, polite dog butler, "Princess". Alan: gruff, rough: "brats" (ガキども), "kid" (ボウズ), "you stinkin' witch" (クソ魔女), "tomato-head"; clipped sentences |
 | Alviss | 冷静, ～だ | Cool, curt, serious; no slang |
-| Nanashi | ワイ, や, へん, あかん, まかしとき, 自分 (= you), ～ちゃん to girls | Kansai charmer: breezy slang, "Leave it ta me!", "ain't no way", "lil' lady"; 自分 in Kansai = "you". Keeps -chan on girls (Dorothy-chan) |
+| Nanashi | ワイ, や, へん, あかん, まかしとき, 自分 (= you), ～ちゃん to girls | Kansai charmer: breezy slang, "Leave it ta me!", "ain't no way", "lil' lady"; his 自分 usually means "I/me" here (Kansai can also use it for "you": judge by context). Keeps -chan on girls (Dorothy-chan) |
 | Bellini | ですのん / のん at sentence end | Ends sentences with ", nonn" ("That's how engraving works, nonn!"); blunt, touchy |
 | Marl | (before) ボク, です/ます; (after) オレ, smug | Before: timid, polite, "um...". After the reveal: smug, cold, sneering. Defeated: sobbing child |
 | Ian | オレっち, だよーん, ♪, ロコちゃん | Breezy, sing-song, cocky: "Yo~", stretched words, "doggy mister" for 犬のおじさん |

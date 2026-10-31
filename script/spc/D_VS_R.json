@@ -36,7 +36,7 @@
  {
   "id": "D_VS_R:00227",
   "jp": "{C0F04}ドッチをむいてもいいお天気ですな",
-  "en": "{C0F04}Dor-- Adorable weather, whichever way",
+  "en": "{C0F04}Dor-- Door or window, whichever way you",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "D_VS_R:0025a",
   "jp": "",
-  "en": "you look, I daresay!",
+  "en": "look, fine weather, I daresay!",
   "call": "MswStr",
   "box": 12,
   "line": 2,
@@ -138,7 +138,7 @@
  {
   "id": "D_VS_R:00666",
   "jp": "{C0F04}ドウキがするほどいいお天気ですな",
-  "en": "{C0F04}Dor-- My heart's knocking like a door, the",
+  "en": "{C0F04}Dor-- Door-knocking, heart-pounding fine",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "D_VS_R:00699",
   "jp": "",
-  "en": "weather's so fine!",
+  "en": "weather, hmm?",
   "call": "MswStr",
   "box": 36,
   "line": 2,

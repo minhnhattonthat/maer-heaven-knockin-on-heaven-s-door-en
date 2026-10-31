@@ -450,7 +450,7 @@
  {
   "id": "SP_M25_5:0311a",
   "jp": "{C0F04}やっぱりそうきたか！！",
-  "en": "{C0F04}Knew you'd pull something like that!!",
+  "en": "{C0F04}Just as I figured!!",
   "call": "MswStr",
   "box": 295,
   "line": 1,

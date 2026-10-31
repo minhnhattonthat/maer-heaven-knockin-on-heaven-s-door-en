@@ -62,7 +62,10 @@ line break (e.g. a dramatic pause, or a list).
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 
 ## Notes from earlier batches
-- (none yet)
+- A letter C/c/T/t followed by 4 letters/digits from 0-9 a-f A-F is read as a control code ("Gintaaaa", "Cabbed"):
+  the check rejects it; stretch names at most to "Gintaaa".
+- Item-get narration: "X / obtained!", "X / received!". 【】 -> [ ].
+- Glossary decisions from wave 1 are at the end of `glossary.md`.
 
 ## Report (reply with only this)
 Files written and entry count; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`.

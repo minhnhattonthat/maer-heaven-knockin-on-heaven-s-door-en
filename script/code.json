@@ -16,7 +16,7 @@
  {
   "id": "code:087528",
   "jp": "Ｐ　ＧＥＴ！！",
-  "en": "P GET!!",
+  "en": "P gained!!",
   "slot": 16,
   "refs": [
    "01e0cc"
@@ -25,7 +25,7 @@
  {
   "id": "code:087538",
   "jp": "%s　ＧＥＴ！！",
-  "en": "%s GET!!",
+  "en": "%s obtained!!",
   "slot": 16,
   "refs": [
    "01e104",
@@ -152,7 +152,7 @@
  {
   "id": "code:0884f8",
   "jp": "木属性",
-  "en": "Wood",
+  "en": "Leaf",
   "slot": 8,
   "refs": [
    "1b07f0"
@@ -197,7 +197,7 @@
  {
   "id": "code:088524",
   "jp": "雷　",
-  "en": "Thun.",
+  "en": "Bolt",
   "slot": 8,
   "refs": [
    "1b085c"
@@ -224,7 +224,7 @@
  {
   "id": "code:08853c",
   "jp": "木　",
-  "en": "Wood",
+  "en": "Leaf",
   "slot": 8,
   "refs": [
    "1b0850"
@@ -242,7 +242,7 @@
  {
   "id": "code:08854c",
   "jp": "水　",
-  "en": "Wtr.",
+  "en": "Water",
   "slot": 8,
   "refs": [
    "1b0848"
@@ -449,7 +449,7 @@
  {
   "id": "code:08860c",
   "jp": "かんぺきですのん、きっと",
-  "en": "It's perfect, nonn... I think.",
+  "en": "It's perfect, nonn. For sure!",
   "slot": 28,
   "refs": [
    "1b08a8"

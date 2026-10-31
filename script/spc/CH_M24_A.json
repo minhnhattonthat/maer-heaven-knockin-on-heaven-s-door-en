@@ -36,7 +36,7 @@
  {
   "id": "CH_M24_A:0038e",
   "jp": "彫金とは、いくつかの材料をまぜあわせて",
-  "en": "Engraving is mixin' a few materials together",
+  "en": "Engraving means mixing a few materials",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M24_A:003c0",
   "jp": "新しくÄＲＭを作ることですのん",
-  "en": "to make a brand-new ÄRM, nonn.",
+  "en": "together to make a brand-new ÄRM, nonn.",
   "call": "MswStr",
   "box": 22,
   "line": 2,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M24_A:00464",
   "jp": "レシピに記録されていますのん",
-  "en": "written down in recipes, nonn.",
+  "en": "recorded in the recipes, nonn.",
   "call": "MswStr",
   "box": 24,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "CH_M24_A:004d6",
   "jp": "だけど、まちがってそのレシピを",
-  "en": "But I goofed and sent those recipes flyin'",
+  "en": "But I made a mistake and sent those",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "CH_M24_A:00500",
   "jp": "いせかいにとばしてしまい…",
-  "en": "off to the other world...",
+  "en": "recipes flying off to the other world, nonn...",
   "call": "MswStr",
   "box": 26,
   "line": 2,

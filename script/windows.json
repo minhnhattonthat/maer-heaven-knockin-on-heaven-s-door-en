@@ -38,7 +38,7 @@
   "status_elem": {
    "applies": "STATUS element column (thunder/earth/wind/wood/fire/water) left of the 3-digit value",
    "ids": ["code:088524", "code:08852c", "code:088534", "code:08853c", "code:088544", "code:08854c"],
-   "px": 24, "pad_to": 26, "bytes": 18, "renderer": "list", "state": "measured",
+   "px": 26, "pad_to": 28, "bytes": 18, "renderer": "list", "state": "measured (pad_to 28: phase 6, work/qa/p6_status2)",
    "proof": "work/qa/orig/menu_status: label from x 152, digits '100' after 2 cells (x 170-196), portrait frame x 208: pad_to 26 ends the digits at 205; widthtest work/qa/scenes/menu_status.png: '24 ..|100' clear of the frame"
   },
   "status_equip": {
