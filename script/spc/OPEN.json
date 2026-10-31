@@ -158,7 +158,7 @@
  {
   "id": "OPEN:00ea5",
   "jp": "おりゃぁああ！！",
-  "en": "Hyaaaaah!! Holy sword... 'Holy",
+  "en": "Hyaaaaah!! Holy sword...",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -167,7 +167,7 @@
  {
   "id": "OPEN:00ec1",
   "jp": "聖剣『ホーリーサンダーフォース』！！",
-  "en": "Thunder Force'!!",
+  "en": "'Holy Thunder Force'!!",
   "call": "MswStr",
   "box": 90,
   "line": 2,

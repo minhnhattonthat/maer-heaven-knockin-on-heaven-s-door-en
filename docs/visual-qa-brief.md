@@ -30,6 +30,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - the debug chapter-select questions (CH_ESC: "...ですか？" with Yes/No) after a warp stay Japanese by design;
 - the tour presses A every 30 frames (`tools/tour.py`): first choices get picked, battles start and end quickly;
 - sheets: box_<frame> shots (one per finished dialogue box) come first, then f<frame> shots every 600 frames.
+- item-get boxes keep the Japanese 3-line layout ("{item}" / "{item}" / "received!" or "obtained!"): a short last
+  line there mirrors the original, not a bad break;
+- sprite-lettered labels (menus, banners, staff roll) use the Pixelify pixel font, which looks unlike the dialogue
+  font; flag only letters that are unreadable, clipped or overlapping;
+- the tour can drift (A presses) into the copyright/title loop or another scene; judge what is shown.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

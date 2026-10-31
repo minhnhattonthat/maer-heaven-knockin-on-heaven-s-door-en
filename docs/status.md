@@ -20,8 +20,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   smith ÄRM grades, OWNED. Space: SYSTEM.NCD grew +130 KB; `nfp.pack` now moves `MAP42_A.KMP` past the gap when
   needed (verified in game, docs/re/nfp.md). Visual QA: `tools/tour.py` (EN -> `work/qa/tour`, JP baseline
   `tools/tour.py <jp rom> --out work/qa/tour_jp`), `qa_gate.py init/todo`, verdicts by `tools/vqa_codex.py`
-  (codex exec, read-only, EN+JP sheets attached; brief `docs/visual-qa-brief.md`). **Left:** verdicts + fixes,
-  `qa_gate.py check`, jp_left, 0054/0700 in-game check.
+  (codex exec; its quota ran out until 2026-11-05, so round 1-2 used the `visual-qa` agents; verdict files
+  `work/qa/verdicts/`, round 1 kept as `r1_*.tsv`). Round 1 fixes: **OAM x/y are object centres** (gfxtext read
+  them as top-left: mixed-size frames were mis-composed; shop/yes-no/smith windows, Owned, Power left, hints, link
+  messages, tags, mode bars re-tuned on the true layout; `bgrep` + `bgfrom` takes bar columns from another frame),
+  Pixelify 11 px B/E/F replaced by plain 5x7 shapes (`gfxtext.OVERRIDE`), SPEC tag in the small font, text
+  reading as a code across a colour code ("Ice{C0F04}" = "ceC0F": `{p1}` before the code, lint checks across
+  codes), one-word last lines (`lint.wrap` moves a word down; `batches.py rewrap` re-wrapped 212 boxes).
+  jp_left: 1 known noise hit. **Left:** round-2 verdicts + fixes, `qa_gate.py check`.
   Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
 - **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
   polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words
