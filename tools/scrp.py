@@ -56,6 +56,22 @@ def targets(op, arg):
     return []
 
 
+def natives(func):
+    """FUNC chunk -> {CODE offset of a 0x80 operand: native name}."""
+    out, p = {}, 0
+    while p < len(func):
+        e = func.index(b'\0', p)
+        name = func[p:e].decode('latin1')
+        p = e + 1
+        while p + 4 <= len(func):  # the last list has no 0 terminator
+            o = struct.unpack_from('<I', func, p)[0]
+            p += 4
+            if not o:
+                break
+            out[o] = name
+    return out
+
+
 def load_rom_scripts(rom, names=False):
     """Yield (offset, script bytes) for every *.SPC file in MAR.NFP (stored or LZ77-packed); names=True adds the name."""
     import gbalz
@@ -96,12 +112,17 @@ def main(a):
         print(n, 'scripts,', bad, 'bad targets')
         return 1 if bad else 0
     if a[0] == 'dis':
-        import gbalz
-        b = gbalz.decompress(rom, int(a[1], 16))[0]
-        s, sz = chunks(b)['CODE']
+        if a[1].upper().endswith('.SPC'):
+            b = next(x for _, x, n in load_rom_scripts(rom, True) if n == a[1].upper())
+        else:
+            import gbalz
+            b = gbalz.decompress(rom, int(a[1], 16))[0]
+        c = chunks(b)
+        s, sz = c['CODE']
+        nat = natives(b[c['FUNC'][0]:c['FUNC'][0] + c['FUNC'][1]]) if 'FUNC' in c else {}
         for p, op, arg in instrs(b[s:s + sz]):
-            txt = arg[2:-1].decode('cp932', 'replace') if op == 0x10 else ''
-            print('%05x %02x %s %s' % (p, op, arg.hex(' ') if op != 0x10 else '', txt))
+            txt = arg[2:-1].decode('cp932', 'replace') if op == 0x10 else nat.get(p + 1 - CODE_BASE, '')
+            print('%05x %02x %s %s' % (p - CODE_BASE, op, arg.hex(' ') if op != 0x10 else '', txt))
 
 
 if __name__ == '__main__':

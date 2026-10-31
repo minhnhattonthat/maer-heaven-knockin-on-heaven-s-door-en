@@ -17,8 +17,10 @@ Tool: `tools/nfp.py list|extract`. Addresses are ROM offsets in the `rom.sha1` d
 Free-space status: **guess, partly checked**. No u32 in the ROM equals an address in 0x08F2B448-0x08FDFFFF except
 odd/unaligned values inside compressed data (443 hits, none in literal pools of code that was checked), and a
 read-watch over 0x08F2B448-0x08FDFFFF from cold boot through title, main menu, new game and the opening scene
-(`tools/lua` + `watch.lua`, route `work/r_newgame.txt`, 2730 frames) logged no reads. Promote to verified with a
-longer tour (phase 2 debug tool) before relying on the 0xFE3090 run. The ROM is 16 MiB, so this is the only room.
+(`tools/lua` + `watch.lua`, route `work/r_newgame.txt`, 2730 frames) logged no reads. Phase 2: a CPU read-watch over 0x08F2B448-0x08FFF7FF during 8 warped scenes (staff
+roll to its last page, battle to WIN, a dungeon, ÄRM list, world map, ending, portrait viewer, versus PARTY SELECT;
+7000 frames each, `work/qa/free_*`) also logged no reads. DMA reads are not hooked; the identity/insert builds
+should still check that nothing breaks when the fill is replaced. The ROM is 16 MiB, so this is the only room.
 
 Save type: SRAM (`SRAM_F_V103` at 0x1AC618).
 

@@ -15,6 +15,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [nfp.md](nfp.md) | ROM map, free space, MAR.NFP archive (all game files by name), file kinds | archive verified; free space partly checked |
 | [script.md](script.md) | SCRP event-script bytecode, string ops, relocation rule | opcode lengths + jumps verified (`tests/test_formats.py`) |
 | [text.md](text.md) | Shift-JIS encoding, control codes, FONT.NFT 8x8, where all text lives | encoding/font verified; control codes guessed |
+| [debug.md](debug.md) | debug room + chapter select (CH_ESC), warp method, game-state/battle/dungeon/title-mode RAM | warps verified (`tools/debug/regen.py`) |
 | [graphics.md](graphics.md) | graphics-text survey: every tile-drawn Japanese element | static sweep + boot tour |
 
 Prior work: no earlier fan translation or community tools found (web search 2026-10-31: romhacking.net mirrors,
