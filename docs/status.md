@@ -120,13 +120,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** phase 8 (QA): screen tour through changed scenes (`$SKILL/references/emulator-qa.md`), `qa_gate.py`
-  manifest + read-only visual-QA verdicts (do it in a fresh read-only pass yourself; no nested workers); graphics
-  text (`docs/re/graphics.md` survey: title modes, menus, COMMAND/ITEM/STATUS headers' Japanese items, shop
-  かう/うる/やめる windows, dungeon gate banners, credits, chapter cards). Still unchecked in game: engraver composed
-  messages with materials (needs a scene that has items: e.g. a `pre` FULL_ITM step in warp.lua), link-cable
-  messages (no partner), sort headers (40 px guess). Speaker label "[---]" in the gate_* scene: check its JP.
-  Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
+- **Next:** finish the phase 8 graphics rows still without a cold-boot shot (`docs/qa-gfx.md`; a `pre` FULL_ITM
+  step in warp.lua would also reach the engraver composed messages), then phase 9 (release: story-pass verdict per
+  chapter, `docs/polish.md` ticked, release script, jp_left, debug tool off, patch verified). Still unchecked in
+  game: link-cable messages (no partner), sort headers (40 px guess). Speaker label "[---]" in the gate_* scene:
+  check its JP. Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
 - **Open questions for later phases:**
   exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (lengthening every OPEN.SPC string
   works, so none there); EWRAM script buffer size; ÄRM交換 mode shows nothing without a link partner; screens not
