@@ -5,7 +5,8 @@ Spec: gfx/<BANK>.tsv (BANK = SYSTEM or EFFECT), one row per text area: `frames<T
   options  space-separated: rect=x,y,w,h (frame pixels, default the whole frame); font=big|mid|small (default:
            the largest that fits on the frame's tiles); align=l|c|r (default c); dx=N dy=N (nudge);
            style=auto|outline|bevel|shadow|none; ol=N (outline / bevel top-left) ol2=N (bevel bottom-right)
-           fill=N bg=N (palette indices instead of the detected ones); w=N (frame width, default the old one);
+           fill=N bg=N (palette indices instead of the detected ones); w=N (frame width, default the old one;
+           centred), wr=N / wl=N (same, growing right / left from the old edge);
            bgfrom=N (restore the background from that text-free frame)
 Every lettered frame gets fresh sprites and tiles (NCD.relayout): frames share blank tiles and overlap objects.
 The text area is cleared to its background colour, then the English is drawn in the original's style: the outline
@@ -85,7 +86,7 @@ class NCD:
             v = img[(x, y)]
             self.b[o] = (self.b[o] & 0x0F) | (v << 4) if hi else (self.b[o] & 0xF0) | v
 
-    def relayout(self, fr, width, left=False):
+    def relayout(self, fr, width, anchor='c'):
         """Give frame fr fresh sprites: rows of 16 px (8 for a last row) of 32/16/8-wide objects, `width` px wide
         (default the old bbox, rounded up to 8), centred on the old bbox, same top, height and palette, on one run of
         consecutive tiles (the frame's own old tiles when they are enough, else appended to the bank); the new OAM
@@ -96,7 +97,8 @@ class NCD:
         x1, y1 = max(o[0] + o[2] for o in objs), max(o[1] + o[3] for o in objs)
         # shortcut: 32-wide objects only; 16/8-wide ones showed 8-16 px right of their x in game (cause unknown)
         H, W = -(-(y1 - y0) // 8) * 8, -(-(width or x1 - x0) // 32) * 32
-        nx0 = x0 if left else (x0 + x1) // 2 - W // 2  # left: grow to the right (button hints keep their icon)
+        # anchor l: grow to the right (button hints keep their icon); r: grow to the left (right-aligned credits)
+        nx0 = x0 if anchor == 'l' else x1 - W if anchor == 'r' else (x0 + x1) // 2 - W // 2
         blocks = [(bx, by, 32, min(16, H - by)) for by in range(0, H, 16) for bx in range(0, W, 32)]
         N = sum(w * h // 64 for _, _, w, h in blocks)
         first = struct.unpack_from('<I', self.b, self.frame_o + 8 * fr)[0]
@@ -277,6 +279,8 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
         mw += 1 if bold and name != 'small' else 0  # placement width includes the bold column
         if align == 'l':
             ox = rx + 1 + (min(x for x, _ in ink) - rx - 1 if ink else 0)
+        elif align == 'r' and ink and rect is None and not clear:  # end where the old text (+ its ring) ended
+            ox = max(x for x, _ in ink) + 1 - mw - (1 if ring else 0)
         elif align == 'r':
             ox = (max(x for x, _ in ink) + 1 if clear and ink else rx + rw - 1) - mw
         else:
@@ -356,9 +360,10 @@ def apply(name, b, errors=None, log=None):
     for f, text, kw in rows:
         kw = dict(kw)
         if f not in imgs:  # fresh tiles always: frames reuse blank tiles and overlap objects
-            imgs[f] = n.relayout(f, kw.get('wr') or kw.get('w'), left='wr' in kw)
-        kw.pop('w', None)
-        kw.pop('wr', None)
+            imgs[f] = n.relayout(f, kw.get('wr') or kw.get('wl') or kw.get('w'),
+                                 'l' if 'wr' in kw else 'r' if 'wl' in kw else 'c')
+        for k in ('w', 'wr', 'wl'):
+            kw.pop(k, None)
         if kw.get('rect'):  # rect is in the original frame's pixels
             x, y, w, h = kw['rect']
             kw['rect'] = (x - n.shift[f], y, w, h)

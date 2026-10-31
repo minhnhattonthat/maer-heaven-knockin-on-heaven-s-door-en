@@ -126,3 +126,88 @@
 1880-1882	ÄRM Trade	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
 1883-1885	Versus Mode	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
 1886-1888	Dungeon Mode	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
+# staff roll (SROLL.SPC): unit headings top left grow right, roles and names right-aligned grow left; the smallest
+# width that fits (32 steps); names given-name first, no macrons; uncertain readings in docs/decisions.md D15
+1698	MÄR Heaven: Knockin' on Heaven's Door	font=mid w=224 align=c style=outline bold=1
+1700	Original Work	font=mid wr=96 align=l style=outline bold=1
+1701	Nobuyuki Anzai	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1702	Planning Unit	font=mid wr=96 align=l style=outline bold=1
+1703	Main Planning	font=mid wl=96 align=r style=outline bold=1
+1704	Hiroshi Hanada	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1705	Scenario Script	font=mid wl=96 align=r style=outline bold=1
+1706	Masato Sato	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1707	Takumi Ochiai	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1708	Program Unit	font=mid wr=96 align=l style=outline bold=1
+1709	Main Program	font=mid wl=96 align=r style=outline bold=1
+1710	Koichi Noboru	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1711	System Menus	font=mid wl=96 align=r style=outline bold=1
+1712	Toshiyuki Maehashi	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1713	Dungeon Generation, Maps	font=mid wl=160 align=r style=outline bold=1
+1714	Daisuke Kato	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1715	ÄRM Effects, Enemy AI	font=mid wl=160 align=r style=outline bold=1
+1716	Takehiko Kobayashi	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1717	Design Unit	font=mid wr=96 align=l style=outline bold=1
+1718	Main Design	font=mid wl=96 align=r style=outline bold=1
+1719	Tadashi Kobayashi	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1720	Lead Design	font=mid wl=96 align=r style=outline bold=1
+1721	Aya Ito	font=mid wl=64 align=r style=outline bold=1 fill=10 ol=1
+1722	Character Design	font=mid wl=128 align=r style=outline bold=1
+1723	Kayoko Shibasaki	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1724	Kazuya Sakamoto	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1725	Masashi Ogura	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1726	Kiyoshi Hino	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1727	Background Design	font=mid wl=128 align=r style=outline bold=1
+1728	Fumihiro Ono	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1729	Takashi Fujita	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1730	Effect & System Design	font=mid wl=160 align=r style=outline bold=1
+1731	Motoki Uchiyama	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1732	Keiichi Yogo	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1733	ÄRM Design	font=mid wl=64 align=r style=outline bold=1
+1734	Yuki Oyama	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1735	Sound Unit	font=mid wr=64 align=l style=outline bold=1
+1736	Music, Sound Effects	font=mid wl=128 align=r style=outline bold=1
+1737	Kanayo Ono	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1738	Product Design	font=mid wr=96 align=l style=outline bold=1
+1739	Michiko Tokoro	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1740	Promotion	font=mid wr=64 align=l style=outline bold=1
+1741	Ryo Yanai	font=mid wl=64 align=r style=outline bold=1 fill=10 ol=1
+1742	Kenji Sato	font=mid wl=64 align=r style=outline bold=1 fill=10 ol=1
+1743	Makiko Ito	font=mid wl=64 align=r style=outline bold=1 fill=10 ol=1
+1744	Production Support	font=mid wr=128 align=l style=outline bold=1
+1745	Shogakukan Shonen Sunday Editors	font=small wl=160 align=r style=outline bold=1
+1746	Shinichiro Tsuzuki	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1747	Masato Hayashi	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1748	Atsushi Nomura	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1749	Yasushi Miyasaka	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1750	Yosuke Iizuka	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1751	Eri Sato	font=mid wl=64 align=r style=outline bold=1 fill=10 ol=1
+1752	Shogakukan Character Business Center	font=small wl=192 align=r style=outline bold=1
+1753	Masakazu Kubo	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1754	Nobumasa Sawabe	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1755	Shogakukan Publicity	font=mid wl=128 align=r style=outline bold=1
+1756	Mikito Bizenjima	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1757	Naohiko Furuichi (ShoPro)	font=mid wl=160 align=r style=outline bold=1 fill=10 ol=1
+1758	Tadahisa Ito (ShoPro)	font=mid wl=160 align=r style=outline bold=1 fill=10 ol=1
+1759	Shogakukan Production	font=mid w=160 align=c style=outline bold=1
+1760	Special Thanks	font=mid wr=96 align=l style=outline bold=1
+1761	Michihiro Ishizuka	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1762	Kuniaki Kinoshita	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1763	Atsushi Horigami	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1764	Kengo Nakamura	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1765	Keita Kawaminami	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1766	Hideyuki Suzuki	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1767	Ayumu Kashiwazaki	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1768	Satoko Naito	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1769	Mitsuo Nagai	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1770	Shigeru Okamoto	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1771	Director	font=mid wr=64 align=l style=outline bold=1
+1772	Kaname Igarashi	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1773	Chief Director	font=mid wr=96 align=l style=outline bold=1
+1774	Makoto Murato	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
+1775	Producer	font=mid wr=64 align=l style=outline bold=1
+1776	Hideki Hayakawa	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1777	Executive Producer	font=mid wr=128 align=l style=outline bold=1
+1778	Motoyuki Yoshioka	font=mid wl=128 align=r style=outline bold=1 fill=10 ol=1
+1779	Produced by	font=mid wl=96 align=r style=outline bold=1
+1780	KONAMI CORPORATION	font=mid wl=128 align=r style=outline bold=1
+1781	Masanori Akita	font=mid wl=96 align=r style=outline bold=1 fill=10 ol=1
