@@ -10,7 +10,8 @@ Spec: gfx/<BANK>.tsv (BANK = SYSTEM or EFFECT), one row per text area: `frames<T
            centred), wr=N / wl=N (same, growing right / left from the old edge);
            bgfrom=N (restore the background from that text-free frame); bgrep=x,w (background = the frame's
            text-free columns x..x+w-1 repeated, for patterned bars; with bgfrom: that frame's columns); bgrow=N (with clear: erased pixels take
-           the colour of row N in the same column, for text over a shaded ball)
+           the colour of row N in the same column, for text over a shaded ball); italic=N (shear 1 px per N rows);
+           outer=i,j,.. (a ring outside the first, those indices top to bottom)
 Every lettered frame gets fresh sprites and tiles (NCD.relayout): frames share blank tiles and overlap objects.
 The text area is cleared to its background colour, then the English is drawn in the original's style: the outline
 colour (ink pixels touching the background) around the glyphs, the fill colour taken per row from the original
@@ -244,8 +245,10 @@ RING = {'outline': [(a, b) for a in (-1, 0, 1) for b in (-1, 0, 1) if a or b],
 
 
 def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto', ol=None, fill=None, bg=None,
-           under=None, ol2=None, bold=0, clear=None, bgrow=None, grad=None):
+           under=None, ol2=None, bold=0, clear=None, bgrow=None, grad=None, italic=0, outer=None):
     """img {(x, y): index} -> new dict with the English drawn in rect (frame pixels the OAM covers only).
+    italic=N: shear the glyphs 1 px right per N rows up; outer=[i, j, ..]: a second ring outside the first,
+    filled top to bottom with those indices (the title mode banners' orange rim).
     style auto/outline/shadow/none: the ring drawn in colour `ol` around the glyphs (auto: outline when the
     original's edge pixels share one colour not used inside). fill: one colour instead of the per-row fill.
     under: {(x, y): index} of a text-free frame, put back instead of the flat background (banner textures)."""
@@ -302,6 +305,7 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
         capw = m[2] if len(m) > 2 else 7
         mw, mh = len(mask[0]) if mask and mask[0] else 0, len(mask)
         mw += 1 if bold and name != 'small' else 0  # placement width includes the bold column
+        mw += (mh - 1) // italic if italic else 0
         if align == 'l':
             ox = rx + 1 + (min(x for x, _ in ink) - rx - 1 if ink else 0)
         elif align == 'r' and ink and rect is None and not clear:  # end where the old text (+ its ring) ended
@@ -314,12 +318,16 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
         vy, vh = (min(y for _, y in ink), max(y for _, y in ink) - min(y for _, y in ink) + 1) if clear and ink \
             else (ry, rh)
         oy = vy + (vh - capw) // 2 - ctop + dy  # caps centred in the rect (clear: on the old text's rows)
-        glyph = {(ox + x, oy + y) for y in range(mh) for x, v in enumerate(mask[y]) if v}
+        glyph = {(ox + x + ((mh - 1 - y) // italic if italic else 0), oy + y)
+                 for y in range(mh) for x, v in enumerate(mask[y]) if v}
         if bold and name != 'small':  # 2-px stems like the Japanese art; a 1-px gap stays open
             glyph |= {(x + 1, y) for x, y in glyph if (x + 2, y) not in glyph and (x + 1, y) not in glyph}
         halo = {(x + a, y + b) for x, y in glyph for a, b in ring} - glyph
         halo = {(x, y) for x, y in halo if not ({(x - 1, y), (x + 1, y)} <= glyph or {(x, y - 1), (x, y + 1)} <= glyph)}
-        if glyph <= area.keys() and halo <= area.keys():
+        both = glyph | halo
+        halo2 = {(x + a, y + b) for x, y in both for a, b in RING['outline']} - both if outer else set()
+        halo2 = {(x, y) for x, y in halo2 if not ({(x - 1, y), (x + 1, y)} <= both or {(x, y - 1), (x, y + 1)} <= both)}
+        if glyph <= area.keys() and halo <= area.keys() and halo2 <= area.keys():
             break
         tried.append('%s: %d px wide, %d off the tiles' % (name, mw, len((glyph | halo) - area.keys())))
     else:
@@ -343,6 +351,10 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
     for r, c in rings:  # bevel: the bottom-right colour wins where both reach
         for p in halo & {(x + a, y + b) for x, y in glyph for a, b in r}:
             out[p] = c
+    if halo2:
+        h0, h1 = min(y for _, y in halo2), max(y for _, y in halo2)
+        for x, y in halo2:
+            out[(x, y)] = outer[(y - h0) * len(outer) // (h1 - h0 + 1)]
     LAST.update(text=text, font=name, style=style, bg=bg, ring=[c for _, c in rings],
                 fill=sorted(set(fill_rows.values())) or [gfill])
     return out
@@ -369,7 +381,7 @@ def spec(bank):
         if 'clear' in o:
             kw['clear'] = {int(v) for v in o.pop('clear').split(',')}
             kw.setdefault('align', 'l')  # text on a box starts where the Japanese did
-        for k in ('grad', 'bgrep'):
+        for k in ('grad', 'bgrep', 'outer'):
             if k in o:
                 kw[k] = [int(v) for v in o.pop(k).split(',')]
         kw.update({k: int(v) for k, v in o.items()})  # dx dy ol ol2 fill bg w bgfrom

@@ -22,12 +22,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   frames first, else appended), OAM tail tile count is **big-endian** (byte 19; LE = nothing loads). Growth limit:
   SYSTEM.NCD must end before the fixed block 0xF28406 (~90 KB slack minus script growth; now +39 KB): past it the
   build fails "archive past 0xFE0000". Fonts: Pixelify Sans Medium 13/11 (OFL) + vwf8 (small, Ä added).
-  Done in SYSTEM.tsv and seen in game: main menu, mode banners, area names, gate banners, tags, command windows,
+  Done in SYSTEM.tsv and seen in game: main menu, mode banners (italic, orange rim like the Japanese, owner feedback 2026-11-01), area names, gate banners, tags, command windows,
   smith menu, prompts, button hints, link messages (link/prompts/smith not seen in game yet), staff roll
   1698-1781 (D15; `wl=` grows right-aligned frames left, right edge = old ink edge), ÄRM type balls 0624-0635
   (`bgrow=`), big Story/Dungeon Mode banners (`font=huge`), mode option bars 1893-1906 (`bgrep=`, `grad=`);
   EFFECT.tsv: Sealed 0386-0389, Stats wipe 0402-0406. BG screens via `tools/bgtext.py` + `gfx/BG.tsv` (map cells
-  re-tiled, KCG re-compressed; per-cell palette bank kept unless `pal=`): title logo redrawn (D16), copyright,
+  re-tiled, KCG re-compressed; per-cell palette bank kept unless `pal=`): title screen left Japanese (D16, owner), copyright,
   smith ÄRM grades, OWNED. Space: SYSTEM.NCD grew +130 KB; `nfp.pack` now moves `MAP42_A.KMP` past the gap when
   needed (verified in game, docs/re/nfp.md). Visual QA: `tools/tour.py` (EN -> `work/qa/tour`, JP baseline
   `tools/tour.py <jp rom> --out work/qa/tour_jp`), `qa_gate.py init/todo`, verdicts by `tools/vqa_codex.py`

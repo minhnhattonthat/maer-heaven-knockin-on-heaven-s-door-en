@@ -6,7 +6,7 @@ Build checked: 39e106f6 (2026-11-01). Previews of every row (original | English)
 
 | Group | Rows | Seen in | State |
 |---|---|---|---|
-| Title logo, copyright | BG T_TTL06, T_C01 | scenes/title, scenes/copyright | ok |
+| Title logo (original, D16), copyright | BG T_C01 | scenes/title, scenes/copyright | ok |
 | Mode carousel | 1878-1888 | scenes/mode_select, mode_unlocked | ok |
 | Dungeon Mode banner + bars | 1898-1906 | scenes/mode_dungeon (zoom work/qa/zoom/dbar.png) | ok |
 | Story Mode banner + bars | 1889-1897 | scenes/mode_story (zoom work/qa/zoom/new2.png) | ok |

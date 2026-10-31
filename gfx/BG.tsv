@@ -1,16 +1,7 @@
 # KMP background screens: KMP<TAB>English<TAB>options (tools/bgtext.py; survey docs/re/graphics.md)
 # boot copyright line (the 8-px font: the original's 14-px line would not fit in English)
 T_C01	©Nobuyuki Anzai/Shogakukan・ShoPro・TV Tokyo	rect=0,56,240,17 font=small style=none fill=15 bg=4
-# title logo (D16): the katakana メルヘヴン covered the lower half of the silver MÄR art, so the top 80 px are
-# redrawn as silver MÄR (bank 3 greys) over fire-gradient HEAVEN (bank 1, the katakana's colours); the small
-# katakana reading under the English subtitle is erased (D5)
-T_TTL06	-	rect=0,0,256,80 bg=0
-T_TTL06	-	rect=0,80,256,3 bg=1
-T_TTL06	-	rect=0,83,60,5 bg=1
-T_TTL06	-	rect=207,83,49,2 bg=1
-T_TTL06	MÄR	rect=8,0,224,48 font=45 style=outline ol=1 grad=15,14,13,12,11,10,9,8,10,12,13,14 pal=3
-T_TTL06	HEAVEN	rect=8,48,224,32 font=39 style=outline ol=1 grad=15,14,11,9,7,3,4,6,2 pal=1
-T_TTL06	-	rect=68,114,104,9 bg=1
+# title logo T_TTL06: original Japanese art kept (D16, owner ruling)
 # smith ÄRM grade list (text colour 14 over a texture: only it is erased)
 SM_BG12	ÄRM Silver	rect=2,6,116,11 clear=14 font=small fill=14
 SM_BG12	ÄRM Gold	rect=2,22,116,11 clear=14 font=small fill=14

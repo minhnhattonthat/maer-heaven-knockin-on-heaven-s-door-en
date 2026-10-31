@@ -142,11 +142,19 @@
 1839	Sell	clear=14 font=small align=l
 1840	Dungeon	clear=14 font=small align=l
 1841	Versus	clear=15 font=small align=l
-# title mode banners (lit / grey / dark): erase the text inside the arrows, keep the checker
-1878-1879	Story Mode	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
-1880-1882	ÄRM Trade	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
-1883-1885	Versus Mode	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
-1886-1888	Dungeon Mode	align=c rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
+# title mode banners (lit / grey / dark): erase the text inside the arrows, keep the checker; italic like the
+# Japanese, lit = cream fill, peach ring, orange rim (dark at the bottom); grey / dark = grey rims
+1878	Story Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 grad=7,7,7,7,8,8,10 outer=13,12,11
+1879	Story Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=14 outer=1
+1880	ÄRM Trade	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 grad=7,7,7,7,8,8,10 outer=13,12,11
+1881	ÄRM Trade	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=14 outer=1
+1882	ÄRM Trade	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=6 outer=1
+1883	Versus Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 grad=7,7,7,7,8,8,10 outer=13,12,11
+1884	Versus Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=14 outer=1
+1885	Versus Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=6 outer=1
+1886	Dungeon Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 grad=7,7,7,7,8,8,10 outer=13,12,11
+1887	Dungeon Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=14 outer=1
+1888	Dungeon Mode	align=c rect=16,0,96,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 font=big style=none italic=3 fill=6 outer=1
 # staff roll (SROLL.SPC): unit headings top left grow right, roles and names right-aligned grow left; the smallest
 # width that fits (32 steps); names given-name first, no macrons; uncertain readings in docs/decisions.md D15
 1698	MÄR Heaven: Knockin' on Heaven's Door	font=mid w=224 align=c style=outline bold=1
