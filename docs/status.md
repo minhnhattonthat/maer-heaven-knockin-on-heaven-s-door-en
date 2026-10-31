@@ -29,8 +29,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   codes), one-word last lines (`lint.wrap` moves a word down; `batches.py rewrap` re-wrapped 212 boxes).
   jp_left: 1 known noise hit. Round 2 (126 sheets) + round 3 (20): 0 issues; **`qa_gate.py check` passes
   (135/135)**; smoke ok; regen 73/73. **Left (phase 8 done-when):** graphics-text rows not yet in a cold-boot shot,
-  listed in `docs/qa-gfx.md` (Story Mode bars, area names, item command windows, smith with materials, input
-  prompts, Sealed/Stats, other name tags): add scenes/steps to `tools/debug/scenes.lua`, regen, zoom, tick.
+  listed in `docs/qa-gfx.md` (area names: trigger not found; smith with materials; input prompts: need a save;
+  Sealed/Stats battle effects; other name tags; link messages: no partner). New scenes `mode_story`, `items_cmd`.
+  Next: a `pre` step in warp.lua to run FULL_ITM before the engraver (smith 1583/1685 + recipe prompt), find the
+  area-card and Sealed/Stats triggers (scripts: grep the SPCs for the card/effect calls), then phase 9.
   Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
 - **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
   polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words

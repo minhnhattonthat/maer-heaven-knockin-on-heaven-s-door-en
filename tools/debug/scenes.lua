@@ -20,6 +20,8 @@ S.list = {
   mode_dungeon      = { boot = true, unlock = true, wait = 2000,
                         route = "900 -;6 start;300 -;6 start;200 -;6 down;40 -;6 down;40 -;6 down;40 -;6 a",
                         note = "ダンジョンモード" },
+  mode_story        = { boot = true, unlock = true, wait = 2000, route = "900 -;6 start;300 -;6 start;200 -;6 a",
+                        note = "ストーリーモード: big banner + New Game / Continue bars" },
   newgame           = { script = "OPEN.SPC", wait = 600, note = "normal new game: opening" },
   debug_room        = { npc = "CH_ESC.SPC", wait = 120, note = "debug room NPC menu (unpatched CH_ESC)" },
   -- story (CH_ESC questions, in order)
@@ -63,6 +65,8 @@ S.list = {
   -- debug helpers
   all_party         = { chesc = 0x3809, note = "全員使える (whole party, party change)" },
   full_items        = { chesc = 0x3E9D, note = "アイテムとＲＭを満タン -> FULL_ITM.SPC" },
+  items_cmd         = { chesc = 0x3E9D, wait = 1700, route = "300 -;6 a;60 -;6 a;60 -;6 a;60 -;6 a;120 -;6 start;150 -;6 down;30 -;6 a;150 -;6 a",
+                        note = "full items, then START > Items > first item: Use / Drop window" },
   face_check        = { chesc = 0x4061, note = "フェイスチェック -> DBG_FACE.SPC (portraits)" },
   engraver          = { chesc = 0x4332, note = "彫金師ベリーニ (engraving menu)" },
   -- battle (Loup-Garou fight, mashing A through the intro and the fight)
