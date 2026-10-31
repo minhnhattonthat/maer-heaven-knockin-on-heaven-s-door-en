@@ -36,7 +36,7 @@
  {
   "id": "J_VS_M:000fc",
   "jp": "{C0F04}これでギンタちゃんを助けておやり",
-  "en": "{C0F04}Use these to help Ginta-chan, now.",
+  "en": "{C0F04}Use this to help Ginta-chan, now.",
   "call": "MswStr",
   "box": 4,
   "line": 1,
@@ -112,7 +112,7 @@
  {
   "id": "J_VS_M:00350",
   "jp": "{C0F04}これでギンタちゃんを助けておやり",
-  "en": "{C0F04}Use these to help Ginta-chan, now.",
+  "en": "{C0F04}Use this to help Ginta-chan, now.",
   "call": "MswStr",
   "box": 17,
   "line": 1,

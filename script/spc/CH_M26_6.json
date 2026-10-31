@@ -112,7 +112,7 @@
  {
   "id": "CH_M26_6:026be",
   "jp": "{C0F04}おまえ…かわいそうなヤツだな",
-  "en": "{C0F04}You're... a pitiful guy, you know that?",
+  "en": "{C0F04}You're... a pitiful guy.",
   "call": "MswStr",
   "box": 231,
   "line": 1,
@@ -632,7 +632,7 @@
  {
   "id": "CH_M26_6:03e49",
   "jp": "{C0F04}てめぇでまいたタネだ",
-  "en": "{C0F04}You planted this seed yourself...",
+  "en": "{C0F04}You sowed this seed yourself...",
   "call": "MswStr",
   "box": 343,
   "line": 1,
