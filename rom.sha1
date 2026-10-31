@@ -1,2 +1,2 @@
-# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too).
+5ed178bfbdf459867d64e5b91a9d9c72654e4051  rom/MAER Heaven - Knockin' on Heaven's Door (Japan).gba

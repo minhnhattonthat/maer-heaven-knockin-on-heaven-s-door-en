@@ -1,0 +1,6 @@
+# cold boot, wait through logos, press start at title
+900 -
+6 start
+300 -
+6 start
+300 -

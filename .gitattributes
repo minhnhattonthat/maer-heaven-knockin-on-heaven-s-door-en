@@ -2,6 +2,7 @@
 *.sfc binary
 *.smc binary
 *.gba binary
+*.mss binary
 *.nds binary
 *.bin binary
 *.cue binary
