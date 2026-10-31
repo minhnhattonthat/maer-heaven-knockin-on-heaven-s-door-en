@@ -1,0 +1,8 @@
+{
+ "_doc": "Pixel budgets per box/field for the VWF font (fonts/vwf8.txt; width = tools/engine.py width()). measured = seen in a zoomed shot with an exact-width test line (tools/widthtest.py); guess = not yet. docs/re/vwf.md",
+ "dialogue": {
+  "applies": "script lines (MswStr): line 0 speaker label, lines 1-2 text; narration boxes use all 3 lines",
+  "px": 192, "lines": 3, "state": "measured",
+  "proof": "work/qa/wt2/f002456.png: '192 px ... |' on lines 1 and 2 fully visible (last column x=214, frame from 218); 196 px clips; the page arrow sits in the frame (x 224-232), not over line 2"
+ }
+}

@@ -9,6 +9,7 @@ and hooks).
     python -X utf8 tools/build.py [OUT] [--recompress] [--marker]
 
 --marker: every script line becomes `[n]` + filler text (ids in <OUT dir>/marker_ids.tsv), the phase 5 marker build.
+--qa=ID=TEXT (repeatable): override one script line's English (width and glyph tests).
 """
 import hashlib
 import json
@@ -146,7 +147,8 @@ def main(a):
     check_rom.check()
     rom = ROM.read_bytes()
     rc, mk = '--recompress' in a, '--marker' in a
-    a = [x for x in a if not x.startswith('--')]
+    qa_args = [x[5:] for x in a if x.startswith('--qa=')]
+    a_all, a = a, [x for x in a if not x.startswith('--')]
     out = Path(a[0]) if a else OUT
     out.parent.mkdir(parents=True, exist_ok=True)
     lines = script_lines()
@@ -157,8 +159,15 @@ def main(a):
         marker_tables(code, records)
         ids += [('c%d' % n, e['id']) for n, e in enumerate(code)] + [('r%d' % n, e['id']) for n, e in enumerate(records)]
         (out.parent / 'marker_ids.tsv').write_text(''.join('%s\t%s\n' % x for x in ids), encoding='utf-8')
+    if '--records-test' in sys.argv + a_all:
+        import widthtest
+        t = widthtest.record_tests(records)
+        for e in records:
+            e['en'] = t[e['id']]
+    qa = dict(x.split('=', 1) for x in qa_args)
+    lines = [(s, dict(e, en=qa[e['id']]) if e['id'] in qa else e) for s, e in lines]
     edits = edits_from(lines)
-    english = bool(edits) or any(e.get('en') for e in code + records)
+    english =bool(edits) or any(e.get('en') for e in code + records)
     b = bytearray(build(rom, edits, recompress=rc, patch_engine=english))
     patch_code(b, code)
     patch_records(b, records)
