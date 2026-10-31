@@ -23,6 +23,20 @@ def test_wrap_and_codes():
     assert lint.codes('C0F04 を') == ['C0F04']
 
 
+def test_wrap_moves_a_word_onto_a_one_word_last_line():
+    text = 'What, you wanna go?!!! ...Don\'t mess with us!!!'
+    greedy = lint.wrap(text, 2, widow=False)[0]
+    assert len(greedy) == 2 and ' ' not in greedy[-1]  # the case the fix is for
+    lines, err = lint.wrap(text, 2)
+    assert not err and ' ' in lines[-1] and ' '.join(lines) == text
+
+
+def test_text_reading_as_a_code_across_a_colour_code():
+    assert lint.char_errors('{C0D04}Melt Ice{C0F04} and')  # "ceC0F" reads as c + 4 hex digits
+    assert not lint.char_errors('{C0D04}Melt Ice{p1}{C0F04} and')
+    assert not lint.char_errors('{C0D04}Melt Ice Stone{C0F04}')
+
+
 def test_char_errors():
     assert not lint.char_errors('MÄR ♥ {C0F04}ok{p5}')
     assert lint.char_errors('café')
