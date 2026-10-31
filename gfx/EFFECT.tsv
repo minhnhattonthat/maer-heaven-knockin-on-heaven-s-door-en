@@ -1,0 +1,8 @@
+# EFFECT.NCD sprite frames: frames<TAB>English<TAB>options (tools/gfxtext.py; survey docs/re/graphics.md)
+# 封印 seal status (the face on the left animates; the text tiles are shared by the 4 frames)
+0386-0389	Sealed	rect=32,0,40,20 style=outline ol=14 fill=7 bold=1 font=mid
+# パラメータ wipe-in banner: 0402 is the first 16 px sliding in, 0403-0406 reveal more of the strip; the English
+# takes the first 40 px (0403's strip is 32: its frame is widened so the word shows whole, past the strip)
+0402	S	rect=0,0,16,16 clear=7,15 style=outline ol=15 fill=7 font=mid bold=1
+0403	Stats	rect=0,0,96,16 clear=7,15 style=outline ol=15 fill=7 font=mid bold=1 w=64
+0404-0406	Stats	rect=0,0,96,16 clear=7,15 style=outline ol=15 fill=7 font=mid bold=1

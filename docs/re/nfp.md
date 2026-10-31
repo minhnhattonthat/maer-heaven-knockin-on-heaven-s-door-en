@@ -53,6 +53,11 @@ Save type: SRAM (`SRAM_F_V103` at 0x1AC618).
   changes. **Verified**: `build.py --recompress` (every LZ77 script re-packed by us, 20 files incl. W_MAP.SPC and
   the WM_BG/T_TTL06 graphics moved past the gap) passes smoke and warps 73/73 scenes with the same screens as the
   original (diffs only animation frames; `work/qa/rc_scenes/`, 2026-11-01).
+- SYSTEM.NCD (1.3 MB raw) sits just before the fixed block, so the jump only buys the ~90 KB after it. When the
+  layout doesn't fit, `pack(late=nfp.LATE)` stores `MAP42_A.KMP` (231 KB, directory predecessor `MAP41_A.SPC`)
+  last, past GAP, out of name order: the directory stays sorted by name, `entries` sizes files by the next offset
+  in data order. **Verified** 2026-11-01: `pkglog.lua` on the `pelica_free` warp shows `MAP42_A.KMP` fetched from the
+  spill and the map draws as before.
 
 ## File kinds
 

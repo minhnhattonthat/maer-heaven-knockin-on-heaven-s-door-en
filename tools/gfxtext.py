@@ -2,12 +2,13 @@
 
 Spec: gfx/<BANK>.tsv (BANK = SYSTEM or EFFECT), one row per text area: `frames<TAB>English<TAB>options`.
   frames   0701, or 1878-1879 (each frame gets the same English in its own colours)
-  options  space-separated: rect=x,y,w,h (frame pixels, default the whole frame); font=big|mid|small (default:
+  options  space-separated: rect=x,y,w,h (frame pixels, default the whole frame); font=huge|big|mid|small (huge only when named; default:
            the largest that fits on the frame's tiles); align=l|c|r (default c); dx=N dy=N (nudge);
            style=auto|outline|bevel|shadow|none; ol=N (outline / bevel top-left) ol2=N (bevel bottom-right)
            fill=N bg=N (palette indices instead of the detected ones); w=N (frame width, default the old one;
            centred), wr=N / wl=N (same, growing right / left from the old edge);
-           bgfrom=N (restore the background from that text-free frame)
+           bgfrom=N (restore the background from that text-free frame); bgrow=N (with clear: erased pixels take
+           the colour of row N in the same column, for text over a shaded ball)
 Every lettered frame gets fresh sprites and tiles (NCD.relayout): frames share blank tiles and overlap objects.
 The text area is cleared to its background colour, then the English is drawn in the original's style: the outline
 colour (ink pixels touching the background) around the glyphs, the fill colour taken per row from the original
@@ -204,7 +205,7 @@ def mask_ttf(text, size):
     return [[1 if px[x, y] else 0 for x in range(x0, x1)] for y in range(top, bot)], ctop - top, cbot - ctop
 
 
-FONTS = {'big': lambda t: mask_ttf(t, 13), 'mid': lambda t: mask_ttf(t, 11), 'small': mask_small}
+FONTS = {'huge': lambda t: mask_ttf(t, 26), 'big': lambda t: mask_ttf(t, 13), 'mid': lambda t: mask_ttf(t, 11), 'small': mask_small}
 
 
 # --- relettering ------------------------------------------------------------------------------------------------
@@ -219,7 +220,7 @@ RING = {'outline': [(a, b) for a in (-1, 0, 1) for b in (-1, 0, 1) if a or b],
 
 
 def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto', ol=None, fill=None, bg=None,
-           under=None, ol2=None, bold=0, clear=None):
+           under=None, ol2=None, bold=0, clear=None, bgrow=None):
     """img {(x, y): index} -> new dict with the English drawn in rect (frame pixels the OAM covers only).
     style auto/outline/shadow/none: the ring drawn in colour `ol` around the glyphs (auto: outline when the
     original's edge pixels share one colour not used inside). fill: one colour instead of the per-row fill.
@@ -303,6 +304,8 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
     for x, y in erase:
         if under:
             out[(x, y)] = under.get((x, y), bg)
+        elif bgrow is not None:  # text over a ball: the ball's colour from row bgrow of the same column
+            out[(x, y)] = img.get((x, bgrow)) or bg
         elif clear:  # nearest kept pixel of the same row and column parity (dithers and gradients survive)
             out[(x, y)] = next((img[q] for d in range(2, 512, 2) for q in ((x - d, y), (x + d, y))
                                 if q in area and q not in erase), bg)

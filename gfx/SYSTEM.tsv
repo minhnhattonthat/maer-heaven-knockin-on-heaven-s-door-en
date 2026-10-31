@@ -8,6 +8,14 @@
 0539	A+D	style=outline ol=10
 0540	HEAL	style=outline ol=10
 0541	SPEC	style=outline ol=10
+# round ÄRM type icons 攻 / 防 / 攻防 (4 animation frames each; the arrow colour stays, the ball under the kanji
+# is refilled from row 14)
+0624-0627	AT	rect=3,15,26,12 clear=1,4,5,6,7,8,9,10,11,12,13,14,15 bgrow=14 font=mid style=outline ol=1 fill=15 bold=1
+0628-0631	DF	rect=3,15,26,12 clear=1,4,5,6,7,8,9,10,11,12,13,14,15 bgrow=14 font=mid style=outline ol=1 fill=15 bold=1
+0632-0635	A+D	rect=3,15,26,12 clear=1,5,6,7,8,9,10,11,12,13,14,15 bgrow=14 font=mid style=outline ol=1 fill=15 bold=1
+# big mode banners between two spinning rings (4 frames each)
+1889-1892	Story Mode	rect=32,0,176,36 font=huge
+1898-1901	Dungeon Mode	rect=32,0,176,36 font=huge
 # main menu
 0701	Deck Edit	style=outline ol=15
 0702	Items	style=outline ol=15

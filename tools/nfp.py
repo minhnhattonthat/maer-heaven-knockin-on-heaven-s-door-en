@@ -29,13 +29,10 @@ def entries(rom, base=BASE):
         name = rom[e:e + 12].rstrip(b'\0').decode('ascii')
         off = struct.unpack_from('<I', rom, e + 12)[0]
         ent.append((name, off))
-    offs = [o for _, o in ent]
-    assert offs == sorted(offs) and offs[0] == datap, 'directory not sorted by offset'
-    out = []
-    for i, (name, off) in enumerate(ent):
-        nxt = ent[i + 1][1] if i + 1 < count else None
-        out.append((name, base + off, (nxt - off) if nxt is not None else None))
-    return out
+    offs = sorted(o for _, o in ent)  # name order = data order, except pack's `late` files (placed last)
+    assert offs[0] == datap, 'first file not at the data offset'
+    nxt = dict(zip(offs, offs[1:] + [None]))
+    return [(name, base + off, nxt[off] - off if nxt[off] is not None else None) for name, off in ent]
 
 
 END = 0xF28406  # first byte after the archive (code-referenced data follows; docs/re/nfp.md)
@@ -59,12 +56,27 @@ GAP = (END, 0xF2B450)  # code-referenced data the archive may jump over; free 0x
 SPILL_END = 0xFE0000
 
 
-def pack(files, header, base=BASE):
+LATE = ('MAP42_A.KMP',)  # 231 KB map, follows an .SPC: its data may sit in the spill (pelica_free warp loads it)
+
+
+def pack(files, header, base=BASE, late=None):
     """Archive bytes from [(name, stored bytes)] in directory order; each file starts 16-aligned, zero fill.
 
     Returns {ROM offset: bytes} (one block, or two when it doesn't fit before GAP). The game sizes a file as next
     entry's offset - its own (0x0807AD4C, used for KCG/KCL named by a KMP), so data stays in directory order and the
-    jump over GAP comes right after an .SPC, whose size is never taken that way: no raw file's size changes."""
+    jump over GAP comes right after an .SPC, whose size is never taken that way: no raw file's size changes.
+    When that doesn't fit (SYSTEM.NCD, 1.3 MB raw, sits right before GAP), the `late` files' data goes last, past
+    GAP: lookups are by name, and a late file's directory predecessor is an .SPC, so no KCG/KCL size changes."""
+    if late is None:
+        try:
+            return pack(files, header, base, ())
+        except AssertionError:
+            return pack(files, header, base, LATE)
+    names = [n for n, _ in files]
+    for n in late:
+        assert names[names.index(n) - 1].endswith('.SPC'), n
+    order = sorted(range(len(files)), key=lambda i: files[i][0] in late)  # stable: late data at the end
+    files = [files[i] for i in order]
     count = len(files)
     datap = 0x40 + 16 * count
     offs, p = [], datap
@@ -84,8 +96,9 @@ def pack(files, header, base=BASE):
         assert base + end <= SPILL_END, 'archive past 0x%X' % SPILL_END
     hdr = bytearray(header[:0x40])
     struct.pack_into('<3I', hdr, 0x34, count, 0x40, datap)
-    for name, o in zip((n for n, _ in files), offs):
-        hdr += name.encode('ascii').ljust(12, b'\0') + struct.pack('<I', o)
+    dir_offs = dict(zip(order, offs))  # the directory stays in name order
+    for i, name in enumerate(names):
+        hdr += name.encode('ascii').ljust(12, b'\0') + struct.pack('<I', dir_offs[i])
     blob = bytearray(end - (shift if gap else 0))
     blob[:datap] = hdr
     for (name, b), o in zip(files, offs):
