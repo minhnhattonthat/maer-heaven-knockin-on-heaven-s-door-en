@@ -17,20 +17,19 @@ import engine  # noqa: E402
 LIMIT = 192
 
 
-def exact(px, head):
+def exact(px, head, fill=' Mmw iI.'):
     """head + filler + '|' whose drawn width is exactly px."""
     adv = engine.advance()
     w = lambda s: engine.width(s.encode('ascii'), adv)  # noqa: E731
     s = head
-    for ch in ' Mmw iI.' * 60:
-        if w(s + ch) + w('|') > px:
+    for ch in fill * 60:
+        if w(s + ch) + w('|') + 2 > px:  # leave >= 2 px: any gap >= 2 fills with '.' (2) and ' ' (3)
             break
         s += ch
-    while w(s) + w('|') < px:
-        s += '.' if w(s + '.') + w('|') <= px else ''
-        if w(s) + w('|') < px and w(s + '.') + w('|') > px:
-            s = s[:-1] + ' '  # 3 px instead of 2
-    s += '|'
+    gap = px - w(s) - w('|')
+    if gap == 1:
+        s, gap = s[:-1], gap + w(s[-1])
+    s += ' ' * (gap % 2) + '.' * ((gap - 3 * (gap % 2)) // 2) + '|'
     assert w(s) == px, (w(s), px)
     return s
 
@@ -55,7 +54,8 @@ def record_tests(records):
     out = {}
     for n, e in enumerate(records):
         px = (80 + 8 * (n // 2 % 8)) if e['id'].endswith('.name') else (150 + 10 * (n // 2 % 6))
-        s = exact(px, '%d ' % px)
+        s = exact(px, '%d ' % px, 'MW')  # wide letters: 200 px in 33 bytes
+        assert len(s) <= e['max'], (e['id'], s)
         out[e['id']] = s if len(s) <= e['max'] else s[:e['max'] - 1] + '|'
     return out
 

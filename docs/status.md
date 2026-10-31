@@ -2,9 +2,24 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4 (extract) done -> next is phase 5 (engine spike + marker build + width gate). Last build:
-  `build/maer_en.gba` = original, sha1 5ed178bf... (identity, 2026-11-01).
-- **Done:** Step 0, phase 1 (recon, `docs/re/`). Phase 4 (2026-11-01):
+- **Phase:** 5 (engine + marker + width gate) nearly done; one item left (code-string label budgets, see Next).
+  Last builds (2026-11-01): `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`);
+  `build/maer_en.gba` = original (identity).
+- **Done:** Step 0, phase 1 (recon, `docs/re/`). Phase 5 (2026-11-01, `docs/re/vwf.md`):
+  - renderer read: one glyph blitter at any pixel x (0x08011688), 5 font users (dialogue, 2 list renderers,
+    2 centred labels); single byte b -> glyph b+0x1E0, so ASCII goes into those font slots;
+  - `tools/engine.py` (keystone, hooks at 0xFE4000): VWF in dialogue, list windows and centred labels;
+    English font `fonts/vwf8.txt` (drawn, MIT); C/T codes need 4 hex digits after them; `text.encode_en`;
+  - **script rule found**: CODE size must stay 2 mod 4 (VM stack-top write; else heap header smashed, black
+    screen); `scrp.rebuild` NUL-pads the last changed string (assert);
+  - marker build: every script line `[n]`, code strings `[cN]` (repointed to 0xFE8000+), records `[rN]` in place;
+    ids `build/marker_ids.tsv`; 73/73 warps ok, every font-drawn text shows ids (`work/qa/scenes/sheet*.png`);
+    `jp_left --gba-ptrs` on it: 3 noise hits only (CHR.NCD tile word -> 0x088880, two data words);
+  - width gate `script/windows.json`: dialogue 192 px x 3 lines (label + 2; narration 3) measured; ÄRM name
+    112 px and desc 150 px measured (minimums; 33-byte field limit too); torture line renders all ASCII;
+  - CH_ESC.SPC stays Japanese (debug chapter select; warp.lua jumps to fixed offsets in it): `build.KEEP_SCRIPTS`;
+  - probes: `tools/lua/boxshot.lua` (shot per finished dialogue box), `heaplog.lua`, `wwatch.lua`.
+  Phase 4 (2026-11-01):
   - `tools/extract.py` -> `script/spc/<NAME>.json` (170 scripts, 5 563 lines, 3 199 unique), `script/code.json`
     (136 string-block strings + pointer refs), `script/records.json` (917 ARM/item name+desc fields); codec
     `tools/text.py` (`{C0F04}` colour codes, `♥`/`Ä` user glyphs); format in `docs/re/text.md` §Script files;
@@ -32,13 +47,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** phase 5: read the text renderer (ARM 0x08000800-0x08000D40 + MswStr) to decide font/VWF (8x8 fixed
-  font, 26-cell box, single-byte ASCII support unknown); marker build `[id]` per line via `build(edits=)` for
-  scripts, repointing for `code.json` (refs; the 0x13D884 subref needs its own string) and in-place fields for
-  records (max 33 bytes); measure every box variant (dialogue, menus, ARM desc, shop, link messages). Our LZ77 is
-  greedy (+2% vs original): an optimal-parse compressor would cut spill if space gets tight (723 KiB free).
-- **Open questions for later phases:** single-byte ASCII support in the text renderer (ARM blitter 0x08000800-0x08000D40);
-  exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (append-strings strategy avoids it);
+- **Next:** finish phase 5: measure the code-string label fields (`windows.json` `code_labels`: element/stat/area
+  labels, ばんごう/コスト/..., digit strings ０-９, which compose numbers: decide ASCII digits) with a `--qa`-style
+  override for code.json in `widthtest.py`; try ÄRM name > 112 / desc > 150 (status box); then give every
+  code.json entry its window. Then phase 6 (translate): add the text lint (width per `windows.json`, codes,
+  `[CcTt][0-9A-Fa-f]{4}` inside English text = accidental control code). Our LZ77 is greedy (+2%): an
+  optimal-parse compressor would cut spill if space gets tight (723 KiB free; marker build fits).
+- **Open questions for later phases:**
+  exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (lengthening every OPEN.SPC string
+  works, so none there); ASCII format strings in the string block (`T0000 C0F04 %s`) now draw their spaces (3 px);
   EWRAM script buffer size; ÄRM交換 mode shows nothing without a link partner; screens not yet in the scene list:
   link-cable messages past PARTY SELECT, password entry, save prompt (`docs/re/debug.md` §Not reached).
 - **Open bugs:** none.

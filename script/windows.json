@@ -1,8 +1,26 @@
 {
- "_doc": "Pixel budgets per box/field for the VWF font (fonts/vwf8.txt; width = tools/engine.py width()). measured = seen in a zoomed shot with an exact-width test line (tools/widthtest.py); guess = not yet. docs/re/vwf.md",
+ "_doc": "Pixel budgets per box/field for the VWF font (fonts/vwf8.txt; width = tools/engine.py width()). measured = seen in a zoomed shot with an exact-width test line (tools/widthtest.py, '|' marks the last column); 'min' = this width fits, larger not yet tried; guess = not measured. docs/re/vwf.md",
  "dialogue": {
   "applies": "script lines (MswStr): line 0 speaker label, lines 1-2 text; narration boxes use all 3 lines",
   "px": 192, "lines": 3, "state": "measured",
   "proof": "work/qa/wt2/f002456.png: '192 px ... |' on lines 1 and 2 fully visible (last column x=214, frame from 218); 196 px clips; the page arrow sits in the frame (x 224-232), not over line 2"
+ },
+ "arm_name": {
+  "applies": "records.json *.name (ÄRM list, ÄRM deck, shops); also byte limit max (33)",
+  "px": 112, "state": "measured min",
+  "proof": "work/qa/scenes/menu_deck_edit.png (build/widthtest.gba): '112 MWMW...|' ends 1-2 px before the cost digits (x 165); name starts x 52"
+ },
+ "arm_desc": {
+  "applies": "records.json *.desc (ÄRM deck info box, item box, status box); byte limit max (33)",
+  "px": 150, "state": "measured min",
+  "proof": "work/qa/scenes/menu_deck_edit.png: '150 MWMW...|' fits in the info box (text x 52, box edge ~205); status box starts further right (x ~52 after the portrait) - recheck >150 there"
+ },
+ "code_messages": {
+  "applies": "code.json strings shown in the dialogue window (save/shop/link/system messages)",
+  "px": 192, "state": "measured (same window as dialogue)"
+ },
+ "code_labels": {
+  "applies": "code.json short labels drawn by the list renderers (element names 雷属性.., stat labels 魔力/防御力.., area names, ばんごう/コスト/クラス/ぞくせい/なまえ, digit strings ０-９)",
+  "px": null, "state": "guess: measure per label in phase 6 prep (marker tour shows them as [cN] in menu_status, menu_arm_list, world_map)"
  }
 }
