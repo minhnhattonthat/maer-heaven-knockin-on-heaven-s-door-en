@@ -2,12 +2,14 @@
 
 Spec: gfx/<BANK>.tsv (BANK = SYSTEM or EFFECT), one row per text area: `frames<TAB>English<TAB>options`.
   frames   0701, or 1878-1879 (each frame gets the same English in its own colours)
-  options  space-separated: rect=x,y,w,h (frame pixels, default the whole frame); font=huge|big|mid|small (huge only when named; default:
+  options  space-separated: rect=x,y,w,h (frame pixels, default the whole frame); font=huge|big|mid|small|N (huge or N = Pixelify at N px only when named; grad=i,j,.. fills the glyphs
+           top to bottom with those indices; default:
            the largest that fits on the frame's tiles); align=l|c|r (default c); dx=N dy=N (nudge);
            style=auto|outline|bevel|shadow|none; ol=N (outline / bevel top-left) ol2=N (bevel bottom-right)
            fill=N bg=N (palette indices instead of the detected ones); w=N (frame width, default the old one;
            centred), wr=N / wl=N (same, growing right / left from the old edge);
-           bgfrom=N (restore the background from that text-free frame); bgrow=N (with clear: erased pixels take
+           bgfrom=N (restore the background from that text-free frame); bgrep=x,w (background = the frame's
+           text-free columns x..x+w-1 repeated, for patterned bars); bgrow=N (with clear: erased pixels take
            the colour of row N in the same column, for text over a shaded ball)
 Every lettered frame gets fresh sprites and tiles (NCD.relayout): frames share blank tiles and overlap objects.
 The text area is cleared to its background colour, then the English is drawn in the original's style: the outline
@@ -178,6 +180,8 @@ def mask_small(text):
     rows = [[] for _ in range(8)]
     a, aw = g[ord('A')]
     g[ord('Ä')] = (bytes([0x80 | 0x80 >> (aw - 1)]) + a[:7], aw)  # A one row down, dots over its outer columns
+    g[ord('©')] = (bytes([0x38, 0x44, 0xBA, 0xA2, 0xBA, 0x44, 0x38, 0]), 7)  # copyright screen (T_C01)
+    g[ord('・')] = (bytes([0, 0, 0, 0xC0, 0xC0, 0, 0, 0]), 2)  # Japanese middle dot, as in the copyright line
     for ch in text:
         if ord(ch) not in g:
             raise ValueError('small font has no %r' % ch)
@@ -220,7 +224,7 @@ RING = {'outline': [(a, b) for a in (-1, 0, 1) for b in (-1, 0, 1) if a or b],
 
 
 def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto', ol=None, fill=None, bg=None,
-           under=None, ol2=None, bold=0, clear=None, bgrow=None):
+           under=None, ol2=None, bold=0, clear=None, bgrow=None, grad=None):
     """img {(x, y): index} -> new dict with the English drawn in rect (frame pixels the OAM covers only).
     style auto/outline/shadow/none: the ring drawn in colour `ol` around the glyphs (auto: outline when the
     original's edge pixels share one colour not used inside). fill: one colour instead of the per-row fill.
@@ -270,7 +274,7 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
     tried = []
     for name in ([font] if font else ['big', 'mid', 'small']):
         try:
-            m = FONTS[name](text)
+            m = FONTS[name](text) if name in FONTS else mask_ttf(text, int(name))  # font=39: Pixelify at 39 px
         except ValueError as e:
             tried.append('%s: %s' % (name, e))
             continue
@@ -315,7 +319,7 @@ def letter(img, text, rect=None, font=None, align='c', dx=0, dy=0, style='auto',
     f0, f1 = (min(fill_rows), max(fill_rows)) if fill_rows else (t0, t1)
     for x, y in glyph:
         src = f0 + round((y - t0) * (f1 - f0) / max(1, t1 - t0))
-        out[(x, y)] = fill_rows.get(src, gfill)
+        out[(x, y)] = grad[(y - t0) * len(grad) // (t1 - t0 + 1)] if grad else fill_rows.get(src, gfill)
     for r, c in rings:  # bevel: the bottom-right colour wins where both reach
         for p in halo & {(x + a, y + b) for x, y in glyph for a, b in r}:
             out[p] = c
@@ -345,6 +349,9 @@ def spec(bank):
         if 'clear' in o:
             kw['clear'] = {int(v) for v in o.pop('clear').split(',')}
             kw.setdefault('align', 'l')  # text on a box starts where the Japanese did
+        for k in ('grad', 'bgrep'):
+            if k in o:
+                kw[k] = [int(v) for v in o.pop(k).split(',')]
         kw.update({k: int(v) for k, v in o.items()})  # dx dy ol ol2 fill bg w bgfrom
         for f in range(int(a), int(b or a) + 1):
             rows.append((f, text, kw))
@@ -370,6 +377,10 @@ def apply(name, b, errors=None, log=None):
         if kw.get('rect'):  # rect is in the original frame's pixels
             x, y, w, h = kw['rect']
             kw['rect'] = (x - n.shift[f], y, w, h)
+        if 'bgrep' in kw:  # background = the frame's own text-free columns x..x+w-1 repeated (patterned bars)
+            x0, w = kw.pop('bgrep')
+            x0 -= n.shift[f]
+            kw['under'] = {(x, y): imgs[f].get((x0 + (x - x0) % w, y), 0) for x, y in imgs[f]}
         if 'bgfrom' in kw:  # same bbox as f: move it like f was moved
             u, s = orig.get(kw.pop('bgfrom')), n.shift[f]
             kw['under'] = {(x, y): u.get((x + s, y), 0) for x, y in imgs[f]}

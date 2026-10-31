@@ -25,3 +25,16 @@ def test_specs_fit_and_relayout_is_loadable():
                 assert e[18:20] == struct.pack('>H', w * h // 64), f  # big-endian tile count: the loader's DMA size
                 assert t is None or tile == t, f  # one run of consecutive tiles in OAM order
                 t = tile + w * h // 64
+
+
+def test_bg_rows_fit_and_screens_redraw_as_lettered():
+    import bgtext
+    files = bgtext._files()
+    errs, log = [], []
+    d = dict(bgtext.apply(files, errs, log))
+    assert not errs, errs
+    last = {kmp: after for kmp, _, after, _ in log}  # each KMP's final lettered pixels
+    for kmp, after in last.items():
+        k = d[kmp + '.KMP']
+        img, _ = bgtext.Screen(k, d[k[0x1C:0x5C].split(b'\0')[0].decode('ascii')]).pixels()
+        assert img == after, kmp  # re-tiled map + recompressed KCG give back exactly the lettered screen

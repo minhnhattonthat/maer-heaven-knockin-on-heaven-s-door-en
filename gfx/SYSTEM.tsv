@@ -16,6 +16,17 @@
 # big mode banners between two spinning rings (4 frames each)
 1889-1892	Story Mode	rect=32,0,176,36 font=huge
 1898-1901	Dungeon Mode	rect=32,0,176,36 font=huge
+# mode menu option bars under the big banners (lit / white / grey): bar pattern rebuilt from columns 100-103
+1893	New Game	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=11 grad=7,8,10,13,12
+1894	New Game	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=14,14,15,15
+1895	Continue	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=11 grad=7,8,10,13,12
+1896	Continue	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=14,14,15,15
+1897	Continue	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=6,6,5,5
+1902	Begin Exploring	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=11 grad=7,8,10,13,12
+1903	Begin Exploring	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=14,14,15,15
+1904	Keep Exploring	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=11 grad=7,8,10,13,12
+1905	Keep Exploring	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=14,14,15,15
+1906	Keep Exploring	rect=18,1,92,14 bgrep=100,4 font=mid style=outline ol=4 grad=6,6,5,5
 # main menu
 0701	Deck Edit	style=outline ol=15
 0702	Items	style=outline ol=15
