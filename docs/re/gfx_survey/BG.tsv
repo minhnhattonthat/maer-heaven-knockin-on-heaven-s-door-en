@@ -1,0 +1,20 @@
+# page	image	japanese_text_as_read	what_it_is
+# == Japanese ==
+bg_p60	OP_07_A	unreadable small Japanese? (vertical chalk scribbles on blackboard, top right)	intro cutscene art, classroom; probably leave as art
+bg_p61	SM_BG12	アームシルバー / アームゴールド / アームプラチナ / アームジュエル	menu list: ARM Silver / Gold / Platinum / Jewel (arm grade/rank names)
+bg_p61	SP_BG12	しょじすう	menu side label "number owned" (所持数), with CLASS / COST above
+bg_p62	T_C01	©安西信行/小学館・ShoPro・TV Tokyo	boot copyright screen (Nobuyuki Anzai / Shogakukan); line 2 is English
+bg_p62	T_TTL06	メルヘヴン (big logo) ; ノッキン オン ヘヴンズ ドア (small katakana under English subtitle)	title screen logo: MÄR Heaven + katakana reading of subtitle
+# == English word text ==
+bg_p38	AL_BG02	-	side labels CLASS / COST / RECIPE (alchemy? menu)
+bg_p38	CLPASS	-	CLEAR PASSWORD / 【SNOW PRINCESS】
+bg_p61	SP_BG12	-	side labels CLASS / COST (third label is Japanese, see above)
+bg_p62	T_C01	-	ShoPro・TV Tokyo / © 2005 KONAMI
+bg_p62	T_C02	-	KONAMI logo
+bg_p62	T_TTL06	-	MÄRCHEN AWAKENS ROMANCE / KNOCKIN' ON HEAVEN'S DOOR
+# == not Japanese, noted for reference ==
+bg_p49	MAP10_A	-	shop sign on red roof in MÄR rune script (fictional), not Japanese
+bg_p38	DS_BG01	-	magic circle with MÄR runes; DS_BG02 frame pillars also runes; OP_09_A rune circle too
+bg_p01-02,p58	AD0_P_*/NET_25_A	-	lower layers: repeated squiggle tile pattern (collision/garbage tiles), not text
+# tiles pages p01-p03 (BA06,BA06_BG,BA07,GA08,GA13,GA24,GA25,GA26,GA60,JA05,NE01,NE13,NE21,NE32,NE33,SBA06,SK02,SN06,SN07,SSN07): no text
+# done 66 pages

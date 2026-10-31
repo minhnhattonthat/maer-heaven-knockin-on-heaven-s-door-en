@@ -1,0 +1,11 @@
+# Japanese text
+5	0386-0389	封印	'Sealed' red banner beside a character head (seal status/effect popup)
+5	0402-0406	パラメータ	'Parameter' red-on-stone banner, wipe-in animation (0402-0405 partial reveals, 0406 full)
+# English / non-Japanese labels
+5	0409-0411	-50% -75% -90%	red percentage popups (stat down?); no kana
+5	0413-0443	30..0	countdown digits 30-11 blue, 10-0 red; no kana
+5	0490-0494	ÄRM SELECT	'ARM SELECT' banner wipe-in (Ä umlaut, MÄR style)
+6	0672-0696	NEXT STOCK	'NEXT STOCK' label wipe-in/blink (0672-0676 garbled reveal, 0677-0686 NEXT, 0687-0696 NEXT STOCK; 0690/0691 yellow/red outline)
+5	0313-0317	Z / Zz	sleep 'Z' marks (not text to translate)
+15	1776-1778	3 2 1	countdown digits over stone block; no kana
+# done 18 pages

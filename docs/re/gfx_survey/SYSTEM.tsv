@@ -1,0 +1,224 @@
+page	frame	japanese_text_as_read	what it is
+01	0054	unreadable small Japanese? (~6 chars, e.g. ?のレベル)	label on cyan bar (gauge/header)
+03	0537	攻	stat tag (attack)
+03	0538	防	stat tag (defence)
+03	0539	攻防	stat tag (attack+defence)
+03	0540	回復	stat tag (recover)
+03	0541	特殊	stat tag (special)
+03	0624-0627	攻	round ARM-type icon (attack), colour/arrow variants
+03	0628-0631	防	round ARM-type icon (defence), variants
+03	0632-0635	攻防	round ARM-type icon (atk+def), variants
+03	0700	unreadable small Japanese? (しょぼ.. / ショップ?)	small cyan label
+03	0701	デッキエディット	main menu label
+03	0702	アイテム	main menu label
+03	0703	ステータス	main menu label
+03	0704	ÄRMリスト	main menu label
+03	0705	パーティーへんせい	main menu label
+03	0706	ゲットÄRM	main menu label
+04	0790	修練の門	dungeon name banner
+04	0791	練磨の門	dungeon name banner
+04	0792	鍛錬の門	dungeon name banner
+04	0793	練武の門	dungeon name banner
+04	0794	最後の門	dungeon name banner
+07	1508	つかう	item command label
+07	1509	すてる	item command label
+07	1510	つかう / すてる	item command window
+08	1561	遺跡	area name label
+08	1562	ジャックの家	area name label
+08	1563	氷の城 (+ F)	area name label (floor)
+08	1564	パヅダン? (パズダン?)	area name label
+08	1565	ルベリアの岩?	area name label
+08	1566	ペリカの街	area name label
+08	1567	ペリカの街郊外	area name label
+08	1568	ヴェストリの村	area name label
+08	1569	ヴェストリ地底湖	area name label
+08	1570	オルターピースBF	area name label
+08	1571	オルターアイスBF	area name label
+08	1572	オルターラヴァBF	area name label
+08	1573	ラストオルター	area name label
+08	1574	修練の門BF	area name label
+08	1575	練磨の門BF	area name label
+08	1576	鍛錬の門BF	area name label
+08	1577	練武の門BF	area name label
+08	1578	最後の門BF	area name label
+08	1581	うる (+ unreadable small line below)	shop command window (sell)
+08	1582	かう (+ unreadable small line below)	shop command window (buy)
+08	1583	賞金?? / ÄRMレシピ / ?? / やめる	shop/smith menu window
+08	1584	ÄRM / unreadable small	command window
+08	1585	かう / unreadable small	command window
+08	1586	はい (+ small line)	yes/no window
+08	1587	はじめる? (+ small line)	command window
+08	1588	する (+ small line)	command window
+08	1589	つかう (+ small line)	command window
+08	1590	セーブ / しない / する?	save confirm window
+09	1685	アームシルバー× / アームゴールド× / アームプラチナ× / する / やめる (+ small cyan labels, unreadable)	smith material menu
+09	1686	ÄRMレシピをいれてください	prompt box
+09	1687	パスワードをいれてください	prompt box
+09	1698	メルヘヴン (+ KNOCKIN'ON HEAVEN'S DOOR)	title logo (credits)
+09	1700	原作	credits heading
+09	1701	安西 信行	credits name
+09	1702	プランニングユニット	credits heading
+09	1703	メインプランニング	credits heading
+09	1704	花田 洋	credits name
+09	1705	シナリオスクリプト	credits heading
+09	1706	佐藤 真人	credits name
+09	1707	落合 拓巳	credits name
+09	1708	プログラムユニット	credits heading
+09	1709	メインプログラム	credits heading
+09	1710	昇 耕一	credits name
+09	1711	システムメニュー	credits heading
+09	1712	前橋 敏行	credits name
+09	1713	ダンジョン生成・マップ	credits heading
+09	1714	加藤 大輔	credits name
+09	1715	ÄRMエフェクト・敵AI	credits heading
+09	1716	小林 健彦	credits name
+09	1717	デザインユニット	credits heading
+09	1718	メインデザイン	credits heading
+09	1719	小林 匡	credits name
+09	1720	リードデザイン	credits heading
+09	1721	伊藤 文	credits name
+09	1722	キャラクターデザイン	credits heading
+09	1723	柴崎 佳子	credits name
+09	1724	坂本 和也	credits name
+09	1725	小倉 正史	credits name
+09	1726	樋野 清史	credits name
+09	1727	背景デザイン	credits heading
+09	1728	小野 文博	credits name
+09	1729	藤田 敬	credits name
+10	1730	エフェクト＆システムデザイン	credits heading
+10	1731	内山 幹?	credits name
+10	1732	餘語 慶一?	credits name
+10	1733	ÄRMデザイン	credits heading
+10	1734	大山 雄樹	credits name
+10	1735	サウンドユニット	credits heading
+10	1737	小野 加奈?	credits name
+10	1738	プロダクトデザイン	credits heading
+10	1739	所 美智?	credits name
+10	1740	プロモーション	credits heading
+10	1741	柳井 亮?	credits name
+10	1742	佐藤 健次	credits name
+10	1743	伊藤 真?	credits name
+10	1744	制作協力	credits heading
+10	1745	小学館 週刊少年サンデー編集部	credits heading
+10	1746	都築 伸一郎	credits name
+10	1747	林 正人	credits name
+10	1748	野村 敦司	credits name
+10	1749	宮坂 保志	credits name
+10	1750	飯塚 洋介	credits name
+10	1751	佐藤 恵理	credits name
+10	1752	小学館 キャラクター事業センター	credits heading
+10	1753	久保 雅一	credits name
+10	1754	沢辺 伸政	credits name
+10	1755	小学館 宣伝部	credits heading
+10	1756	備前島 幹人	credits name
+10	1757	古市 直彦(小学館プロダクション)	credits name
+10	1758	伊藤 忠久(小学館プロダクション)	credits name
+10	1759	小学館プロダクション	credits heading
+10	1760	スペシャルサンクス	credits heading
+10	1761	石塚 通弘?	credits name
+10	1762	樹下 國昭	credits name
+10	1763	堀上 敦?	credits name
+10	1764	中村 健吾	credits name
+10	1765	渋陽 桂太?	credits name
+10	1766	鈴木 英之	credits name
+10	1767	柏崎 歩	credits name
+10	1768	内藤 聡子	credits name
+10	1769	永井 満夫	credits name
+10	1770	岡本 茂	credits name
+10	1771	ディレクター	credits heading
+10	1772	五十嵐 要	credits name
+10	1773	チーフディレクター	credits heading
+10	1774	村戸 信?	credits name
+10	1775	プロデューサー	credits heading
+10	1776	早川 英樹	credits name
+10	1777	エグゼクティブプロデューサー	credits heading
+10	1778	吉岡 基行	credits name
+10	1779	制作・著作	credits heading
+10	1780	コナミ株式会社	credits (publisher)
+10	1781	秋田 真典	credits name
+10	1782	キャラクターへんこう	menu label (change character)
+10	1783	ならびかえ	menu label (sort)
+10	1801	(A)けってい	button hint
+10	1802	(A)デッキからはずす	button hint
+10	1803	(A)デッキにいれる	button hint
+10	1804	(A)せつめい	button hint
+10	1805	(A)こうかん?	button hint
+10	1806	(A)かう?	button hint
+10	1807	(A)はずす?	button hint
+10	1808	(B)やめる	button hint
+10	1809	(B)おわる	button hint
+10	1810	(B)もどる	button hint
+10	1811	(START)メニュー	button hint
+10	1812	(START)デッキへんしゅう	button hint
+10	1813	(SELECT)ステータス	button hint
+10	1814	(SELECT)せつめい	button hint
+10	1815	(+)文字??	button hint (D-pad)
+10	1816	つうしんをまっています / Bボタンでキャンセルします	link-cable message box
+10	1817	つうしんにしっぱいしました / ケーブルを??? / Bボタンをおしてください	link-cable message box
+10	1818	つうしんをまっています / しばらくおまち下さい	link-cable message box
+10	1819	つうしんエラーが発生しました	link-cable message box
+10	1820-1821	ギンタ	character name tag (2 colours)
+10	1822-1823	ジャック	character name tag (2 colours)
+10	1824-1825	スノウ	character name tag (2 colours)
+10	1826-1827	エドワード	character name tag (2 colours)
+10	1830-1831	アルヴィス	character name tag (2 colours)
+10	1832-1833	ナナシ	character name tag (2 colours)
+10	1834-1835	ドロシー	character name tag (2 colours)
+10	1836-1837	ファントム	character name tag (2 colours)
+10	1838	?う (かう?)	small label
+10	1839	うる	small label
+10	1840	ダンジョン	small label
+10	1841	通信対戦	small label
+11	1878-1879	ストーリーモード	title-menu mode banner (lit/dim)
+11	1880-1882	ÄRM交換モード	title-menu mode banner (lit/dim)
+11	1883-1885	対戦モード	title-menu mode banner (lit/dim)
+11	1886-1888	ダンジョンモード	title-menu mode banner (lit/dim)
+11	1889-1892	ストーリーモード	large mode banner with rings (anim)
+11	1893-1897	unreadable small Japanese? (faint strip)	mode banner strip (blank/transition)
+11	1898-1901	ダンジョンモード	large mode banner with rings (anim)
+11	1902-1906	unreadable small Japanese? (faint strip)	mode banner strip (blank/transition)
+# English/Latin word labels (no change needed)
+01	0020-0024	EXIT	exit marker over warp circle
+03	0521-0523	(garbled red Latin, e.g. ...DECK IN!)	banner, likely corrupt/partial decode
+03	0553	ÄRM SELECT	header
+03	0638-0643	EXP	gauge label
+03	0644	Level Up!	battle popup
+03	0645	Miss!	battle popup
+03	0646	Counter!	battle popup
+03	0647	Cancel!	battle popup
+03	0682	BATTLE!	battle banner
+03	0683	WIN	battle banner
+03	0684	LOSE	battle banner
+03	0685	PAUSE	banner
+03	0686	GAME OVER	banner
+03	0687	CHARA SELECT	header
+03	0688	DRAW	battle banner
+06	0991	NO-FACE	placeholder portrait
+07	1415-1418	ARM	icon label
+08	1591-1593	O! / CANCEL / SELECT	small red buttons
+08	1607	CANCEL	button
+08	1608	OK!	button
+09	1699	STAFF	credits header
+10	1736	BGM・SE	credits heading
+10	1842-1846	ÄRM DECK	header
+10	1847-1851	ÄRM LIST (MAGIC ONE tab)	header
+10	1852	ÄRM PREVIEW	header
+10	1853	AREA SELECT	header
+10	1854	ÄRM SHOP	header
+10	1855-1859	ÄRM STOCK (ÄRM DECK tab)	header
+11	1860	ÄRM TRADE	header
+11	1861	COMMAND	header
+11	1862	CHARA SELECT	header
+11	1863	DUNGEON SELECT	header
+11	1864	GET ÄRM	header
+11	1865	ITEM SHOP	header
+11	1866	ITEM	header
+11	1867-1871	MAGICSTONE LIST (ÄRM LIST tab)	header
+11	1872	PARTY SELECT	header
+11	1873	PASS WORD	header
+11	1874	SMITH	header
+11	1875	STATUS	header
+11	1876	KNOCKIN' ON HEAVEN'S DOOR	title logo subtitle
+11	1877	PUSH START BUTTON	title prompt
+11	1907	VERSUS MODE	header
+# done 12 pages
