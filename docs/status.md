@@ -2,7 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 in progress (QA in the emulator: graphics text first, then the visual-QA tour with verdicts). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
+- **Phase:** 9 in progress (story pass, then release). Phase 8 closed 2026-11-01: visual QA 135/135 ok; graphics
+  rows not reachable from a cold boot are preview-checked only (`docs/qa-gfx.md`). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
+- **Phase 9 (2026-11-01): story pass.** `tools/chapters.py` -> `work/qa/story/chapters/ch00-ch11.txt` (12 chapters
+  from `docs/synopsis.md` headings); `qa_gate.py init work/qa/story/manifest.tsv ...`; one `reviewer` agent per
+  chapter (`docs/story-reviewer-brief.md`), verdicts `work/qa/story/verdicts/<ch>.tsv`, Minors -> `docs/polish.md`.
   Other builds: `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`).
 - **Phase 8 in progress (2026-11-01): graphics text.** `tools/gfxtext.py` letters NCD sprite frames from
   `gfx/<BANK>.tsv` (`frames<TAB>English<TAB>options`; options in its docstring; `check`, `preview`, `colors`;
@@ -120,9 +124,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** finish the phase 8 graphics rows still without a cold-boot shot (`docs/qa-gfx.md`; a `pre` FULL_ITM
-  step in warp.lua would also reach the engraver composed messages), then phase 9 (release: story-pass verdict per
-  chapter, `docs/polish.md` ticked, release script, jp_left, debug tool off, patch verified). Still unchecked in
+- **Next:** phase 9: story-pass verdict per chapter (fix Critical/Important, regenerate, re-review),
+  `docs/polish.md` ticked, release script, jp_left, debug tool off, patch verified. Optional: graphics rows still
+  without a cold-boot shot (`docs/qa-gfx.md`; a `pre` FULL_ITM step in warp.lua would reach the engraver messages). Still unchecked in
   game: link-cable messages (no partner), sort headers (40 px guess). Speaker label "[---]" in the gate_* scene:
   check its JP. Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
 - **Open questions for later phases:**

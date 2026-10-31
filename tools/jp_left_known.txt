@@ -1,0 +1,1 @@
+088880 クリアすると使えるようになります: only "ref" is the CHR.NCD tile word at 0x3FA870 (graphics); the real ref 0x1B0910 is repointed to English (docs/status.md phase 7)

@@ -62,6 +62,41 @@ Minor review findings, deferred to one polish pass (phase 9). Each line gets tic
 - [ ] SP_M00:00332 Babbo ワシ; SP_M25_5:01831/01a0a two "Pretty sure" in a row; SHOPPA04:00426 "fully recovered"; SP_M42:002cd Alan gruffness
 - [ ] code:0887c4 "Who do you use it on?"; code:089358+089338 強制的に "will force you back"; code:088400 "dungeon run in progress"; code:088650 "I figured out its engraving materials, nonn!"; code:0886c8 "P, that's my offer."
 
+## Story pass (phase 9)
+- [ ] OPEN:02d04 - Clown sing-song: "Looks like you can SEEE it, hmmm??"
+- [ ] EV_BIN03:006d0 vs HI_M01_2:002de - same Dorothy line, two wordings ("out of all of them" / "of all of them"): pick one
+- [ ] EV_IWA:00692 - Ginta いいからいいから: "Never mind that, never mind that." (not "trust me")
+- [ ] EV_GTOB2:00205 - Babbo stiffer: "Ah, I am saved. My apologies..."
+- [ ] EV_JA01:0448d - Ginta くそ！！ "Dang it!!" (matches Luga's "D-darn it" otherwise)
+- [ ] EV_JA01:032b6 - Babbo "That Ginta fellow, the moment he set foot in the field, started devouring the vegetables!"
+- [ ] EV_AL03:00a66 - Alviss 別人格: "(This Babbo... he acts like he has a mind of his own.)"
+- [ ] EV_AL03:02530 - Ginta "(He didn't trust me... he's testing me...)"
+- [ ] EV_AL03:00b8e - Ginta ダチ: "buddy"/"pal" not "friend"
+- [ ] CH_M09A:003d3 - drop the stray "you know" (Jack's tic) from the townswoman
+- [ ] HI_M09:0026d - Jack "We're in town now, so let's go ask around, y'know."
+- [ ] OPEN:02478 - Koyuki だって: "'Cause today's dream makes 103 times, right?"; OPEN:03061 "Are you stupid, Ginta?!"
+- [ ] EV_RT02:009b6 - Little Rock echo "...heard of iiiit!" (no "~"); EV_RT01:00665 "Sure did! I finally got to come here!"
+- [ ] EV_BA01:01277 / 020ed - Babbo first lines more pompous ("I will not! I am going back to sleep.")
+- [ ] EV_GTOB:01349 - Babbo こんかー: "Come and rescue me this instant!"; EV_GTOB2:00352 "Aw, nah, I..."
+- [ ] EV_BIN01:00782 - "The ÄRM I'm after is 'Babbo'."; EV_BIN03:0075c, HI_M01_2:00368 - "Dagger ÄRM" capitalised
+- [ ] EV_JA04:00710 / 00674 - Jack tic in his inner lines; J_VS_M:0006a / 002be - "gave me an ÄRM as thanks"
+- [ ] EV_JA03:0129c - Babbo "So, you have become a man, Jack!!"
+- [ ] EV_AL01:02ab5 - Jack tic density ("Let's hurry! Those guys are fast on their feet!"); EV_AL03:00b1e Ginta "D-don't break him!"; EV_AL03:0097c Alviss "Tch... Just wild brute-force punching."
+- [ ] EV_ICE12:0136a - Halloween "Ran a bit late, huh, Loco!"; EV_EDO01:02952 "would you accompany this Edward... this Ed"
+- [ ] EV_EDO01:024fa - "the Princess's life"; EV_ICE01:00e7e "To our distant homeland... came a new Queen..."; EV_ICE10:01d27 Alan "You hung in there, didn't ya..."
+- [ ] G_EV011C:009f9 - Ed "ya know" (not Jack's "y'know"); G_EV010:005da / 0064c Ed rougher register; G_EV013:00bcf Ian "Thaaanks a looot~♥"
+- [ ] G_EV025:01780 / 016d4 / 01d2a / 01dd2 - Ian lilt and threat ("Okay, okay~ you win this round."; "(Don't forget it...)" / "(Ginta...)")
+- [ ] EV_MON01:006a9 - "no ordinary old man"; G_EV023C:007bb Snow "The Training Gate has ended!!"
+- [ ] G_EV007:00e7f - Babbo "Don't presume to decide for us, you ugly hag!"; G_EV003:0154d Nanashi "...It's the death penalty for the lot of ya!!"
+- [ ] EV_VE02:0157a - "We'll avenge you!"; EV_VE02:01c23 Ed "Yes, Princess!!"; EV_GO04:011c7 Nanashi "Ya think I don't know that?"; EV_GO11:01e4d "this ÄRM"; EV_GO04:010f9 drop leading "..."
+- [ ] CH_M26_6:00d45 - Marl "Ready to give him back? Babbo, I mean."; OBJ_G:0035b Babbo "Must it be I again!?"
+- [ ] G_EV062:00dbf - Ed "Hmmm... that so, huh?"; G_EV062:01812 Alviss "Yes... I felt a nasty magic power suddenly surge... too."; OBJ_D:00224 Dorothy "...so I'll wipe it out for you~"
+- [ ] END2:03373 - "You once said something to me, Ginta."; END2:05054 "...Yeah! You're finally acting like the real Ginta again!"
+- [ ] END2:01c48 - blank-speaker box before "......": check it renders in game
+- [ ] HI_M24:008aa - Nanashi: drop Jack's "y'know"; HI_M25_1:00367 / HI_M25_2:001d4 Nanashi dialect ("ta"/"ya")
+- [ ] L24_0_0:01d72 - Jack echoes Bellini: "(N-n-nonn...)"; EV_T1KIL:010e0 Marl's plain-form slip: "This is the 'Arms' part. If the seal's broken, then..."
+- [ ] G_EV043:011cf - Babbo "...You fool..."; SP_M26_2:014d4 "hardhead showdown"
+
 ## Records (review of b017-b021)
 - [ ] arm045.desc - "guide-san" calque: "A super cute guide"
 - [ ] arm053.desc - "All allies' HP: full or halved..." clipped: "Restores or halves allies' HP..."

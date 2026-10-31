@@ -37,11 +37,12 @@ def boxes(name):
         bx.setdefault(e['box'], []).append(e)
     for v in bx.values():
         lab = [e for e in v if e['line'] == 0 and e['jp'].startswith('{C0D04}［')]
-        body = [e for e in v if e not in lab and e['jp']]
-        if body:
+        # spare lines (empty jp) can carry English that continues the box
+        body = [e for e in v if e not in lab and (e['jp'] or e['en'].strip())]
+        if any(e['jp'] for e in body):
             spk = lab[0]['en'].strip() if lab else '-'
-            yield body[0]['id'], spk, ' / '.join(e['jp'] for e in body), ' / '.join(e['en'].strip() for e in body
-                                                                                       if e['en'].strip())
+            yield body[0]['id'], spk, ' / '.join(e['jp'] for e in body if e['jp']), ' / '.join(
+                e['en'].strip() for e in body if e['en'].strip())
 
 
 def main():
