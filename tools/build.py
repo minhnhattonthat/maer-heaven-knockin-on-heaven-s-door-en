@@ -97,6 +97,51 @@ def marker(lines, px=184):
     return out, ids
 
 
+STRINGS = (0xFE8000, engine.FREE_END)  # relocated code-block strings (after the engine hooks at 0xFE4000)
+
+
+def patch_code(out, entries):
+    """Code-block strings with `en`: written to free space, every pointer in `refs` repointed (refs to the middle,
+    `subrefs`, get their own copy of the tail: `en_sub` {offset: text} or the tail of `en` at the same offset)."""
+    at = STRINGS[0]
+    for e in entries:
+        if not e.get('en'):
+            continue
+        targets = [(text.encode_en(e['en']), e['refs'])]
+        for k, refs in e.get('subrefs', {}).items():
+            targets.append((text.encode_en(e.get('en_sub', {}).get(k, '')) or targets[0][0], refs))
+        for b, refs in targets:
+            assert at + len(b) + 1 <= STRINGS[1], 'string space full'
+            out[at:at + len(b) + 1] = b + b'\0'
+            for r in refs:
+                r = int(r, 16)
+                assert out[r + 3] == 0x08, (e['id'], hex(r))
+                out[r:r + 4] = (0x08000000 + at).to_bytes(4, 'little')
+            at = (at + len(b) + 4) & ~3
+
+
+def patch_records(out, entries):
+    """ARM/item name and description fields with `en`, in place (field 0x22 bytes: max 33 + NUL)."""
+    for e in entries:
+        if e.get('en'):
+            b = text.encode_en(e['en'])
+            assert len(b) <= e['max'], (e['id'], len(b))
+            a = int(e['addr'], 16)
+            out[a:a + e['max'] + 1] = b.ljust(e['max'] + 1, b'\0')
+
+
+def marker_tables(code, records):
+    """Marker text for code strings ([cN], format specifiers and codes kept in order) and record fields ([rN])."""
+    import re
+    for n, e in enumerate(code):
+        keep = ''.join(re.findall(r'%[sd]|\{C[0-9A-F]{4}\}', e['jp']))
+        e['en'] = '[c%d]%s' % (n, keep)
+        if e.get('subrefs'):
+            e['en_sub'] = {k: '[c%d+%s]' % (n, k) for k in e['subrefs']}
+    for n, e in enumerate(records):
+        e['en'] = ('[r%d]' % n + 'Quick brown fox jumps over the lazy dog')[:e['max']]
+
+
 def main(a):
     check_rom.check()
     rom = ROM.read_bytes()
@@ -105,11 +150,19 @@ def main(a):
     out = Path(a[0]) if a else OUT
     out.parent.mkdir(parents=True, exist_ok=True)
     lines = script_lines()
+    code = json.loads((SCRIPT / 'code.json').read_text(encoding='utf-8'))
+    records = json.loads((SCRIPT / 'records.json').read_text(encoding='utf-8'))
     if mk:
         lines, ids = marker(lines)
-        (out.parent / 'marker_ids.tsv').write_text(''.join('%d\t%s\n' % x for x in ids), encoding='utf-8')
+        marker_tables(code, records)
+        ids += [('c%d' % n, e['id']) for n, e in enumerate(code)] + [('r%d' % n, e['id']) for n, e in enumerate(records)]
+        (out.parent / 'marker_ids.tsv').write_text(''.join('%s\t%s\n' % x for x in ids), encoding='utf-8')
     edits = edits_from(lines)
-    b = build(rom, edits, recompress=rc, patch_engine=bool(edits))
+    english = bool(edits) or any(e.get('en') for e in code + records)
+    b = bytearray(build(rom, edits, recompress=rc, patch_engine=english))
+    patch_code(b, code)
+    patch_records(b, records)
+    b = bytes(b)
     out.write_bytes(b)
     print('%s %s%s' % (out, hashlib.sha1(b).hexdigest(), ' (identical to original)' if b == rom else ''))
 

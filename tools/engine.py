@@ -84,6 +84,8 @@ def asm(src, addr):
     code = len(b) - 4 * src.count('.word')
     for i in Cs(CS_ARCH_ARM, CS_MODE_THUMB).disasm(b[:code], addr):
         assert i.size == 2 or i.mnemonic == 'bl', ('Thumb-2 instruction', hex(i.address), i.mnemonic, i.op_str)
+        if i.mnemonic == 'bl':  # ARMv4T BL pair: F000 | hi, F800 | lo (+-4 MiB)
+            assert i.bytes[1] & 0xF8 == 0xF0 and i.bytes[3] & 0xF8 == 0xF8, ('BL out of ARMv4T range', hex(i.address))
     return b
 
 
@@ -174,8 +176,182 @@ a_back: .word 0x080119A3
 """,
 }
 
-# (rom offset, original bytes, replacement: asm source or ('far', hook name))
+# Shared helpers for the list and centred-label hooks; `{measure}` etc. are filled with entry addresses.
+HOOKS['measure'] = """
+    push {r4, r5, r6, lr}
+    adds r4, r0, r1
+    movs r5, #0
+    ldr r6, m_widths
+m_loop:
+    cmp r0, r4
+    bhs m_done
+    ldrb r3, [r0]
+    cmp r3, #0
+    beq m_done
+    adds r0, #1
+    cmp r3, #0x81
+    blo m_one
+    cmp r3, #0x9f
+    bls m_two
+    cmp r3, #0xe0
+    blo m_one
+m_two:
+    adds r0, #1
+    adds r5, #8
+    b m_next
+m_one:
+    subs r3, #0x20
+    blo m_loop
+    cmp r3, #0x5e
+    bhi m_wide
+    ldrb r3, [r6, r3]
+    adds r5, r5, r3
+    b m_next
+m_wide:
+    adds r5, #8
+m_next:
+    adds r5, r5, r2
+    b m_loop
+m_done:
+    adds r0, r5, #0
+    pop {r4, r5, r6}
+    pop {r1}
+    bx r1
+    .align 2
+m_widths: .word {widths}
+"""
+HOOKS['calls'] = """
+    bx r3
+    bx ip
+"""
+# list windows 0x080532A4 (obj r5, string i*4 at [sp+0x14]) and 0x080533F0 (obj r4, x from [sb]): x = base +
+# measured pixel width of the bytes before index r8; step r8 by the character's byte length.
+_LIST_X = """
+    ldr r0, [{obj}]
+    ldr r1, [sp, #0x14]
+    ldr r0, [r0, r1]
+    mov r1, r8
+    movs r3, #0x12
+    ldrsh r2, [{obj}, r3]
+    bl {measure}
+    {base}
+    adds r6, r0, r1
+    ldr r0, x_back
+    bx r0
+    .align 2
+x_back: .word {back}
+"""
+HOOKS['list1_x'] = _LIST_X.replace('{obj}', 'r5').replace('{base}', 'movs r3, #0x1c\n    ldrsh r1, [r5, r3]').replace('{back}', '0x08053323')
+HOOKS['list2_x'] = _LIST_X.replace('{obj}', 'r4').replace('{base}', 'mov r2, sb\n    movs r3, #0\n    ldrsh r1, [r2, r3]').replace('{back}', '0x08053473')
+_LIST_STEP = """
+    ldr r0, [{obj}]
+    ldr r1, [sp, #0x14]
+    ldr r0, [r0, r1]
+    mov r1, r8
+    ldrb r0, [r0, r1]
+    movs r2, #1
+    cmp r0, #0x81
+    blo s_one
+    cmp r0, #0x9f
+    bls s_two
+    cmp r0, #0xe0
+    blo s_one
+s_two:
+    movs r2, #2
+s_one:
+    adds r1, r1, r2
+    mov r8, r1
+    ldr r0, s_back
+    bx r0
+    .align 2
+s_back: .word {back}
+"""
+HOOKS['list1_step'] = _LIST_STEP.replace('{obj}', 'r5').replace('{back}', '0x080533A1')
+HOOKS['list2_step'] = _LIST_STEP.replace('{obj}', 'r4').replace('{back}', '0x080534E5')
+# centred label 0x0801E168(str, centre x, y), drawn ink 0xF at VRAM 0x06008000, 32 tiles per row (no shadow)
+HOOKS['center'] = """
+    push {r4, r5, r6, r7, lr}
+    sub sp, #0xc
+    adds r5, r0, #0
+    adds r4, r1, #0
+    adds r7, r2, #0
+    movs r1, #0
+c_len:
+    ldrb r2, [r0, r1]
+    cmp r2, #0
+    beq c_m
+    adds r1, #1
+    b c_len
+c_m:
+    movs r2, #0
+    bl {measure}
+    lsrs r0, r0, #1
+    subs r4, r4, r0
+c_loop:
+    ldrb r1, [r5]
+    cmp r1, #0
+    beq c_done
+    movs r6, #1
+    cmp r1, #0x81
+    blo c_one
+    cmp r1, #0x9f
+    bls c_two
+    cmp r1, #0xe0
+    blo c_one
+c_two:
+    lsls r1, r1, #8
+    ldrb r0, [r5, #1]
+    orrs r1, r0
+    movs r6, #2
+c_one:
+    ldr r0, c_font
+    ldr r3, c_glyph
+    bl {calls}
+    adds r1, r0, #0
+    movs r0, #0xf
+    str r0, [sp]
+    movs r0, #0
+    str r0, [sp, #4]
+    movs r0, #0x20
+    str r0, [sp, #8]
+    ldr r0, c_blit
+    mov ip, r0
+    ldr r0, c_vram
+    adds r2, r4, #0
+    adds r3, r7, #0
+    bl {calls_ip}
+    adds r0, r5, #0
+    adds r1, r6, #0
+    movs r2, #0
+    bl {measure}
+    adds r4, r4, r0
+    adds r5, r5, r6
+    b c_loop
+c_done:
+    add sp, #0xc
+    pop {r4, r5, r6, r7}
+    pop {r0}
+    bx r0
+    .align 2
+c_font: .word 0x030032E4
+c_glyph: .word 0x0807AE11
+c_blit: .word 0x08011689
+c_vram: .word 0x06008000
+"""
+
+# (rom offset, original bytes, replacement: asm source or ('far', hook name[, register]))
 SITES = [
+    # list windows: x calc -> list*_x, byte step -> list*_step
+    (0x05330C, '1223e95e08314246d00f4044401041431c23e85e0e18', ('far', 'list1_x')),
+    (0x053396, '40460230000400148046', ('far', 'list1_step')),
+    (0x05345A, '1222a15e08314346d80f4044401041434a460023d05e0e18', ('far', 'list2_x')),
+    (0x0534DA, '40460230000400148046', ('far', 'list2_step')),
+    # centred label function -> center (r3 is free at entry; args r0-r2)
+    (0x01E168, 'f0b583b0051c0c1c', ('far', 'center', 'r3')),
+    # 0x0801B95C draws its fixed string the same way: call 0x0801E168(stack copy, r4, r7) and return
+    (0x01B97C, '03a866f099ff41088800221a03ae00291bd0141c0d1c301ce6f712fe011c0904090c0d485ff036fa011c0f20009000'
+               '200190202002900948221c3b1cf5f766fe02360834013d002de5d1',
+     'add r0, sp, #0xc\nadds r1, r4, #0\nadds r2, r7, #0\nbl 0x0801E168\nb 0x0801B9C6\n'),
     # fetch: `adds r0,r4,#0; bl 0x080025BC; lsls r0,#16` -> jump to the hook (resumes at the cmp chain 0x08011B38)
     (0x011B2E, '201cf0f744fd0004050c', ('far', 'fetch')),
     # draw x = the line's pixel x byte (was (col / 2) * 9)
@@ -191,7 +367,14 @@ def patches():
     out = [(FREE, b'\xff' * len(adv), adv)]
     at, entry = FREE + ((len(adv) + 3) & ~3), {}
     for name, src in HOOKS.items():
-        code = asm(src.format(widths='0x%X' % (0x08000000 + FREE), wide=WIDE_ADV), 0x08000000 + at)
+        fill = dict(widths='0x%X' % (0x08000000 + FREE), wide=WIDE_ADV)
+        if 'measure' in entry:
+            fill.update(measure='0x%X' % entry['measure'])
+        if 'calls' in entry:
+            fill.update(calls='0x%X' % entry['calls'], calls_ip='0x%X' % (entry['calls'] + 2))
+        for k, v in fill.items():  # not str.format: register lists use braces
+            src = src.replace('{%s}' % k, str(v))
+        code = asm(src, 0x08000000 + at)
         out.append((at, b'\xff' * len(code), code))
         entry[name] = 0x08000000 + at
         at = (at + len(code) + 3) & ~3
@@ -199,7 +382,7 @@ def patches():
     for off, orig, src in SITES:
         orig = bytes.fromhex(orig)
         if isinstance(src, tuple):
-            src = far(entry[src[1]])
+            src = far(entry[src[1]], *src[2:])
         new = asm(src, 0x08000000 + off)
         assert len(new) <= len(orig), (hex(off), len(new), len(orig))
         out.append((off, orig[:len(new)], new))
