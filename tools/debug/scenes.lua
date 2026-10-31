@@ -114,7 +114,7 @@ function S.set_pewter(v) local g = G(); if g >= 0x02000000 then emu.write32(g + 
 local peak = 0
 function S.god() -- GOD=1: refill every party member's field HP each frame, and undo damage to the battle leader
   local g = G()
-  if g < 0x02000000 then return end
+  if g < 0x02000000 or g >= 0x02040000 then return end -- not set up yet (title, boot scenes): read32 can be < 0
   for i = 0, 7 do
     local r = g + 0x35E0 + 0x54 * i
     local mx = emu.read16(r + 4, mem, false)
