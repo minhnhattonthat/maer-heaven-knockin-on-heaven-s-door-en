@@ -43,6 +43,10 @@ def char_errors(en):
     b = plain.replace('\0', ' ').encode('ascii', 'replace')
     if any(engine.is_code(b, i) for i in range(len(b))):
         errs.append('text reads as a control code ([CcTt] + 4 hex digits)')
+    if re.search(r'%[sd](?:st|nd|rd|th)\b', en):
+        errs.append('suffix glued to a placeholder (rephrase: "No. %d")')
+    if re.search(r'\b(?:a|an) %s', en, re.I):
+        errs.append('a/an right before %s')
     return errs
 
 

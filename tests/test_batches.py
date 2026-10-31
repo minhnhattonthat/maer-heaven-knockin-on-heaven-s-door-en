@@ -37,3 +37,21 @@ def test_units_cover_every_box():
     assert len(ids) == len(set(ids))
     assert not any(i.startswith('CH_ESC:') for i in ids)
     assert sum(u['kind'] == 'code' for u in us.values()) == 122
+
+
+def test_check_unit_rejects_near_misses():
+    """Review probes: misspelt names, misplaced/missing honorifics, suffixes glued to placeholders."""
+    us, rows = batches.units(), batches.glossary()
+    assert batches.check_unit(us['arm001.name'], 'Babbob', rows)
+    assert not batches.check_unit(us['arm001.name'], 'Babbo', rows)
+    u = dict(us['CH_M00A:002af'], jp='{C0F04}ギンタとジャックさん')
+    assert batches.check_unit(u, '{C0F04}Ginta-san and Jack', rows)
+    assert not batches.check_unit(u, '{C0F04}Ginta and Jack-san', rows)
+    u = dict(u, jp='{C0F04}ギンタどの！')
+    assert batches.check_unit(u, '{C0F04}Ginta!', rows)
+    assert not batches.check_unit(u, '{C0F04}Ginta-dono!', rows)
+    u = dict(u, jp='{C0F04}ギンタぁ！！')
+    assert not batches.check_unit(u, '{C0F04}Gintaaa!!', rows)
+    assert batches.check_unit(us['code:087538'], '%sth obtained!!', rows)
+    assert lint.char_errors('Got a %s!')
+    assert not lint.char_errors('Contest No. %d')

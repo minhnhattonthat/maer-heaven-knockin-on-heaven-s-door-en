@@ -21,7 +21,8 @@ Chess Pieces' invasion and Ginta vowing to protect MÄR Heaven.
   old-fashioned (Babbo, Ed the dog, Papa Rock).
 - Many exclamation marks, trailing ーーー and ～～～, ♥ and ♪. Keep the energy, not the punctuation count.
 - `{C0904}` / `{C0B04}` look like colour/style codes (C0B is used for Orco's stutter and the unseen voices; exact
-  meaning unverified) and `C0F04` is an item-name variable: keep them where they are.
+  meaning unverified) and `C0F04` sets the default (white) text colour back: keep them where they are. They are
+  not names or variables; inserted names and numbers are `%s` / `%d` in code strings only.
 - Tutorial text is spoken in-character (Dorothy, Babbo, Merillo, townspeople, Ed): keep the button names exact.
 
 ## Story order

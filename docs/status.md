@@ -5,6 +5,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 7 done (2026-11-01); next is phase 8 (QA in the emulator: visual-QA tour with verdicts, graphics
   text). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
   Other builds: `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`).
+- **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
+  polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words
+  (s/es plural; any trailing letters only when the JP stretches the name: ギンタ～ン -> Gintaaan), record name fields
+  equal to a glossary name must be exactly it, honorifics checked per name (どの/殿 -> -dono added; an English
+  honorific the JP lacks fails); `lint.char_errors` rejects `%dth`-style suffixes and a/an before `%s`;
+  negative tests in `tests/test_batches.py`. Synopsis: C0F04 is the white colour code, not a variable.
 - **Phase 7 (2026-11-01):** every ROM write goes through `build.put` (log: offset, replaced bytes, new bytes,
   writer; `engine.apply(rom, log)` too); `build.make()` = the English ROM from lines + tables. `tests/test_romdiff.py`
   builds it in memory: `romdiff.check` with the log (no overlaps / overwrites / unlogged changes), every write inside

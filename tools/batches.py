@@ -27,7 +27,9 @@ TL = ROOT / 'work' / 'tl'
 TERMS = ROOT / 'build'
 SCRIPT = ROOT / 'script'
 SKIP = {'CH_ESC'}
-HONOR = {'さん': '-san', 'くん': '-kun', 'ちゃん': '-chan', 'さま': '-sama', '様': '-sama', '君': '-kun'}
+HONOR = {'さん': '-san', 'くん': '-kun', 'ちゃん': '-chan', 'さま': '-sama', '様': '-sama', '君': '-kun',
+         'どの': '-dono', '殿': '-dono'}
+HONOR_RE = re.compile(r'([ァ-ヶー]+)(%s)' % '|'.join(HONOR))
 
 
 def load_store():
@@ -194,16 +196,31 @@ def check_unit(u, en, rows):
         if 'loose' in notes or not (ten[:1].isupper() or ten[:1] == 'Ä') or not has_term(u['jp'], jp):
             continue
         forms = [f.strip() for f in ten.split('/')]
-        if not any(f.lower() in en.lower() for f in forms):
+        drawl = re.search(re.escape(jp) + '[ぁぃぅぇぉァィゥェォーっ～〜]', u['jp']) is not None  # ギンタぁ -> Gintaaa
+        if not any(has_en(en, f, plural=True, drawl=drawl) for f in forms):
             errs.append('glossary: %s -> %s missing' % (jp, ten))
+        if u['kind'] == 'records' and u['members'][0]['id'].endswith('.name') and u['jp'] == jp and en not in forms:
+            errs.append('glossary: name field must be exactly %s' % ten)
         for a in filter(None, (x.strip() for x in avoid.split(','))):
             if re.search(r'\b%s\b' % re.escape(a), en):
                 errs.append('glossary: avoid %r (%s)' % (a, jp))
-    names = {jp for sec, jp, *_ in rows if sec == 'Characters'}
-    for m in re.finditer(r'([ァ-ヶー]+)(さん|くん|ちゃん|さま|様|君)', u['jp']):
-        if m.group(1) in names and HONOR[m.group(2)] not in en:  # ガイドさん, オレさま: not a name
-            errs.append('honorific %s: expected %s' % (m.group(0), HONOR[m.group(2)]))
+    names = {jp: [f.strip() for f in ten.split('/')] for sec, jp, ten, *_ in rows if sec == 'Characters'}
+    for m in re.finditer(HONOR_RE, u['jp']):  # ガイドさん, オレさま: not a name, no check
+        if m.group(1) in names and not any(has_en(en, f + HONOR[m.group(2)]) for f in names[m.group(1)]):
+            errs.append('honorific %s: expected %s%s' % (m.group(0), names[m.group(1)][0], HONOR[m.group(2)]))
+    for jp, forms in names.items():  # an honorific on a name whose Japanese has none (or another one)
+        for f in forms:
+            for s in set(HONOR.values()) if f in en else ():
+                if has_en(en, f + s) and not any(HONOR[k] == s and jp + k in u['jp'] for k in HONOR):
+                    errs.append('honorific %s%s: not in the Japanese' % (f, s))
     return errs
+
+
+def has_en(en, term, plural=False, drawl=False):
+    """term in en as whole words (case-insensitive); possessive/hyphen after it is fine, an extra letter is not
+    (plural: s/es; drawl: any letters, for ギンタ～～ン -> Gintaaan)."""
+    tail = ('[A-Za-z]*' if drawl else '') + ('(?:e?s)?' if plural else '')
+    return re.search(r'(?<![A-Za-z0-9Ä])%s%s(?![A-Za-z0-9Ä])' % (re.escape(term), tail), en, re.I) is not None
 
 
 def check(name, us=None, quiet=False):

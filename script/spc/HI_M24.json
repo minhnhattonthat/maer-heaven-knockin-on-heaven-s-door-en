@@ -270,7 +270,7 @@
  {
   "id": "HI_M24:014f4",
   "jp": "{C0F04}なまえのわける場所が",
-  "en": "{C0F04}You're splittin' the word in the wrong place,",
+  "en": "{C0F04}You're splitting the word in the wrong place,",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "HI_M24:016d0",
   "jp": "{C0F04}へんてこりんな言葉づかいして",
-  "en": "{C0F04}Talkin' all weird like that... you tick me off,",
+  "en": "{C0F04}You talk so strangely... You annoy me, nonn.",
   "call": "MswStr",
   "box": 120,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "HI_M24:016ff",
   "jp": "おまえ、むかつくですのん",
-  "en": "nonn.",
+  "en": " ",
   "call": "MswStr",
   "box": 120,
   "line": 2,
@@ -946,7 +946,7 @@
  {
   "id": "HI_M24:0396f",
   "jp": "{C0F04}そこはかとなく",
-  "en": "{C0F04}Somethin' about you just ticks me off, nonn.",
+  "en": "{C0F04}Something about you just annoys me, nonn.",
   "call": "MswStr",
   "box": 301,
   "line": 1,
@@ -972,7 +972,7 @@
  {
   "id": "HI_M24:03ae2",
   "jp": "{C0F04}こっち来い！",
-  "en": "{C0F04}Get over here! I'm gonna punch you, nonn!!",
+  "en": "{C0F04}Get over here! I'll punch you, nonn!!",
   "call": "MswStr",
   "box": 308,
   "line": 1,
