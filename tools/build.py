@@ -23,6 +23,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import check_rom  # noqa: E402
 import engine  # noqa: E402
 import gbalz  # noqa: E402
+import gfxtext  # noqa: E402
 import nfp  # noqa: E402
 import scrp  # noqa: E402
 import text  # noqa: E402
@@ -54,6 +55,8 @@ def build(rom, edits=None, recompress=False, patch_engine=False, log=None):
                 b = gbalz.compress(new) if b[0] == 0x10 else new
         elif name == 'FONT.NFT' and patch_engine:
             b = engine.font(b)
+        elif name.endswith('.NCD') and patch_engine:
+            b = gfxtext.apply(name, b)  # English lettering on sprite frames (gfx/<bank>.tsv)
         files.append((name, b))
     blocks = nfp.pack(files, rom[nfp.BASE:nfp.BASE + 0x40])
     out = bytearray(rom)

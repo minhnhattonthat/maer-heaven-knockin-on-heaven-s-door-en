@@ -1,0 +1,68 @@
+# SYSTEM.NCD sprite frames: frames<TAB>English<TAB>options (tools/gfxtext.py; survey docs/re/graphics.md)
+# gauge / small labels
+0054	Power left	font=small
+0700	Owned	font=small
+# ÄRM type tags (single kanji in 16x16 cells: abbreviated, flagged in docs/decisions.md D13)
+0537	AT	font=small style=outline ol=10
+0538	DF	font=small style=outline ol=10
+0539	A+D	style=outline ol=10
+0540	HEAL	style=outline ol=10
+0541	SPEC	style=outline ol=10
+# main menu
+0701	Deck Edit	style=outline ol=15
+0702	Items	style=outline ol=15
+0703	Status	style=outline ol=15
+0704	ÄRM List	style=outline ol=15
+0705	Party Setup	style=outline ol=15
+0706	Get ÄRM	style=outline ol=15
+# dungeon gate banners
+0790	Training Gate	style=outline ol=10
+0791	Honing Gate	style=outline ol=10 w=96
+0792	Tempering Gate	style=outline ol=10 w=128
+0793	Martial Gate	style=outline ol=10 w=96
+0794	Final Gate	style=outline ol=10 w=96
+# item commands
+1508	Use	font=small
+1509	Drop	font=small
+# area names (B_F / _F: the game draws the floor digit in the gap)
+1561	Ruins	style=outline ol=15 w=64
+1562	Jack's House	style=outline ol=15
+1563	Ice Castle	style=outline ol=15 keep=f w=128
+1564	Paz Town	style=outline ol=15
+1565	Luberia Fort	style=outline ol=15
+1566	Pelica Town	style=outline ol=15
+1567	Pelica Outskirts	style=outline ol=15
+1568	Vestry Village	style=outline ol=15
+1569	Vestry Lake	style=outline ol=15 w=96
+1570	Altar Piece	style=outline ol=15 keep=bf
+1571	Altar Ice	style=outline ol=15 keep=bf
+1572	Altar Lava	style=outline ol=15 keep=bf
+1573	Last Altar	style=outline ol=15
+1574	Training Gate	style=outline ol=15 keep=bf w=160
+1575	Honing Gate	style=outline ol=15 keep=bf w=160
+1576	Tempering Gate	style=outline ol=15 keep=bf w=192
+1577	Martial Gate	style=outline ol=15 keep=bf w=160
+1578	Final Gate	style=outline ol=15 keep=bf w=160
+# menu labels
+1782	Change Character	style=outline ol=10
+1783	Sort	style=outline ol=10
+# name tags on a bar (2 colours each): erase the white text only
+1820-1821	Ginta	clear=9 font=small align=r
+1822-1823	Jack	clear=9 font=small align=r
+1824-1825	Snow	clear=9 font=small align=r
+1826-1827	Edward	clear=9 font=small align=r
+1830-1831	Alviss	clear=9 font=small align=r
+1832-1833	Nanashi	clear=9 font=small align=r
+1834	Dorothy	clear=9 font=small align=r
+1835	Dorothy	clear=9 font=small align=r dy=-1
+1836-1837	Phantom	clear=9 font=small align=r
+# small labels on a black bar
+1838	Buy	clear=14 font=small align=l
+1839	Sell	clear=14 font=small align=l
+1840	Dungeon	clear=14 font=small align=l
+1841	Versus	clear=15 font=small align=l
+# title mode banners (lit / grey / dark): erase the text inside the arrows, keep the checker
+1878-1879	Story Mode	rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
+1880-1882	ÄRM Trade	rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
+1883-1885	Versus Mode	rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
+1886-1888	Dungeon Mode	rect=20,0,88,16 clear=1,2,5,6,7,8,10,11,12,13,14,15 style=outline ol=9 bold=1
