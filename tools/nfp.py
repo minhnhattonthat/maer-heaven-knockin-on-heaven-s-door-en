@@ -16,6 +16,9 @@ ROM = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'rom',
 BASE = 0x1C0920
 
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+
 def entries(rom, base=BASE):
     """[(name, rom_offset, size)]; the last file ends at the archive end (first non-file byte, see END)."""
     assert rom[base:base + 6] == b'NFP2.0', rom[base:base + 16]
@@ -33,6 +36,64 @@ def entries(rom, base=BASE):
         nxt = ent[i + 1][1] if i + 1 < count else None
         out.append((name, base + off, (nxt - off) if nxt is not None else None))
     return out
+
+
+END = 0xF28406  # first byte after the archive (code-referenced data follows; docs/re/nfp.md)
+
+
+def unpack(rom, base=BASE):
+    """[(name, stored bytes)]: LZ77 and SCRP files trimmed to their real length (the zero fill after them is
+    alignment), raw files keep their whole slot."""
+    import gbalz
+    out = []
+    for name, off, size in entries(rom, base):
+        size = size if size is not None else (END if off < END else SPILL_END) - off
+        k = kind(rom, off)
+        n = gbalz.decompress(rom, off)[1] if k == 'lz' else 8 + struct.unpack_from('<I', rom, off + 4)[0] if k == 'scrp' else size
+        assert n <= size and (off + size > END or not rom[off + n:off + size].strip(b'\0')), name  # > END: jumps GAP
+        out.append((name, rom[off:off + n]))
+    return out
+
+
+GAP = (END, 0xF2B450)  # code-referenced data the archive may jump over; free 0xFF fill after it
+SPILL_END = 0xFE0000
+
+
+def pack(files, header, base=BASE):
+    """Archive bytes from [(name, stored bytes)] in directory order; each file starts 16-aligned, zero fill.
+
+    Returns {ROM offset: bytes} (one block, or two when it doesn't fit before GAP). The game sizes a file as next
+    entry's offset - its own (0x0807AD4C, used for KCG/KCL named by a KMP), so data stays in directory order and the
+    jump over GAP comes right after an .SPC, whose size is never taken that way: no raw file's size changes."""
+    count = len(files)
+    datap = 0x40 + 16 * count
+    offs, p = [], datap
+    for name, b in files:
+        offs.append(p)
+        p += len(b) + (-len(b) % 16)
+    end = offs[-1] + len(files[-1][1])
+    gap = None
+    if base + end > GAP[0]:
+        over = next(i for i in range(count) if base + offs[i] + len(files[i][1]) > GAP[0])
+        j = next(j for j in range(over, 0, -1) if files[j - 1][0].endswith('.SPC'))
+        gap = offs[j]
+        end1 = offs[j - 1] + len(files[j - 1][1])  # not padded: the 16-alignment could reach into GAP
+        shift = GAP[1] - base - gap
+        offs[j:] = [o + shift for o in offs[j:]]
+        end += shift
+        assert base + end <= SPILL_END, 'archive past 0x%X' % SPILL_END
+    hdr = bytearray(header[:0x40])
+    struct.pack_into('<3I', hdr, 0x34, count, 0x40, datap)
+    for name, o in zip((n for n, _ in files), offs):
+        hdr += name.encode('ascii').ljust(12, b'\0') + struct.pack('<I', o)
+    blob = bytearray(end - (shift if gap else 0))
+    blob[:datap] = hdr
+    for (name, b), o in zip(files, offs):
+        o -= shift if gap and o >= GAP[1] - base else 0
+        blob[o:o + len(b)] = b
+    if not gap:
+        return {base: bytes(blob)}
+    return {base: bytes(blob[:end1]), GAP[1]: bytes(blob[gap:])}
 
 
 def kind(rom, off):

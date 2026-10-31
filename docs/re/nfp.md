@@ -35,10 +35,24 @@ Save type: SRAM (`SRAM_F_V103` at 0x1AC618).
 - Lookup is by name at run time: `0x0807AC3C(pkg_name, file_name)` -> pointer, via package slots at
   `[0x03006114]` (24-byte slots, +0x10 = package base) and `strcmp` 0x0808280C. Logged with `tools/lua/pkglog.lua`
   (e.g. `MAR.NFP / OPEN.SPC` at frame 1861 of the new-game route). Because lookups go through the directory, a file
-  can be moved or resized by rewriting the archive (and its directory) with no other pointer changes. **Guess**:
-  nothing else holds absolute pointers into the archive; check with a rebuilt archive in phase 3.
+  can be moved or resized by rewriting the archive (and its directory) with no other pointer changes (verified
+  phase 3: see §Rebuild).
+- File size is implicit: `0x0807AD4C` returns next entry's offset - this one (last file: package slot +0x14). Its
+  only caller (0x080031EC) loads the KCG/KCL named in a KMP header, so raw tile/palette sizes depend on layout.
 - Script-side loader: `0x080050A8` gets the file, checks the first byte for `S` (stored SCRP) else LZ77-unpacks it
   into EWRAM (`0x0807A2EC`; seen with destination 0x02000F40).
+
+## Rebuild (phase 3; `tools/build.py`, `nfp.unpack/pack`, `tests/test_build.py`)
+
+- Every file starts 16-aligned from the archive start, zero fill; the last file is not padded. LZ77/SCRP files are
+  trimmed to their real length on unpack, raw files keep their slot. No edits -> byte-identical ROM (test).
+- Our LZ77 (`gbalz.compress`, greedy) packs worse than the original packer (all scripts: +8 005 bytes) and is not
+  byte-identical, so unchanged files keep their original stored bytes.
+- The archive had 0 slack before the fixed block 0xF28406-0xF2B447. When it grows, `pack` jumps that block: the
+  rest continues at 0xF2B450 (up to 0xFE0000), the jump placed right after an `.SPC` so no raw file's implicit size
+  changes. **Verified**: `build.py --recompress` (every LZ77 script re-packed by us, 20 files incl. W_MAP.SPC and
+  the WM_BG/T_TTL06 graphics moved past the gap) passes smoke and warps 73/73 scenes with the same screens as the
+  original (diffs only animation frames; `work/qa/rc_scenes/`, 2026-11-01).
 
 ## File kinds
 

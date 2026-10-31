@@ -17,14 +17,16 @@ CODE_BASE = 6  # instructions start after u16 version + u32 nlocals
 
 
 def chunks(b):
+    """{tag: (data start, data size)}. The file ends with a bare 'TERM'; NVAR's size counts its 8-byte header."""
     assert b[:4] == b'SCRP', b[:4]
     out = {}
     p = 8
-    while p + 8 <= len(b):
+    while b[p:p + 4] != b'TERM':
         tag = b[p:p + 4].decode('latin1')
-        sz = struct.unpack_from('<I', b, p + 4)[0]
+        sz = struct.unpack_from('<I', b, p + 4)[0] - (8 if tag == 'NVAR' else 0)
         out[tag] = (p + 8, sz)
         p += 8 + sz
+    assert p + 4 == len(b), 'bytes after TERM'
     return out
 
 
@@ -70,6 +72,70 @@ def natives(func):
                 break
             out[o] = name
     return out
+
+
+def rebuild(b, strings=None):
+    """Script bytes with some 0x10 strings replaced: {CODE pos of the 0x10 op: new bytes without NUL}.
+    Shifts code and rewrites every jump/switch target, every 0x22 string address and every FUNC fixup.
+    With no strings the output equals the input (identity test). Not touched: 0x29 pushes (docs/re/script.md)."""
+    strings = strings or {}
+    c = chunks(b)
+    s, sz = c['CODE']
+    code = b[s:s + sz]
+    ins = list(instrs(code))
+    new = bytearray(code[:CODE_BASE])
+    pos = {}  # old pos -> new pos, for every instruction start and the end
+    for p, op, arg in ins:
+        pos[p] = len(new)
+        if p in strings:
+            t = strings[p] + b'\0'
+            arg = struct.pack('<H', len(t)) + t
+        new += bytes([op]) + arg
+    pos[len(code)] = len(new)
+
+    def reloc(o):  # operand offsets are relative to CODE_BASE
+        return pos[o + CODE_BASE] - CODE_BASE
+
+    prev = None
+    for p, op, arg in ins:
+        q = pos[p] + 1  # operand start in new
+        if op == 0x11:
+            struct.pack_into('<I', new, q, reloc(struct.unpack_from('<I', arg)[0]))
+        elif op == 0x12:
+            struct.pack_into('<I', new, q + 1, reloc(struct.unpack_from('<I', arg, 1)[0]))
+        elif op == 0x15:
+            for i in range(arg[1]):
+                struct.pack_into('<I', new, q + 2 + 8 * i + 4, reloc(struct.unpack_from('<I', arg, 2 + 8 * i + 4)[0]))
+        elif op == 0x22:
+            assert prev[1] == 0x10 and struct.unpack_from('<I', arg, 1)[0] == prev[0] + 3 - CODE_BASE, p
+            struct.pack_into('<I', new, q + 1, pos[prev[0]] + 3 - CODE_BASE)
+        prev = (p, op)
+    out = bytearray()
+    for tag, (p, n) in c.items():
+        data = b[p:p + n]
+        if tag == 'CODE':
+            data = new
+        elif tag == 'FUNC':
+            data = _reloc_func(data, lambda o: pos[o - 1 + CODE_BASE] + 1 - CODE_BASE)
+        out += tag.encode('latin1') + struct.pack('<I', len(data) + (8 if tag == 'NVAR' else 0)) + data
+    out += b'TERM'
+    return b'SCRP' + struct.pack('<I', len(out)) + bytes(out)
+
+
+def _reloc_func(func, f):
+    """FUNC chunk with every fixup offset o replaced by f(o); same walk as natives()."""
+    out, p = bytearray(func), 0
+    while p < len(func):
+        e = func.index(b'\0', p)
+        p = e + 1
+        while p + 4 <= len(func):
+            o = struct.unpack_from('<I', func, p)[0]
+            if o:
+                struct.pack_into('<I', out, p, f(o))
+            p += 4
+            if not o:
+                break
+    return bytes(out)
 
 
 def load_rom_scripts(rom, names=False):

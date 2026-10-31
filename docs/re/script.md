@@ -10,7 +10,11 @@ Tool: `tools/scrp.py check|dis OFFSET` (`check` exits 1 on any parse error or ba
 - `FUNC`: native-function import fixups: repeated { name NUL, u32 offset..., u32 0 }. Each offset points at the u32
   operand of a `0x80` call instruction (offset - 1 is the opcode; checked 25221/25221). 104 natives, e.g. `MswStr`,
   `MswHit`, `BgmPlay`, `ChrMove`, `exec`, `chain`, `PopMenu`.
-- `NVAR` (1 file): not decoded yet.
+- `NVAR` (1 file, G_EV023.SPC): not decoded; unlike the others its size field counts its own 8-byte header.
+- Every file ends with a bare `TERM` tag (no size); the `SCRP` size field = file length - 8.
+- `scrp.rebuild(script, {pos: new string})` re-emits a script with strings changed and every jump/switch target,
+  `0x22` string address and FUNC fixup relocated (verified: identity on all 334, and lengthen-every-string then
+  restore gives the original bytes; `tests/test_build.py`).
 
 ## Instruction set (verified: linear parse ends exactly at CODE end in all 334 files, and every jump target of
 0x11/0x12/0x15 lands on an instruction start; 0 bad targets)
