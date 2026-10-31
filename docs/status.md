@@ -7,6 +7,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase 9 (2026-11-01): story pass.** `tools/chapters.py` -> `work/qa/story/chapters/ch00-ch11.txt` (12 chapters
   from `docs/synopsis.md` headings); `qa_gate.py init work/qa/story/manifest.tsv ...`; one `reviewer` agent per
   chapter (`docs/story-reviewer-brief.md`), verdicts `work/qa/story/verdicts/<ch>.tsv`, Minors -> `docs/polish.md`.
+  Round 1: 12/12 ok, 0 Critical/Important (first reviews of ch00-03 flagged "truncated" boxes: chapters.py dropped
+  spare lines whose English continues a box; fixed, re-reviewed). Polish pass: every `docs/polish.md` line ticked
+  (109; 102 fixed, 7 waived) via batches b022-b024 (`work/tl/bNNN.notes.txt` / `.ticks.tsv`); round 2 = delta
+  re-review of the 147 changed boxes (`work/qa/story/delta/`): 1 Important (EV_ICE12:0136a) + Minors fixed in b025;
+  verdicts `fixed` in `r2_delta.tsv`; story gate 12/12, visual gate 135/135. Reports `work/qa/story/reports/`.
+  Release: `tools/release.py` (gates per its docstring; jp_left noise in `tools/jp_left_known.txt`; README
+  `docs/release-readme.txt`). The visual tour sheets predate the polish wording (lint-width-checked only).
   Other builds: `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`).
 - **Phase 8 in progress (2026-11-01): graphics text.** `tools/gfxtext.py` letters NCD sprite frames from
   `gfx/<BANK>.tsv` (`frames<TAB>English<TAB>options`; options in its docstring; `check`, `preview`, `colors`;
@@ -124,8 +131,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** phase 9: story-pass verdict per chapter (fix Critical/Important, regenerate, re-review),
-  `docs/polish.md` ticked, release script, jp_left, debug tool off, patch verified. Optional: graphics rows still
+- **Release v1.0 built and verified (2026-11-01):** `tools/release.py 1.0` passed every gate (build, 39 tests +
+  lint, smoke, jp_left 0 runs, visual 135/135, story 12/12, polish all ticked, debug scripts unchanged, BPS re-applied
+  in and out of the zip). `release/MAER_Heaven_EN_v1.0.zip` 3 530 800 B; patch sha1 fa86ef70284d2ba390b1bb0b54b5274a7ccdb6df;
+  patched ROM crc32 9C0B1461, sha1 3548ebf90596d4151d1e012872ce6d0acded7809.
+- **Next:** publish v1.0 when the owner says so (`release/MAER_Heaven_EN_v1.0.zip`; never `gh release create`
+  without the user). Optional: re-run the visual tour on the polished build; graphics rows still
   without a cold-boot shot (`docs/qa-gfx.md`; a `pre` FULL_ITM step in warp.lua would reach the engraver messages). Still unchecked in
   game: link-cable messages (no partner), sort headers (40 px guess). Speaker label "[---]" in the gate_* scene:
   check its JP. Our LZ77 is greedy (+2%): an optimal-parse compressor would cut spill if space gets tight.
