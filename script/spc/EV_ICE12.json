@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE12:007f0",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE12:00b88",
   "jp": "{C0F04}…と…あ！！",
-  "en": "",
+  "en": "{C0F04}...Huh... oh!! Ed!!",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE12:00ba7",
   "jp": "エド！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 71,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE12:00d25",
   "jp": "{C0F04}やっぱり助けにきてくれた！！",
-  "en": "",
+  "en": "{C0F04}I knew you'd come to save me!!",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE12:00e64",
   "jp": "{C0F04}ちがうぜ、助けたのは",
-  "en": "",
+  "en": "{C0F04}Nope. The one who saved ya is the kid",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_ICE12:00e8b",
   "jp": "となりでボーっとしてるボウズだ",
-  "en": "",
+  "en": "spacin' out next to me.",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE12:0107a",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE12:0136a",
   "jp": "{C0F04}おそくなったな、ロコ！",
-  "en": "",
+  "en": "{C0F04}Sorry I'm late, Loco! Is the Princess still",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_ICE12:01393",
   "jp": "ひめさま、まだ生きてるか？",
-  "en": "",
+  "en": "alive?",
   "call": "MswStr",
   "box": 118,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE12:01832",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_ICE12:019a9",
   "jp": "{C0F04}じょうきょうはよくないですよ",
-  "en": "",
+  "en": "{C0F04}Things are not going well. Because you were",
   "call": "MswStr",
   "box": 154,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_ICE12:019d8",
   "jp": "あなたがおそいからです！",
-  "en": "",
+  "en": "so late!",
   "call": "MswStr",
   "box": 154,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE12:01b4b",
   "jp": "{C0F04}こっちのじょうきょうも",
-  "en": "",
+  "en": "{C0F04}Things have changed on our end, too.",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_ICE12:01b74",
   "jp": "かわったからな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 162,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE12:01bcd",
   "jp": "{C0F04}チェスの兵隊、全員しゅうけつ！",
-  "en": "",
+  "en": "{C0F04}All Chess Pieces, assemble! We have new",
   "call": "MswStr",
   "box": 164,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_ICE12:01bfe",
   "jp": "あらたな指令だ",
-  "en": "",
+  "en": "orders.",
   "call": "MswStr",
   "box": 164,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_ICE12:01c51",
   "jp": "{C0F04}いよいよ、チェスの兵隊が",
-  "en": "",
+  "en": "{C0F04}So at last, the Chess Pieces will start",
   "call": "MswStr",
   "box": 166,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_ICE12:01c7c",
   "jp": "ほんかくてきにあばれるのですね？",
-  "en": "",
+  "en": "rampaging for real?",
   "call": "MswStr",
   "box": 166,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_ICE12:01ce7",
   "jp": "{C0F04}ＹＥＳ！",
-  "en": "",
+  "en": "{C0F04}YES!",
   "call": "MswStr",
   "box": 168,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_ICE12:01d4d",
   "jp": "{C0F04}ひめさまをつれもどすのも",
-  "en": "",
+  "en": "{C0F04}Bringing back the Princess is on hold for",
   "call": "MswStr",
   "box": 170,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_ICE12:01d78",
   "jp": "いちじ、中止だよ",
-  "en": "",
+  "en": "now, too.",
   "call": "MswStr",
   "box": 170,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_ICE12:01dd3",
   "jp": "{C0F04}ファントムはこう言ったよ",
-  "en": "",
+  "en": "{C0F04}Here's what Phantom said:",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_ICE12:01e49",
   "jp": "{C0904}『チェスの兵隊をもういちど",
-  "en": "",
+  "en": "{C0904}'I shall make them remember the Chess",
   "call": "MswStr",
   "box": 174,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_ICE12:01e76",
   "jp": "　思い出させてやる』",
-  "en": "",
+  "en": "Pieces once more...",
   "call": "MswStr",
   "box": 174,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_ICE12:01ed5",
   "jp": "{C0904}『だれがこのメルヘヴンの",
-  "en": "",
+  "en": "{C0904}...and who stands at the very top of this",
   "call": "MswStr",
   "box": 176,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_ICE12:01f00",
   "jp": "　ちょうてんに立つのかを！』",
-  "en": "",
+  "en": "MÄR Heaven!'",
   "call": "MswStr",
   "box": 176,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_ICE12:01f67",
   "jp": "{C0904}『私はよみがえった…！！！』",
-  "en": "",
+  "en": "{C0904}'I have returned...!!!'",
   "call": "MswStr",
   "box": 178,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_ICE12:01fdb",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 180,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "EV_ICE12:0203b",
   "jp": "{C0F04}たのしくなってきたよな…",
-  "en": "",
+  "en": "{C0F04}Things are getting fun, huh...",
   "call": "MswStr",
   "box": 182,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "EV_ICE12:021ac",
   "jp": "{C0F04}おいコラ！！",
-  "en": "",
+  "en": "{C0F04}Hey, you!!",
   "call": "MswStr",
   "box": 190,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "EV_ICE12:02210",
   "jp": "{C0F04}こそこそしゃべってんじゃねぇぞ",
-  "en": "",
+  "en": "{C0F04}Quit whisperin' over there, you",
   "call": "MswStr",
   "box": 192,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_ICE12:02241",
   "jp": "このトマトやろう！！",
-  "en": "",
+  "en": "tomato-head!!",
   "call": "MswStr",
   "box": 192,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "EV_ICE12:0234a",
   "jp": "{C0F04}…ほう…",
-  "en": "",
+  "en": "{C0F04}...Well, well... So it really is you, Alan.",
   "call": "MswStr",
   "box": 197,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_ICE12:02365",
   "jp": "本当におまえか、アラン",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 197,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "EV_ICE12:02458",
   "jp": "{C0F04}今はエドだがな…",
-  "en": "",
+  "en": "{C0F04}I'm Ed right now, though... Been six years,",
   "call": "MswStr",
   "box": 202,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_ICE12:0247b",
   "jp": "６年ぶりか？あ？",
-  "en": "",
+  "en": "huh? Eh?",
   "call": "MswStr",
   "box": 202,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "EV_ICE12:025cd",
   "jp": "{C0F04}おまえも…",
-  "en": "",
+  "en": "{C0F04}Are you... one of the Chess Pieces too?!",
   "call": "MswStr",
   "box": 210,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "EV_ICE12:025ea",
   "jp": "チェスの兵隊か！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 210,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "EV_ICE12:02685",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 213,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "EV_ICE12:026e5",
   "jp": "{C0F04}なんだ？",
-  "en": "",
+  "en": "{C0F04}What's this? This spiky-head...",
   "call": "MswStr",
   "box": 215,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "EV_ICE12:02700",
   "jp": "このトンガリあたま…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 215,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "EV_ICE12:028aa",
   "jp": "{C0F04}オレっちのみぎうで、おったやつ！",
-  "en": "",
+  "en": "{C0F04}That's the guy who busted my right arm! His",
   "call": "MswStr",
   "box": 224,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "EV_ICE12:028dd",
   "jp": "ギンタっていうんだぜ！",
-  "en": "",
+  "en": "name's Ginta!",
   "call": "MswStr",
   "box": 224,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "EV_ICE12:0293e",
   "jp": "{C0F04}…マジ？",
-  "en": "",
+  "en": "{C0F04}...Seriously?",
   "call": "MswStr",
   "box": 226,
   "line": 1,
@@ -738,7 +738,7 @@
  {
   "id": "EV_ICE12:029a0",
   "jp": "{C0F04}マジ",
-  "en": "",
+  "en": "{C0F04}Seriously.",
   "call": "MswStr",
   "box": 228,
   "line": 1,
@@ -764,7 +764,7 @@
  {
   "id": "EV_ICE12:02aac",
   "jp": "{C0F04}ひゅはははははははは！！",
-  "en": "",
+  "en": "{C0F04}Hyuhahahahahahaha!!",
   "call": "MswStr",
   "box": 233,
   "line": 1,
@@ -790,7 +790,7 @@
  {
   "id": "EV_ICE12:02b22",
   "jp": "{C0F04}…コゾウ…",
-  "en": "",
+  "en": "{C0F04}...Brat... Just what are you??",
   "call": "MswStr",
   "box": 235,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "EV_ICE12:02b3f",
   "jp": "なにものだ？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 235,
   "line": 2,
@@ -816,7 +816,7 @@
  {
   "id": "EV_ICE12:02b94",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!!",
   "call": "MswStr",
   "box": 237,
   "line": 1,
@@ -842,7 +842,7 @@
  {
   "id": "EV_ICE12:02c90",
   "jp": "{C0F04}なんじゃきさまは！",
-  "en": "",
+  "en": "{C0F04}And who might you be?! Behaving so",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "EV_ICE12:02cb5",
   "jp": "ぶれいなたちふるまいをしおって！",
-  "en": "",
+  "en": "insolently!",
   "call": "MswStr",
   "box": 242,
   "line": 2,
@@ -868,7 +868,7 @@
  {
   "id": "EV_ICE12:02d20",
   "jp": "{C0F04}バッボ…！",
-  "en": "",
+  "en": "{C0F04}Babbo...!",
   "call": "MswStr",
   "box": 244,
   "line": 1,
@@ -894,7 +894,7 @@
  {
   "id": "EV_ICE12:02e1e",
   "jp": "{C0F04}ギンタはいせかいからきたっス！",
-  "en": "",
+  "en": "{C0F04}Ginta came from another world! Don't you",
   "call": "MswStr",
   "box": 249,
   "line": 1,
@@ -903,7 +903,7 @@
  {
   "id": "EV_ICE12:02e4f",
   "jp": "なめないほうがいいっスよ！！",
-  "en": "",
+  "en": "go underestimatin' him!!",
   "call": "MswStr",
   "box": 249,
   "line": 2,
@@ -920,7 +920,7 @@
  {
   "id": "EV_ICE12:02eec",
   "jp": "{C0F04}本当のことかぁ！？",
-  "en": "",
+  "en": "{C0F04}Is that the truth?!",
   "call": "MswStr",
   "box": 252,
   "line": 1,
@@ -946,7 +946,7 @@
  {
   "id": "EV_ICE12:02fc4",
   "jp": "{C0F04}いかいの住人…",
-  "en": "",
+  "en": "{C0F04}A dweller of another world... just like 'that",
   "call": "MswStr",
   "box": 256,
   "line": 1,
@@ -955,7 +955,7 @@
  {
   "id": "EV_ICE12:02fe5",
   "jp": "『あの男』といっしょか",
-  "en": "",
+  "en": "man.'",
   "call": "MswStr",
   "box": 256,
   "line": 2,
@@ -972,7 +972,7 @@
  {
   "id": "EV_ICE12:03046",
   "jp": "{C0F04}…なるほど、それならイアンのうでくらい",
-  "en": "",
+  "en": "{C0F04}...I see. Then maybe he really could break",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -981,7 +981,7 @@
  {
   "id": "EV_ICE12:0307f",
   "jp": "おっちまうかもしれないなぁ…",
-  "en": "",
+  "en": "Ian's arm...",
   "call": "MswStr",
   "box": 258,
   "line": 2,
@@ -998,7 +998,7 @@
  {
   "id": "EV_ICE12:030e2",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 260,
   "line": 1,
@@ -1024,7 +1024,7 @@
  {
   "id": "EV_ICE12:0328b",
   "jp": "{C0F04}ロコがこのコを",
-  "en": "",
+  "en": "{C0F04}Loco will take this child down!",
   "call": "MswStr",
   "box": 269,
   "line": 1,
@@ -1033,7 +1033,7 @@
  {
   "id": "EV_ICE12:032ac",
   "jp": "たおします！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 269,
   "line": 2,
@@ -1050,7 +1050,7 @@
  {
   "id": "EV_ICE12:033ad",
   "jp": "{C0F04}いや…なにをさておいても",
-  "en": "",
+  "en": "{C0F04}No... Above all else, we head back for now.",
   "call": "MswStr",
   "box": 274,
   "line": 1,
@@ -1059,7 +1059,7 @@
  {
   "id": "EV_ICE12:033d8",
   "jp": "いったんもどるよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 274,
   "line": 2,
@@ -1076,7 +1076,7 @@
  {
   "id": "EV_ICE12:03433",
   "jp": "{C0F04}それがファントムの指令だからね",
-  "en": "",
+  "en": "{C0F04}Those are Phantom's orders, after all.",
   "call": "MswStr",
   "box": 276,
   "line": 1,
@@ -1102,7 +1102,7 @@
  {
   "id": "EV_ICE12:034a9",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 278,
   "line": 1,
@@ -1128,7 +1128,7 @@
  {
   "id": "EV_ICE12:035b3",
   "jp": "{C0F04}今回もたのしいことに",
-  "en": "",
+  "en": "{C0F04}Looks like this time's gonna be fun too...",
   "call": "MswStr",
   "box": 283,
   "line": 1,
@@ -1137,7 +1137,7 @@
  {
   "id": "EV_ICE12:035da",
   "jp": "なりそうだなぁ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 283,
   "line": 2,
@@ -1154,7 +1154,7 @@
  {
   "id": "EV_ICE12:03635",
   "jp": "{C0F04}ひゅはははははは…",
-  "en": "",
+  "en": "{C0F04}Hyuhahahahaha...",
   "call": "MswStr",
   "box": 285,
   "line": 1,
@@ -1180,7 +1180,7 @@
  {
   "id": "EV_ICE12:03b9a",
   "jp": "{C0F04}まて！！にげるのか！！",
-  "en": "",
+  "en": "{C0F04}Wait!! You're running away?! You Chess",
   "call": "MswStr",
   "box": 318,
   "line": 1,
@@ -1189,7 +1189,7 @@
  {
   "id": "EV_ICE12:03bc3",
   "jp": "チェスの兵隊ーーーーー！！",
-  "en": "",
+  "en": "Pieces!!!",
   "call": "MswStr",
   "box": 318,
   "line": 2,
@@ -1206,7 +1206,7 @@
  {
   "id": "EV_ICE12:03ced",
   "jp": "{C0F04}あっさりひきあげやがって！",
-  "en": "",
+  "en": "{C0F04}Pullin' back that easy! I got a bad feelin'",
   "call": "MswStr",
   "box": 325,
   "line": 1,
@@ -1215,7 +1215,7 @@
  {
   "id": "EV_ICE12:03d1a",
   "jp": "イヤなよかん、するぜ…",
-  "en": "",
+  "en": "about this...",
   "call": "MswStr",
   "box": 325,
   "line": 2,
@@ -1232,7 +1232,7 @@
  {
   "id": "EV_ICE12:03d75",
   "jp": "{C0F04}（いせかいから来た…か）",
-  "en": "",
+  "en": "{C0F04}(From another world... huh.)",
   "call": "MswStr",
   "box": 327,
   "line": 1,
@@ -1258,7 +1258,7 @@
  {
   "id": "EV_ICE12:03de5",
   "jp": "{C0F04}（なつかしいにおい、するはずだぜ…）",
-  "en": "",
+  "en": "{C0F04}(No wonder he's got a familiar scent...)",
   "call": "MswStr",
   "box": 329,
   "line": 1,
@@ -1284,7 +1284,7 @@
  {
   "id": "EV_ICE12:04204",
   "jp": "{C0F04}はじめまして！",
-  "en": "",
+  "en": "{C0F04}Nice to meet you! I'm Snow!",
   "call": "MswStr",
   "box": 355,
   "line": 1,
@@ -1293,7 +1293,7 @@
  {
   "id": "EV_ICE12:04225",
   "jp": "スノウっていいます！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 355,
   "line": 2,
@@ -1310,7 +1310,7 @@
  {
   "id": "EV_ICE12:04280",
   "jp": "{C0F04}助けてくれてありがとう！",
-  "en": "",
+  "en": "{C0F04}Thank you for saving me!",
   "call": "MswStr",
   "box": 357,
   "line": 1,
@@ -1336,7 +1336,7 @@
  {
   "id": "EV_ICE12:043bd",
   "jp": "{C0F04}（…かおだけじゃない",
-  "en": "",
+  "en": "{C0F04}(...It's not just her face. The way she",
   "call": "MswStr",
   "box": 364,
   "line": 1,
@@ -1345,7 +1345,7 @@
  {
   "id": "EV_ICE12:043e4",
   "jp": "　しぐさも、こえも…）",
-  "en": "",
+  "en": "moves, her voice...)",
   "call": "MswStr",
   "box": 364,
   "line": 2,
@@ -1362,7 +1362,7 @@
  {
   "id": "EV_ICE12:04441",
   "jp": "{C0F04}なつかしい…かんじだ…",
-  "en": "",
+  "en": "{C0F04}It feels... so familiar...",
   "call": "MswStr",
   "box": 366,
   "line": 1,
@@ -1388,7 +1388,7 @@
  {
   "id": "EV_ICE12:04699",
   "jp": "{C0F04}…さて",
-  "en": "",
+  "en": "{C0F04}...Well then.",
   "call": "MswStr",
   "box": 380,
   "line": 1,
@@ -1414,7 +1414,7 @@
  {
   "id": "EV_ICE12:046f7",
   "jp": "{C0F04}ちょいとはらごしらえに行くか！",
-  "en": "",
+  "en": "{C0F04}Let's go grab some grub!",
   "call": "MswStr",
   "box": 382,
   "line": 1,
@@ -1440,7 +1440,7 @@
  {
   "id": "EV_ICE12:0476d",
   "jp": "{C0F04}犬のなかにいるとラクチンだが",
-  "en": "",
+  "en": "{C0F04}Bein' inside the dog is easy livin', but it sure",
   "call": "MswStr",
   "box": 384,
   "line": 1,
@@ -1449,7 +1449,7 @@
  {
   "id": "EV_ICE12:0479c",
   "jp": "はらがへるぜ…",
-  "en": "",
+  "en": "makes ya hungry...",
   "call": "MswStr",
   "box": 384,
   "line": 2,

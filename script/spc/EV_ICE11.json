@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE11:00793",
   "jp": "{C0F04}うぐぁ…はっ！！",
-  "en": "",
+  "en": "{C0F04}Ugah... hah!!",
   "call": "MswStr",
   "box": 43,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE11:008e4",
   "jp": "{C0F04}ひきましょう、イアン",
-  "en": "",
+  "en": "{C0F04}Let's withdraw, Ian.",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE11:00950",
   "jp": "{C0F04}犬の中からでてきてしまった以上",
-  "en": "",
+  "en": "{C0F04}Now that he has come out of the dog, the",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_ICE11:00981",
   "jp": "分がわるいです",
-  "en": "",
+  "en": "odds are against us.",
   "call": "MswStr",
   "box": 52,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE11:00c9c",
   "jp": "{C0F04}『ギンタ』っていったな？",
-  "en": "",
+  "en": "{C0F04}\"Ginta,\" was it? C'mere.",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_ICE11:00cc7",
   "jp": "こっちにこい",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 71,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE11:00f62",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE11:00fbc",
   "jp": "{C0F04}ちょっとしたじじょうがあってな",
-  "en": "",
+  "en": "{C0F04}Got a little situation, see. The dog and me",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_ICE11:00fed",
   "jp": "犬とオレは合体しているんだ",
-  "en": "",
+  "en": "are stuck together.",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE11:0104c",
   "jp": "{C0F04}犬が３回ねるとオレが出てきて",
-  "en": "",
+  "en": "{C0F04}When the dog sleeps 3 times, I come out.",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_ICE11:0107b",
   "jp": "オレが１回ねると犬がでてくる",
-  "en": "",
+  "en": "When I sleep once, the dog comes out.",
   "call": "MswStr",
   "box": 91,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_ICE11:010de",
   "jp": "{C0F04}それでエドは",
-  "en": "",
+  "en": "{C0F04}So that's why Ed kept saying he wanted to",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_ICE11:010fd",
   "jp": "ねたいねたいっていってたのか…",
-  "en": "",
+  "en": "sleep...",
   "call": "MswStr",
   "box": 93,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE11:01160",
   "jp": "{C0F04}これくれてやる",
-  "en": "",
+  "en": "{C0F04}Here, take this.",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE11:0132e",
   "jp": "{C0F04}火のÄＲＭだ",
-  "en": "",
+  "en": "{C0F04}It's a fire ÄRM. Use it to break Snow's seal.",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_ICE11:0134d",
   "jp": "これでスノウの封印をといてやれ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 107,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_ICE11:01418",
   "jp": "{C0F04}…おう！！",
-  "en": "",
+  "en": "{C0F04}...Got it!!",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -288,7 +288,7 @@
  {
   "id": "EV_ICE11:0149c",
   "jp": "{C0D04}メルトアイス{C0F04}と",
-  "en": "",
+  "en": "{C0D04}Melt Ice{C0F04} and",
   "call": "MswStr",
   "box": 116,
   "line": 0
@@ -296,7 +296,7 @@
  {
   "id": "EV_ICE11:014c4",
   "jp": "{C0D04}メルトアイスストーン{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Melt Ice Stone{C0F04}",
   "call": "MswStr",
   "box": 116,
   "line": 1
@@ -304,7 +304,7 @@
  {
   "id": "EV_ICE11:014f4",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 116,
   "line": 2
@@ -320,7 +320,7 @@
  {
   "id": "EV_ICE11:0196d",
   "jp": "{C0F04}よくがんばったな…",
-  "en": "",
+  "en": "{C0F04}You hung in there so well...",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -346,7 +346,7 @@
  {
   "id": "EV_ICE11:019d9",
   "jp": "{C0F04}いま、そこから",
-  "en": "",
+  "en": "{C0F04}I'll get you out of there right now!!",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -355,7 +355,7 @@
  {
   "id": "EV_ICE11:019fa",
   "jp": "出してやるぞ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 146,
   "line": 2,

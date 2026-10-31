@@ -10,7 +10,7 @@
  {
   "id": "SP_M26_5:0023a",
   "jp": "{C0F04}ふん…",
-  "en": "",
+  "en": "{C0F04}Hmph...",
   "call": "MswStr",
   "box": 15,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M26_5:0029e",
   "jp": "{C0F04}こう足場がわるくちゃ",
-  "en": "",
+  "en": "{C0F04}With footing this bad, Ginta, there's nothing",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SP_M26_5:002c5",
   "jp": "ギンタ、おまえじゃどうしようもないだろ",
-  "en": "",
+  "en": "you can do.",
   "call": "MswStr",
   "box": 17,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "SP_M26_5:0079c",
   "jp": "{C0F04}う、うん……",
-  "en": "",
+  "en": "{C0F04}Y-yeah......",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -80,7 +80,7 @@
  {
   "id": "SP_M26_5:00906",
   "jp": "ふかい穴があいている",
-  "en": "",
+  "en": "There's a deep hole here.",
   "call": "MswStr",
   "box": 66,
   "line": 0
@@ -112,7 +112,7 @@
  {
   "id": "SP_M26_5:00b9b",
   "jp": "{C0F04}よっと…！",
-  "en": "",
+  "en": "{C0F04}Hup...!",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -138,7 +138,7 @@
  {
   "id": "SP_M26_5:00c01",
   "jp": "{C0F04}ほら！ギンタン！！",
-  "en": "",
+  "en": "{C0F04}Here! Gintan!! Over here, over here!",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "SP_M26_5:00c26",
   "jp": "こっちこっち！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 84,
   "line": 2,
@@ -164,7 +164,7 @@
  {
   "id": "SP_M26_5:00d46",
   "jp": "{C0F04}ドロシー…………",
-  "en": "",
+  "en": "{C0F04}Dorothy..........",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -182,7 +182,7 @@
  {
   "id": "SP_M26_5:0105e",
   "jp": "見えないまほうのかべで",
-  "en": "",
+  "en": "An invisible magic wall blocks the way.",
   "call": "MswStr",
   "box": 114,
   "line": 0
@@ -190,7 +190,7 @@
  {
   "id": "SP_M26_5:01080",
   "jp": "さえぎられている",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 114,
   "line": 1
@@ -214,7 +214,7 @@
  {
   "id": "SP_M26_5:01303",
   "jp": "{C0F04}ここはわたしのでばんだよ！",
-  "en": "",
+  "en": "{C0F04}This is my time to shine!",
   "call": "MswStr",
   "box": 130,
   "line": 1,
@@ -240,7 +240,7 @@
  {
   "id": "SP_M26_5:01572",
   "jp": "{C0F04}ありがとう…みんな…",
-  "en": "",
+  "en": "{C0F04}Thanks... everyone...",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -266,7 +266,7 @@
  {
   "id": "SP_M26_5:015e0",
   "jp": "{C0F04}オレみたいなヤツに",
-  "en": "",
+  "en": "{C0F04}All this... for a guy like me...",
   "call": "MswStr",
   "box": 148,
   "line": 1,
@@ -275,7 +275,7 @@
  {
   "id": "SP_M26_5:01605",
   "jp": "こんなにしてもらって…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 148,
   "line": 2,
@@ -292,7 +292,7 @@
  {
   "id": "SP_M26_5:016cc",
   "jp": "{C0F04}おちこむことないっスよ、ギンタ！",
-  "en": "",
+  "en": "{C0F04}Ain't no reason to feel down, Ginta!",
   "call": "MswStr",
   "box": 152,
   "line": 1,
@@ -318,7 +318,7 @@
  {
   "id": "SP_M26_5:01748",
   "jp": "{C0F04}オイラだって、ギンタがいなければ",
-  "en": "",
+  "en": "{C0F04}Without you, Ginta, I'd still be a big ol'",
   "call": "MswStr",
   "box": 154,
   "line": 1,
@@ -327,7 +327,7 @@
  {
   "id": "SP_M26_5:0177b",
   "jp": "ヨワムシのままだったっスよ！",
-  "en": "",
+  "en": "scaredy-cat, y'know!",
   "call": "MswStr",
   "box": 154,
   "line": 2,
@@ -344,7 +344,7 @@
  {
   "id": "SP_M26_5:017de",
   "jp": "{C0F04}ジャック…！",
-  "en": "",
+  "en": "{C0F04}Jack...!",
   "call": "MswStr",
   "box": 156,
   "line": 1,
@@ -370,7 +370,7 @@
  {
   "id": "SP_M26_5:018de",
   "jp": "{C0F04}…！",
-  "en": "",
+  "en": "{C0F04}...!",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -388,7 +388,7 @@
  {
   "id": "SP_M26_5:01ad8",
   "jp": "氷が道をふさいでいる",
-  "en": "",
+  "en": "Ice is blocking the way.",
   "call": "MswStr",
   "box": 175,
   "line": 0
@@ -412,7 +412,7 @@
  {
   "id": "SP_M26_5:01f6f",
   "jp": "{C0D04}６５７０Ｐ{C0F04}が入っていた！",
-  "en": "",
+  "en": "{C0D04}6570 P{C0F04} was inside!",
   "call": "MswStr",
   "box": 211,
   "line": 0

@@ -10,7 +10,7 @@
  {
   "id": "EV_GO04:0080c",
   "jp": "{C0F04}ま{C0D04}りょ{C0F04}く！！",
-  "en": "",
+  "en": "{C0F04}Ma{C0D04}gic{C0F04} power!!",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO04:00880",
   "jp": "{C0904}つよ{C0F04}い{C0B04}ま{C0F04}りょく！！",
-  "en": "",
+  "en": "{C0904}Stro{C0F04}ng {C0B04}ma{C0F04}gic power!!",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO04:00901",
   "jp": "{C0F04}おまえら…{C0B04}て{C0D04}き{C0F04}？？",
-  "en": "",
+  "en": "{C0F04}You guys... {C0B04}en{C0D04}emies{C0F04}??",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO04:00a6d",
   "jp": "{C0F04}うっわ…！",
-  "en": "",
+  "en": "{C0F04}Ewww...! Creepy...!!",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_GO04:00a8a",
   "jp": "気色わる…！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 59,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO04:00b89",
   "jp": "{C0F04}お、{C0B04}お{C0F04}れ！！",
-  "en": "",
+  "en": "{C0F04}I-{C0B04}I{C0F04}...!! {C0904}No{C0F04}t cree{C0D04}py{C0F04}!!!",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO04:00bb6",
   "jp": "{C0904}きも{C0F04}ちわる{C0D04}く{C0F04}ない！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 64,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO04:00da6",
   "jp": "{C0F04}あ、あぶないわね！",
-  "en": "",
+  "en": "{C0F04}H-hey, that was dangerous!",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO04:00efb",
   "jp": "{C0F04}下がっとってえーーよーー！",
-  "en": "",
+  "en": "{C0F04}You just stay baaack!",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO04:00f6f",
   "jp": "{C0F04}じぶんにまかしとき！！",
-  "en": "",
+  "en": "{C0F04}Leave it ta me!!",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO04:0101f",
   "jp": "{C0F04}あらま、よゆうねぇ？",
-  "en": "",
+  "en": "{C0F04}My my, aren't you relaxed?",
   "call": "MswStr",
   "box": 85,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO04:0108f",
   "jp": "{C0F04}でも、あいつ…",
-  "en": "",
+  "en": "{C0F04}But that guy...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO04:010f9",
   "jp": "{C0F04}からだがすっごく、かたくなるタイプの",
-  "en": "",
+  "en": "{C0F04}...he's wearing the kind of ÄRM that makes",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_GO04:01130",
   "jp": "ÄＲＭつけてるわよ",
-  "en": "",
+  "en": "your body super hard, you know.",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO04:011c7",
   "jp": "{C0F04}そんなんわかってる",
-  "en": "",
+  "en": "{C0F04}I know that. Who d'ya think I am?",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_GO04:011ec",
   "jp": "じぶんをだれやと思ってる？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 92,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO04:0124d",
   "jp": "{C0F04}ルベリアのボス、ナナシや！",
-  "en": "",
+  "en": "{C0F04}Nanashi, boss of Luberia, that's who!",
   "call": "MswStr",
   "box": 94,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_GO04:012c1",
   "jp": "{C0F04}チェスの兵隊",
-  "en": "",
+  "en": "{C0F04}When it comes to wantin' to pound the",
   "call": "MswStr",
   "box": 96,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_GO04:012e0",
   "jp": "ぶちのめしたいきもちやったらな…",
-  "en": "",
+  "en": "Chess Pieces...",
   "call": "MswStr",
   "box": 96,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_GO04:013f1",
   "jp": "{C0F04}ギンタにだって",
-  "en": "",
+  "en": "{C0F04}I ain't losin' even to Ginta!!",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_GO04:01412",
   "jp": "負けてへんのや！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 101,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_GO04:0146b",
   "jp": "{C0F04}おま{C0B04}えら{C0F04}…",
-  "en": "",
+  "en": "{C0F04}You {C0B04}guys{C0F04}... don't {C0904}know{C0F04} who I {C0D04}am{C0F04}?",
   "call": "MswStr",
   "box": 103,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_GO04:01496",
   "jp": "おれ、{C0904}だれ{C0F04}かしら{C0D04}ない{C0F04}のか？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 103,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_GO04:01513",
   "jp": "{C0F04}チェス{C0B04}の{C0904}こま{C0F04}、{C0D04}オル{C0F04}コだぞ！！",
-  "en": "",
+  "en": "{C0F04}I'm a Chess {C0B04}Pi{C0904}ece{C0F04}, {C0D04}Or{C0F04}co!!",
   "call": "MswStr",
   "box": 105,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "EV_AL03:0062e",
   "jp": "{C0F04}はぁ…はぁ…",
-  "en": "",
+  "en": "{C0F04}Huff... huff...",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_AL03:007b3",
   "jp": "{C0F04}ギンタ！",
-  "en": "",
+  "en": "{C0F04}Ginta! Pull yourself together!",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_AL03:007ce",
   "jp": "しっかりせい！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_AL03:0097c",
   "jp": "{C0F04}…つ！",
-  "en": "",
+  "en": "{C0F04}Tch! Swinging his fists with nothing but",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_AL03:00995",
   "jp": "力まかせになぐりやがって…",
-  "en": "",
+  "en": "brute force...",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_AL03:009fa",
   "jp": "{C0F04}…それにしても",
-  "en": "",
+  "en": "{C0F04}...Still,",
   "call": "MswStr",
   "box": 55,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_AL03:00a66",
   "jp": "{C0F04}（どうもこのバッボ…",
-  "en": "",
+  "en": "{C0F04}(This Babbo... it's like he's a different",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_AL03:00a8d",
   "jp": "　別人格のようだな）",
-  "en": "",
+  "en": "person.)",
   "call": "MswStr",
   "box": 57,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_AL03:00b1e",
   "jp": "{C0F04}こ、こわさないでくれよ",
-  "en": "",
+  "en": "{C0F04}D-don't break him, please.",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_AL03:00b8e",
   "jp": "{C0F04}こんなヤツでも",
-  "en": "",
+  "en": "{C0F04}He may be like this, but he's m-my... friend...",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_AL03:00baf",
   "jp": "オ、オレの…ダチ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 62,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_AL03:00e56",
   "jp": "{C0F04}おいおまえ！",
-  "en": "",
+  "en": "{C0F04}You there!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_AL03:00ec0",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_AL03:01032",
   "jp": "{C0F04}ていこうせんから",
-  "en": "",
+  "en": "{C0F04}I shall not resist, so destroy me in a single",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_AL03:01055",
   "jp": "ひと思いにこわせ！！",
-  "en": "",
+  "en": "blow!!",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_AL03:010b0",
   "jp": "{C0F04}そのかわり、",
-  "en": "",
+  "en": "{C0F04}But in exchange, do not lay one finger on",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_AL03:010cf",
   "jp": "ギンタにゆび一本ふれるな！！",
-  "en": "",
+  "en": "Ginta!!",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_AL03:01132",
   "jp": "{C0F04}ギンタはワシの家来！",
-  "en": "",
+  "en": "{C0F04}Ginta is my servant! I cannot allow him to",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_AL03:01159",
   "jp": "死なせるワケにはいかんからな",
-  "en": "",
+  "en": "die.",
   "call": "MswStr",
   "box": 91,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_AL03:011c0",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_AL03:01553",
   "jp": "{C0F04}あ！こらまて！！",
-  "en": "",
+  "en": "{C0F04}Ah! Hey, wait!!",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_AL03:01a79",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 149,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "EV_AL03:01ad5",
   "jp": "{C0F04}あれ？",
-  "en": "",
+  "en": "{C0F04}Huh? Where am I...",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_AL03:01aee",
   "jp": "ここは…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 151,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_AL03:01c28",
   "jp": "{C0F04}きがついたっスね！",
-  "en": "",
+  "en": "{C0F04}You're awake! This here's the edge of Paz",
   "call": "MswStr",
   "box": 158,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_AL03:01c4d",
   "jp": "ここはパヅタウンのはずれっスよ",
-  "en": "",
+  "en": "Town, y'know.",
   "call": "MswStr",
   "box": 158,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_AL03:01d9b",
   "jp": "{C0F04}なっさけないのぉ",
-  "en": "",
+  "en": "{C0F04}How pathetic! Beaten by such a fledgling!",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_AL03:01dbe",
   "jp": "あんなヒヨッコにたおされて！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_AL03:01e21",
   "jp": "{C0F04}ワシがいなければ",
-  "en": "",
+  "en": "{C0F04}If it weren't for me, who knows what",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_AL03:01e44",
   "jp": "いまごろおまえはどーなって",
-  "en": "",
+  "en": "would have become of y--",
   "call": "MswStr",
   "box": 167,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_AL03:01f66",
   "jp": "{C0F04}おわーーーーーー！！",
-  "en": "",
+  "en": "{C0F04}Gwaaaaaah!!",
   "call": "MswStr",
   "box": 173,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "EV_AL03:01fd4",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 175,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_AL03:02032",
   "jp": "{C0F04}オイラかごの中で見てたっスよ",
-  "en": "",
+  "en": "{C0F04}I saw it all from inside the cage. You sure",
   "call": "MswStr",
   "box": 177,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_AL03:02061",
   "jp": "すなおじゃないっスね、バッボ…",
-  "en": "",
+  "en": "ain't honest about your feelin's, Babbo...",
   "call": "MswStr",
   "box": 177,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "EV_AL03:0213a",
   "jp": "{C0F04}あいつは？",
-  "en": "",
+  "en": "{C0F04}What about that guy?",
   "call": "MswStr",
   "box": 181,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "EV_AL03:0224a",
   "jp": "{C0F04}『ねらわれるたちばを",
-  "en": "",
+  "en": "{C0F04}'If you chose to become a target yourself,'",
   "call": "MswStr",
   "box": 186,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "EV_AL03:02271",
   "jp": "　みずからえらんだなら』",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 186,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "EV_AL03:022d2",
   "jp": "{C0F04}『強くなれ』",
-  "en": "",
+  "en": "{C0F04}'then get strong.'",
   "call": "MswStr",
   "box": 188,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "EV_AL03:023e4",
   "jp": "{C0F04}そういってたっスよ",
-  "en": "",
+  "en": "{C0F04}That's what he said, y'know.",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -686,7 +686,7 @@
  {
   "id": "EV_AL03:02450",
   "jp": "{C0F04}…そっか…",
-  "en": "",
+  "en": "{C0F04}...I see...",
   "call": "MswStr",
   "box": 195,
   "line": 1,
@@ -712,7 +712,7 @@
  {
   "id": "EV_AL03:024b4",
   "jp": "{C0F04}（あいつ…バッボをこわさなかった）",
-  "en": "",
+  "en": "{C0F04}(That guy... didn't break Babbo.)",
   "call": "MswStr",
   "box": 197,
   "line": 1,
@@ -738,7 +738,7 @@
  {
   "id": "EV_AL03:02530",
   "jp": "{C0F04}（信じたんじゃなくて",
-  "en": "",
+  "en": "{C0F04}(He doesn't trust me... he's testing me...)",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -747,7 +747,7 @@
  {
   "id": "EV_AL03:02557",
   "jp": "　ためしているんだな…）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 199,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "EV_AL03:025b6",
   "jp": "{C0F04}…ジャック",
-  "en": "",
+  "en": "{C0F04}...Jack.",
   "call": "MswStr",
   "box": 201,
   "line": 1,
@@ -790,7 +790,7 @@
  {
   "id": "EV_AL03:02730",
   "jp": "{C0F04}オレ…",
-  "en": "",
+  "en": "{C0F04}I'm... gonna get strong!",
   "call": "MswStr",
   "box": 208,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "EV_AL03:02749",
   "jp": "つよくなる！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 208,
   "line": 2,

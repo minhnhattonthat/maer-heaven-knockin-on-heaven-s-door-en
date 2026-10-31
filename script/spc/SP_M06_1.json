@@ -10,7 +10,7 @@
  {
   "id": "SP_M06_1:00273",
   "jp": "{C0F04}カギあけならワイにまかしとき",
-  "en": "",
+  "en": "{C0F04}Pickin' locks? Leave it ta me!",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -28,7 +28,7 @@
  {
   "id": "SP_M06_1:0049b",
   "jp": "カギがかかっている",
-  "en": "",
+  "en": "It's locked.",
   "call": "MswStr",
   "box": 31,
   "line": 0

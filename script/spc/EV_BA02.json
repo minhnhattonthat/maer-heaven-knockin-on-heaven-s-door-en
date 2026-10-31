@@ -10,7 +10,7 @@
  {
   "id": "EV_BA02:0052a",
   "jp": "{C0F04}よっし！！",
-  "en": "",
+  "en": "{C0F04}All riiight!!",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BA02:00885",
   "jp": "{C0F04}よくやったわねーー！",
-  "en": "",
+  "en": "{C0F04}Well done, you!! That was amazing♥",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_BA02:008ac",
   "jp": "おみごとよ♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_BA02:00901",
   "jp": "{C0F04}じゃ、あんたはわたしの物に…",
-  "en": "",
+  "en": "{C0F04}Now then, you belong to me...",
   "call": "MswStr",
   "box": 55,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_BA02:00a60",
   "jp": "{C0F04}いやじゃ",
-  "en": "",
+  "en": "{C0F04}I refuse.",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_BA02:00b02",
   "jp": "{C0F04}な…！！",
-  "en": "",
+  "en": "{C0F04}Wha...!!",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_BA02:00c7a",
   "jp": "{C0F04}おまえのÄＲＭになるなんていやじゃ！！",
-  "en": "",
+  "en": "{C0F04}I refuse to become YOUR ÄRM!!",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_BA02:00cfa",
   "jp": "{C0F04}おまえからは邪悪（じゃあく）な",
-  "en": "",
+  "en": "{C0F04}You positively reek of wicked magic power!",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_BA02:00d2b",
   "jp": "魔力（まりょく）の匂いがプンプンするわ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 74,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_BA02:00d9c",
   "jp": "{C0F04}邪悪とは何よ！！",
-  "en": "",
+  "en": "{C0F04}Who are you calling wicked!!",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_BA02:00e08",
   "jp": "{C0F04}わたしこそ、あんたなんておことわりよ！！",
-  "en": "",
+  "en": "{C0F04}Well, I don't want YOU either!!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_BA02:00fdf",
   "jp": "{C0F04}え、じゃあ…！！",
-  "en": "",
+  "en": "{C0F04}Huh, then...!!",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_BA02:01089",
   "jp": "{C0F04}しかたないわね",
-  "en": "",
+  "en": "{C0F04}Oh, fine. What's your name??",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_BA02:010aa",
   "jp": "キミ、名前は？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_BA02:0113f",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!!",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_BA02:011a5",
   "jp": "{C0F04}ギンタ…このナマイキブサイクは",
-  "en": "",
+  "en": "{C0F04}Ginta... this cheeky ugly thing is all yours♥",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_BA02:011d6",
   "jp": "キミにあげよう♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 95,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_BA02:012d9",
   "jp": "{C0F04}…そうそう、ÄＲＭの使い方だったよね",
-  "en": "",
+  "en": "{C0F04}...Oh right, I was gonna show you how to",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_BA02:01310",
   "jp": "…ちょうどいい、こっち来て！",
-  "en": "",
+  "en": "use ÄRM. ...Perfect timing, come over here!",
   "call": "MswStr",
   "box": 100,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "G_EV011:00758",
   "jp": "{C0F04}スノウ助けてごくろうだった",
-  "en": "",
+  "en": "{C0F04}Good work savin' Snow, you brats.",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV011:00785",
   "jp": "ガキども",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 41,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV011:007d2",
   "jp": "{C0F04}たらふく、くっていいぞ！",
-  "en": "",
+  "en": "{C0F04}Eat all ya want!",
   "call": "MswStr",
   "box": 43,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV011:00d80",
   "jp": "{C0F04}たらふく…って…",
-  "en": "",
+  "en": "{C0F04}All we want... of what?",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV011:00ed5",
   "jp": "{C0F04}チーズと豆がちょっとだけっスよ…！",
-  "en": "",
+  "en": "{C0F04}It's just a little cheese and a few beans,",
   "call": "MswStr",
   "box": 85,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "G_EV011:00f0a",
   "jp": "",
-  "en": "",
+  "en": "y'know...!",
   "call": "MswStr",
   "box": 85,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV011:01147",
   "jp": "{C0F04}あん！？",
-  "en": "",
+  "en": "{C0F04}Huh!?",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV011:015c8",
   "jp": "{C0F04}本当にありがとう！",
-  "en": "",
+  "en": "{C0F04}Thank you so much, really! And please, call",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV011:015ed",
   "jp": "スノウってよんでね！",
-  "en": "",
+  "en": "me Snow!",
   "call": "MswStr",
   "box": 123,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV011:01765",
   "jp": "{C0F04}…ところでギンタ…",
-  "en": "",
+  "en": "{C0F04}...By the way, Ginta...",
   "call": "MswStr",
   "box": 131,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV011:017cf",
   "jp": "{C0F04}おまえ、このせかいにきて",
-  "en": "",
+  "en": "{C0F04}You've been in this world about ten days",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "G_EV011:017fa",
   "jp": "１０日くらいだったな",
-  "en": "",
+  "en": "now, right?",
   "call": "MswStr",
   "box": 133,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV011:0193e",
   "jp": "{C0F04}うん",
-  "en": "",
+  "en": "{C0F04}Yeah.",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV011:0199a",
   "jp": "{C0F04}なら、まだなにもわからねぇだろ",
-  "en": "",
+  "en": "{C0F04}Then ya still don't know a thing. I'll explain,",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "G_EV011:019cb",
   "jp": "せつめいしてやるからよくきけよ",
-  "en": "",
+  "en": "so listen up.",
   "call": "MswStr",
   "box": 142,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV011:01a6e",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV011:01b06",
   "jp": "{C0F04}今、オレたちがいるのは",
-  "en": "",
+  "en": "{C0F04}Right now we're on a little island called",
   "call": "MswStr",
   "box": 148,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV011:01b2f",
   "jp": "パヅリカっていう小さい島だ",
-  "en": "",
+  "en": "Pazurica.",
   "call": "MswStr",
   "box": 148,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV011:01b8e",
   "jp": "{C0F04}南の大きいたいりくにある、",
-  "en": "",
+  "en": "{C0F04}There's a place called Lestava on the big",
   "call": "MswStr",
   "box": 150,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV011:01bbb",
   "jp": "レスターヴァってところが",
-  "en": "",
+  "en": "continent to the south...",
   "call": "MswStr",
   "box": 150,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV011:01e6a",
   "jp": "{C0F04}このスノウが生まれたところだ",
-  "en": "",
+  "en": "{C0F04}...and that's where Snow here was born.",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV011:01ede",
   "jp": "{C0F04}レスターヴァってのは、まわりの",
-  "en": "",
+  "en": "{C0F04}Lestava's been the one ruling all the little",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "G_EV011:01f0f",
   "jp": "小さい国々を統治してきた",
-  "en": "",
+  "en": "countries around it.",
   "call": "MswStr",
   "box": 167,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV011:01fac",
   "jp": "{C0F04}スノウはそこのおひめさまなのか…",
-  "en": "",
+  "en": "{C0F04}So Snow's the princess of that place...",
   "call": "MswStr",
   "box": 170,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV011:02024",
   "jp": "{C0F04}ま、今じゃチェスのアジトに",
-  "en": "",
+  "en": "{C0F04}Well, these days it's turned into a Chess",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV011:02051",
   "jp": "なっちまってるが…",
-  "en": "",
+  "en": "hideout, though...",
   "call": "MswStr",
   "box": 172,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV011:02126",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 176,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV011:02359",
   "jp": "{C0F04}このせつめいをするのも",
-  "en": "",
+  "en": "{C0F04}You've heard this part once already, so",
   "call": "MswStr",
   "box": 188,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "G_EV011:02382",
   "jp": "２回目だからラクだな",
-  "en": "",
+  "en": "this'll be easy.",
   "call": "MswStr",
   "box": 188,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV011:023db",
   "jp": "{C0F04}６年まえ、おまえと同じせかいから",
-  "en": "",
+  "en": "{C0F04}Six years ago, a guy came here from the",
   "call": "MswStr",
   "box": 190,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "G_EV011:0240e",
   "jp": "来たやつだ",
-  "en": "",
+  "en": "same world as you.",
   "call": "MswStr",
   "box": 190,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV011:0249b",
   "jp": "{C0F04}チェスの兵隊にたいこうするために",
-  "en": "",
+  "en": "{C0F04}There was an army formed to fight the",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "G_EV011:024ce",
   "jp": "けっせいされた{C0904}『クロスガード軍』",
-  "en": "",
+  "en": "Chess Pieces: the {C0904}'Cross Guard army'",
   "call": "MswStr",
   "box": 193,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV011:0253a",
   "jp": "{C0F04}そのリーダーだった男だ",
-  "en": "",
+  "en": "{C0F04}He was its leader.",
   "call": "MswStr",
   "box": 195,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "G_EV011:025a8",
   "jp": "{C0F04}オレたちは{C0904}『ダンナ』{C0F04}って呼んでた",
-  "en": "",
+  "en": "{C0F04}We called him {C0904}'Danna'{C0F04}.",
   "call": "MswStr",
   "box": 197,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV011:0266e",
   "jp": "{C0F04}あ…",
-  "en": "",
+  "en": "{C0F04}Ah...",
   "call": "MswStr",
   "box": 200,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "G_EV011:02708",
   "jp": "{C0F04}そう、チェスの兵隊しれいとう",
-  "en": "",
+  "en": "{C0F04}Yeah. He and the Chess Pieces' commander,",
   "call": "MswStr",
   "box": 203,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "G_EV011:02737",
   "jp": "{C0904}『ファントム』{C0F04}とあいうちで",
-  "en": "",
+  "en": "{C0904}'Phantom'{C0F04}, took each other down...",
   "call": "MswStr",
   "box": 203,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "G_EV011:027a4",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}... He died doin' it, though...",
   "call": "MswStr",
   "box": 205,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "G_EV011:027b9",
   "jp": "死んじまったがな…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 205,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV011:02931",
   "jp": "{C0F04}…エド！",
-  "en": "",
+  "en": "{C0F04}...Ed!",
   "call": "MswStr",
   "box": 213,
   "line": 1,
@@ -712,7 +712,7 @@
  {
   "id": "G_EV011:029cf",
   "jp": "{C0F04}ん？？",
-  "en": "",
+  "en": "{C0F04}Hm??",
   "call": "MswStr",
   "box": 216,
   "line": 1,
@@ -738,7 +738,7 @@
  {
   "id": "G_EV011:02bc2",
   "jp": "{C0F04}バッボさんとお外で",
-  "en": "",
+  "en": "{C0F04}I'm going outside to play with Babbo-san!",
   "call": "MswStr",
   "box": 226,
   "line": 1,
@@ -747,7 +747,7 @@
  {
   "id": "G_EV011:02be7",
   "jp": "あそんでくるね！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 226,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "G_EV011:02c3c",
   "jp": "{C0F04}近くにみょうな魔力（まりょく）はないが…",
-  "en": "",
+  "en": "{C0F04}I don't sense any weird magic power",
   "call": "MswStr",
   "box": 228,
   "line": 1,
@@ -773,7 +773,7 @@
  {
   "id": "G_EV011:02c77",
   "jp": "あんまりとおくまで行くなよ！",
-  "en": "",
+  "en": "nearby... but don't go too far!",
   "call": "MswStr",
   "box": 228,
   "line": 2,
@@ -790,7 +790,7 @@
  {
   "id": "G_EV011:02d18",
   "jp": "{C0F04}うん！",
-  "en": "",
+  "en": "{C0F04}Okay! Let's go, Babbo-san!!",
   "call": "MswStr",
   "box": 231,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "G_EV011:02d31",
   "jp": "行こう！バッボさん！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 231,
   "line": 2,
@@ -816,7 +816,7 @@
  {
   "id": "G_EV011:02dcc",
   "jp": "{C0F04}う、うむ…",
-  "en": "",
+  "en": "{C0F04}V-very well...",
   "call": "MswStr",
   "box": 234,
   "line": 1,

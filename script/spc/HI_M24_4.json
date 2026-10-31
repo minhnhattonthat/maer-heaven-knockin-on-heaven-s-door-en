@@ -10,7 +10,7 @@
  {
   "id": "HI_M24_4:00349",
   "jp": "{C0F04}それにしても深いね…",
-  "en": "",
+  "en": "{C0F04}It sure is deep... I wonder what would",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M24_4:00370",
   "jp": "落ちたら…どうなるんだろう…",
-  "en": "",
+  "en": "happen if you fell...",
   "call": "MswStr",
   "box": 17,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M24_4:00409",
   "jp": "{C0F04}……………",
-  "en": "",
+  "en": "{C0F04}...............",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M24_4:004d2",
   "jp": "{C0F04}こ、こわいこというなよ！",
-  "en": "",
+  "en": "{C0F04}D-don't say scary stuff like that!",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "HI_M24_4:00bcb",
   "jp": "{C0F04}あちゃーー…",
-  "en": "",
+  "en": "{C0F04}Aw, man...",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "HI_M24_4:00d1c",
   "jp": "{C0F04}先にすすむのは…",
-  "en": "",
+  "en": "{C0F04}Goin' any further... ain't gonna happen, I",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "HI_M24_4:00d3f",
   "jp": "ちょっとムリ…っスねぇ…",
-  "en": "",
+  "en": "reckon...",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "HI_M24_4:00e03",
   "jp": "{C0F04}スノウがいてくれればなぁ…",
-  "en": "",
+  "en": "{C0F04}If only Snow were here...",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "HI_M24_4:00f21",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}......",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "HI_M24_4:0106c",
   "jp": "{C0F04}ギンタ！",
-  "en": "",
+  "en": "{C0F04}Ginta! Gintaaa!",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "HI_M24_4:01087",
   "jp": "ギンターー！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 88,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "HI_M24_4:0119e",
   "jp": "{C0F04}お！？",
-  "en": "",
+  "en": "{C0F04}Huh!?",
   "call": "MswStr",
   "box": 94,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "HI_M24_4:01298",
   "jp": "{C0F04}ま、まさか…",
-  "en": "",
+  "en": "{C0F04}N-no way... Snow!?",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "HI_M24_4:012b7",
   "jp": "スノウ！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 99,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "HI_M24_4:01627",
   "jp": "{C0F04}ギンターーーン♥",
-  "en": "",
+  "en": "{C0F04}Gintaaan♥",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "HI_M24_4:017fa",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}......",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "HI_M24_4:018ce",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}......",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "HI_M24_4:01ba6",
   "jp": "{C0F04}ギンターーーン♥",
-  "en": "",
+  "en": "{C0F04}Gintaaan♥ ...Huh? Well now?",
   "call": "MswStr",
   "box": 149,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "HI_M24_4:01bc9",
   "jp": "って…あらぁ？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 149,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "HI_M24_4:01c20",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "HI_M24_4:01d4f",
   "jp": "{C0F04}なにこの",
-  "en": "",
+  "en": "{C0F04}What's with this...",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "HI_M24_4:01db3",
   "jp": "{C0F04}『なんだおまえかよ！』",
-  "en": "",
+  "en": "{C0F04}'Oh, it's just you!' vibe going on!!",
   "call": "MswStr",
   "box": 159,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "HI_M24_4:01ddc",
   "jp": "みたいな空気は！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 159,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "HI_M24_4:01edf",
   "jp": "{C0F04}だってほら…",
-  "en": "",
+  "en": "{C0F04}Well, see...",
   "call": "MswStr",
   "box": 164,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "HI_M24_4:02181",
   "jp": "{C0F04}（げ！…デカイ氷！）",
-  "en": "",
+  "en": "{C0F04}(Ugh! ...A huge block of ice!)",
   "call": "MswStr",
   "box": 180,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "HI_M24_4:021f1",
   "jp": "{C0F04}………",
-  "en": "",
+  "en": "{C0F04}.........",
   "call": "MswStr",
   "box": 182,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "HI_M24_4:02313",
   "jp": "{C0F04}（ち！！）",
-  "en": "",
+  "en": "{C0F04}(Tch!!)",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "HI_M24_4:023d6",
   "jp": "{C0F04}（それでスノウをまっていたってワケね！）",
-  "en": "",
+  "en": "{C0F04}(So THAT'S why they were waiting for",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "HI_M24_4:02411",
   "jp": "",
-  "en": "",
+  "en": "Snow!)",
   "call": "MswStr",
   "box": 193,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "HI_M24_4:0245a",
   "jp": "{C0F04}………",
-  "en": "",
+  "en": "{C0F04}.........",
   "call": "MswStr",
   "box": 195,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "HI_M24_4:024fa",
   "jp": "{C0F04}（…負けるもんか！）",
-  "en": "",
+  "en": "{C0F04}(...I won't lose to her!)",
   "call": "MswStr",
   "box": 198,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "HI_M24_4:02614",
   "jp": "{C0F04}ほ、ほほほほ！",
-  "en": "",
+  "en": "{C0F04}Oh, hohohoho! What, that little bit of ice?",
   "call": "MswStr",
   "box": 203,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "HI_M24_4:02635",
   "jp": "なによそれくらいの氷！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 203,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "HI_M24_4:02694",
   "jp": "{C0F04}このドロシー姉さんなら",
-  "en": "",
+  "en": "{C0F04}For big sister Dorothy here, it's a breeze, a",
   "call": "MswStr",
   "box": 205,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "HI_M24_4:026bd",
   "jp": "ヨユウよ、ヨ・ユ・ウ♪",
-  "en": "",
+  "en": "b-r-e-e-z-e~",
   "call": "MswStr",
   "box": 205,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "HI_M24_4:028c8",
   "jp": "{C0F04}ドロシー",
-  "en": "",
+  "en": "{C0F04}Dorothy, you'd better not push yourself...",
   "call": "MswStr",
   "box": 216,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "HI_M24_4:028e3",
   "jp": "ムリしないほうがいいよ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 216,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "HI_M24_4:029df",
   "jp": "{C0F04}しんぱいしてくれるの？",
-  "en": "",
+  "en": "{C0F04}Worried about me? How sweeet~... and",
   "call": "MswStr",
   "box": 221,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "HI_M24_4:02a08",
   "jp": "うれし～な～～…っと",
-  "en": "",
+  "en": "there!",
   "call": "MswStr",
   "box": 221,
   "line": 2,
@@ -738,7 +738,7 @@
  {
   "id": "HI_M24_4:02ce4",
   "jp": "{C0F04}いーーーーーーーー！",
-  "en": "",
+  "en": "{C0F04}Eeeeeeeeeee!",
   "call": "MswStr",
   "box": 235,
   "line": 1,
@@ -764,7 +764,7 @@
  {
   "id": "HI_M24_4:02eb6",
   "jp": "{C0F04}だだだだだだだいじょうぶよ",
-  "en": "",
+  "en": "{C0F04}I-I-I-I-I-I'm f-fine",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -790,7 +790,7 @@
  {
   "id": "HI_M24_4:02f2c",
   "jp": "{C0F04}ほほほほほほほらほら！",
-  "en": "",
+  "en": "{C0F04}Ho-ho-ho-ho-ho-see? See, see!",
   "call": "MswStr",
   "box": 244,
   "line": 1,
@@ -816,7 +816,7 @@
  {
   "id": "HI_M24_4:03048",
   "jp": "{C0F04}ドロシー、スカートが",
-  "en": "",
+  "en": "{C0F04}Dorothy, your skirt's froze solid, y'know.",
   "call": "MswStr",
   "box": 249,
   "line": 1,
@@ -825,7 +825,7 @@
  {
   "id": "HI_M24_4:0306f",
   "jp": "カチンコチンにこおってるっス",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 249,
   "line": 2,
@@ -842,7 +842,7 @@
  {
   "id": "HI_M24_4:03140",
   "jp": "{C0F04}（ス、スカートの中身も",
-  "en": "",
+  "en": "{C0F04}(Wh-what's under my skirt is frozen solid",
   "call": "MswStr",
   "box": 253,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "HI_M24_4:03169",
   "jp": "　かちんこちんなんですけど…）",
-  "en": "",
+  "en": "too...)",
   "call": "MswStr",
   "box": 253,
   "line": 2,
@@ -868,7 +868,7 @@
  {
   "id": "HI_M24_4:032ae",
   "jp": "{C0F04}や、やっぱりさ！",
-  "en": "",
+  "en": "{C0F04}Y-you know what! Let's head back up and",
   "call": "MswStr",
   "box": 259,
   "line": 1,
@@ -877,7 +877,7 @@
  {
   "id": "HI_M24_4:032d1",
   "jp": "いったん地上に戻ってスノウよんでこよう！",
-  "en": "",
+  "en": "go get Snow!",
   "call": "MswStr",
   "box": 259,
   "line": 2,
@@ -894,7 +894,7 @@
  {
   "id": "HI_M24_4:03378",
   "jp": "{C0F04}そ…そっスね…",
-  "en": "",
+  "en": "{C0F04}Y... yeah, reckon so...",
   "call": "MswStr",
   "box": 262,
   "line": 1,
@@ -920,7 +920,7 @@
  {
   "id": "HI_M24_4:03572",
   "jp": "{C0F04}～～～～～～～～",
-  "en": "",
+  "en": "{C0F04}Grrrrrrrr~~~",
   "call": "MswStr",
   "box": 270,
   "line": 1,

@@ -2,7 +2,7 @@
  {
   "id": "SP_M08:00111",
   "jp": "からっぽだ！",
-  "en": "",
+  "en": "It's empty!",
   "call": "MswStr",
   "box": 8,
   "line": 0
@@ -26,7 +26,7 @@
  {
   "id": "SP_M08:00269",
   "jp": "カギがかかっている",
-  "en": "",
+  "en": "It's locked. Looks like it'll open if you enter",
   "call": "MswStr",
   "box": 17,
   "line": 0
@@ -34,7 +34,7 @@
  {
   "id": "SP_M08:00287",
   "jp": "暗証番号を入れれば開きそうだ",
-  "en": "",
+  "en": "the right passcode.",
   "call": "MswStr",
   "box": 17,
   "line": 1
@@ -50,7 +50,7 @@
  {
   "id": "SP_M08:002d9",
   "jp": "カギをあける？",
-  "en": "",
+  "en": "Unlock it?",
   "call": "MswStr",
   "box": 19,
   "line": 0
@@ -74,7 +74,7 @@
  {
   "id": "SP_M08:00589",
   "jp": "がくせいふくのギンタを",
-  "en": "",
+  "en": "You can now use School Uniform Ginta!",
   "call": "MswStr",
   "box": 39,
   "line": 0
@@ -82,7 +82,7 @@
  {
   "id": "SP_M08:005ab",
   "jp": "使えるようになりました",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 39,
   "line": 1
@@ -98,7 +98,7 @@
  {
   "id": "SP_M08:00639",
   "jp": "{C0904}対戦モード{C0F04}と{C0904}ダンジョンモード{C0F04}で",
-  "en": "",
+  "en": "{C0904}Versus Mode{C0F04} and {C0904}Dungeon Mode{C0F04} now let you",
   "call": "MswStr",
   "box": 43,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "SP_M08:0067f",
   "jp": "がくせいふくのギンタをえらべます",
-  "en": "",
+  "en": "pick School Uniform Ginta.",
   "call": "MswStr",
   "box": 43,
   "line": 1
@@ -122,7 +122,7 @@
  {
   "id": "SP_M08:006d5",
   "jp": "ギンタにカーソルを合わせているときに",
-  "en": "",
+  "en": "With the cursor on Ginta, press the {C0904}L",
   "call": "MswStr",
   "box": 45,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "SP_M08:00705",
   "jp": "{C0904}Ｌボタン{C0F04}か{C0904}Ｒボタン{C0F04}できりかわります",
-  "en": "",
+  "en": "Button{C0F04} or {C0904}R Button{C0F04} to switch.",
   "call": "MswStr",
   "box": 45,
   "line": 1

@@ -10,7 +10,7 @@
  {
   "id": "SP_M00:001f9",
   "jp": "{C0F04}いくぞ！　バッボ！！",
-  "en": "",
+  "en": "{C0F04}Here goes! Babbo!!",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M00:00332",
   "jp": "{C0F04}え？　ワシ！？",
-  "en": "",
+  "en": "{C0F04}Eh? Me!?",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "SP_M00:00796",
   "jp": "{C0F04}でっかい岩だなー",
-  "en": "",
+  "en": "{C0F04}Whoa, that's one huge rock!",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -80,7 +80,7 @@
  {
   "id": "SP_M00:00a65",
   "jp": "{C0D04}４８Ｐ{C0F04}が入っていた！",
-  "en": "",
+  "en": "{C0D04}48 P{C0F04} was inside!",
   "call": "MswStr",
   "box": 71,
   "line": 0

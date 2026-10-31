@@ -10,7 +10,7 @@
  {
   "id": "L11_0_0:00b4c",
   "jp": "みんなよろこんで",
-  "en": "",
+  "en": "Looks like everybody's real happy, y'know!",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "L11_0_0:00b68",
   "jp": "くれてるみたいっスね！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 74,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "L11_0_0:00c02",
   "jp": "うん、そうだな！",
-  "en": "",
+  "en": "Yeah, sure looks like it! Glad they've perked",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "L11_0_0:00c1e",
   "jp": "元気になってもらってよかった",
-  "en": "",
+  "en": "up.",
   "call": "MswStr",
   "box": 77,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "L11_0_0:00c88",
   "jp": "こっちのつかれもぶっとぶよ！",
-  "en": "",
+  "en": "Makes all my tiredness fly right off!",
   "call": "MswStr",
   "box": 79,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "L11_0_0:00d00",
   "jp": "オイラのさくもつも",
-  "en": "",
+  "en": "My crops grew up real nice too.",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "L11_0_0:00d1e",
   "jp": "よくそだってくれたっス",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 81,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "L11_0_0:00e4b",
   "jp": "うむ！サルはサルなりに",
-  "en": "",
+  "en": "Hmm! For a monkey, you did well!",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "L11_0_0:00e6d",
   "jp": "よくやったぞ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "L11_0_0:00f09",
   "jp": "サルいうなよ！",
-  "en": "",
+  "en": "Quit callin' me a monkey!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "L11_0_0:0108f",
   "jp": "それにしてもチェスの兵隊…",
-  "en": "",
+  "en": "Still, those Chess Pieces... I won't forgive",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "L11_0_0:010b5",
   "jp": "ゆるせねぇ！",
-  "en": "",
+  "en": "'em!",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "L11_0_0:01111",
   "jp": "まったくっスね",
-  "en": "",
+  "en": "You said it.",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "L11_0_0:0117b",
   "jp": "このヴェストリも",
-  "en": "",
+  "en": "Looks like Vestry used to be a beautiful",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "L11_0_0:01197",
   "jp": "うつくしい村だったみたいっス",
-  "en": "",
+  "en": "village too, y'know.",
   "call": "MswStr",
   "box": 101,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "L11_0_0:0123f",
   "jp": "それをこんなにしやがって…！！",
-  "en": "",
+  "en": "And they went and did this to it...!!",
   "call": "MswStr",
   "box": 104,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "L11_0_0:015a5",
   "jp": "………",
-  "en": "",
+  "en": ".........",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "L11_0_0:01732",
   "jp": "…はん？",
-  "en": "",
+  "en": "...Huh?",
   "call": "MswStr",
   "box": 131,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "L11_0_0:01aec",
   "jp": "なんじゃいアイツは…",
-  "en": "",
+  "en": "Who the devil is that...",
   "call": "MswStr",
   "box": 153,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "L11_0_0:01c42",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 159,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "L11_0_0:01ce0",
   "jp": "いってみよう！！",
-  "en": "",
+  "en": "Let's go see!!",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "L11_0_0:01ed1",
   "jp": "あ！ギンタ！！",
-  "en": "",
+  "en": "Hey! Ginta!! Wait up!!",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "L11_0_0:01eeb",
   "jp": "まつっスよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 172,
   "line": 2,

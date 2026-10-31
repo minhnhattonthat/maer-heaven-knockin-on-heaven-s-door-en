@@ -10,7 +10,7 @@
  {
   "id": "EV_AL02:0097a",
   "jp": "{C0F04}ななな！",
-  "en": "",
+  "en": "{C0F04}Wh-wh-what! What was that!",
   "call": "MswStr",
   "box": 55,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_AL02:00995",
   "jp": "なんだ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 55,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_AL02:00acf",
   "jp": "{C0F04}向こうのほうっス！",
-  "en": "",
+  "en": "{C0F04}It came from over yonder!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_AL02:01220",
   "jp": "{C0F04}まっま…まってくれ！！",
-  "en": "",
+  "en": "{C0F04}W-w-wait!!",
   "call": "MswStr",
   "box": 108,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_AL02:01292",
   "jp": "{C0F04}わ、わるかったって！",
-  "en": "",
+  "en": "{C0F04}O-okay, we're sorry! Ah! Aaagh!!",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_AL02:012b9",
   "jp": "あ！あぎゃぁ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 110,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_AL02:018d9",
   "jp": "{C0F04}あ！あわわわわ…！",
-  "en": "",
+  "en": "{C0F04}Ah! Aaawawawa...!",
   "call": "MswStr",
   "box": 150,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_AL02:01d6c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 179,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_AL02:01dcc",
   "jp": "{C0F04}さて…",
-  "en": "",
+  "en": "{C0F04}Now then...",
   "call": "MswStr",
   "box": 181,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_AL02:02271",
   "jp": "{C0F04}ギンター！！",
-  "en": "",
+  "en": "{C0F04}Gintaaa!! You are late, you fool!!",
   "call": "MswStr",
   "box": 209,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_AL02:02290",
   "jp": "おそいぞバカもの！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 209,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_AL02:023d4",
   "jp": "{C0F04}バッボ！！",
-  "en": "",
+  "en": "{C0F04}Babbo!! ...Phew, you're safe!!",
   "call": "MswStr",
   "box": 216,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_AL02:023f1",
   "jp": "…よかったぶじか！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 216,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_AL02:026d2",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 233,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_AL02:02732",
   "jp": "{C0F04}バッボの封印をといたんだな",
-  "en": "",
+  "en": "{C0F04}So you're the one who broke Babbo's seal.",
   "call": "MswStr",
   "box": 235,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_AL02:028bc",
   "jp": "{C0F04}え…あ…！！！",
-  "en": "",
+  "en": "{C0F04}Huh... Ah...!!! That voice... from when I came",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_AL02:028dd",
   "jp": "そのこえ…このせかいにくるときの…！",
-  "en": "",
+  "en": "to this world...!",
   "call": "MswStr",
   "box": 242,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_AL02:0294c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}... Darkness ÄRM...",
   "call": "MswStr",
   "box": 244,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_AL02:02961",
   "jp": "ダークネスÄＲＭ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 244,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_AL02:029be",
   "jp": "{C0F04}『カゴの鳥』",
-  "en": "",
+  "en": "{C0F04}'Bird Cage'",
   "call": "MswStr",
   "box": 246,
   "line": 1,

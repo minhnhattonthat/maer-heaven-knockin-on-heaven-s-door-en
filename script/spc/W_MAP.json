@@ -2,7 +2,7 @@
  {
   "id": "W_MAP:00101",
   "jp": "行き先をせんたくしますか？",
-  "en": "",
+  "en": "Choose a destination?",
   "call": "MswStr",
   "box": 7,
   "line": 0

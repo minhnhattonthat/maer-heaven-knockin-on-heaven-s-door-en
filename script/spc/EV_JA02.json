@@ -10,7 +10,7 @@
  {
   "id": "EV_JA02:00532",
   "jp": "{C0F04}ジャック！",
-  "en": "",
+  "en": "{C0F04}Jack!",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_JA02:0067f",
   "jp": "{C0F04}待てギンタ！",
-  "en": "",
+  "en": "{C0F04}Wait, Ginta!",
   "call": "MswStr",
   "box": 35,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_JA02:006e5",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_JA02:00745",
   "jp": "{C0F04}かれは今男になろうとしてる！",
-  "en": "",
+  "en": "{C0F04}He is trying to become a man! If you are a",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_JA02:00774",
   "jp": "おまえも男ならわかるであろう！！",
-  "en": "",
+  "en": "man too, you must understand!!",
   "call": "MswStr",
   "box": 39,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_JA02:007db",
   "jp": "{C0F04}気合を入れるところを",
-  "en": "",
+  "en": "{C0F04}Let us watch him show his mettle!",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_JA02:00802",
   "jp": "見とどけようではないか！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 41,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_JA02:0089f",
   "jp": "{C0F04}（ジャック…！！）",
-  "en": "",
+  "en": "{C0F04}(Jack...!!)",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_JA02:00a62",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_JA02:00ba7",
   "jp": "{C0F04}ジャック～",
-  "en": "",
+  "en": "{C0F04}Jack~ You came out agaaaain??",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_JA02:00bc4",
   "jp": "ま～～～～た出てきたんかぁ？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_JA02:00c2b",
   "jp": "{C0F04}いいかげんにするっス！",
-  "en": "",
+  "en": "{C0F04}That's enough outta you! If you wreck our",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_JA02:00c54",
   "jp": "これ以上家の畑をあらすと…！",
-  "en": "",
+  "en": "field any more...!",
   "call": "MswStr",
   "box": 62,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_JA02:00e0c",
   "jp": "{C0F04}またそのセリフかよ！！",
-  "en": "",
+  "en": "{C0F04}That line again?!!",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_JA02:00e7c",
   "jp": "{C0F04}これ以上あらすと…何かくれんのかよぉ！？",
-  "en": "",
+  "en": "{C0F04}Wreck it more and... what, you'll gimme",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_JA02:00eb7",
   "jp": "",
-  "en": "",
+  "en": "somethin'?!",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_JA02:00faa",
   "jp": "{C0F04}ぶっとばす！！",
-  "en": "",
+  "en": "{C0F04}I'll knock ya flat!!",
   "call": "MswStr",
   "box": 78,
   "line": 1,

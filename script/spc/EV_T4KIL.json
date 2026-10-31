@@ -10,7 +10,7 @@
  {
   "id": "EV_T4KIL:01021",
   "jp": "{C0F04}やったで！！",
-  "en": "",
+  "en": "{C0F04}We done it!!",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_T4KIL:01197",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!!",
   "call": "MswStr",
   "box": 108,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_T4KIL:01341",
   "jp": "{C0F04}ふう…！！",
-  "en": "",
+  "en": "{C0F04}Phew...!!",
   "call": "MswStr",
   "box": 117,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_T4KIL:01542",
   "jp": "{C0F04}あわわ…ボクの…ボクのタロスが！！",
-  "en": "",
+  "en": "{C0F04}Aah, aah... My... my Talos!!",
   "call": "MswStr",
   "box": 128,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_T4KIL:016d2",
   "jp": "{C0F04}なにが『ボクの』だよ",
-  "en": "",
+  "en": "{C0F04}What do you mean, \"my\"? Abusing ancient",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_T4KIL:016f9",
   "jp": "いにしえの知恵を悪用しやがって…",
-  "en": "",
+  "en": "wisdom like that...",
   "call": "MswStr",
   "box": 136,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_T4KIL:018a6",
   "jp": "{C0F04}ニ度とわるさできぬよう",
-  "en": "",
+  "en": "{C0F04}I shall teach you a lesson so you never",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_T4KIL:018cf",
   "jp": "こらしめてくれる！！",
-  "en": "",
+  "en": "make mischief again!!",
   "call": "MswStr",
   "box": 145,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_T4KIL:01b84",
   "jp": "{C0F04}あわわわわ！",
-  "en": "",
+  "en": "{C0F04}Aah-aah-aah-aah!",
   "call": "MswStr",
   "box": 158,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_T4KIL:01d4b",
   "jp": "{C0F04}まぁ…まてよ",
-  "en": "",
+  "en": "{C0F04}Now... hold it.",
   "call": "MswStr",
   "box": 168,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_T4KIL:01e1b",
   "jp": "{C0F04}おい、そこのちびメガネ",
-  "en": "",
+  "en": "{C0F04}Hey, you. Four-eyed shrimp.",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_T4KIL:01ec9",
   "jp": "{C0F04}ファントムに…ファントムに",
-  "en": "",
+  "en": "{C0F04}I was gonna tell Phantom... tell Phantom I",
   "call": "MswStr",
   "box": 175,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_T4KIL:01ef6",
   "jp": "『タロス』を手に入れたって",
-  "en": "",
+  "en": "got 'Talos'...",
   "call": "MswStr",
   "box": 175,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_T4KIL:01f57",
   "jp": "{C0F04}いいたかったのに…",
-  "en": "",
+  "en": "{C0F04}...I wanted to tell him so bad...",
   "call": "MswStr",
   "box": 177,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_T4KIL:020d9",
   "jp": "{C0F04}ギンタなんかじゃなくて",
-  "en": "",
+  "en": "{C0F04}I wanted him to praise ME, not stupid",
   "call": "MswStr",
   "box": 184,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_T4KIL:02102",
   "jp": "ボクをほめてほしかったのに！！",
-  "en": "",
+  "en": "Ginta!!",
   "call": "MswStr",
   "box": 184,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_T4KIL:02211",
   "jp": "{C0F04}うわぁぁぁ…",
-  "en": "",
+  "en": "{C0F04}Waaaah...",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_T4KIL:023dc",
   "jp": "{C0F04}あららら…",
-  "en": "",
+  "en": "{C0F04}Oh my, my... What a big baby...",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_T4KIL:023f9",
   "jp": "オコチャマなやつー…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 199,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_T4KIL:024fc",
   "jp": "{C0F04}いけよ",
-  "en": "",
+  "en": "{C0F04}Get lost.",
   "call": "MswStr",
   "box": 204,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "EV_T4KIL:02606",
   "jp": "{C0F04}ひっく…ひっく…",
-  "en": "",
+  "en": "{C0F04}Hic... hic...",
   "call": "MswStr",
   "box": 209,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "EV_T4KIL:02718",
   "jp": "{C0F04}おっと、そのÄＲＭはおいていけよ",
-  "en": "",
+  "en": "{C0F04}Whoa there, leave that ÄRM behind.",
   "call": "MswStr",
   "box": 214,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_T4KIL:02790",
   "jp": "{C0F04}てめぇみたいなガキには",
-  "en": "",
+  "en": "{C0F04}That toy's way too good for a brat like you.",
   "call": "MswStr",
   "box": 216,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_T4KIL:027b9",
   "jp": "すぎたオモチャだ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 216,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_T4KIL:02810",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 218,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "EV_T4KIL:02ef9",
   "jp": "{C0F04}さて…と",
-  "en": "",
+  "en": "{C0F04}Well, then...",
   "call": "MswStr",
   "box": 261,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "EV_T4KIL:03042",
   "jp": "{C0F04}オレたちもかえるとするか！！",
-  "en": "",
+  "en": "{C0F04}Guess it's time we headed back too!!",
   "call": "MswStr",
   "box": 269,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_T4KIL:031c8",
   "jp": "{C0F04}よっしゃ！",
-  "en": "",
+  "en": "{C0F04}All right!",
   "call": "MswStr",
   "box": 277,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "EV_T4KIL:0322c",
   "jp": "{C0F04}ここの人間を…ヴェストリ地上へ！！",
-  "en": "",
+  "en": "{C0F04}Let's get these folks... back up top to",
   "call": "MswStr",
   "box": 279,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_T4KIL:03261",
   "jp": "",
-  "en": "",
+  "en": "Vestry!!",
   "call": "MswStr",
   "box": 279,
   "line": 2,

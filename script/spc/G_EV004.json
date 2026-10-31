@@ -10,7 +10,7 @@
  {
   "id": "G_EV004:0013f",
   "jp": "{C0F04}ボスが奥の部屋でお待ちです。",
-  "en": "",
+  "en": "{C0F04}The boss is waiting for you in the back",
   "call": "MswStr",
   "box": 8,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV004:0016e",
   "jp": "",
-  "en": "",
+  "en": "room.",
   "call": "MswStr",
   "box": 8,
   "line": 2,

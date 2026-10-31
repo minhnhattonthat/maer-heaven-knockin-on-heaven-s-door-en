@@ -10,7 +10,7 @@
  {
   "id": "CH_M08A:001ff",
   "jp": "{C0F04}ああ…ジャック…",
-  "en": "",
+  "en": "{C0F04}Oh... Jack...",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M08A:0036e",
   "jp": "{C0F04}体に気をつけるんだよ",
-  "en": "",
+  "en": "{C0F04}Take good care of yourself now, dear.",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M08A:00443",
   "jp": "{C0F04}じまんの野菜をたべてみないかい",
-  "en": "",
+  "en": "{C0F04}How 'bout tryin' some of my prize",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M08A:00474",
   "jp": "",
-  "en": "",
+  "en": "vegetables, dear?",
   "call": "MswStr",
   "box": 25,
   "line": 2,

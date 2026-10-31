@@ -2,7 +2,7 @@
  {
   "id": "DUNG_END:0013f",
   "jp": "ダンジョンクリア！！",
-  "en": "",
+  "en": "Dungeon cleared!!",
   "call": "MswStr",
   "box": 10,
   "line": 0
@@ -26,7 +26,7 @@
  {
   "id": "DUNG_END:00524",
   "jp": "ダンジョンモードに",
-  "en": "",
+  "en": "The {C0904}Final Gate{C0F04} has been added to Dungeon",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -34,7 +34,7 @@
  {
   "id": "DUNG_END:00542",
   "jp": "{C0904}最後の門{C0F04}が追加されました",
-  "en": "",
+  "en": "Mode.",
   "call": "MswStr",
   "box": 38,
   "line": 1
@@ -50,7 +50,7 @@
  {
   "id": "DUNG_END:00702",
   "jp": "ファントムを",
-  "en": "",
+  "en": "Phantom is now playable.",
   "call": "MswStr",
   "box": 49,
   "line": 0
@@ -58,7 +58,7 @@
  {
   "id": "DUNG_END:0071a",
   "jp": "使えるようになりました",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 49,
   "line": 1
@@ -74,7 +74,7 @@
  {
   "id": "DUNG_END:00766",
   "jp": "{C0904}対戦モード{C0F04}と{C0904}ダンジョンモード{C0F04}で",
-  "en": "",
+  "en": "{C0904}Versus Mode{C0F04} and {C0904}Dungeon Mode{C0F04} now let you",
   "call": "MswStr",
   "box": 51,
   "line": 0
@@ -82,7 +82,7 @@
  {
   "id": "DUNG_END:007ac",
   "jp": "ファントムをえらべます",
-  "en": "",
+  "en": "choose Phantom.",
   "call": "MswStr",
   "box": 51,
   "line": 1

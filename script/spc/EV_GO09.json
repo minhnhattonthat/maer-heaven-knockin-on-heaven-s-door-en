@@ -10,7 +10,7 @@
  {
   "id": "EV_GO09:00337",
   "jp": "{C0F04}あ、なんだこりゃ！！",
-  "en": "",
+  "en": "{C0F04}Huh? What the heck is this!!",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO09:006df",
   "jp": "{C0F04}ふね？？",
-  "en": "",
+  "en": "{C0F04}A ship??",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO09:0082a",
   "jp": "{C0F04}ボロボロだな…",
-  "en": "",
+  "en": "{C0F04}It's a total wreck...",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO09:00953",
   "jp": "{C0F04}・・・！！",
-  "en": "",
+  "en": "{C0F04}...!! Magic power!!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_GO09:00970",
   "jp": "魔力（まりょく）！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO09:00ce7",
   "jp": "{C0F04}オレはチェスの兵隊",
-  "en": "",
+  "en": "{C0F04}The name's Girom, of the Chess Pieces!",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO09:00d0c",
   "jp": "ギロムってんだ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 74,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO09:00d63",
   "jp": "{C0F04}のこのこでてきやがって…",
-  "en": "",
+  "en": "{C0F04}Waltzin' right out here... You ready to get",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GO09:00d8e",
   "jp": "ぶっころされるかくごできてんのかぁ！？",
-  "en": "",
+  "en": "smashed to bits!?",
   "call": "MswStr",
   "box": 76,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO09:00f1a",
   "jp": "{C0F04}なんでぇ…ガキ一人か？？",
-  "en": "",
+  "en": "{C0F04}What's this... just one brat??",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO09:010e1",
   "jp": "{C0F04}一人ではないわ！",
-  "en": "",
+  "en": "{C0F04}He is not alone! Insolent fool!!",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO09:01104",
   "jp": "ぶれいもの！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 93,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO09:01203",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO09:0125f",
   "jp": "{C0F04}バッボ？？",
-  "en": "",
+  "en": "{C0F04}Babbo??",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO09:0136d",
   "jp": "{C0F04}そうか、てめぇが話にきく",
-  "en": "",
+  "en": "{C0F04}So you're the guy I heard about, the one",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_GO09:01398",
   "jp": "ファントムのÄＲＭをつかってるヤツか！",
-  "en": "",
+  "en": "usin' Phantom's ÄRM!",
   "call": "MswStr",
   "box": 105,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO09:0151b",
   "jp": "{C0F04}おまえがヴェストリを",
-  "en": "",
+  "en": "{C0F04}Are you the one who wrecked Vestry??",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_GO09:01542",
   "jp": "こわしたのか？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 112,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO09:015d7",
   "jp": "{C0F04}こわしたのは、オルコってやつだ",
-  "en": "",
+  "en": "{C0F04}The wreckin' was some guy named Orco.",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_GO09:01608",
   "jp": "オレはころしせんもんだ",
-  "en": "",
+  "en": "Me, I'm a killin' specialist.",
   "call": "MswStr",
   "box": 115,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_GO09:016a3",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_GO09:01703",
   "jp": "{C0F04}…{C0904}ちていこ{C0F04}にあるってうわさの",
-  "en": "",
+  "en": "{C0F04}...I came lookin' for the ÄRM they say is in",
   "call": "MswStr",
   "box": 120,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_GO09:01740",
   "jp": "ÄＲＭをさがしにきたんだがよ",
-  "en": "",
+  "en": "the {C0904}underground lake{C0F04}.",
   "call": "MswStr",
   "box": 120,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_GO09:017a3",
   "jp": "{C0F04}このふねの中にはありゃしねぇ",
-  "en": "",
+  "en": "{C0F04}But it sure ain't on this ship.",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "EV_GO09:01819",
   "jp": "{C0F04}てめぇÄＲＭひろったか！？",
-  "en": "",
+  "en": "{C0F04}You pick up an ÄRM, punk!?",
   "call": "MswStr",
   "box": 124,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_GO09:018cb",
   "jp": "{C0F04}おとなしくだせば",
-  "en": "",
+  "en": "{C0F04}Hand it over nice an' quiet, and I'll let ya off",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_GO09:018ee",
   "jp": "はんごろしでゆるしてやるぜぇ",
-  "en": "",
+  "en": "just half-dead.",
   "call": "MswStr",
   "box": 127,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_GO09:01a67",
   "jp": "{C0F04}バッボ！",
-  "en": "",
+  "en": "{C0F04}Babbo! Let's take that guy down!",
   "call": "MswStr",
   "box": 134,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_GO09:01a82",
   "jp": "あいつぶったおすぞ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 134,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_GO09:01b1b",
   "jp": "{C0F04}なんだーーー？？",
-  "en": "",
+  "en": "{C0F04}Whaaaat?? I don't like your attitude!",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_GO09:01b3e",
   "jp": "きにいらねぇ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 137,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_GO09:01c3d",
   "jp": "{C0F04}こっちこいやぁ！！！",
-  "en": "",
+  "en": "{C0F04}C'mere, you!!!",
   "call": "MswStr",
   "box": 142,
   "line": 1,

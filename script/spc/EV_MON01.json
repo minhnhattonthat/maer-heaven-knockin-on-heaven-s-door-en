@@ -10,7 +10,7 @@
  {
   "id": "EV_MON01:0048b",
   "jp": "{C0F04}うぎゃあーーーっ！！",
-  "en": "",
+  "en": "{C0F04}Uwaaaaah!! Where am I nowwww?!",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_MON01:004b2",
   "jp": "ここはドコーーーっ！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_MON01:0062d",
   "jp": "{C0F04}こりゃディメンションÄＲＭの中…",
-  "en": "",
+  "en": "{C0F04}We're inside a Dimension ÄRM...",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_MON01:006a9",
   "jp": "{C0F04}こんなものを発動させるとは",
-  "en": "",
+  "en": "{C0F04}If he can activate something like this, that",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_MON01:006d6",
   "jp": "あのオヤジただものじゃないね",
-  "en": "",
+  "en": "old guy's no ordinary geezer.",
   "call": "MswStr",
   "box": 47,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_MON01:008bd",
   "jp": "{C0F04}今からここでのしれんを説明するから",
-  "en": "",
+  "en": "{C0F04}Now listen up good, whippersnappers, while",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_MON01:008f2",
   "jp": "よーくきくんぢゃ",
-  "en": "",
+  "en": "I explain the trial here, eh?",
   "call": "MswStr",
   "box": 58,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_MON01:00949",
   "jp": "{C0F04}ここは、はてしなくつづく",
-  "en": "",
+  "en": "{C0F04}This place is a dungeon that goes on and on",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_MON01:00974",
   "jp": "ダンジョンになっておる",
-  "en": "",
+  "en": "forever.",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_MON01:009d1",
   "jp": "{C0F04}ただひたすらゴールをめざす",
-  "en": "",
+  "en": "{C0F04}Just keep headin' for the goal. That's all",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_MON01:009fe",
   "jp": "やることはそれだけぢゃ",
-  "en": "",
+  "en": "there is to it, eh.",
   "call": "MswStr",
   "box": 62,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_MON01:00a5b",
   "jp": "{C0F04}わかったならさっさと行け！",
-  "en": "",
+  "en": "{C0F04}Got it? Then off with ya!",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_MON01:00b09",
   "jp": "{C0F04}それだけ？",
-  "en": "",
+  "en": "{C0F04}That's it? Sounds like a piece of cake,",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_MON01:00b26",
   "jp": "なんだか、らくしょうっスね",
-  "en": "",
+  "en": "y'know.",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_MON01:00b87",
   "jp": "{C0F04}とちゅうでセーブしてやすむことは",
-  "en": "",
+  "en": "{C0F04}Mind ya, you can't Save and rest along the",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_MON01:00bba",
   "jp": "できんからな",
-  "en": "",
+  "en": "way.",
   "call": "MswStr",
   "box": 69,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_MON01:00ca7",
   "jp": "{C0F04}な、なんだか",
-  "en": "",
+  "en": "{C0F04}S-somehow it don't sound like a piece of",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_MON01:00cc6",
   "jp": "らくしょうじゃなさそうっスね",
-  "en": "",
+  "en": "cake no more...",
   "call": "MswStr",
   "box": 74,
   "line": 2,

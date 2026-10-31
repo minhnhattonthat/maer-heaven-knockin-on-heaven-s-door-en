@@ -10,7 +10,7 @@
  {
   "id": "CH_M05A:001d4",
   "jp": "{C0F04}エドにとっくんの成果を",
-  "en": "",
+  "en": "{C0F04}Show Ed what all that training was for!",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "CH_M05A:001fd",
   "jp": "見せてあげて",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 12,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M05A:0046a",
   "jp": "{C0F04}ギン…タ…",
-  "en": "",
+  "en": "{C0F04}Gin...ta... Been waitin' for ya...",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M05A:00487",
   "jp": "まってたぜ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 28,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M05A:00717",
   "jp": "{C0F04}かくごはいいかい？",
-  "en": "",
+  "en": "{C0F04}Ya ready for this~? Here I come!!",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M05A:0073c",
   "jp": "いくぜ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 45,
   "line": 2,

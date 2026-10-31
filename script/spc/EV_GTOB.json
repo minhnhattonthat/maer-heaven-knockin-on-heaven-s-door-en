@@ -10,7 +10,7 @@
  {
   "id": "EV_GTOB:0030e",
   "jp": "{C0F04}見たことも無い虫とかキノコでいっぱいだ！",
-  "en": "",
+  "en": "{C0F04}It's full of bugs and mushrooms I've never",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_GTOB:00349",
   "jp": "やっぱこのせかいすげーな！！",
-  "en": "",
+  "en": "seen! This world is so awesome!!",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GTOB:00477",
   "jp": "{C0F04}ギンタ…おまえ本当に違うせかいから",
-  "en": "",
+  "en": "{C0F04}Ginta... so you truly did come from another",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_GTOB:004ac",
   "jp": "きたんじゃな！",
-  "en": "",
+  "en": "world!",
   "call": "MswStr",
   "box": 26,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GTOB:00539",
   "jp": "{C0F04}うん、さっき来たばっかりだ",
-  "en": "",
+  "en": "{C0F04}Yep, I just got here a little while ago.",
   "call": "MswStr",
   "box": 29,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GTOB:005ad",
   "jp": "{C0F04}でも…ずっとあこがれてたせかいなんだ！",
-  "en": "",
+  "en": "{C0F04}But... it's the world I always dreamed about!",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_GTOB:005e6",
   "jp": "ユメに何度も見たくらいに",
-  "en": "",
+  "en": "I've seen it in my dreams a ton of times.",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GTOB:0067d",
   "jp": "{C0F04}そうか…ならばこのせかいを一人で",
-  "en": "",
+  "en": "{C0F04}I see... Then you may enjoy this world to the",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GTOB:006b0",
   "jp": "充分楽しむがよい",
-  "en": "",
+  "en": "fullest, on your own.",
   "call": "MswStr",
   "box": 34,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GTOB:0079f",
   "jp": "{C0F04}さらばだ！ギンタ君！！",
-  "en": "",
+  "en": "{C0F04}Farewell! Ginta-kun!!",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GTOB:00a00",
   "jp": "{C0F04}あ！こら待てって！",
-  "en": "",
+  "en": "{C0F04}Hey! Wait up! It's dangerous out there on",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GTOB:00a25",
   "jp": "おまえ一人じゃあぶないだろ！！",
-  "en": "",
+  "en": "your own!!",
   "call": "MswStr",
   "box": 52,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GTOB:00ba6",
   "jp": "{C0F04}のわーーーー！！",
-  "en": "",
+  "en": "{C0F04}Nwaaaaah!!",
   "call": "MswStr",
   "box": 61,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GTOB:00c10",
   "jp": "{C0F04}ギンタ！！ギンタぁぁ！！！！！！",
-  "en": "",
+  "en": "{C0F04}Ginta!! Gintaaah!!!!!!",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GTOB:012e3",
   "jp": "{C0F04}ギンタぁ！！",
-  "en": "",
+  "en": "{C0F04}Gintaaa!!",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GTOB:01349",
   "jp": "{C0F04}はやく助けにこんかーーーーーー！",
-  "en": "",
+  "en": "{C0F04}Hurry up and rescue meeeeee!",
   "call": "MswStr",
   "box": 107,
   "line": 1,

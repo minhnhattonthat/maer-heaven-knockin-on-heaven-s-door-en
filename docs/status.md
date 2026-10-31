@@ -2,6 +2,14 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
+- **Phase 6 in progress (2026-11-01):** tools `tools/batches.py` (split/check/merge/fit/labels/pairs; a unit = one
+  message box, deduplicated; English auto-wrapped onto the box's lines, ' / ' forces a break; narration keeps its
+  middle line and fullwidth-space centring), `tools/lint.py` (run by `check.py`); extract now also emits the 1 328
+  empty MswStr lines (spare lines: verified in-game, `work/qa/p6_spare/box_001402.png`); briefs
+  `docs/translator-brief.md`, `docs/reviewer-brief.md`, `docs/story-reviewer-brief.md`; `docs/synopsis.md`,
+  `docs/style-reference.md`, `glossary.md` (593 rows; capitalised rows lint-enforced); speaker labels filled
+  (`batches.py labels`); 2 composed item boxes in DITEMCOM set by hand. Batches b001-b014 (+b015 tail) script,
+  b016 code strings, b017-b021 records; b001 merged.
 - **Phase:** 5 done (2026-11-01); next is phase 6 (translate). Last builds: `build/marker.gba`
   (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`: script, record and code-string width tests);
   `build/maer_en.gba` = original (identity).

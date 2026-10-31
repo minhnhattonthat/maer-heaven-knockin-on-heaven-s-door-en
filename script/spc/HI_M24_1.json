@@ -10,7 +10,7 @@
  {
   "id": "HI_M24_1:0029f",
   "jp": "{C0F04}う！うわ！！",
-  "en": "",
+  "en": "{C0F04}Wh-whoa!!",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M24_1:00307",
   "jp": "{C0F04}なんだぁ？…コレ！！",
-  "en": "",
+  "en": "{C0F04}What in the... is THIS!!",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M24_1:0040d",
   "jp": "{C0F04}な、なぜこのような場所が",
-  "en": "",
+  "en": "{C0F04}Wh-why would such a place exist",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "HI_M24_1:00438",
   "jp": "地下に…！？",
-  "en": "",
+  "en": "underground...!?",
   "call": "MswStr",
   "box": 24,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "HI_M24_1:00774",
   "jp": "{C0F04}さっきから気になっているんスけど…",
-  "en": "",
+  "en": "{C0F04}Been wonderin' for a while now... what's this",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "HI_M24_1:007a9",
   "jp": "足元のコレ…何っスかね？",
-  "en": "",
+  "en": "under our feet?",
   "call": "MswStr",
   "box": 45,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "HI_M24_1:00808",
   "jp": "{C0F04}何か…大きなもので",
-  "en": "",
+  "en": "{C0F04}Looks like something big dug it out...",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "HI_M24_1:0082d",
   "jp": "ほったみたいだな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 47,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "HI_M24_1:00884",
   "jp": "{C0F04}だとしたら…コレ…",
-  "en": "",
+  "en": "{C0F04}If so... this thing... must be HUGE...!!",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "HI_M24_1:008a9",
   "jp": "そうとうでっかいぞ…！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 49,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "HI_M24_1:00cc2",
   "jp": "{C0F04}そっかぁ…",
-  "en": "",
+  "en": "{C0F04}I see...",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "HI_M24_1:00dbe",
   "jp": "{C0F04}よし！それなら",
-  "en": "",
+  "en": "{C0F04}Okay! Then I'll help out too!",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "HI_M24_1:00ddf",
   "jp": "わたしもてつだうよ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 80,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "HI_M24_1:00f38",
   "jp": "{C0F04}ところでマールどの…",
-  "en": "",
+  "en": "{C0F04}By the way, Marl-dono...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "HI_M24_1:00fa4",
   "jp": "{C0F04}その封印されたÄＲＭとは",
-  "en": "",
+  "en": "{C0F04}What manner of ÄRM is this sealed ÄRM?",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "HI_M24_1:00fcf",
   "jp": "いかようなÄＲＭなのですかな？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "HI_M24_1:01104",
   "jp": "{C0F04}はい……",
-  "en": "",
+  "en": "{C0F04}Well... it's a giant Guardian ÄRM...",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "HI_M24_1:0111f",
   "jp": "それは巨人のガーディアンÄＲＭで…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 95,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "HI_M24_1:01188",
   "jp": "{C0F04}３つのパーツから",
-  "en": "",
+  "en": "{C0F04}It's said to be made up of 3 parts.",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "HI_M24_1:011ab",
   "jp": "なりたっているそうです",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "HI_M24_1:01208",
   "jp": "{C0F04}３つ全てあつめたとき",
-  "en": "",
+  "en": "{C0F04}When all 3 are gathered, they say you gain",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "HI_M24_1:0122f",
   "jp": "『巨人の力』が手に入ると…",
-  "en": "",
+  "en": "'the Giant's Power'...",
   "call": "MswStr",
   "box": 99,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "HI_M24_1:013b8",
   "jp": "{C0F04}！！",
-  "en": "",
+  "en": "{C0F04}!!",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "HI_M24_1:01416",
   "jp": "{C0F04}このフシギなどうくつには",
-  "en": "",
+  "en": "{C0F04}It seems the 'Arms' are sealed in this",
   "call": "MswStr",
   "box": 109,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "HI_M24_1:01441",
   "jp": "『うで』が封印されているみたいですね",
-  "en": "",
+  "en": "strange cave.",
   "call": "MswStr",
   "box": 109,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "HI_M24_1:0162c",
   "jp": "{C0F04}…すげぇ！すげぇぞ！",
-  "en": "",
+  "en": "{C0F04}...Awesome! That's awesome! It's like a",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "HI_M24_1:01653",
   "jp": "なんか合体ロボットみたいだ！！",
-  "en": "",
+  "en": "combining robot!!",
   "call": "MswStr",
   "box": 119,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "HI_M24_1:01782",
   "jp": "{C0F04}…………",
-  "en": "",
+  "en": "{C0F04}............",
   "call": "MswStr",
   "box": 125,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "HI_M24_1:017e6",
   "jp": "{C0F04}がったい…",
-  "en": "",
+  "en": "{C0F04}Com... bining... robot...????",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "HI_M24_1:01803",
   "jp": "ろぼっと…？？？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 127,
   "line": 2,

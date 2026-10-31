@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE03:0045f",
   "jp": "{C0F04}だれか…",
-  "en": "",
+  "en": "{C0F04}Someone... has entered the castle.",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_ICE03:0047a",
   "jp": "城（しろ）に入りましたね",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 28,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE03:004d9",
   "jp": "{C0F04}ああ…犬かな？",
-  "en": "",
+  "en": "{C0F04}Yeah... the dog, maybe? He sure came back",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE03:004fa",
   "jp": "ずいぶんはやく戻ってきたな",
-  "en": "",
+  "en": "fast.",
   "call": "MswStr",
   "box": 30,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE03:007a0",
   "jp": "{C0F04}つよい魔力（まりょく）と…",
-  "en": "",
+  "en": "{C0F04}Strong magic power... and a few small fry.",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_ICE03:007cd",
   "jp": "たいしたことないやつがすこし",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 47,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE03:00919",
   "jp": "{C0F04}ハロウィンがこの封印をとく",
-  "en": "",
+  "en": "{C0F04}While Halloween's off fetching an ÄRM that",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_ICE03:00946",
   "jp": "ÄＲＭをもってくるあいだ",
-  "en": "",
+  "en": "can break this seal...",
   "call": "MswStr",
   "box": 54,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE03:009a5",
   "jp": "{C0F04}たいくつしないで",
-  "en": "",
+  "en": "{C0F04}...looks like we won't get bored after all.",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_ICE03:009c8",
   "jp": "すみそうだな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 56,
   "line": 2,

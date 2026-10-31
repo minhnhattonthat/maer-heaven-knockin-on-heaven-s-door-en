@@ -10,7 +10,7 @@
  {
   "id": "EV_GTOB2:00205",
   "jp": "{C0F04}いや、助かった、すまなかったな、ギンタ！",
-  "en": "",
+  "en": "{C0F04}Ah, you saved me. My apologies, Ginta!",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GTOB2:00352",
   "jp": "{C0F04}いやー、オレも…",
-  "en": "",
+  "en": "{C0F04}Aw, nah, I was just...",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GTOB2:00454",
   "jp": "{C0F04}おまえをワシの家来として",
-  "en": "",
+  "en": "{C0F04}I shall permit you to accompany me as my",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_GTOB2:0047f",
   "jp": "同行させることを許そう！！",
-  "en": "",
+  "en": "servant!!",
   "call": "MswStr",
   "box": 25,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GTOB2:004e0",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GTOB2:005d4",
   "jp": "{C0F04}イヤーおまえってほんっっっっっっと",
-  "en": "",
+  "en": "{C0F04}Man, you are sooooo totally a useless ÄRM!!",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GTOB2:00609",
   "jp": "ダメÄＲＭだよな！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 32,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GTOB2:00664",
   "jp": "{C0F04}これからもオレが守ってやるからな！！",
-  "en": "",
+  "en": "{C0F04}Don't worry, I'll keep protecting you from",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GTOB2:0069b",
   "jp": "",
-  "en": "",
+  "en": "now on!!",
   "call": "MswStr",
   "box": 34,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GTOB2:00712",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GTOB2:0079e",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GTOB2:008f2",
   "jp": "{C0F04}何を言うかぶれいもの！！",
-  "en": "",
+  "en": "{C0F04}What did you say, insolent fool!!",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GTOB2:00a5c",
   "jp": "{C0F04}何が家来だこのケン玉！！",
-  "en": "",
+  "en": "{C0F04}Servant, my foot, you kendama!!",
   "call": "MswStr",
   "box": 54,
   "line": 1,

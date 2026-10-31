@@ -10,7 +10,7 @@
  {
   "id": "EV_GO07:0048a",
   "jp": "{C0F04}キミ、なんて名前？",
-  "en": "",
+  "en": "{C0F04}What's your name?",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO07:005df",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!! Ginta Toramizu!!",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_GO07:005fc",
   "jp": "虎水ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 34,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO07:0064f",
   "jp": "{C0F04}かわった名前だね",
-  "en": "",
+  "en": "{C0F04}That's an unusual name.",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO07:006b9",
   "jp": "{C0F04}そうか？",
-  "en": "",
+  "en": "{C0F04}Is it?",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO07:0071b",
   "jp": "{C0F04}ちがうせかいからきた",
-  "en": "",
+  "en": "{C0F04}Maybe 'cause I'm a human from a different",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO07:00742",
   "jp": "人間だからかな？",
-  "en": "",
+  "en": "world?",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO07:00797",
   "jp": "{C0F04}ちがう…せかい…",
-  "en": "",
+  "en": "{C0F04}A different... world...",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO07:00801",
   "jp": "{C0F04}門ばんピエロっていうÄＲＭに",
-  "en": "",
+  "en": "{C0F04}I got called here by an ÄRM named the",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GO07:00830",
   "jp": "よばれてきたんだ！",
-  "en": "",
+  "en": "Gatekeeper Clown!",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO07:009de",
   "jp": "{C0F04}こいつはオレのÄＲＭバッボ！！",
-  "en": "",
+  "en": "{C0F04}This is my ÄRM, Babbo!! We're gonna beat",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO07:00a0f",
   "jp": "いっしょにチェスをたおすんだ！",
-  "en": "",
+  "en": "the Chess Pieces together!",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO07:00ab0",
   "jp": "{C0F04}…ふーーーーん",
-  "en": "",
+  "en": "{C0F04}...Hmmmmm.",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO07:00b8c",
   "jp": "{C0F04}ふーんってなんだ！",
-  "en": "",
+  "en": "{C0F04}What's with the \"hmm\"? \"Hmm,\" he says!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_GO07:00bb1",
   "jp": "ふーん！って",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO07:00c76",
   "jp": "{C0F04}いたたた、ごめんよ…！",
-  "en": "",
+  "en": "{C0F04}Ow ow ow, sorry...!",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO07:00d22",
   "jp": "{C0F04}…でも",
-  "en": "",
+  "en": "{C0F04}...But I'm starting to get excited...",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_GO07:00d3b",
   "jp": "ワクワクしてきた…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO07:00d92",
   "jp": "{C0F04}きたい、してるよ！",
-  "en": "",
+  "en": "{C0F04}I'm counting on you!",
   "call": "MswStr",
   "box": 69,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "EV_START:00634",
   "jp": "{C0F04}…………",
-  "en": "",
+  "en": "{C0F04}............",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_START:00952",
   "jp": "{C0F04}…どこだぁココ…？？",
-  "en": "",
+  "en": "{C0F04}...Where am I...??",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_START:00cac",
   "jp": "{C0F04}ウソだろ…？…イヤ！！",
-  "en": "",
+  "en": "{C0F04}You're kidding...? ...No, wait!!",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_START:010ad",
   "jp": "{C0F04}夢じゃねぇーーーーーーーーー！！",
-  "en": "",
+  "en": "{C0F04}It's not a dreeeeeeeam!!",
   "call": "MswStr",
   "box": 111,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "EV_RT03:004cf",
   "jp": "{C0F04}よっ…と",
-  "en": "",
+  "en": "{C0F04}Hup... there.",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_RT03:0061a",
   "jp": "{C0F04}あ…あんた、だれ？",
-  "en": "",
+  "en": "{C0F04}Wh... who are you?",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_RT03:006c6",
   "jp": "{C0F04}ドロシーよ、はじめまして♥",
-  "en": "",
+  "en": "{C0F04}I'm Dorothy. Nice to meet you♥",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_RT03:00821",
   "jp": "{C0F04}（ド！！ドロシィー！？）",
-  "en": "",
+  "en": "{C0F04}(D-D-!! Dorothy?!)",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_RT03:008cb",
   "jp": "{C0F04}今のリングアーマー…",
-  "en": "",
+  "en": "{C0F04}That Ring Armor just now...",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_RT03:0093b",
   "jp": "{C0F04}私がもってる中では",
-  "en": "",
+  "en": "{C0F04}It's one of the weakest I own, but still, well",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_RT03:00960",
   "jp": "最弱クラスとはいえおみごとよ",
-  "en": "",
+  "en": "done.",
   "call": "MswStr",
   "box": 49,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_RT03:009c5",
   "jp": "{C0F04}何のÄＲＭ使ったの？",
-  "en": "",
+  "en": "{C0F04}What ÄRM did you use?",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_RT03:00bcb",
   "jp": "{C0F04}んん？…ヘンねぇ…",
-  "en": "",
+  "en": "{C0F04}Hmm? ...That's weird... You've got no ÄRM.",
   "call": "MswStr",
   "box": 61,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_RT03:00bf0",
   "jp": "ÄＲＭがないわ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 61,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_RT03:00c83",
   "jp": "{C0904}『あーむ』{C0F04}って…何だ！？",
-  "en": "",
+  "en": "{C0904}'arm'{C0F04}...? What's that?! You mean that",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_RT03:00cb5",
   "jp": "今の魔法みたいなやつのこと！？",
-  "en": "",
+  "en": "magic-looking thing just now?!",
   "call": "MswStr",
   "box": 64,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_RT03:00d5a",
   "jp": "{C0F04}ÄＲＭも知らないって…",
-  "en": "",
+  "en": "{C0F04}You don't even know about ÄRM... What",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_RT03:00d83",
   "jp": "キミどこのイナカ者よ？",
-  "en": "",
+  "en": "backwater are you from?",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_RT03:00e20",
   "jp": "{C0F04}ÄＲＭはね…魔法…といえばそうかな",
-  "en": "",
+  "en": "{C0F04}ÄRM are... well, I guess you could call them",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_RT03:00e55",
   "jp": "",
-  "en": "",
+  "en": "magic.",
   "call": "MswStr",
   "box": 70,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_RT03:00e9e",
   "jp": "{C0F04}魔力（まりょく）によって",
-  "en": "",
+  "en": "{C0F04}Made with magic power, through",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_RT03:00ec9",
   "jp": "{C0904}彫金（ちょうきん）{C0F04}された…",
-  "en": "",
+  "en": "{C0904}engraving{C0F04}...",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_RT03:00f3a",
   "jp": "{C0F04}特殊能力を持つ{C0904}アクセサリー{C0F04}のことよ",
-  "en": "",
+  "en": "{C0F04}...they're {C0904}accessories{C0F04} with special abilities!",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_RT03:0106e",
   "jp": "{C0F04}アクセサリー！？",
-  "en": "",
+  "en": "{C0F04}Accessories?! You got more? Show me,",
   "call": "MswStr",
   "box": 79,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_RT03:01091",
   "jp": "他にもある？？見せて見せて！！",
-  "en": "",
+  "en": "show me!!",
   "call": "MswStr",
   "box": 79,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_RT03:0112e",
   "jp": "{C0F04}（ってことは…この子…素手で",
-  "en": "",
+  "en": "{C0F04}(So that means... this kid threw a Ring",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_RT03:0115d",
   "jp": "リングアーマーを投げ飛ばしたってこと？）",
-  "en": "",
+  "en": "Armor with his bare hands?)",
   "call": "MswStr",
   "box": 82,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_RT03:011ce",
   "jp": "{C0F04}（こんなとこにいるから",
-  "en": "",
+  "en": "{C0F04}(He was out here, so I figured he'd have an",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_RT03:011f7",
   "jp": "ÄＲＭもってると思ったのに…）",
-  "en": "",
+  "en": "ÄRM...)",
   "call": "MswStr",
   "box": 84,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_RT03:01308",
   "jp": "{C0F04}………………",
-  "en": "",
+  "en": "{C0F04}........ ........!",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_RT03:01327",
   "jp": "………………！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_RT03:013f2",
   "jp": "{C0F04}ÄＲＭ…欲しい？",
-  "en": "",
+  "en": "{C0F04}Want an ÄRM? Come with me, and I'll give",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_RT03:01415",
   "jp": "あたしについてきたら、アゲル♥",
-  "en": "",
+  "en": "you one♥",
   "call": "MswStr",
   "box": 93,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_RT03:01524",
   "jp": "{C0F04}ホント！？…わかった！！",
-  "en": "",
+  "en": "{C0F04}Really?! ...Okay!! See ya, rock family, take",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_RT03:0154f",
   "jp": "じゃあな、岩の親子元気でな！！",
-  "en": "",
+  "en": "care!!",
   "call": "MswStr",
   "box": 98,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_RT03:019ee",
   "jp": "{C0F04}だ、だめです！ボッチャン！",
-  "en": "",
+  "en": "{C0F04}N-no, you mustn't! Young sir!",
   "call": "MswStr",
   "box": 128,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "EV_RT03:01b2b",
   "jp": "{C0F04}どうしたのお父さん？？",
-  "en": "",
+  "en": "{C0F04}What's wrong, Papa??",
   "call": "MswStr",
   "box": 135,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_RT03:01b99",
   "jp": "{C0F04}あれはドロシー…",
-  "en": "",
+  "en": "{C0F04}That's Dorothy... the infamous witch...!!",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_RT03:01bbc",
   "jp": "あく名高い魔女（まじょ）だ…！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 137,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "EV_RT03:0215b",
   "jp": "{C0F04}ここを道なりに進めば目的の場所につくよ",
-  "en": "",
+  "en": "{C0F04}Just follow this path and you'll reach where",
   "call": "MswStr",
   "box": 174,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_RT03:02194",
   "jp": "",
-  "en": "",
+  "en": "we're going.",
   "call": "MswStr",
   "box": 174,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "EV_RT03:02213",
   "jp": "{C0F04}よし！！",
-  "en": "",
+  "en": "{C0F04}Alright!!",
   "call": "MswStr",
   "box": 177,
   "line": 1,

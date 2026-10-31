@@ -10,7 +10,7 @@
  {
   "id": "G_EV020:0103d",
   "jp": "{C0F04}どうすんだ！？",
-  "en": "",
+  "en": "{C0F04}What do I do!? How do I get stronger!?",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV020:0105e",
   "jp": "どうしたらつよくなれるんだ！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV020:011e0",
   "jp": "{C0F04}まぁ、あせんな",
-  "en": "",
+  "en": "{C0F04}Whoa, don't rush it.",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV020:01498",
   "jp": "{C0F04}ファントムのÄＲＭだったバッボ",
-  "en": "",
+  "en": "{C0F04}Babbo, the ÄRM that used to be",
   "call": "MswStr",
   "box": 120,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV020:014c9",
   "jp": "",
-  "en": "",
+  "en": "Phantom's...",
   "call": "MswStr",
   "box": 120,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV020:0150e",
   "jp": "{C0F04}なつかしいな…",
-  "en": "",
+  "en": "{C0F04}Brings back memories... I'm the one who",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "G_EV020:0152f",
   "jp": "こいつはオレが封印したんだ",
-  "en": "",
+  "en": "sealed him.",
   "call": "MswStr",
   "box": 122,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV020:0163a",
   "jp": "{C0F04}え！？",
-  "en": "",
+  "en": "{C0F04}Huh!? For real!?",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV020:01653",
   "jp": "ほんとか！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 127,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV020:01886",
   "jp": "{C0F04}おうよ",
-  "en": "",
+  "en": "{C0F04}Yep.",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV020:018e4",
   "jp": "{C0F04}魔力（まりょく）がゼロのものにしか",
-  "en": "",
+  "en": "{C0F04}A treasure chest that only someone with",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV020:01919",
   "jp": "ぜったいあけられない宝ばこ…",
-  "en": "",
+  "en": "zero magic power could ever open...",
   "call": "MswStr",
   "box": 142,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV020:0197a",
   "jp": "{C0F04}魔力がゼロのものには",
-  "en": "",
+  "en": "{C0F04}A Guardian ÄRM that someone with zero",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "G_EV020:019a1",
   "jp": "たおせないガーディアンÄＲＭ",
-  "en": "",
+  "en": "magic power can't beat...",
   "call": "MswStr",
   "box": 144,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV020:01a40",
   "jp": "{C0F04}そういうトラップだったんだがな",
-  "en": "",
+  "en": "{C0F04}That was the trap... So how'd you get",
   "call": "MswStr",
   "box": 147,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV020:01a71",
   "jp": "…おまえ、どうやってバッボとった？",
-  "en": "",
+  "en": "Babbo?",
   "call": "MswStr",
   "box": 147,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV020:01b7c",
   "jp": "{C0F04}…まりょく、って何だ！？",
-  "en": "",
+  "en": "{C0F04}...What's magic power, anyway!?",
   "call": "MswStr",
   "box": 152,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV020:01c2a",
   "jp": "{C0F04}魔力…か",
-  "en": "",
+  "en": "{C0F04}Magic power, huh...",
   "call": "MswStr",
   "box": 155,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV020:01c8a",
   "jp": "{C0F04}魔力、といえば…",
-  "en": "",
+  "en": "{C0F04}Speakin' of magic power...",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV020:02557",
   "jp": "{C0F04}ケホッケホッケホッケホッ！！",
-  "en": "",
+  "en": "{C0F04}Cough cough cough cough!!",
   "call": "MswStr",
   "box": 212,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV020:026b4",
   "jp": "{C0F04}出てこいや！！",
-  "en": "",
+  "en": "{C0F04}Come on out!!",
   "call": "MswStr",
   "box": 219,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV020:0290a",
   "jp": "{C0F04}何すんのさぁ～～～～！",
-  "en": "",
+  "en": "{C0F04}What was THAT fooor~!",
   "call": "MswStr",
   "box": 233,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV020:02a63",
   "jp": "{C0F04}ドロシー！！！",
-  "en": "",
+  "en": "{C0F04}Dorothy!!!",
   "call": "MswStr",
   "box": 240,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV020:02c1e",
   "jp": "{C0F04}犬のなかから見てたが…",
-  "en": "",
+  "en": "{C0F04}I was watchin' from inside the dog... You're",
   "call": "MswStr",
   "box": 249,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV020:02c47",
   "jp": "氷の城（しろ）にいた女だな",
-  "en": "",
+  "en": "the woman from the Ice Castle.",
   "call": "MswStr",
   "box": 249,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV020:02ce4",
   "jp": "{C0F04}おまえ…",
-  "en": "",
+  "en": "{C0F04}You... Chess??",
   "call": "MswStr",
   "box": 252,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "G_EV020:02cff",
   "jp": "チェスか？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 252,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV020:02d90",
   "jp": "{C0F04}オレがこっちにきて",
-  "en": "",
+  "en": "{C0F04}She's the first person I met when I came",
   "call": "MswStr",
   "box": 255,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "G_EV020:02db5",
   "jp": "はじめてあったんだ！",
-  "en": "",
+  "en": "here!",
   "call": "MswStr",
   "box": 255,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV020:02e4e",
   "jp": "{C0F04}いっしょにバッボを",
-  "en": "",
+  "en": "{C0F04}We got Babbo together!",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "G_EV020:02e73",
   "jp": "とったんだぜ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 258,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV020:02f04",
   "jp": "{C0F04}なるほど…",
-  "en": "",
+  "en": "{C0F04}I see...",
   "call": "MswStr",
   "box": 261,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV020:02f66",
   "jp": "{C0F04}てめぇがガーディアンを",
-  "en": "",
+  "en": "{C0F04}So while you were takin' on the Guardian...",
   "call": "MswStr",
   "box": 263,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "G_EV020:02f8f",
   "jp": "相手しているあいだに",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 263,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "G_EV020:02fe8",
   "jp": "{C0F04}ギンタが宝ばこを",
-  "en": "",
+  "en": "{C0F04}...Ginta opened the treasure chest, huh...",
   "call": "MswStr",
   "box": 265,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "G_EV020:0300b",
   "jp": "あけたってワケか…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 265,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV020:03408",
   "jp": "{C0F04}ちょいと！",
-  "en": "",
+  "en": "{C0F04}Hey, you! What are you planning to do to",
   "call": "MswStr",
   "box": 288,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "G_EV020:03425",
   "jp": "ギンタンに何するつもり！？",
-  "en": "",
+  "en": "Gintan!?",
   "call": "MswStr",
   "box": 288,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "G_EV020:035c5",
   "jp": "{C0F04}ヘンなことしようとしてるなら",
-  "en": "",
+  "en": "{C0F04}If you're up to anything funny, you'll have to",
   "call": "MswStr",
   "box": 296,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "G_EV020:035f4",
   "jp": "わたしが相手するよ！",
-  "en": "",
+  "en": "deal with me!",
   "call": "MswStr",
   "box": 296,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "G_EV020:03736",
   "jp": "{C0F04}こそこそぬすみ見てやがったくせに",
-  "en": "",
+  "en": "{C0F04}Big attitude for someone who was sneakin'",
   "call": "MswStr",
   "box": 303,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "G_EV020:03769",
   "jp": "たいどがでけーな",
-  "en": "",
+  "en": "a peek at us.",
   "call": "MswStr",
   "box": 303,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV020:038fb",
   "jp": "{C0F04}やんのか？",
-  "en": "",
+  "en": "{C0F04}Wanna go? Huh!?",
   "call": "MswStr",
   "box": 311,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "G_EV020:03918",
   "jp": "ああ！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 311,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "EV_PA01:00462",
   "jp": "{C0F04}ここが『パヅタウン』っス",
-  "en": "",
+  "en": "{C0F04}This here's 'Paz Town', y'know.",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_PA01:004d6",
   "jp": "{C0F04}この近くじゃ、いちばん",
-  "en": "",
+  "en": "{C0F04}It's the biggest town 'round these parts.",
   "call": "MswStr",
   "box": 29,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_PA01:004ff",
   "jp": "おおきな街っス",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 29,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_PA01:00556",
   "jp": "{C0F04}オイラ、田舎ものなのでよくは",
-  "en": "",
+  "en": "{C0F04}I'm just a country boy, so I don't know",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_PA01:00585",
   "jp": "知らないスけど",
-  "en": "",
+  "en": "much, but...",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_PA01:005dc",
   "jp": "{C0F04}ÄＲＭには{C0904}『ディメンション』{C0F04}という",
-  "en": "",
+  "en": "{C0F04}There's a kind of ÄRM called {C0904}'Dimension'{C0F04},",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_PA01:0061f",
   "jp": "しゅるいがあるっス",
-  "en": "",
+  "en": "y'see.",
   "call": "MswStr",
   "box": 33,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_PA01:00761",
   "jp": "{C0F04}ディメンション…",
-  "en": "",
+  "en": "{C0F04}Dimension...",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_PA01:007cd",
   "jp": "{C0F04}ちがう所にワープできたりするらしいっス",
-  "en": "",
+  "en": "{C0F04}Seems they can warp ya to other places.",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_PA01:0084f",
   "jp": "{C0F04}ギンタは、たぶんそのディメンションの",
-  "en": "",
+  "en": "{C0F04}I reckon a real strong Dimension one is",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_PA01:00886",
   "jp": "強力なヤツでこのせかいにワープしたんスよ",
-  "en": "",
+  "en": "what warped you into this world, Ginta.",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_PA01:008f7",
   "jp": "{C0F04}このパヅタウンでは",
-  "en": "",
+  "en": "{C0F04}Paz Town here's got a market, with just",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_PA01:0091c",
   "jp": "いちばがあって、たいていのものがあるし…",
-  "en": "",
+  "en": "about everything...",
   "call": "MswStr",
   "box": 46,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_PA01:0098d",
   "jp": "{C0F04}ÄＲＭを売ってるヤツもいるっス！",
-  "en": "",
+  "en": "{C0F04}And there's folks sellin' ÄRM too!",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_PA01:00a09",
   "jp": "{C0F04}ギンタがいたせかいへかえれる",
-  "en": "",
+  "en": "{C0F04}Maybe there's word of an ÄRM that can",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_PA01:00a38",
   "jp": "ÄＲＭのじょうほうもあるかも…",
-  "en": "",
+  "en": "send you back to your world, Ginta...",
   "call": "MswStr",
   "box": 50,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_PA01:00add",
   "jp": "{C0F04}さ、いろいろ話をきいて",
-  "en": "",
+  "en": "{C0F04}C'mon, let's go ask around!!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_PA01:00b06",
   "jp": "みるっスよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_PA01:00b5b",
   "jp": "{C0F04}…うん！",
-  "en": "",
+  "en": "{C0F04}...Yeah!",
   "call": "MswStr",
   "box": 55,
   "line": 1,

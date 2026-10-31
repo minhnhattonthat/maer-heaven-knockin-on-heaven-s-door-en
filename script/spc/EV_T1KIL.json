@@ -10,7 +10,7 @@
  {
   "id": "EV_T1KIL:006dc",
   "jp": "{C0F04}やったぁギンタ！",
-  "en": "",
+  "en": "{C0F04}You did it, Ginta!",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_T1KIL:00858",
   "jp": "{C0F04}おーーー！",
-  "en": "",
+  "en": "{C0F04}Whoaaa! Mighty fine work!!",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_T1KIL:00875",
   "jp": "みごとっス！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 48,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_T1KIL:00a46",
   "jp": "{C0F04}ほらよ！マール！！",
-  "en": "",
+  "en": "{C0F04}Here ya go! Marl!!",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_T1KIL:00bc2",
   "jp": "{C0F04}あ…ありがとうございます！",
-  "en": "",
+  "en": "{C0F04}Th... thank you very much!",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_T1KIL:00c6c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_T1KIL:00d72",
   "jp": "{C0F04}（へへ）",
-  "en": "",
+  "en": "{C0F04}(Heh heh)",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_T1KIL:00ee4",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_T1KIL:00fea",
   "jp": "{C0F04}（あれ…なんだろう、このイヤなかんじ…）",
-  "en": "",
+  "en": "{C0F04}(Huh... what is this nasty feeling...?)",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_T1KIL:010e0",
   "jp": "{C0F04}これは『うで』のパーツだ…",
-  "en": "",
+  "en": "{C0F04}This is the 'arm' part... If the arm's seal is",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_T1KIL:0110d",
   "jp": "うでの封印をといた、ということは…",
-  "en": "",
+  "en": "broken, that means...",
   "call": "MswStr",
   "box": 91,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_T1KIL:011b4",
   "jp": "{C0F04}おそらく、２ばん目のとびらが",
-  "en": "",
+  "en": "{C0F04}...the second door should be open now...!",
   "call": "MswStr",
   "box": 94,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_T1KIL:011e3",
   "jp": "あいているはず…！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 94,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_T1KIL:0134e",
   "jp": "{C0F04}そういえば、入り口は",
-  "en": "",
+  "en": "{C0F04}Come to think of it, there were 3",
   "call": "MswStr",
   "box": 102,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_T1KIL:01375",
   "jp": "３つあったっスね！",
-  "en": "",
+  "en": "entrances, weren't there!",
   "call": "MswStr",
   "box": 102,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_T1KIL:0154a",
   "jp": "{C0F04}それではいったん地上へ",
-  "en": "",
+  "en": "{C0F04}Very well! Let us return to the surface for",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_T1KIL:01573",
   "jp": "もどるとするか！",
-  "en": "",
+  "en": "now!",
   "call": "MswStr",
   "box": 112,
   "line": 2,

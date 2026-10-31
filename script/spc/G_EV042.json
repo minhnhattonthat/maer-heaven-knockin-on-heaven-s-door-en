@@ -10,7 +10,7 @@
  {
   "id": "G_EV042:00efb",
   "jp": "{C0F04}スノウ！",
-  "en": "",
+  "en": "{C0F04}Snow! I need you to lend me a hand!",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV042:00f16",
   "jp": "ちょっと力をかしてほしいんだ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 92,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV042:0109a",
   "jp": "{C0F04}おねがいします！！",
-  "en": "",
+  "en": "{C0F04}Please help us!!",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV042:011ef",
   "jp": "{C0F04}…え…とー…",
-  "en": "",
+  "en": "{C0F04}...Um... well...",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV042:013aa",
   "jp": "{C0F04}こいつはマール！",
-  "en": "",
+  "en": "{C0F04}This guy's Marl!",
   "call": "MswStr",
   "box": 116,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV042:01452",
   "jp": "{C0F04}くわしいことは",
-  "en": "",
+  "en": "{C0F04}I'll fill you in on the way!",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV042:01473",
   "jp": "行きながら話すからさ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 119,
   "line": 2,

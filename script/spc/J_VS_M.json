@@ -10,7 +10,7 @@
  {
   "id": "J_VS_M:0006a",
   "jp": "{C0F04}たびびとに野菜をあげたら",
-  "en": "",
+  "en": "{C0F04}I gave a traveler some vegetables, and",
   "call": "MswStr",
   "box": 2,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "J_VS_M:00095",
   "jp": "お礼にÄＲＭをくれたんだよ",
-  "en": "",
+  "en": "they gave me ÄRM as thanks, dear.",
   "call": "MswStr",
   "box": 2,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "J_VS_M:000fc",
   "jp": "{C0F04}これでギンタちゃんを助けておやり",
-  "en": "",
+  "en": "{C0F04}Use these to help Ginta-chan, now.",
   "call": "MswStr",
   "box": 4,
   "line": 1,
@@ -54,7 +54,7 @@
  {
   "id": "J_VS_M:001ad",
   "jp": "{C0D04}ラフレシア{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Rafflesia{C0F04}",
   "call": "MswStr",
   "box": 9,
   "line": 0
@@ -62,7 +62,7 @@
  {
   "id": "J_VS_M:001d3",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 9,
   "line": 1
@@ -86,7 +86,7 @@
  {
   "id": "J_VS_M:002be",
   "jp": "{C0F04}たびびとに野菜をあげたら",
-  "en": "",
+  "en": "{C0F04}I gave a traveler some vegetables, and",
   "call": "MswStr",
   "box": 15,
   "line": 1,
@@ -95,7 +95,7 @@
  {
   "id": "J_VS_M:002e9",
   "jp": "お礼にÄＲＭをくれたんだよ",
-  "en": "",
+  "en": "they gave me ÄRM as thanks, dear.",
   "call": "MswStr",
   "box": 15,
   "line": 2,
@@ -112,7 +112,7 @@
  {
   "id": "J_VS_M:00350",
   "jp": "{C0F04}これでギンタちゃんを助けておやり",
-  "en": "",
+  "en": "{C0F04}Use these to help Ginta-chan, now.",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -130,7 +130,7 @@
  {
   "id": "J_VS_M:00401",
   "jp": "{C0D04}ジン　ＣＬ３{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Djinn CL3{C0F04}",
   "call": "MswStr",
   "box": 22,
   "line": 0
@@ -138,7 +138,7 @@
  {
   "id": "J_VS_M:00429",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 22,
   "line": 1
@@ -162,7 +162,7 @@
  {
   "id": "J_VS_M:004d3",
   "jp": "{C0F04}私のことはしんぱいしないで",
-  "en": "",
+  "en": "{C0F04}Don't you worry about me, dear.",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -171,7 +171,7 @@
  {
   "id": "J_VS_M:00500",
   "jp": "いいんだよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 26,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "OBJ_S:0023e",
   "jp": "{C0F04}氷をとかすね",
-  "en": "",
+  "en": "{C0F04}I'll melt the ice!",
   "call": "MswStr",
   "box": 15,
   "line": 1,
@@ -28,7 +28,7 @@
  {
   "id": "OBJ_S:004b9",
   "jp": "氷が道をふさいでいる",
-  "en": "",
+  "en": "Ice is blocking the way.",
   "call": "MswStr",
   "box": 35,
   "line": 0

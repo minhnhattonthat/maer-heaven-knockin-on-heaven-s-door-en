@@ -2,7 +2,7 @@
  {
   "id": "SP_M24:000ff",
   "jp": "{C0F04}　　　　　　閉まっている",
-  "en": "",
+  "en": "{C0F04}It's closed.",
   "call": "MswStr",
   "box": 7,
   "line": 1

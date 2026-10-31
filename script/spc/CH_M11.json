@@ -10,7 +10,7 @@
  {
   "id": "CH_M11:00109",
   "jp": "{C0F04}ははは…どうだい？",
-  "en": "",
+  "en": "{C0F04}Hahaha... Well? Smashed up real nice, isn't",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "CH_M11:0012e",
   "jp": "きもちのいいこわされっぷりだろ？",
-  "en": "",
+  "en": "it?",
   "call": "MswStr",
   "box": 7,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M11:00195",
   "jp": "{C0F04}好きにしてくれ",
-  "en": "",
+  "en": "{C0F04}Do whatever you like. Our houses, our",
   "call": "MswStr",
   "box": 9,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M11:001b6",
   "jp": "家もはたけも、つぶされた",
-  "en": "",
+  "en": "fields... all crushed.",
   "call": "MswStr",
   "box": 9,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M11:00215",
   "jp": "{C0F04}ヴェストリはもうおわりだ",
-  "en": "",
+  "en": "{C0F04}Vestry is finished.",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "CH_M11:00377",
   "jp": "{C0F04}そんなこというなよ！！",
-  "en": "",
+  "en": "{C0F04}Don't say that!! Cheer up!!",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "CH_M11:003a0",
   "jp": "元気出してくれ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "CH_M11:003f9",
   "jp": "{C0F04}こわされたって、また",
-  "en": "",
+  "en": "{C0F04}So what if it got wrecked? Just build it",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "CH_M11:00420",
   "jp": "作ればいいじゃんか！！",
-  "en": "",
+  "en": "again!!",
   "call": "MswStr",
   "box": 21,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "CH_M11:0047d",
   "jp": "{C0F04}ムダさ…作ってもまた",
-  "en": "",
+  "en": "{C0F04}No use... We build it, and it just gets",
   "call": "MswStr",
   "box": 23,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "CH_M11:004a4",
   "jp": "こわされるだけさ…",
-  "en": "",
+  "en": "wrecked again...",
   "call": "MswStr",
   "box": 23,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "CH_M11:00535",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "CH_M11:00702",
   "jp": "{C0F04}…そこにだれかいるのかい？",
-  "en": "",
+  "en": "{C0F04}...Is somebody there?",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "CH_M11:00776",
   "jp": "{C0F04}チェスの兵隊か…",
-  "en": "",
+  "en": "{C0F04}Chess Pieces, huh...",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "CH_M11:007e0",
   "jp": "{C0F04}ころすつもりなら",
-  "en": "",
+  "en": "{C0F04}If you're gonna kill me, make it quick.",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "CH_M11:00803",
   "jp": "一息にたのむよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "CH_M11:00858",
   "jp": "{C0F04}せめて、それくらいのなさけは",
-  "en": "",
+  "en": "{C0F04}You'll show me that much mercy at least...",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "CH_M11:00887",
   "jp": "かけてくれる…よな…？",
-  "en": "",
+  "en": "won't you...?",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "CH_M11:00a0a",
   "jp": "{C0F04}もう…何もかもおわりよ…",
-  "en": "",
+  "en": "{C0F04}It's over... Everything's over...",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "CH_M11:00a7c",
   "jp": "{C0F04}この子にたべさせるものさえ",
-  "en": "",
+  "en": "{C0F04}We don't even have anything left to feed my",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "CH_M11:00aa9",
   "jp": "のこっていない…",
-  "en": "",
+  "en": "child...",
   "call": "MswStr",
   "box": 56,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "CH_M11:00d16",
   "jp": "{C0F04}わたしたち…",
-  "en": "",
+  "en": "{C0F04}We... came here to help you!!",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "CH_M11:00d35",
   "jp": "助けにきました！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "CH_M11:00d8e",
   "jp": "{C0F04}助け…？",
-  "en": "",
+  "en": "{C0F04}Help...?",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "CH_M11:00df0",
   "jp": "{C0F04}いまさらおそいよ…",
-  "en": "",
+  "en": "{C0F04}It's too late for that now...",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "CH_M11:00e5c",
   "jp": "{C0F04}われわれは、もう",
-  "en": "",
+  "en": "{C0F04}We don't even have the will to live",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "CH_M11:00e7f",
   "jp": "生きる気力すらないのだ…",
-  "en": "",
+  "en": "anymore...",
   "call": "MswStr",
   "box": 78,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "CH_M11:00f16",
   "jp": "{C0F04}そ…そんな…",
-  "en": "",
+  "en": "{C0F04}N-no... That's...",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "CH_M11:00fc8",
   "jp": "{C0F04}助け…？",
-  "en": "",
+  "en": "{C0F04}Help...?",
   "call": "MswStr",
   "box": 85,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "CH_M11:0102a",
   "jp": "{C0F04}いまさらおそいよ…",
-  "en": "",
+  "en": "{C0F04}It's too late for that now...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "CH_M11:01096",
   "jp": "{C0F04}われわれは、もう",
-  "en": "",
+  "en": "{C0F04}We don't even have the will to live",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "CH_M11:010b9",
   "jp": "生きる気力すらないのだ…",
-  "en": "",
+  "en": "anymore...",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "CH_M11:0123e",
   "jp": "{C0F04}あーん　あーん",
-  "en": "",
+  "en": "{C0F04}Waaah... waaah... waaah... waaah...",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "CH_M11:0125f",
   "jp": "あーん　あーん",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 99,
   "line": 2,

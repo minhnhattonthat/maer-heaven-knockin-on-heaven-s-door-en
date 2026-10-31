@@ -10,7 +10,7 @@
  {
   "id": "L24_0_0:00916",
   "jp": "とびらだ！",
-  "en": "",
+  "en": "A door!",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "L24_0_0:009b2",
   "jp": "ひとつ…あいてるっス…",
-  "en": "",
+  "en": "One of 'em's... open...",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "L24_0_0:00b4a",
   "jp": "…こっちにもあるぞ！",
-  "en": "",
+  "en": "...There's more over here! The open one",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "L24_0_0:00b6a",
   "jp": "あいているのが、ひとつに…",
-  "en": "",
+  "en": "makes one...",
   "call": "MswStr",
   "box": 65,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "L24_0_0:00e03",
   "jp": "ふたつ…みっつ…",
-  "en": "",
+  "en": "Two... three...",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "L24_0_0:00fb9",
   "jp": "よ…！！！",
-  "en": "",
+  "en": "Fo...!!!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "L24_0_0:0139e",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 113,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "L24_0_0:01466",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 117,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "L24_0_0:0156e",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "L24_0_0:016a2",
   "jp": "え、えーっと…",
-  "en": "",
+  "en": "U-um... wh-who are you??",
   "call": "MswStr",
   "box": 128,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "L24_0_0:016bc",
   "jp": "だ、だれ？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 128,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "L24_0_0:0171e",
   "jp": "彫金師（ちょうきんし）",
-  "en": "",
+  "en": "Engraver.",
   "call": "MswStr",
   "box": 130,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "L24_0_0:0178e",
   "jp": "彫金師って…",
-  "en": "",
+  "en": "An engraver...",
   "call": "MswStr",
   "box": 132,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "L24_0_0:0189e",
   "jp": "あ！　ドロシーにきいたぞ！",
-  "en": "",
+  "en": "Oh! Dorothy told me about that! You can",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "L24_0_0:018c4",
   "jp": "たしか、ÄＲＭをつくったりできる…！",
-  "en": "",
+  "en": "make ÄRM and stuff...!",
   "call": "MswStr",
   "box": 137,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "L24_0_0:0193e",
   "jp": "そうですのん",
-  "en": "",
+  "en": "That's right, nonn.",
   "call": "MswStr",
   "box": 139,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "L24_0_0:01a12",
   "jp": "（の、のん？）",
-  "en": "",
+  "en": "(N-nonn?)",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "L24_0_0:01ab8",
   "jp": "そうだ、っていってるですのん",
-  "en": "",
+  "en": "I said that's right, nonn. ...Are you guys",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "L24_0_0:01ae0",
   "jp": "…おまえら、チェスですのん？",
-  "en": "",
+  "en": "Chess, nonn?",
   "call": "MswStr",
   "box": 146,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "L24_0_0:01bf4",
   "jp": "ち、ちがう、そのチェスを",
-  "en": "",
+  "en": "N-no, we're trying to beat those Chess",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "L24_0_0:01c18",
   "jp": "たおそうとしているんだ！",
-  "en": "",
+  "en": "guys!",
   "call": "MswStr",
   "box": 151,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "L24_0_0:01c86",
   "jp": "なんだ",
-  "en": "",
+  "en": "Oh. Then that makes you customers, nonn.",
   "call": "MswStr",
   "box": 153,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "L24_0_0:01c98",
   "jp": "それなら、お客ってことですのん",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 153,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "L24_0_0:01d72",
   "jp": "（で、ですのん…）",
-  "en": "",
+  "en": "(Wh-what's with all the nonn...)",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "L24_0_0:01e52",
   "jp": "なら、彫金について",
-  "en": "",
+  "en": "Then I'll explain engraving, nonn.",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "L24_0_0:01e70",
   "jp": "説明しますのん",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 161,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "L24_0_0:01ed4",
   "jp": "こっち来るですのん",
-  "en": "",
+  "en": "Come over here, nonn.",
   "call": "MswStr",
   "box": 163,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "L24_0_0:01fb4",
   "jp": "（な、なんか変わったしゃべりかただな",
-  "en": "",
+  "en": "(Wh-what a weird way of talkin'... It's",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "L24_0_0:01fe4",
   "jp": "　あたまがクラクラしてきた…）",
-  "en": "",
+  "en": "makin' my head spin...)",
   "call": "MswStr",
   "box": 167,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "L24_0_0:023e4",
   "jp": "そしたら、しっかりきくですのん",
-  "en": "",
+  "en": "So, listen up good, nonn.",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "L24_0_0:0249a",
   "jp": "あたしは彫金師のベリーニ",
-  "en": "",
+  "en": "I'm Bellini the engraver. Still just an",
   "call": "MswStr",
   "box": 192,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "L24_0_0:024be",
   "jp": "まだみならいですのん…",
-  "en": "",
+  "en": "apprentice, nonn...",
   "call": "MswStr",
   "box": 192,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "L24_0_0:0252a",
   "jp": "彫金とは、いくつかの材料をまぜあわせて",
-  "en": "",
+  "en": "Engraving is mixin' a few materials together",
   "call": "MswStr",
   "box": 194,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "L24_0_0:0255c",
   "jp": "新しくÄＲＭを作ることですのん",
-  "en": "",
+  "en": "to make a brand-new ÄRM, nonn.",
   "call": "MswStr",
   "box": 194,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "L24_0_0:025d0",
   "jp": "どの材料で、何のÄＲＭができるのかは",
-  "en": "",
+  "en": "Which materials make which ÄRM is all",
   "call": "MswStr",
   "box": 196,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "L24_0_0:02600",
   "jp": "レシピに記録されていますのん",
-  "en": "",
+  "en": "written down in recipes, nonn.",
   "call": "MswStr",
   "box": 196,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "L24_0_0:02672",
   "jp": "だけど、まちがってそのレシピを",
-  "en": "",
+  "en": "But I goofed and sent those recipes flyin'",
   "call": "MswStr",
   "box": 198,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "L24_0_0:0269c",
   "jp": "いせかいにとばしてしまい…",
-  "en": "",
+  "en": "off to the other world...",
   "call": "MswStr",
   "box": 198,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "L24_0_0:0270c",
   "jp": "もし、いせかいに行くことがあったら",
-  "en": "",
+  "en": "If you ever go to the other world, could you",
   "call": "MswStr",
   "box": 200,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "L24_0_0:0273a",
   "jp": "レシピをさがしてきてほしいのん？",
-  "en": "",
+  "en": "find the recipes for me, nonn?",
   "call": "MswStr",
   "box": 200,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "L24_0_0:027b0",
   "jp": "レシピは彫金師にしかわからない",
-  "en": "",
+  "en": "The recipes are written in a code only",
   "call": "MswStr",
   "box": 202,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "L24_0_0:027da",
   "jp": "暗号になっていますのん",
-  "en": "",
+  "en": "engravers can read, nonn.",
   "call": "MswStr",
   "box": 202,
   "line": 2,
@@ -738,7 +738,7 @@
  {
   "id": "L24_0_0:02846",
   "jp": "暗号をわたしに教えてくれたら",
-  "en": "",
+  "en": "Tell me a code, and I'll do a special",
   "call": "MswStr",
   "box": 204,
   "line": 1,
@@ -747,7 +747,7 @@
  {
   "id": "L24_0_0:0286e",
   "jp": "とくべつに彫金してあげますのん",
-  "en": "",
+  "en": "engraving just for you, nonn.",
   "call": "MswStr",
   "box": 204,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "L24_0_0:028e2",
   "jp": "でも、材料はかならず",
-  "en": "",
+  "en": "But you'd better bring the materials, nonn!",
   "call": "MswStr",
   "box": 206,
   "line": 1,
@@ -773,7 +773,7 @@
  {
   "id": "L24_0_0:02902",
   "jp": "もってくるのん！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 206,
   "line": 2,
@@ -790,7 +790,7 @@
  {
   "id": "L24_0_0:02a0a",
   "jp": "おう！",
-  "en": "",
+  "en": "Got it!",
   "call": "MswStr",
   "box": 211,
   "line": 1,

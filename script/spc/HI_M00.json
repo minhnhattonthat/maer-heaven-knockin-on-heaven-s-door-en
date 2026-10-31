@@ -10,7 +10,7 @@
  {
   "id": "HI_M00:0032b",
   "jp": "{C0F04}こんなくだもの、見たことない…！！",
-  "en": "",
+  "en": "{C0F04}I've never seen fruit like this...!!",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M00:003a7",
   "jp": "{C0F04}…たべられるのかな…",
-  "en": "",
+  "en": "{C0F04}...I wonder if you can eat it...",
   "call": "MswStr",
   "box": 23,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M00:00415",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}...... I'll just take one, to be safe!",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "HI_M00:0042c",
   "jp": "いちおう、１コもらっとこ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 25,
   "line": 2,
@@ -80,7 +80,7 @@
  {
   "id": "HI_M00:004dd",
   "jp": "{C0D04}サックリの実{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Crisp Fruit{C0F04}",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -88,7 +88,7 @@
  {
   "id": "HI_M00:00505",
   "jp": "手に入れた！",
-  "en": "",
+  "en": "obtained!",
   "call": "MswStr",
   "box": 30,
   "line": 1
@@ -112,7 +112,7 @@
  {
   "id": "HI_M00:009e6",
   "jp": "{C0F04}赤い岩！！",
-  "en": "",
+  "en": "{C0F04}A red rock!!",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -138,7 +138,7 @@
  {
   "id": "HI_M00:00a4a",
   "jp": "{C0F04}うわーー！",
-  "en": "",
+  "en": "{C0F04}Whoaaa! I shoulda brought a cameraaa!",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "HI_M00:00a67",
   "jp": "カメラもってくればよかったあーー！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 66,
   "line": 2,
@@ -164,7 +164,7 @@
  {
   "id": "HI_M00:00ad0",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}...... Huh? Wait...",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -173,7 +173,7 @@
  {
   "id": "HI_M00:00ae7",
   "jp": "あ、あれ？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 68,
   "line": 2,
@@ -190,7 +190,7 @@
  {
   "id": "HI_M00:00b38",
   "jp": "{C0F04}そういえばオレ",
-  "en": "",
+  "en": "{C0F04}Come to think of it, I can see fine without",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -199,7 +199,7 @@
  {
   "id": "HI_M00:00b59",
   "jp": "メガネかけてないのによく見えるぞ？？",
-  "en": "",
+  "en": "my glasses??",
   "call": "MswStr",
   "box": 70,
   "line": 2,
@@ -216,7 +216,7 @@
  {
   "id": "HI_M00:00efe",
   "jp": "{C0F04}ここだな…",
-  "en": "",
+  "en": "{C0F04}This must be the place... Now to get some",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "HI_M00:00f1b",
   "jp": "水をくんで…と…",
-  "en": "",
+  "en": "water...",
   "call": "MswStr",
   "box": 95,
   "line": 2,

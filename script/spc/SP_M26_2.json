@@ -10,7 +10,7 @@
  {
   "id": "SP_M26_2:00720",
   "jp": "{C0F04}これか…！",
-  "en": "",
+  "en": "{C0F04}This is it...!",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M26_2:008ca",
   "jp": "{C0F04}では…あけますよ！",
-  "en": "",
+  "en": "{C0F04}Okay... I'm opening it!",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "SP_M26_2:00a7c",
   "jp": "{C0F04}（ごくっ！）",
-  "en": "",
+  "en": "{C0F04}(Gulp!)",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -80,7 +80,7 @@
  {
   "id": "SP_M26_2:01119",
   "jp": "グゥゥゥゥウウウウウウウゥゥゥゥゥ…",
-  "en": "",
+  "en": "Grrrrrrooooooooooooooooaaaaah...",
   "call": "MswStr",
   "box": 107,
   "line": 0
@@ -112,7 +112,7 @@
  {
   "id": "SP_M26_2:01432",
   "jp": "{C0F04}出たな！！",
-  "en": "",
+  "en": "{C0F04}There you are!!",
   "call": "MswStr",
   "box": 126,
   "line": 1,
@@ -138,7 +138,7 @@
  {
   "id": "SP_M26_2:014d4",
   "jp": "{C0F04}いしアタマたいけつだ、バッボ！",
-  "en": "",
+  "en": "{C0F04}It's a rock-head showdown, Babbo!",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -164,7 +164,7 @@
  {
   "id": "SP_M26_2:0165c",
   "jp": "{C0F04}なら、このワシがまけるわけには",
-  "en": "",
+  "en": "{C0F04}Then I, Babbo, cannot possibly lose!!",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -173,7 +173,7 @@
  {
   "id": "SP_M26_2:0168d",
   "jp": "いかんな！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 137,
   "line": 2,
@@ -190,7 +190,7 @@
  {
   "id": "SP_M26_2:0171e",
   "jp": "{C0F04}いっくぜーーーーーーーー！！",
-  "en": "",
+  "en": "{C0F04}Here we gooooooooooo!!",
   "call": "MswStr",
   "box": 140,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "EV_MON05:00221",
   "jp": "{C0F04}ようやくゴールにたどりついたようぢゃな",
-  "en": "",
+  "en": "{C0F04}Looks like ya finally made it to the goal. Got",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_MON05:0025a",
   "jp": "まちくたびれちまったよ",
-  "en": "",
+  "en": "plumb tired of waitin', eh.",
   "call": "MswStr",
   "box": 14,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_MON05:002b7",
   "jp": "{C0F04}さて、あと２人のほうは",
-  "en": "",
+  "en": "{C0F04}Now, I wonder how the other two are",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_MON05:002e0",
   "jp": "どうなったかね…",
-  "en": "",
+  "en": "doin'...",
   "call": "MswStr",
   "box": 16,
   "line": 2,

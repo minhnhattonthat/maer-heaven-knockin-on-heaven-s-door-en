@@ -10,7 +10,7 @@
  {
   "id": "SHOPPE01:001fb",
   "jp": "{C0F04}ÄＲＭをみていかんか？",
-  "en": "",
+  "en": "{C0F04}How about a look at my ÄRM, eh?",
   "call": "MswStr",
   "box": 8,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SHOPPE01:00295",
   "jp": "{C0F04}もう用はないかい？",
-  "en": "",
+  "en": "{C0F04}That all you need?",
   "call": "MswStr",
   "box": 9,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "SHOPPE01:00409",
   "jp": "{C0F04}何を売るんだい？",
-  "en": "",
+  "en": "{C0F04}What're you sellin'?",
   "call": "MswStr",
   "box": 18,
   "line": 1,

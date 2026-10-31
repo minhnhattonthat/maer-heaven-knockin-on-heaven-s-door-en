@@ -10,7 +10,7 @@
  {
   "id": "EV_BA03:002df",
   "jp": "{C0F04}いい？よく聞いてね",
-  "en": "",
+  "en": "{C0F04}Okay? Listen carefully.",
   "call": "MswStr",
   "box": 18,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BA03:0034d",
   "jp": "{C0F04}まず、この{C0904}マジックストーン{C0F04}を",
-  "en": "",
+  "en": "{C0F04}First, I'll give you these {C0904}Magic Stones{C0F04}.",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_BA03:0038a",
   "jp": "あげるわ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -54,7 +54,7 @@
  {
   "id": "EV_BA03:003f9",
   "jp": "マジックストーンを",
-  "en": "",
+  "en": "Got 20 Magic Stones!",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -62,7 +62,7 @@
  {
   "id": "EV_BA03:00417",
   "jp": "２０コもらった！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 24,
   "line": 1
@@ -86,7 +86,7 @@
  {
   "id": "EV_BA03:004be",
   "jp": "{C0F04}ふつうのÄＲＭは、高い魔力がないと",
-  "en": "",
+  "en": "{C0F04}Normal ÄRM can't be used without lots of",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -95,7 +95,7 @@
  {
   "id": "EV_BA03:004f3",
   "jp": "使えないの",
-  "en": "",
+  "en": "magic power.",
   "call": "MswStr",
   "box": 28,
   "line": 2,
@@ -112,7 +112,7 @@
  {
   "id": "EV_BA03:00546",
   "jp": "{C0F04}マジックストーンは、魔力のひくいキミでも",
-  "en": "",
+  "en": "{C0F04}Magic Stones are handy ÄRM that even you",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -121,7 +121,7 @@
  {
   "id": "EV_BA03:00581",
   "jp": "使えるべんりなÄＲＭってとこね",
-  "en": "",
+  "en": "can use, with your low magic power.",
   "call": "MswStr",
   "box": 30,
   "line": 2,
@@ -138,7 +138,7 @@
  {
   "id": "EV_BA03:005e8",
   "jp": "{C0F04}バトル中に{C0904}Ａボタン{C0F04}をおすと",
-  "en": "",
+  "en": "{C0F04}Press the {C0904}A Button{C0F04} in battle to choose an",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "EV_BA03:00623",
   "jp": "ÄＲＭをえらぶことができるわ",
-  "en": "",
+  "en": "ÄRM.",
   "call": "MswStr",
   "box": 32,
   "line": 2,
@@ -164,7 +164,7 @@
  {
   "id": "EV_BA03:00688",
   "jp": "{C0904}ÄＲＭ{C0F04}の{C0904}Ａ{C0F04}ね",
-  "en": "",
+  "en": "{C0904}ÄRM{C0F04} starts with {C0904}A{C0F04}, see? Got it?",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -173,7 +173,7 @@
  {
   "id": "EV_BA03:006bc",
   "jp": "わかった？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 34,
   "line": 2,
@@ -190,7 +190,7 @@
  {
   "id": "EV_BA03:0070f",
   "jp": "{C0F04}ボタンをおせば、持っているÄＲＭから",
-  "en": "",
+  "en": "{C0F04}Press the button, and {C0904}5{C0F04} of the ÄRM you",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -199,7 +199,7 @@
  {
   "id": "EV_BA03:00746",
   "jp": "{C0904}５コ{C0F04}のÄＲＭを取り出すわ",
-  "en": "",
+  "en": "have will come out.",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -216,7 +216,7 @@
  {
   "id": "EV_BA03:007b5",
   "jp": "{C0F04}そこから、使いたいÄＲＭをえらぶのよ",
-  "en": "",
+  "en": "{C0F04}Then you pick the ÄRM you want to use",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "EV_BA03:007ec",
   "jp": "",
-  "en": "",
+  "en": "from those.",
   "call": "MswStr",
   "box": 38,
   "line": 2,
@@ -242,7 +242,7 @@
  {
   "id": "EV_BA03:00835",
   "jp": "{C0F04}ÄＲＭをえらんだら、そのÄＲＭと",
-  "en": "",
+  "en": "{C0F04}Once you pick an ÄRM, it takes time to",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -251,7 +251,7 @@
  {
   "id": "EV_BA03:00868",
   "jp": "{C0904}シンクロ{C0F04}するまで時間が必要なの",
-  "en": "",
+  "en": "{C0904}synchro{C0F04} with it.",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -268,7 +268,7 @@
  {
   "id": "EV_BA03:008dd",
   "jp": "{C0904}シンクロゲージ{C0F04}が光ったら",
-  "en": "",
+  "en": "{C0904}The Synchro Gauge{C0F04} lighting up is your sign",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -277,7 +277,7 @@
  {
   "id": "EV_BA03:0090f",
   "jp": "ÄＲＭを使える合図よ",
-  "en": "",
+  "en": "that the ÄRM is ready.",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -294,7 +294,7 @@
  {
   "id": "EV_BA03:0096c",
   "jp": "{C0F04}ÄＲＭを使うときも{C0904}Ａボタン{C0F04}ね",
-  "en": "",
+  "en": "{C0F04}To use the ÄRM, it's the {C0904}A Button{C0F04} again.",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "EV_BA03:009f2",
   "jp": "{C0F04}とりあえずやってみましょ♥",
-  "en": "",
+  "en": "{C0F04}Let's just give it a try♥",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -346,7 +346,7 @@
  {
   "id": "EV_BA03:00a68",
   "jp": "{C0F04}このさきに魔物の気配がしてるわ",
-  "en": "",
+  "en": "{C0F04}I sense monsters up ahead. Go beat 'em up",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -355,7 +355,7 @@
  {
   "id": "EV_BA03:00a99",
   "jp": "がんばってやっつけてね♥",
-  "en": "",
+  "en": "for me♥",
   "call": "MswStr",
   "box": 48,
   "line": 2,

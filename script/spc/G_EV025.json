@@ -10,7 +10,7 @@
  {
   "id": "G_EV025:00829",
   "jp": "{C0F04}…ギンタ",
-  "en": "",
+  "en": "{C0F04}...Ginta, let's make a deal.",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV025:00844",
   "jp": "とりひきさせてくれ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 45,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV025:009bc",
   "jp": "{C0F04}…オレたちはもうたたかえない",
-  "en": "",
+  "en": "{C0F04}...We can't fight anymore. If you let us go...",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV025:009eb",
   "jp": "みのがしてくれるなら…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV025:00be0",
   "jp": "{C0F04}このÄＲＭをやろう",
-  "en": "",
+  "en": "{C0F04}...I'll give you this ÄRM.",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV025:00e18",
   "jp": "{C0F04}ＯＫ！！",
-  "en": "",
+  "en": "{C0F04}OK!!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV025:00e7a",
   "jp": "{C0F04}おっさんのケガもなおせるしな！",
-  "en": "",
+  "en": "{C0F04}And it can heal the old man's wounds too!",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -132,7 +132,7 @@
  {
   "id": "G_EV025:013f7",
   "jp": "{C0D04}癒しの天使　ＣＬ３{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Healing Angel CL3{C0F04}",
   "call": "MswStr",
   "box": 118,
   "line": 0
@@ -140,7 +140,7 @@
  {
   "id": "G_EV025:01425",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 118,
   "line": 1
@@ -164,7 +164,7 @@
  {
   "id": "G_EV025:016d4",
   "jp": "{C0F04}今回はオレの負けだよ",
-  "en": "",
+  "en": "{C0F04}This time, I lose.",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -190,7 +190,7 @@
  {
   "id": "G_EV025:01780",
   "jp": "{C0F04}でもね…",
-  "en": "",
+  "en": "{C0F04}But y'know... next time, it's your turn.",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -199,7 +199,7 @@
  {
   "id": "G_EV025:0179b",
   "jp": "次はそっちのばんだ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 136,
   "line": 2,
@@ -216,7 +216,7 @@
  {
   "id": "G_EV025:017f4",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -242,7 +242,7 @@
  {
   "id": "G_EV025:01850",
   "jp": "{C0F04}おめーがつよくなったって",
-  "en": "",
+  "en": "{C0F04}If you're sayin' you got stronger...",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -251,7 +251,7 @@
  {
   "id": "G_EV025:0187b",
   "jp": "いうのなら",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -268,7 +268,7 @@
  {
   "id": "G_EV025:0190a",
   "jp": "{C0F04}オレっちはもっと上にいくぜ！",
-  "en": "",
+  "en": "{C0F04}...then yours truly's gonna climb even higher!",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -294,7 +294,7 @@
  {
   "id": "G_EV025:01d2a",
   "jp": "{C0F04}（わすれるな！）",
-  "en": "",
+  "en": "{C0F04}(Don't forget!)",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "G_EV025:01dd2",
   "jp": "{C0F04}（ギンタ）",
-  "en": "",
+  "en": "{C0F04}(Ginta)",
   "call": "MswStr",
   "box": 170,
   "line": 1,

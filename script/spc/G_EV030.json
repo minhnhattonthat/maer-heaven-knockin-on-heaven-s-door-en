@@ -10,7 +10,7 @@
  {
   "id": "G_EV030:004e2",
   "jp": "{C0F04}うわーーーーーーーー！！",
-  "en": "",
+  "en": "{C0F04}Whoaaaaaaaaa!!",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV030:00592",
   "jp": "{C0F04}なんだコレ！！",
-  "en": "",
+  "en": "{C0F04}What IS this thing!!",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV030:006e1",
   "jp": "{C0F04}『マジックカーペット』！！",
-  "en": "",
+  "en": "{C0F04}The 'Magic Carpet'!!",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV030:00791",
   "jp": "{C0F04}ちかいきょりなら",
-  "en": "",
+  "en": "{C0F04}For short distances, this will do nicely!",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "G_EV030:007b4",
   "jp": "こいつでじゅうぶんです！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV030:00c20",
   "jp": "{C0F04}へぇ～～！！",
-  "en": "",
+  "en": "{C0F04}Ooooh~!!",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV030:00c88",
   "jp": "{C0F04}ずいぶんゆうがな",
-  "en": "",
+  "en": "{C0F04}What an elegant ÄRM for getting around~",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV030:00cab",
   "jp": "いどう用ÄＲＭねぇ～",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 68,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV030:00ded",
   "jp": "{C0F04}ハハハハ…",
-  "en": "",
+  "en": "{C0F04}Hahahaha...",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV030:00f1e",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV030:01063",
   "jp": "{C0F04}？？",
-  "en": "",
+  "en": "{C0F04}??",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV030:010fd",
   "jp": "{C0F04}あの方は魔女（まじょ）ですね？",
-  "en": "",
+  "en": "{C0F04}That lady is a witch, is she not?",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV030:011b1",
   "jp": "{C0F04}魔女たちは、レスターヴァの北東にある",
-  "en": "",
+  "en": "{C0F04}Witches live on the islands of Caldia,",
   "call": "MswStr",
   "box": 94,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV030:011e8",
   "jp": "カルデアの島々に住んでいて…",
-  "en": "",
+  "en": "northeast of Lestava...",
   "call": "MswStr",
   "box": 94,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV030:01289",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV030:01321",
   "jp": "{C0F04}どこの国とも交流をもたず",
-  "en": "",
+  "en": "{C0F04}They have no dealings with any country and",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV030:0134c",
   "jp": "完全にこりつして生活しています",
-  "en": "",
+  "en": "live completely cut off.",
   "call": "MswStr",
   "box": 100,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV030:013af",
   "jp": "{C0F04}魔女はカルデアから外に出るだけでも",
-  "en": "",
+  "en": "{C0F04}It is rare for a witch even to leave Caldia,",
   "call": "MswStr",
   "box": 102,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV030:013e4",
   "jp": "めずらしいのです、しかも…",
-  "en": "",
+  "en": "and what's more...",
   "call": "MswStr",
   "box": 102,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV030:01481",
   "jp": "{C0F04}あの方はあく名たかいドロシー！！",
-  "en": "",
+  "en": "{C0F04}that lady is the infamous Dorothy!!",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV030:01539",
   "jp": "{C0F04}あく名？？？",
-  "en": "",
+  "en": "{C0F04}Infamous???",
   "call": "MswStr",
   "box": 108,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV030:015db",
   "jp": "{C0F04}いろいろなところからÄＲＭを",
-  "en": "",
+  "en": "{C0F04}They say she steals, robs and snatches",
   "call": "MswStr",
   "box": 111,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV030:0160a",
   "jp": "ぬすんで、うばって、てにいれるそうです！",
-  "en": "",
+  "en": "ÄRM from all over!",
   "call": "MswStr",
   "box": 111,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV030:0179a",
   "jp": "{C0F04}…？？",
-  "en": "",
+  "en": "{C0F04}...??",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV030:01836",
   "jp": "{C0F04}いってみりゃドロボーですな！",
-  "en": "",
+  "en": "{C0F04}A common thief, you might say!",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV030:018ec",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 125,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV030:019f4",
   "jp": "{C0F04}なんかいってるかーー！？",
-  "en": "",
+  "en": "{C0F04}What was that you just said!? You",
   "call": "MswStr",
   "box": 130,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "G_EV030:01a1f",
   "jp": "犬ーーーーーーーーーー！！",
-  "en": "",
+  "en": "MUUUUUUTT!!",
   "call": "MswStr",
   "box": 130,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV030:01b28",
   "jp": "{C0F04}あ！あふぁ！！",
-  "en": "",
+  "en": "{C0F04}Ah! Ah-fwah!!",
   "call": "MswStr",
   "box": 135,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "G_EV030:01b8e",
   "jp": "{C0F04}う、うつくしい方だと！！",
-  "en": "",
+  "en": "{C0F04}I s-said she's a beautiful lady!!",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV030:01c40",
   "jp": "{C0F04}そう！？",
-  "en": "",
+  "en": "{C0F04}Oh, really!? Then that's fine!!!",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "G_EV030:01c5b",
   "jp": "ならいいわーーー！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "G_EV030:01cb8",
   "jp": "{C0F04}おほほほほほほほーーーー♥",
-  "en": "",
+  "en": "{C0F04}Ohohohohohohohooo♥",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "G_EV030:01d62",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV030:01f13",
   "jp": "{C0F04}あ！！",
-  "en": "",
+  "en": "{C0F04}Ah!!",
   "call": "MswStr",
   "box": 154,
   "line": 1,
@@ -712,7 +712,7 @@
  {
   "id": "G_EV030:02092",
   "jp": "{C0F04}見てギンタ！！",
-  "en": "",
+  "en": "{C0F04}Look, Ginta!! We're coming to the Hildo",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "G_EV030:020b3",
   "jp": "ヒルドたいりくに入るよ！！",
-  "en": "",
+  "en": "Continent!!",
   "call": "MswStr",
   "box": 162,
   "line": 2,

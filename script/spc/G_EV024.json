@@ -10,7 +10,7 @@
  {
   "id": "G_EV024:00987",
   "jp": "{C0F04}ごほぁ！！",
-  "en": "",
+  "en": "{C0F04}Gwahh!!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV024:00a23",
   "jp": "{C0F04}（うそだろ…",
-  "en": "",
+  "en": "{C0F04}(No way... it's only been a few days since",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV024:00a42",
   "jp": "　氷の城をでてからまだ、すう日だぞ！）",
-  "en": "",
+  "en": "the Ice Castle!)",
   "call": "MswStr",
   "box": 56,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV024:00bd3",
   "jp": "{C0F04}（それなのに…",
-  "en": "",
+  "en": "{C0F04}(And still... this guy's as strong as a Bishop!)",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV024:00bf4",
   "jp": "　こいつ、ビショップくらいつよい！）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 65,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV024:00cbf",
   "jp": "{C0F04}ギンタ～～～～～ン♥",
-  "en": "",
+  "en": "{C0F04}Gintaaan~~~♥",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV024:00e1e",
   "jp": "{C0F04}そ、その声は！！",
-  "en": "",
+  "en": "{C0F04}Th-that voice!!",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV024:0149a",
   "jp": "{C0F04}キャーーーーーーーー♥",
-  "en": "",
+  "en": "{C0F04}Kyaaaaaaaaa♥",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV024:01542",
   "jp": "{C0F04}わ・わ・わ・わ！",
-  "en": "",
+  "en": "{C0F04}Wh-wh-wh-whoa!",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV024:017a7",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 135,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV024:0183d",
   "jp": "{C0F04}…ちょ",
-  "en": "",
+  "en": "{C0F04}...Hey",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV024:01995",
   "jp": "{C0F04}…！！！",
-  "en": "",
+  "en": "{C0F04}...!!!",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV024:01a91",
   "jp": "{C0F04}な…！",
-  "en": "",
+  "en": "{C0F04}Wh...! Why you...!",
   "call": "MswStr",
   "box": 150,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV024:01aaa",
   "jp": "このっ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 150,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV024:01c73",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV024:01dca",
   "jp": "{C0F04}ま、まてよ！？",
-  "en": "",
+  "en": "{C0F04}W-wait!? If Dorothy's here, then...!",
   "call": "MswStr",
   "box": 169,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV024:01deb",
   "jp": "ドロシーがいるってことは…！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 169,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV024:021ce",
   "jp": "{C0F04}ひさしぶりっス！",
-  "en": "",
+  "en": "{C0F04}Howdy, Ginta!! Been a while!!",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV024:021f1",
   "jp": "ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 193,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV024:026ac",
   "jp": "{C0F04}…イアン",
-  "en": "",
+  "en": "{C0F04}...Ian, please leave this to me.",
   "call": "MswStr",
   "box": 223,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "G_EV024:026c7",
   "jp": "ここはわたしにまかせてください",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 223,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV024:027f7",
   "jp": "{C0F04}ま、まて！",
-  "en": "",
+  "en": "{C0F04}W-wait! With your strength...",
   "call": "MswStr",
   "box": 230,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "G_EV024:02814",
   "jp": "おまえの力じゃ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 230,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV024:02869",
   "jp": "{C0F04}わかっています",
-  "en": "",
+  "en": "{C0F04}I know. But...",
   "call": "MswStr",
   "box": 232,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV024:0288a",
   "jp": "でも…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 232,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV024:02979",
   "jp": "{C0F04}あの魔力（まりょく）のいちばん",
-  "en": "",
+  "en": "{C0F04}...against the one with the weakest-looking",
   "call": "MswStr",
   "box": 238,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "G_EV024:029aa",
   "jp": "低そうなやつならば！！",
-  "en": "",
+  "en": "magic power!!",
   "call": "MswStr",
   "box": 238,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV024:02b52",
   "jp": "{C0F04}あら…",
-  "en": "",
+  "en": "{C0F04}Oh my... looks like they're underestimating",
   "call": "MswStr",
   "box": 247,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "G_EV024:02b6b",
   "jp": "なめられちゃったものねぇ",
-  "en": "",
+  "en": "us.",
   "call": "MswStr",
   "box": 247,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV024:02d1a",
   "jp": "{C0F04}キミの力、見せておやり！",
-  "en": "",
+  "en": "{C0F04}Show 'em what you've got, Jack!",
   "call": "MswStr",
   "box": 256,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "G_EV024:02d45",
   "jp": "ジャック！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 256,
   "line": 2,

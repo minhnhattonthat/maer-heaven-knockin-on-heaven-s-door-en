@@ -10,7 +10,7 @@
  {
   "id": "EV_BIN01:00523",
   "jp": "{C0F04}うぉーーーーーーっ！",
-  "en": "",
+  "en": "{C0F04}Whoaaaaa! Awesoooome!!",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_BIN01:0054a",
   "jp": "スゲェーーーーー！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BIN01:005a5",
   "jp": "{C0F04}この中に宝物があるのか！！",
-  "en": "",
+  "en": "{C0F04}So there's treasure in here!!",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_BIN01:00704",
   "jp": "{C0F04}どんなÄＲＭなのかは知らないけどね",
-  "en": "",
+  "en": "{C0F04}I don't know what kind of ÄRM it is,",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_BIN01:00739",
   "jp": "",
-  "en": "",
+  "en": "though.",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_BIN01:00782",
   "jp": "{C0F04}相当なレアÄＲＭのはずよ",
-  "en": "",
+  "en": "{C0F04}It should be a seriously rare ÄRM. That",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_BIN01:007ad",
   "jp": "あたしはそのÄＲＭ{C0904}『バッボ』{C0F04}がねらいなの",
-  "en": "",
+  "en": "ÄRM, {C0904}'Babbo'{C0F04}, is what I'm after.",
   "call": "MswStr",
   "box": 42,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "EV_GO10:0036d",
   "jp": "{C0B04}助けて",
-  "en": "",
+  "en": "{C0B04}Help me",
   "call": "MswStr",
   "box": 23,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO10:004b6",
   "jp": "{C0F04}な…！？",
-  "en": "",
+  "en": "{C0F04}Wh...!?",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO10:00518",
   "jp": "{C0F04}今、おまえ「助けて」っていったか？",
-  "en": "",
+  "en": "{C0F04}Did you just say \"help me\"?",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO10:0067d",
   "jp": "{C0F04}あーー！？",
-  "en": "",
+  "en": "{C0F04}Huhhh!?",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO10:006e1",
   "jp": "{C0F04}助けてほしいのはおまえだろ？",
-  "en": "",
+  "en": "{C0F04}You're the one who's gonna need help!",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO10:00710",
   "jp": "バーーーカ！",
-  "en": "",
+  "en": "Stuuupid!",
   "call": "MswStr",
   "box": 41,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO10:007cf",
   "jp": "{C0B04}助けて…ここにいるのは",
-  "en": "",
+  "en": "{C0B04}Help me... I don't want to be here anymore...",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GO10:007f8",
   "jp": "もういや…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 45,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO10:00a69",
   "jp": "{C0F04}（ゆ、ゆうれい！？",
-  "en": "",
+  "en": "{C0F04}(Gh-ghosts!? They want out of here...!?)",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GO10:00a8e",
   "jp": "　ここから出たいのか…！？）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 59,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO10:00af1",
   "jp": "{C0F04}いくぜ、しにくされ！！",
-  "en": "",
+  "en": "{C0F04}Here I come! Drop dead!!",
   "call": "MswStr",
   "box": 61,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "SHOPPA02:001d8",
   "jp": "{C0F04}いらっしゃいまっせ～～",
-  "en": "",
+  "en": "{C0F04}Welcooome, welcooome~",
   "call": "MswStr",
   "box": 8,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SHOPPA02:00254",
   "jp": "{C0F04}ようこそ、わがマジックストーン店へ！！",
-  "en": "",
+  "en": "{C0F04}Welcome to my Magic Stone shop!! Take",
   "call": "MswStr",
   "box": 10,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SHOPPA02:0028d",
   "jp": "ごゆるりとおえらびくっださいね～",
-  "en": "",
+  "en": "your tiiime and pick, okaaay~",
   "call": "MswStr",
   "box": 10,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "SHOPPA02:00328",
   "jp": "{C0F04}ごゆるりとおえらびくっださいね～",
-  "en": "",
+  "en": "{C0F04}Take your tiiime and pick, okaaay~",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "SHOPPA02:004b4",
   "jp": "{C0F04}何を売るつもりかっしら～？",
-  "en": "",
+  "en": "{C0F04}What are you gonna sell, I wonnnder~?",
   "call": "MswStr",
   "box": 20,
   "line": 1,

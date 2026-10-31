@@ -10,7 +10,7 @@
  {
   "id": "G_EV052:004d3",
   "jp": "{C0F04}…ぷい！",
-  "en": "",
+  "en": "{C0F04}...Hmph! (turns away)",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV052:00573",
   "jp": "{C0F04}（まだおこってる…）",
-  "en": "",
+  "en": "{C0F04}(She's still mad...)",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV052:00759",
   "jp": "{C0F04}（ねにもつタイプみたいっス…）",
-  "en": "",
+  "en": "{C0F04}(Reckon she's the type to hold a grudge...)",
   "call": "MswStr",
   "box": 41,
   "line": 1,

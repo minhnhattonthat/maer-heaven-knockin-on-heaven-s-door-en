@@ -10,7 +10,7 @@
  {
   "id": "SHOPPA04:00111",
   "jp": "{C0F04}おつかれでしたら、ぜひ私どもの宿に！",
-  "en": "",
+  "en": "{C0F04}If you're tired, please do stay at our inn!",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SHOPPA04:0018d",
   "jp": "{C0F04}１００Ｐで何名さまでもかまいません",
-  "en": "",
+  "en": "{C0F04}It's 100 P for as many guests as you like.",
   "call": "MswStr",
   "box": 9,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SHOPPA04:001c2",
   "jp": "おとまりになりますか？",
-  "en": "",
+  "en": "Will you be staying?",
   "call": "MswStr",
   "box": 9,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "SHOPPA04:0024c",
   "jp": "{C0F04}ピューターがたりないようです",
-  "en": "",
+  "en": "{C0F04}It seems you're short on Pewter. Please",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "SHOPPA04:0027b",
   "jp": "またおこしください",
-  "en": "",
+  "en": "come again.",
   "call": "MswStr",
   "box": 11,
   "line": 2,
@@ -80,7 +80,7 @@
  {
   "id": "SHOPPA04:00426",
   "jp": "すっかり元気になった！",
-  "en": "",
+  "en": "Everyone is fully rested!",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -112,7 +112,7 @@
  {
   "id": "SHOPPA04:005e0",
   "jp": "{C0F04}またおこしください",
-  "en": "",
+  "en": "{C0F04}Please come again.",
   "call": "MswStr",
   "box": 35,
   "line": 1,

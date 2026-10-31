@@ -10,7 +10,7 @@
  {
   "id": "G_EV051:009ab",
   "jp": "{C0F04}ド、ドロシー…ちゃーん",
-  "en": "",
+  "en": "{C0F04}D-Dorothy... chaaan, we kinda need ya to",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV051:009d4",
   "jp": "ちょっと力をかしてほしいんだけど…",
-  "en": "",
+  "en": "lend us a hand...",
   "call": "MswStr",
   "box": 54,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV051:00a9c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV051:00bbb",
   "jp": "{C0F04}な、なあて…",
-  "en": "",
+  "en": "{C0F04}C-c'mon, pretty please...",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV051:00c59",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV051:00dd4",
   "jp": "{C0F04}ド…ドロシーかわいい！",
-  "en": "",
+  "en": "{C0F04}D... Dorothy, you're so cute!",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV051:00f1e",
   "jp": "{C0F04}（ぴく）",
-  "en": "",
+  "en": "{C0F04}(twitch)",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV051:0106b",
   "jp": "{C0F04}ドロシーかっこいい！！",
-  "en": "",
+  "en": "{C0F04}Dorothy, you're so cool!!",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV051:01178",
   "jp": "{C0F04}そ、そう？",
-  "en": "",
+  "en": "{C0F04}Y-you think so?",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV051:01367",
   "jp": "{C0F04}（ええで！もっとほめろ！！）",
-  "en": "",
+  "en": "{C0F04}(Nice! Keep the praise comin'!!)",
   "call": "MswStr",
   "box": 103,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV051:014fc",
   "jp": "{C0F04}メルヘヴンいちばんの",
-  "en": "",
+  "en": "{C0F04}The best ÄRM user in all of MÄR Heaven!!",
   "call": "MswStr",
   "box": 111,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "G_EV051:01523",
   "jp": "ÄＲＭつかい！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 111,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV051:015e8",
   "jp": "{C0F04}いや、いちばんなんて、そんな",
-  "en": "",
+  "en": "{C0F04}Oh, the best? Stop, I couldn't... Ohohohoho!",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV051:01617",
   "jp": "オホホホホホ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 115,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV051:016e2",
   "jp": "{C0F04}しかたないわねぇ",
-  "en": "",
+  "en": "{C0F04}Oh, fine then! You can't do a thing without",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV051:01705",
   "jp": "私がいないとなにもできないんだから！",
-  "en": "",
+  "en": "me, can you!",
   "call": "MswStr",
   "box": 119,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV051:01b16",
   "jp": "{C0F04}サンキュー！ドロシー！！",
-  "en": "",
+  "en": "{C0F04}Thanks, Dorothy!!",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV051:01c71",
   "jp": "{C0F04}よしワシもほめる！",
-  "en": "",
+  "en": "{C0F04}Very well, I shall praise her too!",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV051:01d1b",
   "jp": "{C0F04}泣く子もだまる、",
-  "en": "",
+  "en": "{C0F04}The terrifying witch who silences crying",
   "call": "MswStr",
   "box": 154,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "G_EV051:01d3e",
   "jp": "おそろしい魔女（まじょ）！！",
-  "en": "",
+  "en": "babies!!",
   "call": "MswStr",
   "box": 154,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV051:01f10",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 164,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV051:020ac",
   "jp": "{C0F04}（アホか！！",
-  "en": "",
+  "en": "{C0F04}(You idiot!! That ain't praise at ALL!!)",
   "call": "MswStr",
   "box": 173,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV051:020cb",
   "jp": "　ぜっんぜん、ほめてへんやん！！）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 173,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV051:02199",
   "jp": "{C0F04}なんで！？なんでぇ！？",
-  "en": "",
+  "en": "{C0F04}Why!? Whyyy!?",
   "call": "MswStr",
   "box": 177,
   "line": 1,

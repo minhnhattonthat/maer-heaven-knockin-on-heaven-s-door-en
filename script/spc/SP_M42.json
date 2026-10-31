@@ -10,7 +10,7 @@
  {
   "id": "SP_M42:002cd",
   "jp": "{C0F04}氷のことはスノウにまかせるんだ",
-  "en": "",
+  "en": "{C0F04}Leave the ice to Snow. Put Snow in the lead",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "SP_M42:002fe",
   "jp": "スノウをパーティーの先頭にしてやれ",
-  "en": "",
+  "en": "of your party.",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M42:00365",
   "jp": "{C0904}Ｌボタン{C0F04}か{C0904}Ｒボタン{C0F04}で、パーティーの先頭に",
-  "en": "",
+  "en": "{C0904}L Button{C0F04} or {C0904}R Button{C0F04} lets ya pick who takes",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SP_M42:003b5",
   "jp": "立つやつをきめられるぜ",
-  "en": "",
+  "en": "the lead of the party.",
   "call": "MswStr",
   "box": 21,
   "line": 2,

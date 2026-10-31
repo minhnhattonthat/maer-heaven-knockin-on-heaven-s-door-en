@@ -10,7 +10,7 @@
  {
   "id": "EV_VE01:00853",
   "jp": "{C0F04}水と森の村",
-  "en": "",
+  "en": "{C0F04}The village of water and woods... Vestry...",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_VE01:00870",
   "jp": "ヴェストリ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 48,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_VE01:008c3",
   "jp": "{C0F04}美しいとこやったのに…",
-  "en": "",
+  "en": "{C0F04}It used ta be such a beautiful place...",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_VE01:00a1c",
   "jp": "{C0F04}……！！！！",
-  "en": "",
+  "en": "{C0F04}......!!!!",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_VE01:00b6d",
   "jp": "{C0F04}ひでぇ…",
-  "en": "",
+  "en": "{C0F04}Aw, that's just awful...",
   "call": "MswStr",
   "box": 64,
   "line": 1,

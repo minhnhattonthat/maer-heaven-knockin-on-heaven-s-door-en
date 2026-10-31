@@ -10,7 +10,7 @@
  {
   "id": "HI_M07:002cd",
   "jp": "{C0F04}…そっちはナナシたちが",
-  "en": "",
+  "en": "{C0F04}...That is the path Nanashi and the others",
   "call": "MswStr",
   "box": 18,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M07:002f6",
   "jp": "すすんだみちだぞ！",
-  "en": "",
+  "en": "took!",
   "call": "MswStr",
   "box": 18,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M07:0034f",
   "jp": "{C0F04}あ…そっか…",
-  "en": "",
+  "en": "{C0F04}Oh... right...",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M07:006cc",
   "jp": "{C0F04}！！！",
-  "en": "",
+  "en": "{C0F04}!!!",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "HI_M07:007f7",
   "jp": "{C0F04}どうしたバッボ…？",
-  "en": "",
+  "en": "{C0F04}What's wrong, Babbo...?",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "HI_M07:00863",
   "jp": "{C0F04}なにかいる！",
-  "en": "",
+  "en": "{C0F04}Something is here!",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "HI_M07:00961",
   "jp": "{C0F04}…そこにだれかおるな！？",
-  "en": "",
+  "en": "{C0F04}...Someone is there, are they not!?",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "HI_M07:009d3",
   "jp": "{C0F04}出て来い！！！！",
-  "en": "",
+  "en": "{C0F04}Show yourself!!!!",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "HI_M07:00e44",
   "jp": "{C0F04}……",
-  "en": "",
+  "en": "{C0F04}......",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "HI_M07:011ea",
   "jp": "{C0F04}そっちはギンタが",
-  "en": "",
+  "en": "{C0F04}That's the way Ginta went.",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "HI_M07:0120d",
   "jp": "行ったみちやな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 110,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "HI_M07:01264",
   "jp": "{C0F04}もどってきちゃった？",
-  "en": "",
+  "en": "{C0F04}Did we end up back here?",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "HI_M07:016b4",
   "jp": "{C0F04}おっと…",
-  "en": "",
+  "en": "{C0F04}Whoops...",
   "call": "MswStr",
   "box": 139,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "HI_M07:01718",
   "jp": "{C0F04}…！",
-  "en": "",
+  "en": "{C0F04}...!",
   "call": "MswStr",
   "box": 141,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "HI_M07:01776",
   "jp": "{C0F04}気付いたか？",
-  "en": "",
+  "en": "{C0F04}Ya noticed? Figures, you bein' a witch an'",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "HI_M07:01795",
   "jp": "さすが、魔女（まじょ）、やな…",
-  "en": "",
+  "en": "all...",
   "call": "MswStr",
   "box": 143,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "HI_M07:017fc",
   "jp": "{C0F04}魔力（まりょく）…",
-  "en": "",
+  "en": "{C0F04}Magic power...",
   "call": "MswStr",
   "box": 145,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "CH_M09A:00109",
   "jp": "{C0F04}もうデッキはくんでいるかい？",
-  "en": "",
+  "en": "{C0F04}Have you built your deck yet?",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M09A:0017f",
   "jp": "{C0F04}バトルでÄＲＭをつかうには",
-  "en": "",
+  "en": "{C0F04}If you want to use ÄRM in battle, you've",
   "call": "MswStr",
   "box": 9,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M09A:001ac",
   "jp": "デッキにÄＲＭをくまないと、いけないよ",
-  "en": "",
+  "en": "gotta put them in your deck first!",
   "call": "MswStr",
   "box": 9,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M09A:00219",
   "jp": "{C0F04}デッキには　{C0904}２０{C0F04}こまでÄＲＭをくめるから",
-  "en": "",
+  "en": "{C0F04}A deck can hold up to {C0904}20{C0F04} ÄRM, so think",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M09A:00262",
   "jp": "よくかんがえてÄＲＭをえらぶんだ",
-  "en": "",
+  "en": "hard about which ones you pick.",
   "call": "MswStr",
   "box": 11,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "CH_M09A:003d3",
   "jp": "{C0F04}ÄＲＭにはそれぞれ、魔力コストが",
-  "en": "",
+  "en": "{C0F04}Every ÄRM has its own magic power cost,",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "CH_M09A:00406",
   "jp": "きまっているの",
-  "en": "",
+  "en": "you know.",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "CH_M09A:0045b",
   "jp": "{C0F04}デッキをくむとき、じぶんの魔力をこえる",
-  "en": "",
+  "en": "{C0F04}When you build a deck, you can't put in ÄRM",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "CH_M09A:00494",
   "jp": "ÄＲＭをくむことは、できないのよ",
-  "en": "",
+  "en": "that cost more than your magic power.",
   "call": "MswStr",
   "box": 22,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "CH_M09A:004fb",
   "jp": "{C0F04}ちゅういしてね",
-  "en": "",
+  "en": "{C0F04}So be careful, okay?",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "CH_M09A:0066d",
   "jp": "{C0F04}この辺にたむろしている",
-  "en": "",
+  "en": "{C0F04}The thieves hangin' around here have been",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "CH_M09A:00696",
   "jp": "とうぞくたちにおかしな動きがある",
-  "en": "",
+  "en": "up to somethin' funny.",
   "call": "MswStr",
   "box": 33,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "CH_M09A:006fd",
   "jp": "{C0F04}かねめのものをもっているなら",
-  "en": "",
+  "en": "{C0F04}If you've got anything valuable on you, you'd",
   "call": "MswStr",
   "box": 35,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "CH_M09A:0072c",
   "jp": "きをつけるんだな",
-  "en": "",
+  "en": "better watch out.",
   "call": "MswStr",
   "box": 35,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "CH_M09A:0088f",
   "jp": "{C0F04}と、とうぞく？？",
-  "en": "",
+  "en": "{C0F04}Th-thieves??",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "CH_M09A:009c6",
   "jp": "{C0F04}この街でとうぞくがあばれた",
-  "en": "",
+  "en": "{C0F04}Thieves raisin' trouble in this town? Can't",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "CH_M09A:009f3",
   "jp": "なんて話は、あまりきかないっスけど…",
-  "en": "",
+  "en": "say I've heard of that, y'know...",
   "call": "MswStr",
   "box": 51,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "CH_M09A:00c4d",
   "jp": "{C0F04}あら！ジャックちゃん！",
-  "en": "",
+  "en": "{C0F04}Oh my! Jack-chan! Welcome, welcome!",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "CH_M09A:00c76",
   "jp": "いらっしゃい！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 66,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "CH_M09A:00d98",
   "jp": "{C0F04}こんちわっス！",
-  "en": "",
+  "en": "{C0F04}Howdy, ma'am!",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "CH_M09A:00dfe",
   "jp": "{C0F04}お母さんは元気？",
-  "en": "",
+  "en": "{C0F04}How's your mother doing?",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "CH_M09A:00e6a",
   "jp": "{C0F04}おかげで元気すぎる",
-  "en": "",
+  "en": "{C0F04}She's doin' great. Too great, if ya ask me!!",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "CH_M09A:00e8f",
   "jp": "くらいっスよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 77,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "CH_M09A:01035",
   "jp": "{C0F04}ここはパヅタウンのいちばよ",
-  "en": "",
+  "en": "{C0F04}This is the Paz Town market!",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "CH_M09A:011b1",
   "jp": "{C0F04}ÄＲＭやマジックストーンは",
-  "en": "",
+  "en": "{C0F04}ÄRM and Magic Stones suit some people",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "CH_M09A:011de",
   "jp": "使う人によって、向き不向きがあるよ",
-  "en": "",
+  "en": "better than others.",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "CH_M09A:01245",
   "jp": "{C0F04}買うときは、使えるかどうか",
-  "en": "",
+  "en": "{C0F04}So before you buy, make sure you can",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "CH_M09A:01272",
   "jp": "ちゃんとかくにんしておくんだね",
-  "en": "",
+  "en": "actually use them, okay?",
   "call": "MswStr",
   "box": 99,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "CH_M09A:01424",
   "jp": "{C0F04}いらっしゃい♪",
-  "en": "",
+  "en": "{C0F04}Welcome~!",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "CH_M09A:01557",
   "jp": "{C0F04}ディメンションÄＲＭってある？",
-  "en": "",
+  "en": "{C0F04}Got any Dimension ÄRM?",
   "call": "MswStr",
   "box": 117,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "CH_M09A:015d1",
   "jp": "{C0F04}あるわよ♥",
-  "en": "",
+  "en": "{C0F04}We sure do♥ They're a little pricey, though.",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "CH_M09A:015ee",
   "jp": "ちょっとねだんがはるけれど",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 119,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "CH_M09A:01651",
   "jp": "{C0F04}どんなのがいいの？",
-  "en": "",
+  "en": "{C0F04}What kind are you looking for?",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "CH_M09A:016bd",
   "jp": "{C0F04}オレが見たやつは…",
-  "en": "",
+  "en": "{C0F04}The one I saw...",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "CH_M09A:01729",
   "jp": "{C0F04}目が十字で",
-  "en": "",
+  "en": "{C0F04}It had cross-shaped eyes and its tongue",
   "call": "MswStr",
   "box": 125,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "CH_M09A:01746",
   "jp": "舌を出してる形してた！",
-  "en": "",
+  "en": "was sticking out!",
   "call": "MswStr",
   "box": 125,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "CH_M09A:017a5",
   "jp": "{C0F04}それ…",
-  "en": "",
+  "en": "{C0F04}That's...",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "CH_M09A:01807",
   "jp": "{C0904}『門ばんピエロ』{C0F04}！？",
-  "en": "",
+  "en": "{C0904}'Gatekeeper Clown'{C0F04}!?",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "CH_M09A:01949",
   "jp": "{C0F04}…！？？",
-  "en": "",
+  "en": "{C0F04}...!??",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -686,7 +686,7 @@
  {
   "id": "CH_M09A:019ad",
   "jp": "{C0F04}ディメンションの中では",
-  "en": "",
+  "en": "{C0F04}It's one of the very top-class Dimension",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "CH_M09A:019d6",
   "jp": "さい高クラスのÄＲＭよ！",
-  "en": "",
+  "en": "ÄRM!",
   "call": "MswStr",
   "box": 138,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "CH_M09A:01a37",
   "jp": "{C0F04}だれも見たことないだろうし",
-  "en": "",
+  "en": "{C0F04}Nobody's ever seen it, and nobody knows",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "CH_M09A:01a64",
   "jp": "どういう能力があるかもわからない",
-  "en": "",
+  "en": "what it can do.",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -738,7 +738,7 @@
  {
   "id": "CH_M09A:01acd",
   "jp": "{C0F04}どっかのえらい王さまとか、魔女（まじょ）",
-  "en": "",
+  "en": "{C0F04}Only some big important king or a witch",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -747,7 +747,7 @@
  {
   "id": "CH_M09A:01b08",
   "jp": "とかじゃないともってないわね",
-  "en": "",
+  "en": "would ever own one.",
   "call": "MswStr",
   "box": 142,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "CH_M09A:01c03",
   "jp": "{C0F04}さがすの…",
-  "en": "",
+  "en": "{C0F04}Finding it... sounds like a real pain!",
   "call": "MswStr",
   "box": 147,
   "line": 1,
@@ -773,7 +773,7 @@
  {
   "id": "CH_M09A:01c20",
   "jp": "たいへんそうだな！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 147,
   "line": 2,
@@ -790,7 +790,7 @@
  {
   "id": "CH_M09A:01c7b",
   "jp": "{C0F04}なんか…",
-  "en": "",
+  "en": "{C0F04}Somehow... you look kinda happy about that,",
   "call": "MswStr",
   "box": 149,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "CH_M09A:01c96",
   "jp": "ちょっとうれしそうっスよ？？",
-  "en": "",
+  "en": "y'know??",
   "call": "MswStr",
   "box": 149,
   "line": 2,
@@ -816,7 +816,7 @@
  {
   "id": "CH_M09A:01cf9",
   "jp": "{C0F04}だって…まだまだこのせかいを",
-  "en": "",
+  "en": "{C0F04}'Cause... it means I get to keep adventuring",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -825,7 +825,7 @@
  {
   "id": "CH_M09A:01d28",
   "jp": "ぼうけんできるんだぜ！",
-  "en": "",
+  "en": "in this world!",
   "call": "MswStr",
   "box": 151,
   "line": 2,
@@ -842,7 +842,7 @@
  {
   "id": "CH_M09A:01e1d",
   "jp": "{C0F04}ジャックとも",
-  "en": "",
+  "en": "{C0F04}And I get to stick around with you too,",
   "call": "MswStr",
   "box": 156,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "CH_M09A:01e3c",
   "jp": "いっしょにいられるしな",
-  "en": "",
+  "en": "Jack!",
   "call": "MswStr",
   "box": 156,
   "line": 2,
@@ -868,7 +868,7 @@
  {
   "id": "CH_M09A:01f33",
   "jp": "{C0F04}…！",
-  "en": "",
+  "en": "{C0F04}...!",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -894,7 +894,7 @@
  {
   "id": "CH_M09A:01ff3",
   "jp": "{C0F04}『門ばんピエロ』はさすがに",
-  "en": "",
+  "en": "{C0F04}We don't have a 'Gatekeeper Clown', of",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -903,7 +903,7 @@
  {
   "id": "CH_M09A:02020",
   "jp": "ないけれど…",
-  "en": "",
+  "en": "course...",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -920,7 +920,7 @@
  {
   "id": "CH_M09A:02075",
   "jp": "{C0F04}他のÄＲＭはたくさん",
-  "en": "",
+  "en": "{C0F04}But we've got plenty of other ÄRM in",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -929,7 +929,7 @@
  {
   "id": "CH_M09A:0209c",
   "jp": "おいてあるわよ",
-  "en": "",
+  "en": "stock!",
   "call": "MswStr",
   "box": 167,
   "line": 2,
@@ -946,7 +946,7 @@
  {
   "id": "CH_M09A:020f3",
   "jp": "{C0F04}見ていかない？",
-  "en": "",
+  "en": "{C0F04}Wanna take a look?",
   "call": "MswStr",
   "box": 169,
   "line": 1,

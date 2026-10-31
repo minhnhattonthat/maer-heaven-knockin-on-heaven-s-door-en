@@ -2,7 +2,7 @@
  {
   "id": "code:087468",
   "jp": "キャラクターをえらんでください",
-  "en": "",
+  "en": "Choose a character.",
   "slot": 32,
   "refs": [
    "01b9d0"
@@ -16,7 +16,7 @@
  {
   "id": "code:087528",
   "jp": "Ｐ　ＧＥＴ！！",
-  "en": "",
+  "en": "P GET!!",
   "slot": 16,
   "refs": [
    "01e0cc"
@@ -25,7 +25,7 @@
  {
   "id": "code:087538",
   "jp": "%s　ＧＥＴ！！",
-  "en": "",
+  "en": "%s GET!!",
   "slot": 16,
   "refs": [
    "01e104",
@@ -35,7 +35,7 @@
  {
   "id": "code:087548",
   "jp": "しかし持ちきれなかった",
-  "en": "",
+  "en": "...but you couldn't carry it.",
   "slot": 24,
   "refs": [
    "01e150"
@@ -44,7 +44,7 @@
  {
   "id": "code:0883ac",
   "jp": "は消えてしまいます　よろしいですか？",
-  "en": "",
+  "en": "will be erased. Is that OK?",
   "slot": 40,
   "refs": [
    "1b0770"
@@ -53,7 +53,7 @@
  {
   "id": "code:0883d4",
   "jp": "ストーリーモードを再開するとセーブデータ",
-  "en": "",
+  "en": "If you resume Story Mode, that save data",
   "slot": 44,
   "refs": [
    "1b076c"
@@ -62,7 +62,7 @@
  {
   "id": "code:088400",
   "jp": "ダンジョン探索中のセーブデータがあります",
-  "en": "",
+  "en": "There's save data from a dungeon trip.",
   "slot": 44,
   "refs": [
    "1b0768"
@@ -71,7 +71,7 @@
  {
   "id": "code:088460",
   "jp": "ネイチャーÄＲＭ／",
-  "en": "",
+  "en": "Nature ÄRM/",
   "slot": 20,
   "refs": [
    "1b07e0"
@@ -80,7 +80,7 @@
  {
   "id": "code:088474",
   "jp": "ガーディアンÄＲＭ／",
-  "en": "",
+  "en": "Guardian ÄRM/",
   "slot": 24,
   "refs": [
    "1b07dc"
@@ -89,7 +89,7 @@
  {
   "id": "code:08848c",
   "jp": "ダークネスÄＲＭ／",
-  "en": "",
+  "en": "Darkness ÄRM/",
   "slot": 20,
   "refs": [
    "1b07d8"
@@ -98,7 +98,7 @@
  {
   "id": "code:0884a0",
   "jp": "ホーリーÄＲＭ／",
-  "en": "",
+  "en": "Holy ÄRM/",
   "slot": 20,
   "refs": [
    "1b07d4"
@@ -107,7 +107,7 @@
  {
   "id": "code:0884b4",
   "jp": "ディメンションÄＲＭ／",
-  "en": "",
+  "en": "Dimension ÄRM/",
   "slot": 24,
   "refs": [
    "1b07d0"
@@ -116,7 +116,7 @@
  {
   "id": "code:0884cc",
   "jp": "ウェポンÄＲＭ／",
-  "en": "",
+  "en": "Weapon ÄRM/",
   "slot": 20,
   "refs": [
    "1b07cc"
@@ -125,7 +125,7 @@
  {
   "id": "code:0884e0",
   "jp": "雷属性",
-  "en": "",
+  "en": "Thunder",
   "slot": 8,
   "refs": [
    "1b07fc"
@@ -134,7 +134,7 @@
  {
   "id": "code:0884e8",
   "jp": "地属性",
-  "en": "",
+  "en": "Earth",
   "slot": 8,
   "refs": [
    "1b07f8"
@@ -143,7 +143,7 @@
  {
   "id": "code:0884f0",
   "jp": "風属性",
-  "en": "",
+  "en": "Wind",
   "slot": 8,
   "refs": [
    "1b07f4"
@@ -152,7 +152,7 @@
  {
   "id": "code:0884f8",
   "jp": "木属性",
-  "en": "",
+  "en": "Wood",
   "slot": 8,
   "refs": [
    "1b07f0"
@@ -161,7 +161,7 @@
  {
   "id": "code:088500",
   "jp": "火属性",
-  "en": "",
+  "en": "Fire",
   "slot": 8,
   "refs": [
    "1b07ec"
@@ -170,7 +170,7 @@
  {
   "id": "code:088508",
   "jp": "水属性",
-  "en": "",
+  "en": "Water",
   "slot": 8,
   "refs": [
    "1b07e8"
@@ -179,7 +179,7 @@
  {
   "id": "code:088510",
   "jp": "無属性",
-  "en": "",
+  "en": "No element",
   "slot": 8,
   "refs": [
    "1b07e4"
@@ -188,7 +188,7 @@
  {
   "id": "code:088518",
   "jp": "装備ÄＲＭ",
-  "en": "",
+  "en": "Equipped ÄRM",
   "slot": 12,
   "refs": [
    "1b0860"
@@ -197,7 +197,7 @@
  {
   "id": "code:088524",
   "jp": "雷　",
-  "en": "",
+  "en": "Thun.",
   "slot": 8,
   "refs": [
    "1b085c"
@@ -206,7 +206,7 @@
  {
   "id": "code:08852c",
   "jp": "地　",
-  "en": "",
+  "en": "Earth",
   "slot": 8,
   "refs": [
    "1b0858"
@@ -215,7 +215,7 @@
  {
   "id": "code:088534",
   "jp": "風　",
-  "en": "",
+  "en": "Wind",
   "slot": 8,
   "refs": [
    "1b0854"
@@ -224,7 +224,7 @@
  {
   "id": "code:08853c",
   "jp": "木　",
-  "en": "",
+  "en": "Wood",
   "slot": 8,
   "refs": [
    "1b0850"
@@ -233,7 +233,7 @@
  {
   "id": "code:088544",
   "jp": "火　",
-  "en": "",
+  "en": "Fire",
   "slot": 8,
   "refs": [
    "1b084c"
@@ -242,7 +242,7 @@
  {
   "id": "code:08854c",
   "jp": "水　",
-  "en": "",
+  "en": "Wtr.",
   "slot": 8,
   "refs": [
    "1b0848"
@@ -260,7 +260,7 @@
  {
   "id": "code:088558",
   "jp": "魔力　　",
-  "en": "",
+  "en": "Magic",
   "slot": 12,
   "refs": [
    "1b0840"
@@ -269,7 +269,7 @@
  {
   "id": "code:088564",
   "jp": "防御力　",
-  "en": "",
+  "en": "Defense",
   "slot": 12,
   "refs": [
    "1b083c"
@@ -278,7 +278,7 @@
  {
   "id": "code:088570",
   "jp": "攻撃力　",
-  "en": "",
+  "en": "Attack",
   "slot": 12,
   "refs": [
    "1b0838"
@@ -287,7 +287,7 @@
  {
   "id": "code:08857c",
   "jp": "体力　　",
-  "en": "",
+  "en": "HP",
   "slot": 12,
   "refs": [
    "1b0834"
@@ -296,7 +296,7 @@
  {
   "id": "code:088588",
   "jp": "ＥＸＰ　　　ＮＥＸＴ",
-  "en": "",
+  "en": "EXP{p31}{p5}NEXT",
   "slot": 24,
   "refs": [
    "1b0830"
@@ -305,7 +305,7 @@
  {
   "id": "code:0885a0",
   "jp": "ＬＶ．　",
-  "en": "",
+  "en": "LV.",
   "slot": 12,
   "refs": [
    "1b082c"
@@ -413,7 +413,7 @@
  {
   "id": "code:0885d8",
   "jp": "彫金師",
-  "en": "",
+  "en": "Engraver",
   "slot": 8,
   "refs": [
    "1b086c"
@@ -422,7 +422,7 @@
  {
   "id": "code:0885e0",
   "jp": "アイテム屋",
-  "en": "",
+  "en": "Item Dealer",
   "slot": 12,
   "refs": [
    "1b0868"
@@ -431,7 +431,7 @@
  {
   "id": "code:0885ec",
   "jp": "ÄＲＭ屋",
-  "en": "",
+  "en": "ÄRM Dealer",
   "slot": 12,
   "refs": [
    "1b0864"
@@ -440,7 +440,7 @@
  {
   "id": "code:0885f8",
   "jp": "彫金は無理ですのん",
-  "en": "",
+  "en": "Can't engrave that, nonn.",
   "slot": 20,
   "refs": [
    "1b08ac"
@@ -449,7 +449,7 @@
  {
   "id": "code:08860c",
   "jp": "かんぺきですのん、きっと",
-  "en": "",
+  "en": "It's perfect, nonn... I think.",
   "slot": 28,
   "refs": [
    "1b08a8"
@@ -458,7 +458,7 @@
  {
   "id": "code:088628",
   "jp": "できましたのーん！",
-  "en": "",
+  "en": "All done, nonnn!",
   "slot": 20,
   "refs": [
    "1b08a4"
@@ -467,7 +467,7 @@
  {
   "id": "code:08863c",
   "jp": "売りました。",
-  "en": "",
+  "en": "Sold!",
   "slot": 16,
   "refs": [
    "1b08a0"
@@ -476,7 +476,7 @@
  {
   "id": "code:08864c",
   "jp": "を",
-  "en": "",
+  "en": ":",
   "slot": 4,
   "refs": [
    "1b089c"
@@ -485,7 +485,7 @@
  {
   "id": "code:088650",
   "jp": "彫金材料がわかりましたのん！",
-  "en": "",
+  "en": "I know its engraving materials now, nonn!",
   "slot": 32,
   "refs": [
    "1b0898"
@@ -494,7 +494,7 @@
  {
   "id": "code:088670",
   "jp": "の",
-  "en": "",
+  "en": ":",
   "slot": 4,
   "refs": [
    "1b0894"
@@ -503,7 +503,7 @@
  {
   "id": "code:088674",
   "jp": "材料が足りないですのん",
-  "en": "",
+  "en": "Not enough materials, nonn.",
   "slot": 24,
   "refs": [
    "1b0890"
@@ -512,7 +512,7 @@
  {
   "id": "code:08868c",
   "jp": "彫金するですのん？",
-  "en": "",
+  "en": "Shall I engrave it, nonn?",
   "slot": 20,
   "refs": [
    "1b088c"
@@ -521,7 +521,7 @@
  {
   "id": "code:0886a0",
   "jp": "これだけの材料がいるのん",
-  "en": "",
+  "en": "It needs all these materials, nonn.",
   "slot": 28,
   "refs": [
    "1b0888"
@@ -530,7 +530,7 @@
  {
   "id": "code:0886bc",
   "jp": "どうだい？",
-  "en": "",
+  "en": "How 'bout it?",
   "slot": 12,
   "refs": [
    "1b0884"
@@ -539,7 +539,7 @@
  {
   "id": "code:0886c8",
   "jp": "Ｐで買いとります。",
-  "en": "",
+  "en": "P is my offer.",
   "slot": 20,
   "refs": [
    "1b0880"
@@ -548,7 +548,7 @@
  {
   "id": "code:0886dc",
   "jp": "これ以上もちきれません",
-  "en": "",
+  "en": "You can't carry any more.",
   "slot": 24,
   "refs": [
    "1b087c"
@@ -557,7 +557,7 @@
  {
   "id": "code:0886f4",
   "jp": "ピュ－ターがたりません",
-  "en": "",
+  "en": "Not enough Pewter.",
   "slot": 24,
   "refs": [
    "1b0878"
@@ -566,7 +566,7 @@
  {
   "id": "code:08870c",
   "jp": "買いました。",
-  "en": "",
+  "en": "Bought!",
   "slot": 16,
   "refs": [
    "1b0874"
@@ -575,7 +575,7 @@
  {
   "id": "code:08871c",
   "jp": "Ｐになります。",
-  "en": "",
+  "en": "P, please.",
   "slot": 16,
   "refs": [
    "1b0870"
@@ -584,7 +584,7 @@
  {
   "id": "code:08872c",
   "jp": "ストック",
-  "en": "",
+  "en": "Stock",
   "slot": 12,
   "refs": [
    "1b08b4"
@@ -593,7 +593,7 @@
  {
   "id": "code:088738",
   "jp": "どこから取りますか？",
-  "en": "",
+  "en": "Take it from where?",
   "slot": 24,
   "refs": [
    "1b08b0"
@@ -602,7 +602,7 @@
  {
   "id": "code:088750",
   "jp": "増えました。",
-  "en": "",
+  "en": "points!",
   "slot": 16,
   "refs": [
    "1b08d4"
@@ -611,7 +611,7 @@
  {
   "id": "code:088760",
   "jp": "防御力が",
-  "en": "",
+  "en": "Defense went up by",
   "slot": 12,
   "refs": [
    "1b08d0"
@@ -620,7 +620,7 @@
  {
   "id": "code:08876c",
   "jp": "攻撃力が",
-  "en": "",
+  "en": "Attack went up by",
   "slot": 12,
   "refs": [
    "1b08cc"
@@ -629,7 +629,7 @@
  {
   "id": "code:088778",
   "jp": "魔力が",
-  "en": "",
+  "en": "Magic power went up by",
   "slot": 8,
   "refs": [
    "1b08c8"
@@ -638,7 +638,7 @@
  {
   "id": "code:088780",
   "jp": "体力が",
-  "en": "",
+  "en": "HP went up by",
   "slot": 8,
   "refs": [
    "1b08c4"
@@ -647,7 +647,7 @@
  {
   "id": "code:088788",
   "jp": "ダンジョンモードでは使用できません",
-  "en": "",
+  "en": "You can't use that in Dungeon Mode.",
   "slot": 36,
   "refs": [
    "1b08c0"
@@ -656,7 +656,7 @@
  {
   "id": "code:0887ac",
   "jp": "それは使用できません",
-  "en": "",
+  "en": "That can't be used.",
   "slot": 24,
   "refs": [
    "1b08bc"
@@ -665,7 +665,7 @@
  {
   "id": "code:0887c4",
   "jp": "だれにつかう？",
-  "en": "",
+  "en": "Use it on who?",
   "slot": 20,
   "refs": [
    "1b08b8"
@@ -674,7 +674,7 @@
  {
   "id": "code:0887f4",
   "jp": "何もありません。",
-  "en": "",
+  "en": "Nothing here.",
   "slot": 20,
   "refs": [
    "053950"
@@ -683,7 +683,7 @@
  {
   "id": "code:08885c",
   "jp": "だれのデッキをへんしゅうしますか？",
-  "en": "",
+  "en": "Whose deck will you edit?",
   "slot": 36,
   "refs": [
    "1b0914"
@@ -692,7 +692,7 @@
  {
   "id": "code:088880",
   "jp": "クリアすると使えるようになります。",
-  "en": "",
+  "en": "Becomes available once you clear it.",
   "slot": 36,
   "refs": [
    "1b0910"
@@ -701,7 +701,7 @@
  {
   "id": "code:0888a4",
   "jp": "ダンジョン内で手に入れたÄＲＭです",
-  "en": "",
+  "en": "ÄRM you found inside dungeons.",
   "slot": 36,
   "refs": [
    "1b090c"
@@ -710,7 +710,7 @@
  {
   "id": "code:0888c8",
   "jp": "パーティーをへんこうします",
-  "en": "",
+  "en": "Change your party.",
   "slot": 28,
   "refs": [
    "1b0908"
@@ -719,7 +719,7 @@
  {
   "id": "code:0888e4",
   "jp": "ÄＲＭのリストをみます",
-  "en": "",
+  "en": "View your ÄRM list.",
   "slot": 24,
   "refs": [
    "1b0904"
@@ -728,7 +728,7 @@
  {
   "id": "code:0888fc",
   "jp": "ステータスをみます",
-  "en": "",
+  "en": "View your status.",
   "slot": 20,
   "refs": [
    "1b0900"
@@ -737,7 +737,7 @@
  {
   "id": "code:088910",
   "jp": "アイテムをつかいます",
-  "en": "",
+  "en": "Use an item.",
   "slot": 24,
   "refs": [
    "1b08fc"
@@ -746,7 +746,7 @@
  {
   "id": "code:088928",
   "jp": "ÄＲＭのデッキをへんしゅうします",
-  "en": "",
+  "en": "Edit your ÄRM deck.",
   "slot": 36,
   "refs": [
    "1b08f8"
@@ -755,7 +755,7 @@
  {
   "id": "code:0889a4",
   "jp": "ファントム",
-  "en": "",
+  "en": "Phantom",
   "slot": 12,
   "refs": [
    "1b0964"
@@ -764,7 +764,7 @@
  {
   "id": "code:0889b0",
   "jp": "アルヴィス",
-  "en": "",
+  "en": "Alviss",
   "slot": 12,
   "refs": [
    "1b0960"
@@ -773,7 +773,7 @@
  {
   "id": "code:0889bc",
   "jp": "ナナシ",
-  "en": "",
+  "en": "Nanashi",
   "slot": 8,
   "refs": [
    "1b095c"
@@ -782,7 +782,7 @@
  {
   "id": "code:0889c4",
   "jp": "ドロシー",
-  "en": "",
+  "en": "Dorothy",
   "slot": 12,
   "refs": [
    "1b0958"
@@ -791,7 +791,7 @@
  {
   "id": "code:0889d0",
   "jp": "エドワード",
-  "en": "",
+  "en": "Edward",
   "slot": 12,
   "refs": [
    "1b0954"
@@ -800,7 +800,7 @@
  {
   "id": "code:0889dc",
   "jp": "スノウ",
-  "en": "",
+  "en": "Snow",
   "slot": 8,
   "refs": [
    "1b0950"
@@ -809,7 +809,7 @@
  {
   "id": "code:0889e4",
   "jp": "ジャック",
-  "en": "",
+  "en": "Jack",
   "slot": 12,
   "refs": [
    "1b094c"
@@ -818,7 +818,7 @@
  {
   "id": "code:0889f0",
   "jp": "ギンタ",
-  "en": "",
+  "en": "Ginta",
   "slot": 8,
   "refs": [
    "1b0948",
@@ -828,7 +828,7 @@
  {
   "id": "code:088a80",
   "jp": "全て自分のデッキに持っています",
-  "en": "",
+  "en": "You already have them all in your deck.",
   "slot": 32,
   "refs": [
    "1becf8"
@@ -837,7 +837,7 @@
  {
   "id": "code:088aa0",
   "jp": "デッキに空きがありません",
-  "en": "",
+  "en": "There's no room left in the deck.",
   "slot": 28,
   "refs": [
    "1becf4"
@@ -846,7 +846,7 @@
  {
   "id": "code:088abc",
   "jp": "魔力がたりません",
-  "en": "",
+  "en": "Not enough magic power.",
   "slot": 20,
   "refs": [
    "1becf0"
@@ -855,7 +855,7 @@
  {
   "id": "code:088ad0",
   "jp": "問題なし",
-  "en": "",
+  "en": "No problems.",
   "slot": 12,
   "refs": [
    "1becec"
@@ -882,7 +882,7 @@
  {
   "id": "code:088e6c",
   "jp": "何もありません。",
-  "en": "",
+  "en": "Nothing here.",
   "slot": 20,
   "refs": [
    "065e44"
@@ -891,7 +891,7 @@
  {
   "id": "code:088f9c",
   "jp": "タイムアウトしました",
-  "en": "",
+  "en": "Timed out.",
   "slot": 24,
   "refs": [
    "1bf240"
@@ -900,7 +900,7 @@
  {
   "id": "code:088fb4",
   "jp": "ケーブルをぬかないで下さい",
-  "en": "",
+  "en": "Please don't unplug the cable.",
   "slot": 28,
   "refs": [
    "1bf23c"
@@ -909,7 +909,7 @@
  {
   "id": "code:088fd0",
   "jp": "つうしん中です。",
-  "en": "",
+  "en": "Linking...",
   "slot": 20,
   "refs": [
    "1bf238"
@@ -918,7 +918,7 @@
  {
   "id": "code:088fe4",
   "jp": "Ｂボタンでキャンセルできます。",
-  "en": "",
+  "en": "Press the B Button to cancel.",
   "slot": 32,
   "refs": [
    "1bf234"
@@ -927,7 +927,7 @@
  {
   "id": "code:089004",
   "jp": "Ａボタンをおしてください",
-  "en": "",
+  "en": "Please press the A Button.",
   "slot": 28,
   "refs": [
    "1bf230"
@@ -936,7 +936,7 @@
  {
   "id": "code:089020",
   "jp": "つうしんをまっています。",
-  "en": "",
+  "en": "Waiting for the link...",
   "slot": 28,
   "refs": [
    "1bf22c"
@@ -945,7 +945,7 @@
  {
   "id": "code:08903c",
   "jp": "受け取り側が持ちきれません。",
-  "en": "",
+  "en": "The receiver can't carry any more.",
   "slot": 32,
   "refs": [
    "1bf264"
@@ -954,7 +954,7 @@
  {
   "id": "code:08905c",
   "jp": "持ちきれません。",
-  "en": "",
+  "en": "You can't carry any more.",
   "slot": 20,
   "refs": [
    "1bf260"
@@ -963,7 +963,7 @@
  {
   "id": "code:089070",
   "jp": "こうかんを続けますか？",
-  "en": "",
+  "en": "Keep trading?",
   "slot": 24,
   "refs": [
    "1bf25c"
@@ -972,7 +972,7 @@
  {
   "id": "code:089088",
   "jp": "つうしんに失敗しました。",
-  "en": "",
+  "en": "The link failed.",
   "slot": 28,
   "refs": [
    "1bf258"
@@ -981,7 +981,7 @@
  {
   "id": "code:0890a4",
   "jp": "おくられてきました。",
-  "en": "",
+  "en": "sent over to you!",
   "slot": 24,
   "refs": [
    "1bf254"
@@ -990,7 +990,7 @@
  {
   "id": "code:0890bc",
   "jp": "が",
-  "en": "",
+  "en": "was",
   "slot": 4,
   "refs": [
    "1bf250"
@@ -999,7 +999,7 @@
  {
   "id": "code:0890c0",
   "jp": "「はじめる」でつうしんをはじめます。",
-  "en": "",
+  "en": "pick \"Start\" to begin the link.",
   "slot": 40,
   "refs": [
    "1bf24c"
@@ -1008,7 +1008,7 @@
  {
   "id": "code:0890e8",
   "jp": "こうかんに出します、じゅんびができたら",
-  "en": "",
+  "en": "put up for trade. When you're ready,",
   "slot": 40,
   "refs": [
    "1bf248"
@@ -1017,7 +1017,7 @@
  {
   "id": "code:089110",
   "jp": "を",
-  "en": "",
+  "en": "will be",
   "slot": 4,
   "refs": [
    "1bf244"
@@ -1026,7 +1026,7 @@
  {
   "id": "code:0891c8",
   "jp": "ヴェストリ",
-  "en": "",
+  "en": "Vestry",
   "slot": 12,
   "refs": [
    "1bf2e4",
@@ -1036,7 +1036,7 @@
  {
   "id": "code:0891d4",
   "jp": "ルベリアの砦",
-  "en": "",
+  "en": "Luberia Fort",
   "slot": 16,
   "refs": [
    "1bf2e0"
@@ -1045,7 +1045,7 @@
  {
   "id": "code:0891e4",
   "jp": "ペリカ",
-  "en": "",
+  "en": "Pelica",
   "slot": 8,
   "refs": [
    "1bf2dc",
@@ -1055,7 +1055,7 @@
  {
   "id": "code:0891ec",
   "jp": "氷の城",
-  "en": "",
+  "en": "Ice Castle",
   "slot": 8,
   "refs": [
    "1bf2d8",
@@ -1065,7 +1065,7 @@
  {
   "id": "code:0891f4",
   "jp": "パヅタウン",
-  "en": "",
+  "en": "Paz Town",
   "slot": 12,
   "refs": [
    "1bf2d4"
@@ -1074,7 +1074,7 @@
  {
   "id": "code:089200",
   "jp": "ジャックの家",
-  "en": "",
+  "en": "Jack's House",
   "slot": 16,
   "refs": [
    "1bf2d0"
@@ -1083,7 +1083,7 @@
  {
   "id": "code:089210",
   "jp": "バッボのいせき",
-  "en": "",
+  "en": "Babbo's Ruins",
   "slot": 16,
   "refs": [
    "1bf2cc",
@@ -1093,7 +1093,7 @@
  {
   "id": "code:089220",
   "jp": "ランダム",
-  "en": "",
+  "en": "Random",
   "slot": 12,
   "refs": [
    "1bf2fc"
@@ -1102,7 +1102,7 @@
  {
   "id": "code:08922c",
   "jp": "草原",
-  "en": "",
+  "en": "Grasslands",
   "slot": 8,
   "refs": [
    "1bf2f0"
@@ -1111,7 +1111,7 @@
  {
   "id": "code:089234",
   "jp": "ジャックの畑",
-  "en": "",
+  "en": "Jack's Field",
   "slot": 16,
   "refs": [
    "1bf2ec"
@@ -1120,7 +1120,7 @@
  {
   "id": "code:0892e4",
   "jp": "ばんごう",
-  "en": "",
+  "en": "Number",
   "slot": 12,
   "refs": [
    "1bf36c"
@@ -1129,7 +1129,7 @@
  {
   "id": "code:0892f0",
   "jp": "コスト",
-  "en": "",
+  "en": "Cost",
   "slot": 8,
   "refs": [
    "1bf368"
@@ -1138,7 +1138,7 @@
  {
   "id": "code:0892f8",
   "jp": "クラス",
-  "en": "",
+  "en": "Class",
   "slot": 8,
   "refs": [
    "1bf364"
@@ -1147,7 +1147,7 @@
  {
   "id": "code:089300",
   "jp": "ぞくせい",
-  "en": "",
+  "en": "Element",
   "slot": 12,
   "refs": [
    "1bf360"
@@ -1156,7 +1156,7 @@
  {
   "id": "code:08930c",
   "jp": "なまえ",
-  "en": "",
+  "en": "Name",
   "slot": 8,
   "refs": [
    "1bf35c"
@@ -1165,7 +1165,7 @@
  {
   "id": "code:089338",
   "jp": "強制的にタイトルに戻ります。",
-  "en": "",
+  "en": "will send you back to the title screen.",
   "slot": 32,
   "refs": [
    "1bf3cc"
@@ -1174,7 +1174,7 @@
  {
   "id": "code:089358",
   "jp": "ダンジョンモードではセーブをすると",
-  "en": "",
+  "en": "In Dungeon Mode, saving the game",
   "slot": 36,
   "refs": [
    "1bf3c8"
@@ -1183,7 +1183,7 @@
  {
   "id": "code:08937c",
   "jp": "ゲームをつづけますか？",
-  "en": "",
+  "en": "Continue the game?",
   "slot": 24,
   "refs": [
    "1bf3c4"
@@ -1192,7 +1192,7 @@
  {
   "id": "code:089394",
   "jp": "セーブしました",
-  "en": "",
+  "en": "Game saved.",
   "slot": 16,
   "refs": [
    "1bf3c0"
@@ -1201,7 +1201,7 @@
  {
   "id": "code:0893a4",
   "jp": "でんげんをきらないでください",
-  "en": "",
+  "en": "Please don't turn off the power.",
   "slot": 32,
   "refs": [
    "1bf3bc"
@@ -1210,7 +1210,7 @@
  {
   "id": "code:0893c4",
   "jp": "セーブ中です",
-  "en": "",
+  "en": "Saving...",
   "slot": 16,
   "refs": [
    "1bf3b8"
@@ -1219,7 +1219,7 @@
  {
   "id": "code:0893d4",
   "jp": "（前のデータに上書きします）",
-  "en": "",
+  "en": "(This overwrites your old data.)",
   "slot": 32,
   "refs": [
    "1bf3b4"
@@ -1228,7 +1228,7 @@
  {
   "id": "code:0893f4",
   "jp": "セーブしますか？",
-  "en": "",
+  "en": "Save the game?",
   "slot": 20,
   "refs": [
    "1bf3b0"

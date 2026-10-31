@@ -2,7 +2,7 @@
  {
   "id": "FULL_ITM:00086",
   "jp": "アイテム入れ中",
-  "en": "",
+  "en": "Adding items",
   "call": "MswStr",
   "box": 2,
   "line": 0
@@ -34,7 +34,7 @@
  {
   "id": "FULL_ITM:007ee",
   "jp": "ÄＲＭ１０コずつ入れ中",
-  "en": "",
+  "en": "Adding 10 of each ÄRM",
   "call": "MswStr",
   "box": 63,
   "line": 1
@@ -66,7 +66,7 @@
  {
   "id": "FULL_ITM:009b4",
   "jp": "マジックストーン１０コずつ入れ中",
-  "en": "",
+  "en": "Adding 10 of each Magic Stone",
   "call": "MswStr",
   "box": 74,
   "line": 2
@@ -90,7 +90,7 @@
  {
   "id": "FULL_ITM:00b78",
   "jp": "マジックストーン１０コずつ入れ中　おわり",
-  "en": "",
+  "en": "Adding 10 of each Magic Stone: done",
   "call": "MswStr",
   "box": 85,
   "line": 2

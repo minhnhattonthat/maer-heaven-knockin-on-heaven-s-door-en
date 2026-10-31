@@ -10,7 +10,7 @@
  {
   "id": "EV_GO05:0052a",
   "jp": "{C0F04}ヴェストリをおそったのは",
-  "en": "",
+  "en": "{C0F04}You're the one who attacked Vestry,",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_GO05:00555",
   "jp": "ワレやな？",
-  "en": "",
+  "en": "ain'tcha?",
   "call": "MswStr",
   "box": 30,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO05:0068f",
   "jp": "{C0904}ああ{C0B04}ああ{C0F04}…",
-  "en": "",
+  "en": "{C0904}Yeah{C0B04}yeah{C0F04}... B-bu{C0D04}t{C0F04}!",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_GO05:006ba",
   "jp": "で、で{C0D04}も{C0F04}！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 37,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO05:00719",
   "jp": "{C0F04}人こ{C0D04}ろし{C0F04}たのは{C0B04}ギロム{C0F04}！！",
-  "en": "",
+  "en": "{C0F04}The one who {C0D04}killed{C0F04} people was {C0B04}Girom{C0F04}!! {C0904}I{C0F04}",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_GO05:00760",
   "jp": "お{C0904}れ{C0F04}あん{C0D04}まり{C0F04}ころしてない！",
-  "en": "",
+  "en": "didn't kill {C0D04}that{C0F04} many!",
   "call": "MswStr",
   "box": 39,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO05:0081b",
   "jp": "{C0F04}かんけいあらへん…",
-  "en": "",
+  "en": "{C0F04}Don't make no difference...",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO05:00887",
   "jp": "{C0F04}エレクトリック・アイ！！",
-  "en": "",
+  "en": "{C0F04}Electric Eye!!",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO05:00b67",
   "jp": "{C0F04}ふう…",
-  "en": "",
+  "en": "{C0F04}Phew...",
   "call": "MswStr",
   "box": 64,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO05:00cb2",
   "jp": "{C0F04}（かみなりのネイチャーÄＲＭ！",
-  "en": "",
+  "en": "{C0F04}(A lightning Nature ÄRM! So he's a lightning",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GO05:00ce3",
   "jp": "　かみなりつかい…か）",
-  "en": "",
+  "en": "user...)",
   "call": "MswStr",
   "box": 71,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO05:00d7e",
   "jp": "{C0F04}ま、こんなとこやね♪",
-  "en": "",
+  "en": "{C0F04}Well, that's 'bout it~",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO05:00dee",
   "jp": "{C0F04}ふん、やるじゃない！",
-  "en": "",
+  "en": "{C0F04}Hmph, not bad!",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO05:00e5c",
   "jp": "{C0F04}さてと…あと一人…",
-  "en": "",
+  "en": "{C0F04}Now then... one more to go...",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO05:00f08",
   "jp": "{C0F04}ギロム…とか言ってたわね…",
-  "en": "",
+  "en": "{C0F04}He said something about a Girom... I wonder",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_GO05:00f35",
   "jp": "ギンタンのほうにいるのかしら？",
-  "en": "",
+  "en": "if he's over by Gintan?",
   "call": "MswStr",
   "box": 81,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO05:00f9a",
   "jp": "{C0F04}…行ってみよか",
-  "en": "",
+  "en": "{C0F04}...Let's go see.",
   "call": "MswStr",
   "box": 83,
   "line": 1,

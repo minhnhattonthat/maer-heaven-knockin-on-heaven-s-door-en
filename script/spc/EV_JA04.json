@@ -10,7 +10,7 @@
  {
   "id": "EV_JA04:00674",
   "jp": "{C0F04}（オイラがあんなに苦労した",
-  "en": "",
+  "en": "{C0F04}(He dodged the Loup-Garou's attacks easy,",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_JA04:006a1",
   "jp": "　ルーガルーの攻撃を軽くかわした！！）",
-  "en": "",
+  "en": "the ones I had such a hard time with!!)",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_JA04:00710",
   "jp": "{C0F04}（つよい！",
-  "en": "",
+  "en": "{C0F04}(He's strong! Ginta... who are you?!)",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_JA04:0072d",
   "jp": "　ギンタ…何者っスか！？）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 38,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_JA04:00a25",
   "jp": "{C0F04}く、くそ！！！！",
-  "en": "",
+  "en": "{C0F04}D-darn it!!!!",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_JA04:00a8f",
   "jp": "{C0F04}ジャックはもういくじなしじゃねぇぞ！",
-  "en": "",
+  "en": "{C0F04}Jack's no coward anymore! The real",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_JA04:00ac6",
   "jp": "本当のいくじなしはおまえらだ！！",
-  "en": "",
+  "en": "cowards are you guys!!",
   "call": "MswStr",
   "box": 58,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_JA04:00b2d",
   "jp": "{C0F04}こんなやつらにオレたちが負けるなんて…！",
-  "en": "",
+  "en": "{C0F04}We lost to guys like these...?!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_JA04:00fbb",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_JA04:01015",
   "jp": "{C0F04}ルーガルー…",
-  "en": "",
+  "en": "{C0F04}Loup-Garou... I came here to give you a job,",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_JA04:01034",
   "jp": "おまえ達に仕事を頼みにきてみれば…",
-  "en": "",
+  "en": "and...",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_JA04:0109b",
   "jp": "{C0F04}なんだこのざまは",
-  "en": "",
+  "en": "{C0F04}What is this sorry state?",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_JA04:0132e",
   "jp": "{C0F04}おまえらおしおきじゃ！",
-  "en": "",
+  "en": "{C0F04}Time for your punishment! I shall see to it",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_JA04:01357",
   "jp": "もう悪さできんようにしてやる！",
-  "en": "",
+  "en": "that you never do wrong again!",
   "call": "MswStr",
   "box": 105,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_JA04:013bc",
   "jp": "{C0F04}ひえええぇぇぇぇぇ！！",
-  "en": "",
+  "en": "{C0F04}Hyeeeeeeeee!!",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_JA04:01582",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 117,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_JA04:015e0",
   "jp": "{C0F04}（バッボ…）",
-  "en": "",
+  "en": "{C0F04}(Babbo...)",
   "call": "MswStr",
   "box": 119,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_JA04:01644",
   "jp": "{C0F04}（そうか、封印をといたのはおまえか…）",
-  "en": "",
+  "en": "{C0F04}(I see. So you are the one who broke the",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_JA04:0167d",
   "jp": "",
-  "en": "",
+  "en": "seal...)",
   "call": "MswStr",
   "box": 121,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_JA04:016c2",
   "jp": "{C0F04}（ふふふふふふ…）",
-  "en": "",
+  "en": "{C0F04}(Heh heh heh heh heh...)",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_JA04:01a92",
   "jp": "{C0F04}ぎゃ～～～～～！！",
-  "en": "",
+  "en": "{C0F04}Gyaaaaaaah!!",
   "call": "MswStr",
   "box": 144,
   "line": 1,

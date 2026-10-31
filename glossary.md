@@ -483,9 +483,9 @@ say `loose`: when the JP term is in a line, its English form (any of the `/`-sep
 | メルトアイスストーン | Melt Ice Stone |  | - |  |
 | 癒しの天使石　ＣＬ１ | Healing Angel Stone CL1 |  | 石 = Stone (Magic Stone family); 23 chars, longest: check 112 px |  |
 | 癒しの天使石　ＣＬ２ | Healing Angel Stone CL2 |  | - |  |
-| パワーストーン　ＣＬ１ | Power Stone CL1 |  | - |  |
-| パワーストーン　ＣＬ２ | Power Stone CL2 |  | - |  |
-| パワーストーン　ＣＬ３ | Power Stone CL3 |  | - |  |
+| パワーストーン　ＣＬ１ | Powerstone CL1 |  | - |  |
+| パワーストーン　ＣＬ２ | Powerstone CL2 |  | - |  |
+| パワーストーン　ＣＬ３ | Powerstone CL3 |  | - |  |
 | ナイフストーン | Knife Stone |  | - |  |
 | クラブストーン | Club Stone |  | - |  |
 | ソードストーン | Sword Stone |  | - |  |
@@ -521,30 +521,30 @@ say `loose`: when the JP term is in a line, its English form (any of the `/`-sep
 | サンダーソードストーン | Thunder Sword Stone |  | - |  |
 | サンダーアックスストーン | Thunder Axe Stone |  | - |  |
 | サンダーカタナストーン | Thunder Katana Stone |  | - |  |
-| ウォーターパワーストーン　ＣＬ１ | Water Power Stone CL1 |  | - |  |
-| ウォーターパワーストーン　ＣＬ２ | Water Power Stone CL2 |  | - |  |
-| ウォーターパワーストーン　ＣＬ３ | Water Power Stone CL3 |  | - |  |
-| ウォーターパワーストーン　ＣＬ４ | Water Power Stone CL4 |  | - |  |
-| ファイアパワーストーン　ＣＬ１ | Fire Power Stone CL1 |  | - |  |
-| ファイアパワーストーン　ＣＬ２ | Fire Power Stone CL2 |  | - |  |
-| ファイアパワーストーン　ＣＬ３ | Fire Power Stone CL3 |  | - |  |
-| ファイアパワーストーン　ＣＬ４ | Fire Power Stone CL4 |  | - |  |
-| リーフパワーストーン　ＣＬ１ | Leaf Power Stone CL1 |  | - |  |
-| リーフパワーストーン　ＣＬ２ | Leaf Power Stone CL2 |  | - |  |
-| リーフパワーストーン　ＣＬ３ | Leaf Power Stone CL3 |  | - |  |
-| リーフパワーストーン　ＣＬ４ | Leaf Power Stone CL4 |  | - |  |
-| ウィンドパワーストーン　ＣＬ１ | Wind Power Stone CL1 |  | - |  |
-| ウィンドパワーストーン　ＣＬ２ | Wind Power Stone CL2 |  | - |  |
-| ウィンドパワーストーン　ＣＬ３ | Wind Power Stone CL3 |  | - |  |
-| ウィンドパワーストーン　ＣＬ４ | Wind Power Stone CL4 |  | - |  |
-| アースパワーストーン　ＣＬ１ | Earth Power Stone CL1 |  | - |  |
-| アースパワーストーン　ＣＬ２ | Earth Power Stone CL2 |  | - |  |
-| アースパワーストーン　ＣＬ３ | Earth Power Stone CL3 |  | - |  |
-| アースパワーストーン　ＣＬ４ | Earth Power Stone CL4 |  | - |  |
-| サンダーパワーストーン　ＣＬ１ | Thunder Power Stone CL1 |  | 23 chars: check 112 px |  |
-| サンダーパワーストーン　ＣＬ２ | Thunder Power Stone CL2 |  | - |  |
-| サンダーパワーストーン　ＣＬ３ | Thunder Power Stone CL3 |  | - |  |
-| サンダーパワーストーン　ＣＬ４ | Thunder Power Stone CL4 |  | - |  |
+| ウォーターパワーストーン　ＣＬ１ | Water Powerstone CL1 |  | - |  |
+| ウォーターパワーストーン　ＣＬ２ | Water Powerstone CL2 |  | - |  |
+| ウォーターパワーストーン　ＣＬ３ | Water Powerstone CL3 |  | - |  |
+| ウォーターパワーストーン　ＣＬ４ | Water Powerstone CL4 |  | - |  |
+| ファイアパワーストーン　ＣＬ１ | Fire Powerstone CL1 |  | - |  |
+| ファイアパワーストーン　ＣＬ２ | Fire Powerstone CL2 |  | - |  |
+| ファイアパワーストーン　ＣＬ３ | Fire Powerstone CL3 |  | - |  |
+| ファイアパワーストーン　ＣＬ４ | Fire Powerstone CL4 |  | - |  |
+| リーフパワーストーン　ＣＬ１ | Leaf Powerstone CL1 |  | - |  |
+| リーフパワーストーン　ＣＬ２ | Leaf Powerstone CL2 |  | - |  |
+| リーフパワーストーン　ＣＬ３ | Leaf Powerstone CL3 |  | - |  |
+| リーフパワーストーン　ＣＬ４ | Leaf Powerstone CL4 |  | - |  |
+| ウィンドパワーストーン　ＣＬ１ | Wind Powerstone CL1 |  | - |  |
+| ウィンドパワーストーン　ＣＬ２ | Wind Powerstone CL2 |  | - |  |
+| ウィンドパワーストーン　ＣＬ３ | Wind Powerstone CL3 |  | - |  |
+| ウィンドパワーストーン　ＣＬ４ | Wind Powerstone CL4 |  | - |  |
+| アースパワーストーン　ＣＬ１ | Earth Powerstone CL1 |  | - |  |
+| アースパワーストーン　ＣＬ２ | Earth Powerstone CL2 |  | - |  |
+| アースパワーストーン　ＣＬ３ | Earth Powerstone CL3 |  | - |  |
+| アースパワーストーン　ＣＬ４ | Earth Powerstone CL4 |  | - |  |
+| サンダーパワーストーン　ＣＬ１ | Thunder Powerstone CL1 |  | 23 chars: check 112 px |  |
+| サンダーパワーストーン　ＣＬ２ | Thunder Powerstone CL2 |  | - |  |
+| サンダーパワーストーン　ＣＬ３ | Thunder Powerstone CL3 |  | - |  |
+| サンダーパワーストーン　ＣＬ４ | Thunder Powerstone CL4 |  | - |  |
 | ウォーターコートストーン　ＣＬ１ | Water Coat Stone CL1 |  | - |  |
 | ウォーターコートストーン　ＣＬ２ | Water Coat Stone CL2 |  | - |  |
 | ウォーターコートストーン　ＣＬ３ | Water Coat Stone CL3 |  | - |  |

@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE06:00256",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE06:002b4",
   "jp": "{C0F04}ここから先はギンタンに",
-  "en": "",
+  "en": "{C0F04}From here on, it's all up to you, Gintan♥",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE06:002dd",
   "jp": "がんばってもらわないとね♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 16,
   "line": 2,

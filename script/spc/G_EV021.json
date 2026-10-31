@@ -10,7 +10,7 @@
  {
   "id": "G_EV021:0064c",
   "jp": "{C0B04}う…うわ…うわぁあ！！！",
-  "en": "",
+  "en": "{C0B04}Ugh... wha... waaahh!!!",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV021:00988",
   "jp": "{C0F04}…！？",
-  "en": "",
+  "en": "{C0F04}...!? Wh-what's that!?",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV021:009a1",
   "jp": "な、なんだ！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 57,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV021:00a38",
   "jp": "{C0F04}ディメンションÄＲＭの",
-  "en": "",
+  "en": "{C0F04}A message over a Dimension ÄRM...!?",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV021:00a61",
   "jp": "つうしん…か！？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV021:00c4e",
   "jp": "{C0B04}おのれチェス！！",
-  "en": "",
+  "en": "{C0B04}Curse you, Chess!! This town was wrecked",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "G_EV021:00c71",
   "jp": "６年前にこわされた街を…",
-  "en": "",
+  "en": "six years ago...",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV021:00cd0",
   "jp": "{C0B04}ここまでたてなおした",
-  "en": "",
+  "en": "{C0B04}We rebuilt it this far... we won't let you",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV021:00cf7",
   "jp": "街を…こわされてたまるか！！",
-  "en": "",
+  "en": "wreck it again!!",
   "call": "MswStr",
   "box": 75,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV021:00f67",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV021:01159",
   "jp": "{C0B04}メルヘヴン全土のクロスガード！",
-  "en": "",
+  "en": "{C0B04}Cross Guard all across MÄR Heaven! Can",
   "call": "MswStr",
   "box": 103,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV021:0118a",
   "jp": "このつうしんがきこえるか！！",
-  "en": "",
+  "en": "you hear this message!!",
   "call": "MswStr",
   "box": 103,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV021:011ed",
   "jp": "{C0B04}チェスの兵隊の…",
-  "en": "",
+  "en": "{C0B04}The Chess Pieces...",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV021:01257",
   "jp": "{C0B04}ふっかつ…だ！！！",
-  "en": "",
+  "en": "{C0B04}...are back!!!",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV021:014f7",
   "jp": "{C0F04}……！",
-  "en": "",
+  "en": "{C0F04}......!",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV021:016ed",
   "jp": "{C0B04}こっちも…火のうみだ！！",
-  "en": "",
+  "en": "{C0B04}It's a sea of fire over here too!!",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV021:0175f",
   "jp": "{C0B04}だめだ！！！",
-  "en": "",
+  "en": "{C0B04}It's no good!!! ...Where's Alan!!",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV021:0177e",
   "jp": "…アランはどこだ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 138,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV021:017d9",
   "jp": "{C0B04}クロスガードＮｏ２だった男！！",
-  "en": "",
+  "en": "{C0B04}The man who was Cross Guard's No. 2!!",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV021:01a6a",
   "jp": "{C0F04}くそ！！",
-  "en": "",
+  "en": "{C0F04}Damn it!! Alan-san!!",
   "call": "MswStr",
   "box": 155,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV021:01a85",
   "jp": "アランさん！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 155,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV021:01ade",
   "jp": "{C0F04}これは…まちがいない！！",
-  "en": "",
+  "en": "{C0F04}This is... there's no doubt about it!!",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV021:01b92",
   "jp": "{C0F04}『ファントムのふっかつ』！！！",
-  "en": "",
+  "en": "{C0F04}'Phantom has returned'!!!",
   "call": "MswStr",
   "box": 160,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV021:02002",
   "jp": "{C0F04}おそわれている街を",
-  "en": "",
+  "en": "{C0F04}Let's go help the towns under attack!!!",
   "call": "MswStr",
   "box": 186,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "G_EV021:02027",
   "jp": "助けにいきましょう！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 186,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV021:0216d",
   "jp": "{C0F04}アルヴィス",
-  "en": "",
+  "en": "{C0F04}Alviss, I need a favor.",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "G_EV021:0218a",
   "jp": "たのみがある",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 193,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV021:021db",
   "jp": "{C0F04}人々を助けにいってくれ",
-  "en": "",
+  "en": "{C0F04}Go help those people.",
   "call": "MswStr",
   "box": 195,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV021:0228d",
   "jp": "{C0F04}…な",
-  "en": "",
+  "en": "{C0F04}...Wha-",
   "call": "MswStr",
   "box": 198,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV021:022e9",
   "jp": "{C0F04}オレはここにのこる",
-  "en": "",
+  "en": "{C0F04}I'm stayin' here.",
   "call": "MswStr",
   "box": 200,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV021:02397",
   "jp": "{C0F04}何をいってるんだ！",
-  "en": "",
+  "en": "{C0F04}What are you saying!? You're supposed to",
   "call": "MswStr",
   "box": 203,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "G_EV021:023bc",
   "jp": "『ごうけつアラン』ともあろう方が！",
-  "en": "",
+  "en": "be 'Alan the Mighty'!",
   "call": "MswStr",
   "box": 203,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "G_EV021:02423",
   "jp": "{C0F04}今は『エド』だ…",
-  "en": "",
+  "en": "{C0F04}Right now I'm 'Ed'...",
   "call": "MswStr",
   "box": 205,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV021:024c9",
   "jp": "{C0F04}たのむぜ、アルヴィス…",
-  "en": "",
+  "en": "{C0F04}I'm countin' on you, Alviss...",
   "call": "MswStr",
   "box": 208,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "G_EV021:0257b",
   "jp": "{C0F04}あなたに…",
-  "en": "",
+  "en": "{C0F04}You... disappoint me!!",
   "call": "MswStr",
   "box": 211,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "G_EV021:02598",
   "jp": "しつぼうしました！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 211,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "G_EV021:02c1b",
   "jp": "{C0F04}（つよくなる！",
-  "en": "",
+  "en": "{C0F04}(I'll get strong! I'll beat 'em!!)",
   "call": "MswStr",
   "box": 251,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "G_EV021:02c3c",
   "jp": "　たおす！！）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 251,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV021:02c8f",
   "jp": "{C0F04}…ギンタ、おめぇそういったよな？",
-  "en": "",
+  "en": "{C0F04}...Ginta, that's what you said, right?",
   "call": "MswStr",
   "box": 253,
   "line": 1,
@@ -712,7 +712,7 @@
  {
   "id": "G_EV021:02d07",
   "jp": "{C0F04}オレはダンナと同じこと",
-  "en": "",
+  "en": "{C0F04}You said the same thing Danna did... so I'm",
   "call": "MswStr",
   "box": 255,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "G_EV021:02d30",
   "jp": "いいやがったおまえをしんじるぜ！！",
-  "en": "",
+  "en": "gonna believe in ya!!",
   "call": "MswStr",
   "box": 255,
   "line": 2,

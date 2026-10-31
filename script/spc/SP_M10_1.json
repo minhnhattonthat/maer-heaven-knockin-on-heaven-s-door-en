@@ -2,7 +2,7 @@
  {
   "id": "SP_M10_1:00217",
   "jp": "{C0D04}１４２０Ｐ{C0F04}が入っていた！",
-  "en": "",
+  "en": "{C0D04}1420 P{C0F04} was inside!",
   "call": "MswStr",
   "box": 18,
   "line": 0

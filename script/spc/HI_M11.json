@@ -10,7 +10,7 @@
  {
   "id": "HI_M11:0017c",
   "jp": "{C0F04}ヴェストリがどんなことになってるか",
-  "en": "",
+  "en": "{C0F04}Now you see what's become of Vestry?",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M11:001b1",
   "jp": "わかったろう？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 11,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M11:00206",
   "jp": "{C0F04}私はね、クロスガードのメンバーだったんだ",
-  "en": "",
+  "en": "{C0F04}I was a member of the Cross Guard, you",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M11:00241",
   "jp": "",
-  "en": "",
+  "en": "know.",
   "call": "MswStr",
   "box": 13,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M11:00288",
   "jp": "{C0F04}しかし…………",
-  "en": "",
+  "en": "{C0F04}But............",
   "call": "MswStr",
   "box": 15,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "HI_M11:002f0",
   "jp": "{C0F04}何のていこうもできなかった…",
-  "en": "",
+  "en": "{C0F04}I couldn't put up any fight at all...",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "HI_M11:00366",
   "jp": "{C0F04}たった二人のチェスの兵隊に",
-  "en": "",
+  "en": "{C0F04}I was helpless against just two Chess",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "HI_M11:00393",
   "jp": "むりょくだったんだ…！！",
-  "en": "",
+  "en": "Pieces...!!",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "HI_M11:004bd",
   "jp": "{C0F04}その二人はどこ行った？",
-  "en": "",
+  "en": "{C0F04}Where'd those two go?",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "HI_M11:006be",
   "jp": "{C0F04}とにかく…見てくれ",
-  "en": "",
+  "en": "{C0F04}Anyway... just look... at the state of this",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "HI_M11:006e3",
   "jp": "このありさまを…さ",
-  "en": "",
+  "en": "place...",
   "call": "MswStr",
   "box": 39,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "HI_M11:00883",
   "jp": "{C0F04}とにかく…見てくれ",
-  "en": "",
+  "en": "{C0F04}Anyway... just look... at the state of this",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "HI_M11:008a8",
   "jp": "このありさまを…さ",
-  "en": "",
+  "en": "place...",
   "call": "MswStr",
   "box": 49,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "HI_M11:00a27",
   "jp": "{C0F04}あんたたち",
-  "en": "",
+  "en": "{C0F04}You folks... what've you come here for...",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "HI_M11:00a44",
   "jp": "…何しに来なさった…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 59,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "HI_M11:00a9f",
   "jp": "{C0F04}チェスの兵隊か？？",
-  "en": "",
+  "en": "{C0F04}Are you Chess Pieces?? Or did you come to",
   "call": "MswStr",
   "box": 61,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "HI_M11:00ac4",
   "jp": "助けにきたのか？？",
-  "en": "",
+  "en": "help??",
   "call": "MswStr",
   "box": 61,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "HI_M11:00b1d",
   "jp": "{C0F04}どちらでもいいがね…",
-  "en": "",
+  "en": "{C0F04}Either way, it doesn't matter... Just take a",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "HI_M11:00b44",
   "jp": "とにかくこのヴェストリを見てくれよ",
-  "en": "",
+  "en": "look at Vestry.",
   "call": "MswStr",
   "box": 63,
   "line": 2,

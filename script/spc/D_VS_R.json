@@ -10,7 +10,7 @@
  {
   "id": "D_VS_R:0012d",
   "jp": "{C0F04}ドっ…！！",
-  "en": "",
+  "en": "{C0F04}Dor...!!",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "D_VS_R:00227",
   "jp": "{C0F04}ドッチをむいてもいいお天気ですな",
-  "en": "",
+  "en": "{C0F04}Dor-- Adorable weather, whichever way",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "D_VS_R:0025a",
   "jp": "",
-  "en": "",
+  "en": "you look, I daresay!",
   "call": "MswStr",
   "box": 12,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "D_VS_R:0029f",
   "jp": "{C0F04}ことりがおとしていったものですが",
-  "en": "",
+  "en": "{C0F04}A little bird dropped this. Please use it, if",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "D_VS_R:002d2",
   "jp": "よろしければお使いください",
-  "en": "",
+  "en": "you like.",
   "call": "MswStr",
   "box": 14,
   "line": 2,
@@ -80,7 +80,7 @@
  {
   "id": "D_VS_R:0039a",
   "jp": "{C0D04}ジッパー{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Zipper{C0F04}",
   "call": "MswStr",
   "box": 20,
   "line": 0
@@ -88,7 +88,7 @@
  {
   "id": "D_VS_R:003be",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 20,
   "line": 1
@@ -112,7 +112,7 @@
  {
   "id": "D_VS_R:0056c",
   "jp": "{C0F04}ドっ…！！",
-  "en": "",
+  "en": "{C0F04}Dor...!!",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -138,7 +138,7 @@
  {
   "id": "D_VS_R:00666",
   "jp": "{C0F04}ドウキがするほどいいお天気ですな",
-  "en": "",
+  "en": "{C0F04}Dor-- My heart's knocking like a door, the",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "D_VS_R:00699",
   "jp": "",
-  "en": "",
+  "en": "weather's so fine!",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -164,7 +164,7 @@
  {
   "id": "D_VS_R:006de",
   "jp": "{C0F04}ことりがおとしていったものですが",
-  "en": "",
+  "en": "{C0F04}A little bird dropped this. Please use it, if",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -173,7 +173,7 @@
  {
   "id": "D_VS_R:00711",
   "jp": "よろしければお使いください",
-  "en": "",
+  "en": "you like.",
   "call": "MswStr",
   "box": 38,
   "line": 2,
@@ -182,7 +182,7 @@
  {
   "id": "D_VS_R:007d9",
   "jp": "{C0D04}レインドッグ{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Rain Dog{C0F04}",
   "call": "MswStr",
   "box": 44,
   "line": 0
@@ -190,7 +190,7 @@
  {
   "id": "D_VS_R:00801",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 44,
   "line": 1
@@ -214,7 +214,7 @@
  {
   "id": "D_VS_R:0096e",
   "jp": "{C0F04}ドっ…！！",
-  "en": "",
+  "en": "{C0F04}Dor...!!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -240,7 +240,7 @@
  {
   "id": "D_VS_R:00a68",
   "jp": "{C0F04}ドコまでもいいお天気ですな",
-  "en": "",
+  "en": "{C0F04}Dor-- Door to door, the weather's fine all",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -249,7 +249,7 @@
  {
   "id": "D_VS_R:00a95",
   "jp": "",
-  "en": "",
+  "en": "the way, hmm?",
   "call": "MswStr",
   "box": 58,
   "line": 2,

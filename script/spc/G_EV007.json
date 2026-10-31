@@ -10,7 +10,7 @@
  {
   "id": "G_EV007:003b8",
   "jp": "{C0F04}ボス！",
-  "en": "",
+  "en": "{C0F04}Boss!",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV007:00528",
   "jp": "{C0F04}なんや！？",
-  "en": "",
+  "en": "{C0F04}What is it!?",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV007:0058a",
   "jp": "{C0F04}うごきのあるチェスをはっけん！！",
-  "en": "",
+  "en": "{C0F04}We spotted Chess on the move!!",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV007:00704",
   "jp": "{C0F04}！！！",
-  "en": "",
+  "en": "{C0F04}!!!",
   "call": "MswStr",
   "box": 35,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV007:00762",
   "jp": "{C0F04}ヒルドたいりくの北西！",
-  "en": "",
+  "en": "{C0F04}Northwest of the Hildo Continent! Looks like",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV007:0078b",
   "jp": "まだあばれているらしい！",
-  "en": "",
+  "en": "they're still on a rampage!",
   "call": "MswStr",
   "box": 37,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV007:00828",
   "jp": "{C0F04}…ちていこのヴェストリか…",
-  "en": "",
+  "en": "{C0F04}...Vestry, by the underground lake, huh...",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV007:008da",
   "jp": "{C0F04}それなら、ワイの持っている",
-  "en": "",
+  "en": "{C0F04}Then I can get us there with my Dimension",
   "call": "MswStr",
   "box": 43,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV007:00907",
   "jp": "ディメンションÄＲＭで行ける！！",
-  "en": "",
+  "en": "ÄRM!!",
   "call": "MswStr",
   "box": 43,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV007:0096e",
   "jp": "{C0F04}…どうや、メル？",
-  "en": "",
+  "en": "{C0F04}...Whaddaya say, MÄR?",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV007:009d8",
   "jp": "{C0F04}自分をつれてってみんか？",
-  "en": "",
+  "en": "{C0F04}Why not take me along? I can getcha to",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV007:00a03",
   "jp": "いっしゅんでヤツらのところに行けるで！",
-  "en": "",
+  "en": "those creeps in a flash!",
   "call": "MswStr",
   "box": 47,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV007:00b5b",
   "jp": "{C0F04}と、とうぞくを、なかまにぃ？？",
-  "en": "",
+  "en": "{C0F04}T-takin' a thief onto the team??",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV007:00cf4",
   "jp": "{C0F04}わたしいいよぉ！！",
-  "en": "",
+  "en": "{C0F04}Fine by me~!!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV007:00e7f",
   "jp": "{C0F04}かってに決めるなブス！",
-  "en": "",
+  "en": "{C0F04}Who asked you, you ugly hag!",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV007:01044",
   "jp": "{C0F04}ヴェストリまで飛ばせてくれ！！",
-  "en": "",
+  "en": "{C0F04}Zap us over to Vestry!!",
   "call": "MswStr",
   "box": 79,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV007:010fa",
   "jp": "{C0F04}ナナシ！！",
-  "en": "",
+  "en": "{C0F04}Nanashi!!",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV007:0127d",
   "jp": "{C0F04}よっしゃ行くで！！",
-  "en": "",
+  "en": "{C0F04}Awright, let's go!!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV007:01393",
   "jp": "{C0F04}ディメンションÄＲＭはつどう！！",
-  "en": "",
+  "en": "{C0F04}Dimension ÄRM, activate!!",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV007:0144b",
   "jp": "{C0F04}このメンバーを…",
-  "en": "",
+  "en": "{C0F04}Send this whole crew...",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV007:014b5",
   "jp": "{C0F04}ヴェストリへ！！！",
-  "en": "",
+  "en": "{C0F04}...ta Vestry!!!",
   "call": "MswStr",
   "box": 100,
   "line": 1,

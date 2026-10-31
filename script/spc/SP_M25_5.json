@@ -10,7 +10,7 @@
  {
   "id": "SP_M25_5:00bfc",
   "jp": "{C0F04}へぇ…",
-  "en": "",
+  "en": "{C0F04}Ooh... Let's see, let's see??",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "SP_M25_5:00c15",
   "jp": "どれどれ？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M25_5:00c6a",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "SP_M25_5:00d06",
   "jp": "{C0F04}（なんか…イヤなかんじがする",
-  "en": "",
+  "en": "{C0F04}(Something about this treasure chest...",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "SP_M25_5:00d35",
   "jp": "　この宝ばこ…）",
-  "en": "",
+  "en": "gives me a nasty feeling...)",
   "call": "MswStr",
   "box": 77,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "SP_M25_5:00ed2",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "SP_M25_5:00f2e",
   "jp": "{C0F04}ドロシーちゃん、ちょっと",
-  "en": "",
+  "en": "{C0F04}Dorothy-chan, I'm leavin' things here ta you",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "SP_M25_5:00f59",
   "jp": "ここはたのむわ…",
-  "en": "",
+  "en": "for a bit...",
   "call": "MswStr",
   "box": 88,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "SP_M25_5:01016",
   "jp": "{C0F04}へ？",
-  "en": "",
+  "en": "{C0F04}Huh?",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "SP_M25_5:017ad",
   "jp": "{C0F04}気になる…",
-  "en": "",
+  "en": "{C0F04}Somethin's buggin' me... I've seen that crest",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "SP_M25_5:017ca",
   "jp": "あのもんしょう、どこかで見たで…",
-  "en": "",
+  "en": "somewhere...",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "SP_M25_5:01831",
   "jp": "{C0F04}…たしか、きみょうな",
-  "en": "",
+  "en": "{C0F04}...Pretty sure it was on some weird ancient",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "SP_M25_5:01858",
   "jp": "古文書のようなヤツや",
-  "en": "",
+  "en": "document-type thing.",
   "call": "MswStr",
   "box": 142,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "SP_M25_5:018b3",
   "jp": "{C0F04}どっかの古いどうくつで",
-  "en": "",
+  "en": "{C0F04}Didn't I pick it up in some old cave",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "SP_M25_5:018dc",
   "jp": "手に入れたんやなかったかな…",
-  "en": "",
+  "en": "somewhere...",
   "call": "MswStr",
   "box": 144,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "SP_M25_5:01a0a",
   "jp": "{C0F04}…たしかルベリアにあったな…",
-  "en": "",
+  "en": "{C0F04}...Pretty sure it's back at Luberia...",
   "call": "MswStr",
   "box": 150,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "SP_M25_5:01a80",
   "jp": "{C0F04}ディメンションÄＲＭ",
-  "en": "",
+  "en": "{C0F04}Dimension ÄRM... 'Andata'!!",
   "call": "MswStr",
   "box": 152,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "SP_M25_5:01aa7",
   "jp": "『アンダータ』！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 152,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "SP_M25_5:0206e",
   "jp": "{C0F04}なに？あいつ…",
-  "en": "",
+  "en": "{C0F04}What's with him?",
   "call": "MswStr",
   "box": 190,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "SP_M25_5:021f5",
   "jp": "{C0F04}ド、ドロシーさん！",
-  "en": "",
+  "en": "{C0F04}D-Dorothy-san! I'll open it!!",
   "call": "MswStr",
   "box": 198,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "SP_M25_5:0221a",
   "jp": "ボクがあけます！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 198,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "SP_M25_5:022d9",
   "jp": "{C0F04}あ、ああ、はい…",
-  "en": "",
+  "en": "{C0F04}Oh, uh, sure...",
   "call": "MswStr",
   "box": 202,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "SP_M25_5:02383",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 205,
   "line": 1,
@@ -392,7 +392,7 @@
  {
   "id": "SP_M25_5:02c3d",
   "jp": "ァァァアアアアアァァァ…",
-  "en": "",
+  "en": "Aaaaaaaaaaaaaaaahhh...",
   "call": "MswStr",
   "box": 266,
   "line": 0
@@ -424,7 +424,7 @@
  {
   "id": "SP_M25_5:02f9a",
   "jp": "{C0F04}あ、あしぃ～～～～！？",
-  "en": "",
+  "en": "{C0F04}L-l-legs~~~!?",
   "call": "MswStr",
   "box": 287,
   "line": 1,
@@ -450,7 +450,7 @@
  {
   "id": "SP_M25_5:0311a",
   "jp": "{C0F04}やっぱりそうきたか！！",
-  "en": "",
+  "en": "{C0F04}Knew you'd pull something like that!!",
   "call": "MswStr",
   "box": 295,
   "line": 1,
@@ -476,7 +476,7 @@
  {
   "id": "SP_M25_5:031ca",
   "jp": "{C0F04}このドロシーさまをあいてに",
-  "en": "",
+  "en": "{C0F04}Taking on the great Dorothy-sama with",
   "call": "MswStr",
   "box": 298,
   "line": 1,
@@ -485,7 +485,7 @@
  {
   "id": "SP_M25_5:031f7",
   "jp": "『あし』だけではむかうとは",
-  "en": "",
+  "en": "nothing but 'legs'...",
   "call": "MswStr",
   "box": 298,
   "line": 2,
@@ -502,7 +502,7 @@
  {
   "id": "SP_M25_5:03370",
   "jp": "{C0F04}いいドキョウだわ！！",
-  "en": "",
+  "en": "{C0F04}You've got some nerve!!",
   "call": "MswStr",
   "box": 305,
   "line": 1,

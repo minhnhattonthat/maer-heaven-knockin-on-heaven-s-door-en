@@ -2,7 +2,7 @@
  {
   "id": "HI_DUNG:00163",
   "jp": "次のフロアに行きますか？",
-  "en": "",
+  "en": "Go to the next floor?",
   "call": "MswStr",
   "box": 11,
   "line": 0
@@ -26,7 +26,7 @@
  {
   "id": "HI_DUNG:00469",
   "jp": "外へ出ますか？",
-  "en": "",
+  "en": "Go back outside?",
   "call": "MswStr",
   "box": 27,
   "line": 0

@@ -16,3 +16,7 @@ Source for D1-D7: the owner's standing answers injected into the one-shot run br
 | D6 | 2026-10-31 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at the end. |
 | D7 | 2026-10-31 | Existing saves / savestates | user supplies, none | None provided; build the debug tool as usual. |
 | D8 | 2026-10-31 | Git identity | - | Already set by new-game.ps1 (minhnhattonthat); don't change it. |
+| D9 | 2026-11-01 | Register, spelling, SFX (phase 6; controller's default under D6, not asked) | formal/casual; US/UK | Upbeat kid-friendly shonen, American spelling, SFX as interjections. Matches the kana-for-kids source. Owner may override. |
+| D10 | 2026-11-01 | Speaker labels (controller's default under D6) | ［Name］ kept as [Name]; bare name | `[Name]` in the label colour, like the Japanese ［］. |
+| D11 | 2026-11-01 | Game-original / uncertain names (controller's default under D6) | Hepburn; English-ised | Marl (マール, avoids "Mar"/MÄR clash), Bellini (ベリーニ), Luberia, Paz Town, Pazurica, Orco, Girom, Luga & Garu; marked UNSURE in glossary.md for the owner to check. |
+| D12 | 2026-11-01 | Verbal tics without a JP-style English equivalent (controller's default under D6) | drop; English device | Jack っス -> folksy drawl (dropped g's, "y'know", "Ma"); Bellini ですのん -> ", nonn"; Nanashi Kansai -> breezy slang. docs/style-reference.md. |

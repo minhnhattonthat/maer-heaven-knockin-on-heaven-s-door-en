@@ -10,7 +10,7 @@
  {
   "id": "EV_GO02:00987",
   "jp": "{C0F04}…みちがふた手や！",
-  "en": "",
+  "en": "{C0F04}...The path splits in two!",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO02:009f3",
   "jp": "{C0F04}別れなあかんな！！",
-  "en": "",
+  "en": "{C0F04}Gotta split up, then!!",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO02:00b80",
   "jp": "{C0F04}二人と一人ね！",
-  "en": "",
+  "en": "{C0F04}Two and one, then!",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO02:00bea",
   "jp": "{C0F04}じゃあわたしは",
-  "en": "",
+  "en": "{C0F04}So I'll go with Gintan~...",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_GO02:00c0b",
   "jp": "ギンタンと～…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 69,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO02:00d49",
   "jp": "{C0F04}ギンタと『ワシ』は",
-  "en": "",
+  "en": "{C0F04}Ginta and 'I' shall take this path!!",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO02:00d6e",
   "jp": "こっちにすすむぞ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 76,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO02:00dcb",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO02:00e67",
   "jp": "{C0F04}なんでよ！！",
-  "en": "",
+  "en": "{C0F04}Says who?!!",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO02:00ecf",
   "jp": "{C0F04}あんたは『一人』じゃなくて",
-  "en": "",
+  "en": "{C0F04}You don't count as 'one person', you're 'one",
   "call": "MswStr",
   "box": 83,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO02:00efc",
   "jp": "イッコでしょ『イッコ』！！",
-  "en": "",
+  "en": "thing'! One 'THING'!!",
   "call": "MswStr",
   "box": 83,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO02:01007",
   "jp": "{C0F04}ワシはモノなんかじゃないわい！！",
-  "en": "",
+  "en": "{C0F04}I am NOT some object!!",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO02:011d6",
   "jp": "{C0F04}ワイとドロシーちゃんは",
-  "en": "",
+  "en": "{C0F04}Me an' Dorothy-chan'll go this way, then.",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_GO02:011ff",
   "jp": "こっち行くで",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO02:01254",
   "jp": "{C0F04}ぅ～～～～～～～～～",
-  "en": "",
+  "en": "{C0F04}Uuuuuuuuuugh~",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO02:012c2",
   "jp": "{C0F04}気ぃつけてな、ギンタ！",
-  "en": "",
+  "en": "{C0F04}Watch yerself, Ginta!",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO02:013dc",
   "jp": "{C0F04}そっちこそ！！",
-  "en": "",
+  "en": "{C0F04}You too!!",
   "call": "MswStr",
   "box": 106,
   "line": 1,

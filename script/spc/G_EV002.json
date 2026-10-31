@@ -10,7 +10,7 @@
  {
   "id": "G_EV002:005b6",
   "jp": "{C0F04}来たで…",
-  "en": "",
+  "en": "{C0F04}Here they come...",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV002:00677",
   "jp": "{C0F04}やれっ！",
-  "en": "",
+  "en": "{C0F04}Do it!",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV002:006d7",
   "jp": "{C0F04}はっ！！",
-  "en": "",
+  "en": "{C0F04}Yessir!!",
   "call": "MswStr",
   "box": 40,
   "line": 1,

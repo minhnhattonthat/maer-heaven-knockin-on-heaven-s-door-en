@@ -10,7 +10,7 @@
  {
   "id": "EV_BA01:004b5",
   "jp": "{C0F04}これだな！！",
-  "en": "",
+  "en": "{C0F04}This is it!!",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BA01:00606",
   "jp": "{C0F04}あれれ？？あかないな…",
-  "en": "",
+  "en": "{C0F04}Huh?? It won't open... Maybe it's sealed or",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_BA01:0062f",
   "jp": "なんか封印されてるのかな…",
-  "en": "",
+  "en": "something...",
   "call": "MswStr",
   "box": 33,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_BA01:006d0",
   "jp": "{C0F04}ボウヤ、キミのバカぢからで",
-  "en": "",
+  "en": "{C0F04}Kiddo, could you try opening it with that",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_BA01:006fd",
   "jp": "ちょっとあけてみてくれない？？",
-  "en": "",
+  "en": "crazy strength of yours??",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_BA01:007a0",
   "jp": "{C0F04}ＯＫ！！",
-  "en": "",
+  "en": "{C0F04}OK!!",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_BA01:00f7f",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_BA01:01089",
   "jp": "{C0F04}なんじゃい、おまえは",
-  "en": "",
+  "en": "{C0F04}And who might you be?",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_BA01:0116b",
   "jp": "{C0F04}それにここはどこじゃ？",
-  "en": "",
+  "en": "{C0F04}And where is this place? I cannot recall a",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_BA01:01194",
   "jp": "なんも思いだせんが…名前だけは覚えとるな",
-  "en": "",
+  "en": "thing... only my name do I remember.",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_BA01:01277",
   "jp": "{C0F04}ワシはバッボ！",
-  "en": "",
+  "en": "{C0F04}I am Babbo!",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -210,7 +210,7 @@
  {
   "id": "EV_BA01:0188b",
   "jp": "オオオオオオオォォォォ",
-  "en": "",
+  "en": "Ooooooooohhhhhh",
   "call": "MswStr",
   "box": 142,
   "line": 0
@@ -242,7 +242,7 @@
  {
   "id": "EV_BA01:01d33",
   "jp": "{C0F04}ガーディアンÄＲＭ！！",
-  "en": "",
+  "en": "{C0F04}A Guardian ÄRM!!",
   "call": "MswStr",
   "box": 171,
   "line": 1,
@@ -268,7 +268,7 @@
  {
   "id": "EV_BA01:01da5",
   "jp": "{C0F04}やっぱりトラップがしかけられてたか！！",
-  "en": "",
+  "en": "{C0F04}I knew there'd be a trap!!",
   "call": "MswStr",
   "box": 173,
   "line": 1,
@@ -294,7 +294,7 @@
  {
   "id": "EV_BA01:01f0e",
   "jp": "{C0F04}よし…おまえÄＲＭだろ！？",
-  "en": "",
+  "en": "{C0F04}Okay... you're an ÄRM, right!? Let's smash",
   "call": "MswStr",
   "box": 180,
   "line": 1,
@@ -303,7 +303,7 @@
  {
   "id": "EV_BA01:01f3b",
   "jp": "あいつぶったおすぞ！！",
-  "en": "",
+  "en": "that thing!!",
   "call": "MswStr",
   "box": 180,
   "line": 2,
@@ -320,7 +320,7 @@
  {
   "id": "EV_BA01:020ed",
   "jp": "{C0F04}いやじゃ、ワシはまだ寝るんじゃ",
-  "en": "",
+  "en": "{C0F04}I refuse. I am going back to sleep.",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -346,7 +346,7 @@
  {
   "id": "EV_BA01:0224e",
   "jp": "{C0F04}こらーーーーーー！！！",
-  "en": "",
+  "en": "{C0F04}Heyyyyy!!! Beating that thing comes first!!",
   "call": "MswStr",
   "box": 196,
   "line": 1,
@@ -355,7 +355,7 @@
  {
   "id": "EV_BA01:02277",
   "jp": "あいつたおすほうが先だ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 196,
   "line": 2,
@@ -372,7 +372,7 @@
  {
   "id": "EV_BA01:02316",
   "jp": "{C0F04}あーーーーーー！！！",
-  "en": "",
+  "en": "{C0F04}Aaaaaah!!!",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -398,7 +398,7 @@
  {
   "id": "EV_BA01:02384",
   "jp": "{C0F04}やかましい！あいつか！",
-  "en": "",
+  "en": "{C0F04}What a racket! Is it him!? Is HE the one",
   "call": "MswStr",
   "box": 201,
   "line": 1,
@@ -407,7 +407,7 @@
  {
   "id": "EV_BA01:023ad",
   "jp": "あいつがワシの眠りをジャマするのか！！",
-  "en": "",
+  "en": "disturbing my slumber!!",
   "call": "MswStr",
   "box": 201,
   "line": 2,
@@ -424,7 +424,7 @@
  {
   "id": "EV_BA01:02458",
   "jp": "{C0F04}小僧！下におりてバトル開始じゃ！",
-  "en": "",
+  "en": "{C0F04}Boy! Go down there and begin the battle!",
   "call": "MswStr",
   "box": 204,
   "line": 1,
@@ -450,7 +450,7 @@
  {
   "id": "EV_BA01:024d2",
   "jp": "{C0F04}バトルにはいったら",
-  "en": "",
+  "en": "{C0F04}Once the battle starts, attack with the {C0904}B",
   "call": "MswStr",
   "box": 206,
   "line": 1,
@@ -459,7 +459,7 @@
  {
   "id": "EV_BA01:024f7",
   "jp": "{C0904}Ｂボタン{C0F04}でこうげきするんじゃ！！",
-  "en": "",
+  "en": "Button{C0F04}!!",
   "call": "MswStr",
   "box": 206,
   "line": 2,
@@ -476,7 +476,7 @@
  {
   "id": "EV_BA01:0256c",
   "jp": "{C0904}バッボ{C0F04}の{C0904}Ｂ{C0F04}とおぼえるがよい",
-  "en": "",
+  "en": "{C0904}Babbo{C0F04} begins with {C0904}B{C0F04}, so remember it well!",
   "call": "MswStr",
   "box": 208,
   "line": 1,
@@ -485,7 +485,7 @@
  {
   "id": "EV_BA01:025ae",
   "jp": "わかったか小僧！",
-  "en": "",
+  "en": "Understood, boy!?",
   "call": "MswStr",
   "box": 208,
   "line": 2,
@@ -502,7 +502,7 @@
  {
   "id": "EV_BA01:02643",
   "jp": "{C0F04}ああ！",
-  "en": "",
+  "en": "{C0F04}Yeah! Here I goooooo!!",
   "call": "MswStr",
   "box": 211,
   "line": 1,
@@ -511,7 +511,7 @@
  {
   "id": "EV_BA01:0265c",
   "jp": "いっくぞーーーーーーーー！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 211,
   "line": 2,
@@ -528,7 +528,7 @@
  {
   "id": "EV_BA01:02816",
   "jp": "{C0F04}あ、ちょっとキミ！！",
-  "en": "",
+  "en": "{C0F04}Ah, hey, you!!",
   "call": "MswStr",
   "box": 220,
   "line": 1,

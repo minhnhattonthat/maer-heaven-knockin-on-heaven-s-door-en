@@ -199,9 +199,10 @@ def check_unit(u, en, rows):
         for a in filter(None, (x.strip() for x in avoid.split(','))):
             if re.search(r'\b%s\b' % re.escape(a), en):
                 errs.append('glossary: avoid %r (%s)' % (a, jp))
-    for m in re.finditer(r'[ァ-ヶー]+(さん|くん|ちゃん|さま|様|君)', u['jp']):
-        if HONOR[m.group(1)] not in en:
-            errs.append('honorific %s: expected %s' % (m.group(0), HONOR[m.group(1)]))
+    names = {jp for sec, jp, *_ in rows if sec == 'Characters'}
+    for m in re.finditer(r'([ァ-ヶー]+)(さん|くん|ちゃん|さま|様|君)', u['jp']):
+        if m.group(1) in names and HONOR[m.group(2)] not in en:  # ガイドさん, オレさま: not a name
+            errs.append('honorific %s: expected %s' % (m.group(0), HONOR[m.group(2)]))
     return errs
 
 

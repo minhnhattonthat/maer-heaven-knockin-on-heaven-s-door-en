@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE05:00256",
   "jp": "{C0F04}こんなもんかな♥",
-  "en": "",
+  "en": "{C0F04}That should do it♥",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE05:002c2",
   "jp": "{C0F04}わたしが手助けするなんて",
-  "en": "",
+  "en": "{C0F04}I hardly ever lend anyone a hand, you know,",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE05:002ed",
   "jp": "めったにないんだよ、ギンタ",
-  "en": "",
+  "en": "Ginta.",
   "call": "MswStr",
   "box": 16,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE05:00350",
   "jp": "{C0F04}あとはがんばってね♥",
-  "en": "",
+  "en": "{C0F04}Good luck with the rest♥",
   "call": "MswStr",
   "box": 18,
   "line": 1,

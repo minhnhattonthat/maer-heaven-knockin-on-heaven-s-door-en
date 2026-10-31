@@ -10,7 +10,7 @@
  {
   "id": "G_EV040:009b6",
   "jp": "{C0F04}…？",
-  "en": "",
+  "en": "{C0F04}...?",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV040:00a3d",
   "jp": "{C0F04}ね、ギンタン知らない？",
-  "en": "",
+  "en": "{C0F04}Hey, have you seen Gintan?",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV040:00bcc",
   "jp": "{C0F04}えーと…あれ？",
-  "en": "",
+  "en": "{C0F04}Um... huh? He was here just a minute ago...",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV040:00bed",
   "jp": "さっきまでいたのに…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 71,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV040:00ca7",
   "jp": "{C0F04}（きになるな…）",
-  "en": "",
+  "en": "{C0F04}(Hmm, that's bugging me...)",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV040:00dbd",
   "jp": "{C0F04}ちょっとさがしてくる！",
-  "en": "",
+  "en": "{C0F04}I'll go look for him!",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV040:013ca",
   "jp": "{C0F04}あ！ドロシー！！",
-  "en": "",
+  "en": "{C0F04}Ah! Dorothy!!",
   "call": "MswStr",
   "box": 116,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV040:01472",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 119,
   "line": 1,

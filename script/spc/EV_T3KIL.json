@@ -10,7 +10,7 @@
  {
   "id": "EV_T3KIL:00752",
   "jp": "{C0F04}よっし！",
-  "en": "",
+  "en": "{C0F04}All right! That's all three!",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_T3KIL:0076d",
   "jp": "これでみっつそろったぞ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_T3KIL:00914",
   "jp": "{C0F04}ふふふ…",
-  "en": "",
+  "en": "{C0F04}Heh heh heh...",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_T3KIL:00a20",
   "jp": "{C0F04}マール？？",
-  "en": "",
+  "en": "{C0F04}Marl??",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_T3KIL:00b2e",
   "jp": "{C0F04}はははははははははははぁ！",
-  "en": "",
+  "en": "{C0F04}Hahahahahahahahahahaaa!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_T3KIL:00c4c",
   "jp": "{C0F04}こんなにうまくいくとはなぁ…",
-  "en": "",
+  "en": "{C0F04}Who knew it'd go this smoothly... I'm",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_T3KIL:00c7b",
   "jp": "おどろきだよ、まったく！",
-  "en": "",
+  "en": "amazed, really!",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_T3KIL:00cda",
   "jp": "{C0F04}な…",
-  "en": "",
+  "en": "{C0F04}Wh...",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_T3KIL:00de2",
   "jp": "{C0F04}自分のよみではもうすこし",
-  "en": "",
+  "en": "{C0F04}By my reckoning, you were going to give me",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_T3KIL:00e0d",
   "jp": "てこずる、と思っていたんだが…",
-  "en": "",
+  "en": "a bit more trouble...",
   "call": "MswStr",
   "box": 74,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_T3KIL:00e72",
   "jp": "{C0F04}うれしい誤算（ごさん）というやつだ",
-  "en": "",
+  "en": "{C0F04}A happy miscalculation, you could say.",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_T3KIL:00f2c",
   "jp": "{C0F04}な…なに言ってるんだ？",
-  "en": "",
+  "en": "{C0F04}Wh-what are you talking about?",
   "call": "MswStr",
   "box": 79,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_T3KIL:00f9c",
   "jp": "{C0F04}あとかたづけは、キチっとしないとな",
-  "en": "",
+  "en": "{C0F04}Gotta clean up properly when the job's done.",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_T3KIL:00fd1",
   "jp": "キレイ好きなんだ、オレは！",
-  "en": "",
+  "en": "I like things tidy, see!",
   "call": "MswStr",
   "box": 81,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_T3KIL:015f4",
   "jp": "{C0F04}な…なに！？",
-  "en": "",
+  "en": "{C0F04}Wh-what!?",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_T3KIL:0176a",
   "jp": "{C0F04}こいつのなまえは…",
-  "en": "",
+  "en": "{C0F04}This thing's name is...",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_T3KIL:01880",
   "jp": "{C0F04}ガーディアンÄＲＭ{C0904}『タロス』{C0F04}！！",
-  "en": "",
+  "en": "{C0F04}The Guardian ÄRM {C0904}'Talos'{C0F04}!!",
   "call": "MswStr",
   "box": 134,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "EV_T3KIL:019b2",
   "jp": "{C0F04}古代の秘術（ひじゅつ）で",
-  "en": "",
+  "en": "{C0F04}A rare kind of ÄRM, engraved with an",
   "call": "MswStr",
   "box": 139,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_T3KIL:019dd",
   "jp": "彫金されている、かわったÄＲＭだよ",
-  "en": "",
+  "en": "ancient secret art.",
   "call": "MswStr",
   "box": 139,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_T3KIL:01a46",
   "jp": "{C0F04}ひかくてき、よわい魔力（まりょく）でも",
-  "en": "",
+  "en": "{C0F04}Even fairly weak magic power is enough to",
   "call": "MswStr",
   "box": 141,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_T3KIL:01a7f",
   "jp": "あやつることができる",
-  "en": "",
+  "en": "control it.",
   "call": "MswStr",
   "box": 141,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_T3KIL:01ada",
   "jp": "{C0F04}術者（じゅつしゃ）の欲望に",
-  "en": "",
+  "en": "{C0F04}A Guardian that's loyal to its wielder's every",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_T3KIL:01b07",
   "jp": "忠実なガーディアンさ！！",
-  "en": "",
+  "en": "desire!!",
   "call": "MswStr",
   "box": 143,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_T3KIL:01ba4",
   "jp": "{C0F04}タ…タロス？？",
-  "en": "",
+  "en": "{C0F04}T-Talos??",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_T3KIL:01d22",
   "jp": "{C0F04}礼を言うぜ、ギンタ！",
-  "en": "",
+  "en": "{C0F04}Thanks a bunch, Ginta! And now... goodbye!",
   "call": "MswStr",
   "box": 153,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_T3KIL:01d49",
   "jp": "そしてさようなら、だ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 153,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_T3KIL:021ef",
   "jp": "{C0F04}う…あ…",
-  "en": "",
+  "en": "{C0F04}Uh... ah...",
   "call": "MswStr",
   "box": 181,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "EV_T3KIL:02361",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!! Don't just stand there!! Ginta!!",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_T3KIL:0237e",
   "jp": "ぼーっとするな！！ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 189,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_T3KIL:02628",
   "jp": "{C0F04}死ね！！！",
-  "en": "",
+  "en": "{C0F04}Die!!!",
   "call": "MswStr",
   "box": 204,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_T3KIL:02dc2",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 253,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "EV_T3KIL:02f32",
   "jp": "{C0F04}ド…ドロシー！！",
-  "en": "",
+  "en": "{C0F04}D-Dorothy!!",
   "call": "MswStr",
   "box": 261,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "EV_T3KIL:03096",
   "jp": "{C0F04}だから言ったじゃない",
-  "en": "",
+  "en": "{C0F04}See? Didn't I tell you, Gintan♥",
   "call": "MswStr",
   "box": 268,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "EV_T3KIL:030bd",
   "jp": "ギンタン♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 268,
   "line": 2,
@@ -634,7 +634,7 @@
  {
   "id": "EV_T3KIL:0328a",
   "jp": "{C0F04}おあつらえだ…！",
-  "en": "",
+  "en": "{C0F04}Just what I ordered...! Talos!!",
   "call": "MswStr",
   "box": 278,
   "line": 1,
@@ -643,7 +643,7 @@
  {
   "id": "EV_T3KIL:032ad",
   "jp": "タロス！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 278,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "EV_T3KIL:03b8b",
   "jp": "{C0F04}ドロシーーーー！！",
-  "en": "",
+  "en": "{C0F04}Dorothyyyy!!",
   "call": "MswStr",
   "box": 336,
   "line": 1,
@@ -686,7 +686,7 @@
  {
   "id": "EV_T3KIL:03d09",
   "jp": "{C0F04}いった～～～",
-  "en": "",
+  "en": "{C0F04}Owww~",
   "call": "MswStr",
   "box": 344,
   "line": 1,
@@ -712,7 +712,7 @@
  {
   "id": "EV_T3KIL:03d71",
   "jp": "{C0F04}あたし、やっぱこういうバカ力タイプの",
-  "en": "",
+  "en": "{C0F04}Ugh, I just can't handle these big",
   "call": "MswStr",
   "box": 346,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "EV_T3KIL:03da8",
   "jp": "ガーディアンにがてだわ…",
-  "en": "",
+  "en": "brute-strength Guardians...",
   "call": "MswStr",
   "box": 346,
   "line": 2,
@@ -738,7 +738,7 @@
  {
   "id": "EV_T3KIL:03f4d",
   "jp": "{C0F04}そうそう、ギンタ",
-  "en": "",
+  "en": "{C0F04}Oh yeah, Ginta... Babbo is Phantom's ÄRM.",
   "call": "MswStr",
   "box": 355,
   "line": 1,
@@ -747,7 +747,7 @@
  {
   "id": "EV_T3KIL:03f70",
   "jp": "バッボはファントムのÄＲＭだ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 355,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "EV_T3KIL:03fd3",
   "jp": "{C0F04}返してくれよ",
-  "en": "",
+  "en": "{C0F04}Hand him back, would you?",
   "call": "MswStr",
   "box": 357,
   "line": 1,
@@ -790,7 +790,7 @@
  {
   "id": "EV_T3KIL:0409d",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!! You... don't tell me...!!!",
   "call": "MswStr",
   "box": 361,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "EV_T3KIL:040b6",
   "jp": "おまえ、まさか…！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 361,
   "line": 2,
@@ -816,7 +816,7 @@
  {
   "id": "EV_T3KIL:04151",
   "jp": "{C0F04}そうだよ",
-  "en": "",
+  "en": "{C0F04}That's right.",
   "call": "MswStr",
   "box": 364,
   "line": 1,
@@ -842,7 +842,7 @@
  {
   "id": "EV_T3KIL:041b3",
   "jp": "{C0F04}どこにでもいる、平凡な",
-  "en": "",
+  "en": "{C0F04}Just one of your everyday, ordinary 'Chess",
   "call": "MswStr",
   "box": 366,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "EV_T3KIL:041dc",
   "jp": "『チェスの兵隊』さ",
-  "en": "",
+  "en": "Pieces'.",
   "call": "MswStr",
   "box": 366,
   "line": 2,
@@ -868,7 +868,7 @@
  {
   "id": "EV_T3KIL:04235",
   "jp": "{C0F04}言わなかったっけ？？",
-  "en": "",
+  "en": "{C0F04}Didn't I mention that??",
   "call": "MswStr",
   "box": 368,
   "line": 1,
@@ -894,7 +894,7 @@
  {
   "id": "EV_T3KIL:04410",
   "jp": "{C0F04}きさま！！",
-  "en": "",
+  "en": "{C0F04}You scoundrel!! You dared to deceive me,",
   "call": "MswStr",
   "box": 378,
   "line": 1,
@@ -903,7 +903,7 @@
  {
   "id": "EV_T3KIL:0442d",
   "jp": "このワシをだましおったのか！！",
-  "en": "",
+  "en": "the great Babbo!!",
   "call": "MswStr",
   "box": 378,
   "line": 2,
@@ -920,7 +920,7 @@
  {
   "id": "EV_T3KIL:04610",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 388,
   "line": 1,
@@ -946,7 +946,7 @@
  {
   "id": "EV_T3KIL:047a6",
   "jp": "{C0F04}ドロシー！！",
-  "en": "",
+  "en": "{C0F04}Dorothy!!",
   "call": "MswStr",
   "box": 397,
   "line": 1,
@@ -972,7 +972,7 @@
  {
   "id": "EV_T3KIL:048b6",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 402,
   "line": 1,
@@ -998,7 +998,7 @@
  {
   "id": "EV_T3KIL:04950",
   "jp": "{C0F04}バッボ！！",
-  "en": "",
+  "en": "{C0F04}Babbo!! We're grabbing Dorothy and getting",
   "call": "MswStr",
   "box": 405,
   "line": 1,
@@ -1007,7 +1007,7 @@
  {
   "id": "EV_T3KIL:0496d",
   "jp": "いったん、ドロシーをつれてにげるぞ！",
-  "en": "",
+  "en": "out of here for now!",
   "call": "MswStr",
   "box": 405,
   "line": 2,
@@ -1024,7 +1024,7 @@
  {
   "id": "EV_T3KIL:04b1e",
   "jp": "{C0F04}な！？",
-  "en": "",
+  "en": "{C0F04}What!? You would flee in the face of the",
   "call": "MswStr",
   "box": 414,
   "line": 1,
@@ -1033,7 +1033,7 @@
  {
   "id": "EV_T3KIL:04b37",
   "jp": "チェスをまえにしてにげるだと！？",
-  "en": "",
+  "en": "Chess!?",
   "call": "MswStr",
   "box": 414,
   "line": 2,
@@ -1050,7 +1050,7 @@
  {
   "id": "EV_T3KIL:05049",
   "jp": "{C0F04}ふはははははは！",
-  "en": "",
+  "en": "{C0F04}Fwahahahahahaha!",
   "call": "MswStr",
   "box": 445,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "G_EV061:00891",
   "jp": "{C0F04}え？やばい、って何が？",
-  "en": "",
+  "en": "{C0F04}Huh? What do you mean, 'trouble'?",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV061:009ec",
   "jp": "{C0F04}だから…",
-  "en": "",
+  "en": "{C0F04}I mean...",
   "call": "MswStr",
   "box": 55,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV061:00be3",
   "jp": "{C0F04}こいつよ、こいつ",
-  "en": "",
+  "en": "{C0F04}Him. This guy right here.",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV061:00c83",
   "jp": "{C0F04}…ボクは…そんな",
-  "en": "",
+  "en": "{C0F04}...I... I'm not...",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV061:00d91",
   "jp": "{C0F04}あんた…このÄＲＭをつかって",
-  "en": "",
+  "en": "{C0F04}You... what are you plotting to do with this",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV061:00dc0",
   "jp": "何をたくらんでいるわけ？",
-  "en": "",
+  "en": "ÄRM?",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV061:010d1",
   "jp": "{C0F04}言いな！！",
-  "en": "",
+  "en": "{C0F04}Spit it out!!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV061:01173",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV061:01324",
   "jp": "{C0F04}なんでそんなこと言うんだよ！",
-  "en": "",
+  "en": "{C0F04}Why would you say something like that!",
   "call": "MswStr",
   "box": 102,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV061:014b0",
   "jp": "{C0F04}マールはいっしょにたたかってくれる",
-  "en": "",
+  "en": "{C0F04}Marl's our friend! He's fighting right",
   "call": "MswStr",
   "box": 109,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV061:014e5",
   "jp": "なかまじゃないか！！",
-  "en": "",
+  "en": "alongside us!!",
   "call": "MswStr",
   "box": 109,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV061:015a7",
   "jp": "{C0F04}ギ、ギンタン…",
-  "en": "",
+  "en": "{C0F04}G-Gintan...",
   "call": "MswStr",
   "box": 113,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV061:01674",
   "jp": "{C0F04}ÄＲＭどろぼうの",
-  "en": "",
+  "en": "{C0F04}If anyone's suspicious, it's you, Dorothy, the",
   "call": "MswStr",
   "box": 117,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV061:01697",
   "jp": "ドロシーのほうがよっぽどあやしいぞ！",
-  "en": "",
+  "en": "ÄRM thief!",
   "call": "MswStr",
   "box": 117,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV061:017d5",
   "jp": "{C0F04}え…",
-  "en": "",
+  "en": "{C0F04}Wh...",
   "call": "MswStr",
   "box": 123,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV061:019be",
   "jp": "{C0F04}なんてこと言うのギンタ！",
-  "en": "",
+  "en": "{C0F04}Ginta, how can you say that!",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV061:01a6e",
   "jp": "{C0F04}ドロシー、しんぱいして",
-  "en": "",
+  "en": "{C0F04}Dorothy only said that because she's",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV061:01a97",
   "jp": "言ってくれてるんじゃない！",
-  "en": "",
+  "en": "worried!",
   "call": "MswStr",
   "box": 136,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV061:01b36",
   "jp": "{C0F04}だいじな仲間に",
-  "en": "",
+  "en": "{C0F04}Saying something like that to a precious",
   "call": "MswStr",
   "box": 139,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "G_EV061:01b57",
   "jp": "そんなこと言うギンタ…",
-  "en": "",
+  "en": "friend... Ginta...",
   "call": "MswStr",
   "box": 139,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV061:01cca",
   "jp": "{C0F04}きらいだよっ！",
-  "en": "",
+  "en": "{C0F04}I hate you!",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV061:01e48",
   "jp": "{C0F04}う…うるさい！",
-  "en": "",
+  "en": "{C0F04}Sh... shut up!",
   "call": "MswStr",
   "box": 153,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV061:01f90",
   "jp": "{C0F04}行くぞ！マール！！",
-  "en": "",
+  "en": "{C0F04}Let's go, Marl!!",
   "call": "MswStr",
   "box": 159,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV061:0203a",
   "jp": "{C0F04}は、はい…",
-  "en": "",
+  "en": "{C0F04}Y-yes...",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV061:0286d",
   "jp": "{C0F04}あ！待つっスよ！！",
-  "en": "",
+  "en": "{C0F04}Hey! Hold on now, Ginta!!",
   "call": "MswStr",
   "box": 211,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "G_EV061:02892",
   "jp": "ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 211,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV061:02c28",
   "jp": "{C0F04}ギンタ…",
-  "en": "",
+  "en": "{C0F04}Ginta...",
   "call": "MswStr",
   "box": 233,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV061:02d9c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 241,
   "line": 1,
@@ -574,7 +574,7 @@
  {
   "id": "G_EV061:030c2",
   "jp": "ダンジョンモードに",
-  "en": "",
+  "en": "The {C0904}Tempering Gate{C0F04} has been added to",
   "call": "MswStr",
   "box": 264,
   "line": 0
@@ -582,7 +582,7 @@
  {
   "id": "G_EV061:030e0",
   "jp": "{C0904}鍛錬（たんれん）の門{C0F04}が追加されました",
-  "en": "",
+  "en": "Dungeon Mode.",
   "call": "MswStr",
   "box": 264,
   "line": 1

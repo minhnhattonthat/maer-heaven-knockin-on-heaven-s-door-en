@@ -10,7 +10,7 @@
  {
   "id": "END2:00a57",
   "jp": "つかれたぁ",
-  "en": "",
+  "en": "Man, I'm beat... Totally wiped out...!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "END2:00a6d",
   "jp": "つかれたっと…！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "END2:00c5e",
   "jp": "あ～～あ",
-  "en": "",
+  "en": "Haaah... Thanks to a CERTAIN somebody,",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "END2:00c72",
   "jp": "ダレかのせいで",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 71,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "END2:00ccc",
   "jp": "よけいなチカラつかって",
-  "en": "",
+  "en": "I had to burn a bunch of extra power, and",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "END2:00cee",
   "jp": "つかれちまったよなぁ…！！",
-  "en": "",
+  "en": "now I'm dead tired...!!",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "END2:00e3f",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "END2:00fb5",
   "jp": "さ、とりあえず、ねるとすっか…",
-  "en": "",
+  "en": "Well, guess we'd better hit the sack for",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "END2:00fdf",
   "jp": "",
-  "en": "",
+  "en": "now...",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "END2:0102b",
   "jp": "いくぞ！！",
-  "en": "",
+  "en": "Let's go!!",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "END2:01261",
   "jp": "う、うん……",
-  "en": "",
+  "en": "O-okay......",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "END2:019c5",
   "jp": "元気だすんだよ……",
-  "en": "",
+  "en": "Cheer up, okay...... Gintan...!",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "END2:019e3",
   "jp": "ギンタン…！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 145,
   "line": 2,
@@ -210,7 +210,7 @@
  {
   "id": "END2:01c48",
   "jp": "{C0D04}　C0F04 ",
-  "en": "",
+  "en": "{C0D04} {C0F04}",
   "call": "MswStr",
   "box": 162,
   "line": 0
@@ -218,7 +218,7 @@
  {
   "id": "END2:01c63",
   "jp": "　　　　　　……………………　　　",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 162,
   "line": 1
@@ -242,7 +242,7 @@
  {
   "id": "END2:01dfe",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 171,
   "line": 1,
@@ -268,7 +268,7 @@
  {
   "id": "END2:021be",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 194,
   "line": 1,
@@ -294,7 +294,7 @@
  {
   "id": "END2:02402",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 207,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "END2:0252d",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 214,
   "line": 1,
@@ -346,7 +346,7 @@
  {
   "id": "END2:026a4",
   "jp": "…………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 223,
   "line": 1,
@@ -372,7 +372,7 @@
  {
   "id": "END2:02772",
   "jp": "少しおちついた？",
-  "en": "",
+  "en": "Feeling a little calmer now?",
   "call": "MswStr",
   "box": 227,
   "line": 1,
@@ -398,7 +398,7 @@
  {
   "id": "END2:028ac",
   "jp": "…………",
-  "en": "",
+  "en": "...... Y-yeah...",
   "call": "MswStr",
   "box": 233,
   "line": 1,
@@ -407,7 +407,7 @@
  {
   "id": "END2:028c0",
   "jp": "う、うん…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 233,
   "line": 2,
@@ -424,7 +424,7 @@
  {
   "id": "END2:029f8",
   "jp": "ギンタでも、おちこむことあるんだね",
-  "en": "",
+  "en": "So even you get down sometimes, Ginta.",
   "call": "MswStr",
   "box": 239,
   "line": 1,
@@ -450,7 +450,7 @@
  {
   "id": "END2:02a74",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 241,
   "line": 1,
@@ -476,7 +476,7 @@
  {
   "id": "END2:02b0a",
   "jp": "…おちこんでるように見えた？",
-  "en": "",
+  "en": "...Did I look down?",
   "call": "MswStr",
   "box": 244,
   "line": 1,
@@ -502,7 +502,7 @@
  {
   "id": "END2:02c2a",
   "jp": "ちょっとだけ……ね",
-  "en": "",
+  "en": "Just a little...... yeah.",
   "call": "MswStr",
   "box": 249,
   "line": 1,
@@ -528,7 +528,7 @@
  {
   "id": "END2:02d40",
   "jp": "そっか……",
-  "en": "",
+  "en": "I see......",
   "call": "MswStr",
   "box": 254,
   "line": 1,
@@ -554,7 +554,7 @@
  {
   "id": "END2:02e74",
   "jp": "でも、もう平気だ",
-  "en": "",
+  "en": "But I'm okay now.",
   "call": "MswStr",
   "box": 260,
   "line": 1,
@@ -580,7 +580,7 @@
  {
   "id": "END2:02f88",
   "jp": "うん♥",
-  "en": "",
+  "en": "Good♥",
   "call": "MswStr",
   "box": 265,
   "line": 1,
@@ -606,7 +606,7 @@
  {
   "id": "END2:03092",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 270,
   "line": 1,
@@ -632,7 +632,7 @@
  {
   "id": "END2:030ee",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 272,
   "line": 1,
@@ -658,7 +658,7 @@
  {
   "id": "END2:03307",
   "jp": "…ね、おぼえてる？",
-  "en": "",
+  "en": "...Hey, do you remember?",
   "call": "MswStr",
   "box": 284,
   "line": 1,
@@ -684,7 +684,7 @@
  {
   "id": "END2:03373",
   "jp": "いつか、ギンタがわたしに",
-  "en": "",
+  "en": "Once, Ginta, you said something to me.",
   "call": "MswStr",
   "box": 286,
   "line": 1,
@@ -693,7 +693,7 @@
  {
   "id": "END2:03397",
   "jp": "いってくれたことがあったよね",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 286,
   "line": 2,
@@ -710,7 +710,7 @@
  {
   "id": "END2:034ab",
   "jp": "『オレはがんばってスノウたすける！』",
-  "en": "",
+  "en": "'I'll do my best and save Snow!' ...you said...",
   "call": "MswStr",
   "box": 291,
   "line": 1,
@@ -719,7 +719,7 @@
  {
   "id": "END2:034db",
   "jp": "…って…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 291,
   "line": 2,
@@ -736,7 +736,7 @@
  {
   "id": "END2:03683",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 300,
   "line": 1,
@@ -762,7 +762,7 @@
  {
   "id": "END2:03789",
   "jp": "すごくやさしいコトバだった",
-  "en": "",
+  "en": "Those were such kind words.",
   "call": "MswStr",
   "box": 305,
   "line": 1,
@@ -788,7 +788,7 @@
  {
   "id": "END2:037fd",
   "jp": "うれしかったよ♥",
-  "en": "",
+  "en": "They made me so happy♥",
   "call": "MswStr",
   "box": 307,
   "line": 1,
@@ -814,7 +814,7 @@
  {
   "id": "END2:039c4",
   "jp": "…　…　…",
-  "en": "",
+  "en": "... ... ...",
   "call": "MswStr",
   "box": 316,
   "line": 1,
@@ -840,7 +840,7 @@
  {
   "id": "END2:03ad2",
   "jp": "わたしだって…",
-  "en": "",
+  "en": "I'm... really a very weak person too, you",
   "call": "MswStr",
   "box": 321,
   "line": 1,
@@ -849,7 +849,7 @@
  {
   "id": "END2:03aec",
   "jp": "ホントはスゴく弱い人間だよ",
-  "en": "",
+  "en": "know.",
   "call": "MswStr",
   "box": 321,
   "line": 2,
@@ -866,7 +866,7 @@
  {
   "id": "END2:03d2b",
   "jp": "チェスだってこわい",
-  "en": "",
+  "en": "The Chess Pieces scare me, too.",
   "call": "MswStr",
   "box": 332,
   "line": 1,
@@ -892,7 +892,7 @@
  {
   "id": "END2:03d97",
   "jp": "エドをもどしてあげられるかも…",
-  "en": "",
+  "en": "Whether I can ever bring Ed back... I'm so",
   "call": "MswStr",
   "box": 334,
   "line": 1,
@@ -901,7 +901,7 @@
  {
   "id": "END2:03dc1",
   "jp": "不安でこわい…",
-  "en": "",
+  "en": "worried, and so scared...",
   "call": "MswStr",
   "box": 334,
   "line": 2,
@@ -918,7 +918,7 @@
  {
   "id": "END2:03ec7",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 339,
   "line": 1,
@@ -944,7 +944,7 @@
  {
   "id": "END2:03f27",
   "jp": "でもね…",
-  "en": "",
+  "en": "But you know...",
   "call": "MswStr",
   "box": 341,
   "line": 1,
@@ -970,7 +970,7 @@
  {
   "id": "END2:04033",
   "jp": "ギンタのきもちに…",
-  "en": "",
+  "en": "What you felt, Ginta... it saved my heart!",
   "call": "MswStr",
   "box": 346,
   "line": 1,
@@ -979,7 +979,7 @@
  {
   "id": "END2:04051",
   "jp": "心がすくわれたんだ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 346,
   "line": 2,
@@ -996,7 +996,7 @@
  {
   "id": "END2:0415d",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 351,
   "line": 1,
@@ -1022,7 +1022,7 @@
  {
   "id": "END2:044cd",
   "jp": "やっぱりがんばろうって！",
-  "en": "",
+  "en": "It made me want to do my best after all!",
   "call": "MswStr",
   "box": 370,
   "line": 1,
@@ -1048,7 +1048,7 @@
  {
   "id": "END2:0453f",
   "jp": "『がんばって、ギンタをたすける！』",
-  "en": "",
+  "en": "'I'll do my best and save Ginta!'",
   "call": "MswStr",
   "box": 372,
   "line": 1,
@@ -1074,7 +1074,7 @@
  {
   "id": "END2:04665",
   "jp": "…って",
-  "en": "",
+  "en": "...That's... what I've decided!",
   "call": "MswStr",
   "box": 377,
   "line": 1,
@@ -1083,7 +1083,7 @@
  {
   "id": "END2:04677",
   "jp": "そう………思うよ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 377,
   "line": 2,
@@ -1100,7 +1100,7 @@
  {
   "id": "END2:04894",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 388,
   "line": 1,
@@ -1126,7 +1126,7 @@
  {
   "id": "END2:04924",
   "jp": "いずれは…元のせかいに",
-  "en": "",
+  "en": "Someday... I'll have to go back to my own",
   "call": "MswStr",
   "box": 391,
   "line": 1,
@@ -1135,7 +1135,7 @@
  {
   "id": "END2:04946",
   "jp": "戻らなくちゃならないけど…",
-  "en": "",
+  "en": "world, but...",
   "call": "MswStr",
   "box": 391,
   "line": 2,
@@ -1152,7 +1152,7 @@
  {
   "id": "END2:049ae",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 393,
   "line": 1,
@@ -1178,7 +1178,7 @@
  {
   "id": "END2:04a34",
   "jp": "オレ、まだまだ、だな！",
-  "en": "",
+  "en": "I've still got a long way to go!",
   "call": "MswStr",
   "box": 396,
   "line": 1,
@@ -1204,7 +1204,7 @@
  {
   "id": "END2:04aa4",
   "jp": "まだ…",
-  "en": "",
+  "en": "I'm still... weak...",
   "call": "MswStr",
   "box": 398,
   "line": 1,
@@ -1213,7 +1213,7 @@
  {
   "id": "END2:04ab6",
   "jp": "よわいよ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 398,
   "line": 2,
@@ -1230,7 +1230,7 @@
  {
   "id": "END2:04bb8",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 403,
   "line": 1,
@@ -1256,7 +1256,7 @@
  {
   "id": "END2:04ce8",
   "jp": "こんなよわいまま、戻ったら",
-  "en": "",
+  "en": "If I go back this weak, everybody waiting",
   "call": "MswStr",
   "box": 409,
   "line": 1,
@@ -1265,7 +1265,7 @@
  {
   "id": "END2:04d0e",
   "jp": "まってるヤツらにわらわれちまう",
-  "en": "",
+  "en": "for me's gonna laugh at me.",
   "call": "MswStr",
   "box": 409,
   "line": 2,
@@ -1282,7 +1282,7 @@
  {
   "id": "END2:04d7a",
   "jp": "それに、エドのオッサンにも",
-  "en": "",
+  "en": "Besides, I made a promise to the old man in",
   "call": "MswStr",
   "box": 411,
   "line": 1,
@@ -1291,7 +1291,7 @@
  {
   "id": "END2:04da0",
   "jp": "やくそくしちまったからさ",
-  "en": "",
+  "en": "Ed, too.",
   "call": "MswStr",
   "box": 411,
   "line": 2,
@@ -1308,7 +1308,7 @@
  {
   "id": "END2:04eb0",
   "jp": "つよくなる！",
-  "en": "",
+  "en": "That I'd get strong......!!!",
   "call": "MswStr",
   "box": 416,
   "line": 1,
@@ -1317,7 +1317,7 @@
  {
   "id": "END2:04ec8",
   "jp": "って…………！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 416,
   "line": 2,
@@ -1334,7 +1334,7 @@
  {
   "id": "END2:04f28",
   "jp": "だから…まだまだ",
-  "en": "",
+  "en": "So... I've gotta keep working hard.........!",
   "call": "MswStr",
   "box": 418,
   "line": 1,
@@ -1343,7 +1343,7 @@
  {
   "id": "END2:04f44",
   "jp": "がんばらないとな………！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 418,
   "line": 2,
@@ -1360,7 +1360,7 @@
  {
   "id": "END2:05054",
   "jp": "……うん！",
-  "en": "",
+  "en": "......Yeah! Now you sound like the real Ginta",
   "call": "MswStr",
   "box": 423,
   "line": 1,
@@ -1369,7 +1369,7 @@
  {
   "id": "END2:0506a",
   "jp": "やっとギンタらしくなった！",
-  "en": "",
+  "en": "again!",
   "call": "MswStr",
   "box": 423,
   "line": 2,
@@ -1386,7 +1386,7 @@
  {
   "id": "END2:0517c",
   "jp": "…おう！！",
-  "en": "",
+  "en": "...You bet!!",
   "call": "MswStr",
   "box": 428,
   "line": 1,
@@ -1412,7 +1412,7 @@
  {
   "id": "END2:0530f",
   "jp": "…うん？",
-  "en": "",
+  "en": "...Hm?",
   "call": "MswStr",
   "box": 437,
   "line": 1,
@@ -1438,7 +1438,7 @@
  {
   "id": "END2:0579e",
   "jp": "ギンタ！ギンタ！",
-  "en": "",
+  "en": "Ginta! Ginta! Look at the moon!",
   "call": "MswStr",
   "box": 464,
   "line": 1,
@@ -1447,7 +1447,7 @@
  {
   "id": "END2:057ba",
   "jp": "月を見て！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 464,
   "line": 2,
@@ -1464,7 +1464,7 @@
  {
   "id": "END2:05812",
   "jp": "………！！",
-  "en": "",
+  "en": "......!!",
   "call": "MswStr",
   "box": 466,
   "line": 1,
@@ -1490,7 +1490,7 @@
  {
   "id": "END2:05ac1",
   "jp": "これからチェスの兵隊の",
-  "en": "",
+  "en": "Now begins the advance of the Chess",
   "call": "MswStr",
   "box": 482,
   "line": 1,
@@ -1499,7 +1499,7 @@
  {
   "id": "END2:05ae3",
   "jp": "進撃が始まる！！",
-  "en": "",
+  "en": "Pieces!!",
   "call": "MswStr",
   "box": 482,
   "line": 2,
@@ -1516,7 +1516,7 @@
  {
   "id": "END2:05b3f",
   "jp": "せかいはチェスの兵隊を恐れ",
-  "en": "",
+  "en": "The world shall fear the Chess Pieces, and",
   "call": "MswStr",
   "box": 484,
   "line": 1,
@@ -1525,7 +1525,7 @@
  {
   "id": "END2:05b65",
   "jp": "チェスの兵隊によって絶望し",
-  "en": "",
+  "en": "despair because of the Chess Pieces...",
   "call": "MswStr",
   "box": 484,
   "line": 2,
@@ -1542,7 +1542,7 @@
  {
   "id": "END2:05bcb",
   "jp": "チェスの兵隊に服従することで",
-  "en": "",
+  "en": "and only by bowing to the Chess Pieces shall",
   "call": "MswStr",
   "box": 486,
   "line": 1,
@@ -1551,7 +1551,7 @@
  {
   "id": "END2:05bf3",
   "jp": "のみ生き長らえられるのだ！！！",
-  "en": "",
+  "en": "it be allowed to live on!!!",
   "call": "MswStr",
   "box": 486,
   "line": 2,
@@ -1568,7 +1568,7 @@
  {
   "id": "END2:05dcc",
   "jp": "ひれ伏せ！！",
-  "en": "",
+  "en": "Kneel!!",
   "call": "MswStr",
   "box": 496,
   "line": 1,
@@ -1594,7 +1594,7 @@
  {
   "id": "END2:05e30",
   "jp": "恐怖せよ！！",
-  "en": "",
+  "en": "Tremble!!",
   "call": "MswStr",
   "box": 498,
   "line": 1,
@@ -1620,7 +1620,7 @@
  {
   "id": "END2:05e94",
   "jp": "チェスをあがめよ！！",
-  "en": "",
+  "en": "Worship the Chess Pieces!!",
   "call": "MswStr",
   "box": 500,
   "line": 1,
@@ -1638,7 +1638,7 @@
  {
   "id": "END2:0635b",
   "jp": "　　　　　…　…　…　…　…　",
-  "en": "",
+  "en": "                         ... ... ... ... ...",
   "call": "MswStr",
   "box": 531,
   "line": 1
@@ -1662,7 +1662,7 @@
  {
   "id": "END2:064ba",
   "jp": "チェスの兵隊…！！！！",
-  "en": "",
+  "en": "Chess Pieces...!!!! ...Don't you get cocky with",
   "call": "MswStr",
   "box": 538,
   "line": 1,
@@ -1671,7 +1671,7 @@
  {
   "id": "END2:064dc",
   "jp": "…いい気になりやがって！！",
-  "en": "",
+  "en": "me!!",
   "call": "MswStr",
   "box": 538,
   "line": 2,
@@ -1688,7 +1688,7 @@
  {
   "id": "END2:06615",
   "jp": "うん！",
-  "en": "",
+  "en": "Yeah! Go get 'em, Ginta!!",
   "call": "MswStr",
   "box": 544,
   "line": 1,
@@ -1697,7 +1697,7 @@
  {
   "id": "END2:06627",
   "jp": "ファイトだよ、ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 544,
   "line": 2,
@@ -1714,7 +1714,7 @@
  {
   "id": "END2:06845",
   "jp": "メルヘヴンがどんなに広くても！！",
-  "en": "",
+  "en": "No matter how big MÄR Heaven is!!",
   "call": "MswStr",
   "box": 554,
   "line": 1,
@@ -1740,7 +1740,7 @@
  {
   "id": "END2:06a0b",
   "jp": "おまえらがどこに現れようとも！！",
-  "en": "",
+  "en": "No matter where you guys show up!!",
   "call": "MswStr",
   "box": 562,
   "line": 1,
@@ -1766,7 +1766,7 @@
  {
   "id": "END2:06be0",
   "jp": "おまえら…一人一人…",
-  "en": "",
+  "en": "Every... last... one of you...",
   "call": "MswStr",
   "box": 572,
   "line": 1,
@@ -1792,7 +1792,7 @@
  {
   "id": "END2:06c4e",
   "jp": "ぜったい",
-  "en": "",
+  "en": "I swear I'm gonna crush you all!!!",
   "call": "MswStr",
   "box": 574,
   "line": 1,
@@ -1801,7 +1801,7 @@
  {
   "id": "END2:06c62",
   "jp": "ぶっつぶしてやるからなぁ！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 574,
   "line": 2,
@@ -1818,7 +1818,7 @@
  {
   "id": "END2:06cce",
   "jp": "オレの大好きな、このメルヘヴンを",
-  "en": "",
+  "en": "I'm gonna protect this MÄR Heaven that I",
   "call": "MswStr",
   "box": 576,
   "line": 1,
@@ -1827,7 +1827,7 @@
  {
   "id": "END2:06cfa",
   "jp": "まもるんだ！！",
-  "en": "",
+  "en": "love!!",
   "call": "MswStr",
   "box": 576,
   "line": 2,

@@ -2,7 +2,7 @@
  {
   "id": "DBG_FACE:0039f",
   "jp": "ギンタ制服１",
-  "en": "",
+  "en": "Ginta Uniform 1",
   "call": "MswStr",
   "box": 24,
   "line": 0
@@ -10,7 +10,7 @@
  {
   "id": "DBG_FACE:003b7",
   "jp": "ギンタ制服２",
-  "en": "",
+  "en": "Ginta Uniform 2",
   "call": "MswStr",
   "box": 24,
   "line": 1
@@ -18,7 +18,7 @@
  {
   "id": "DBG_FACE:003cf",
   "jp": "ギンタ制服３",
-  "en": "",
+  "en": "Ginta Uniform 3",
   "call": "MswStr",
   "box": 24,
   "line": 2
@@ -26,7 +26,7 @@
  {
   "id": "DBG_FACE:005cd",
   "jp": "ギンタ制服４",
-  "en": "",
+  "en": "Ginta Uniform 4",
   "call": "MswStr",
   "box": 35,
   "line": 0
@@ -34,7 +34,7 @@
  {
   "id": "DBG_FACE:005e5",
   "jp": "ギンタ制服５",
-  "en": "",
+  "en": "Ginta Uniform 5",
   "call": "MswStr",
   "box": 35,
   "line": 1
@@ -42,7 +42,7 @@
  {
   "id": "DBG_FACE:005fd",
   "jp": "ギンタ制服６",
-  "en": "",
+  "en": "Ginta Uniform 6",
   "call": "MswStr",
   "box": 35,
   "line": 2
@@ -50,7 +50,7 @@
  {
   "id": "DBG_FACE:007fb",
   "jp": "ギンタ制服７",
-  "en": "",
+  "en": "Ginta Uniform 7",
   "call": "MswStr",
   "box": 46,
   "line": 0
@@ -58,7 +58,7 @@
  {
   "id": "DBG_FACE:00813",
   "jp": "ギンタ制服８",
-  "en": "",
+  "en": "Ginta Uniform 8",
   "call": "MswStr",
   "box": 46,
   "line": 1
@@ -66,7 +66,7 @@
  {
   "id": "DBG_FACE:0082b",
   "jp": "ギンタ制服９",
-  "en": "",
+  "en": "Ginta Uniform 9",
   "call": "MswStr",
   "box": 46,
   "line": 2
@@ -74,7 +74,7 @@
  {
   "id": "DBG_FACE:00a29",
   "jp": "ギンタ制服１０",
-  "en": "",
+  "en": "Ginta Uniform 10",
   "call": "MswStr",
   "box": 57,
   "line": 0
@@ -82,7 +82,7 @@
  {
   "id": "DBG_FACE:00a43",
   "jp": "ギンタ制服１１",
-  "en": "",
+  "en": "Ginta Uniform 11",
   "call": "MswStr",
   "box": 57,
   "line": 1
@@ -90,7 +90,7 @@
  {
   "id": "DBG_FACE:00a5d",
   "jp": "ギンタ制服１２",
-  "en": "",
+  "en": "Ginta Uniform 12",
   "call": "MswStr",
   "box": 57,
   "line": 2
@@ -98,7 +98,7 @@
  {
   "id": "DBG_FACE:00c5d",
   "jp": "ギンタ制服１３",
-  "en": "",
+  "en": "Ginta Uniform 13",
   "call": "MswStr",
   "box": 68,
   "line": 0
@@ -106,7 +106,7 @@
  {
   "id": "DBG_FACE:00c77",
   "jp": "ギンタ制服１４",
-  "en": "",
+  "en": "Ginta Uniform 14",
   "call": "MswStr",
   "box": 68,
   "line": 1
@@ -114,7 +114,7 @@
  {
   "id": "DBG_FACE:00c91",
   "jp": "ギンタ制服１６",
-  "en": "",
+  "en": "Ginta Uniform 16",
   "call": "MswStr",
   "box": 68,
   "line": 2
@@ -122,7 +122,7 @@
  {
   "id": "DBG_FACE:00e91",
   "jp": "ギンタ　メル服１",
-  "en": "",
+  "en": "Ginta MÄR Outfit 1",
   "call": "MswStr",
   "box": 79,
   "line": 0
@@ -130,7 +130,7 @@
  {
   "id": "DBG_FACE:00ead",
   "jp": "ギンタ　メル服２",
-  "en": "",
+  "en": "Ginta MÄR Outfit 2",
   "call": "MswStr",
   "box": 79,
   "line": 1
@@ -138,7 +138,7 @@
  {
   "id": "DBG_FACE:00ec9",
   "jp": "ギンタ　メル服３",
-  "en": "",
+  "en": "Ginta MÄR Outfit 3",
   "call": "MswStr",
   "box": 79,
   "line": 2
@@ -146,7 +146,7 @@
  {
   "id": "DBG_FACE:010cb",
   "jp": "ギンタ　メル服４",
-  "en": "",
+  "en": "Ginta MÄR Outfit 4",
   "call": "MswStr",
   "box": 90,
   "line": 0
@@ -154,7 +154,7 @@
  {
   "id": "DBG_FACE:010e7",
   "jp": "ギンタ　メル服５",
-  "en": "",
+  "en": "Ginta MÄR Outfit 5",
   "call": "MswStr",
   "box": 90,
   "line": 1
@@ -162,7 +162,7 @@
  {
   "id": "DBG_FACE:01103",
   "jp": "ギンタ　メル服６",
-  "en": "",
+  "en": "Ginta MÄR Outfit 6",
   "call": "MswStr",
   "box": 90,
   "line": 2
@@ -170,7 +170,7 @@
  {
   "id": "DBG_FACE:01305",
   "jp": "ギンタ　メル服７",
-  "en": "",
+  "en": "Ginta MÄR Outfit 7",
   "call": "MswStr",
   "box": 101,
   "line": 0
@@ -178,7 +178,7 @@
  {
   "id": "DBG_FACE:01321",
   "jp": "ギンタ　メル服８",
-  "en": "",
+  "en": "Ginta MÄR Outfit 8",
   "call": "MswStr",
   "box": 101,
   "line": 1
@@ -186,7 +186,7 @@
  {
   "id": "DBG_FACE:0133d",
   "jp": "ギンタ　メル服９",
-  "en": "",
+  "en": "Ginta MÄR Outfit 9",
   "call": "MswStr",
   "box": 101,
   "line": 2
@@ -194,7 +194,7 @@
  {
   "id": "DBG_FACE:0153f",
   "jp": "ギンタ　メル服１０",
-  "en": "",
+  "en": "Ginta MÄR Outfit 10",
   "call": "MswStr",
   "box": 112,
   "line": 0
@@ -202,7 +202,7 @@
  {
   "id": "DBG_FACE:0155d",
   "jp": "ギンタ　メル服１１",
-  "en": "",
+  "en": "Ginta MÄR Outfit 11",
   "call": "MswStr",
   "box": 112,
   "line": 1
@@ -210,7 +210,7 @@
  {
   "id": "DBG_FACE:0157b",
   "jp": "ギンタ　メル服１２",
-  "en": "",
+  "en": "Ginta MÄR Outfit 12",
   "call": "MswStr",
   "box": 112,
   "line": 2
@@ -218,7 +218,7 @@
  {
   "id": "DBG_FACE:0177f",
   "jp": "ギンタ　メル服１３",
-  "en": "",
+  "en": "Ginta MÄR Outfit 13",
   "call": "MswStr",
   "box": 123,
   "line": 0
@@ -226,7 +226,7 @@
  {
   "id": "DBG_FACE:0179d",
   "jp": "ギンタ　メル服１４",
-  "en": "",
+  "en": "Ginta MÄR Outfit 14",
   "call": "MswStr",
   "box": 123,
   "line": 1
@@ -234,7 +234,7 @@
  {
   "id": "DBG_FACE:017bb",
   "jp": "ギンタ　メル服１５",
-  "en": "",
+  "en": "Ginta MÄR Outfit 15",
   "call": "MswStr",
   "box": 123,
   "line": 2
@@ -242,7 +242,7 @@
  {
   "id": "DBG_FACE:018ef",
   "jp": "ギンタ　メル服１６",
-  "en": "",
+  "en": "Ginta MÄR Outfit 16",
   "call": "MswStr",
   "box": 130,
   "line": 0
@@ -266,7 +266,7 @@
  {
   "id": "DBG_FACE:01bb3",
   "jp": "バッボ１",
-  "en": "",
+  "en": "Babbo 1",
   "call": "MswStr",
   "box": 147,
   "line": 0
@@ -274,7 +274,7 @@
  {
   "id": "DBG_FACE:01bc7",
   "jp": "バッボ２",
-  "en": "",
+  "en": "Babbo 2",
   "call": "MswStr",
   "box": 147,
   "line": 1
@@ -282,7 +282,7 @@
  {
   "id": "DBG_FACE:01bdb",
   "jp": "バッボ３",
-  "en": "",
+  "en": "Babbo 3",
   "call": "MswStr",
   "box": 147,
   "line": 2
@@ -290,7 +290,7 @@
  {
   "id": "DBG_FACE:01dd5",
   "jp": "バッボ４",
-  "en": "",
+  "en": "Babbo 4",
   "call": "MswStr",
   "box": 158,
   "line": 0
@@ -298,7 +298,7 @@
  {
   "id": "DBG_FACE:01de9",
   "jp": "バッボ５",
-  "en": "",
+  "en": "Babbo 5",
   "call": "MswStr",
   "box": 158,
   "line": 1
@@ -306,7 +306,7 @@
  {
   "id": "DBG_FACE:01dfd",
   "jp": "バッボ６",
-  "en": "",
+  "en": "Babbo 6",
   "call": "MswStr",
   "box": 158,
   "line": 2
@@ -314,7 +314,7 @@
  {
   "id": "DBG_FACE:01ff7",
   "jp": "バッボ７",
-  "en": "",
+  "en": "Babbo 7",
   "call": "MswStr",
   "box": 169,
   "line": 0
@@ -322,7 +322,7 @@
  {
   "id": "DBG_FACE:0200b",
   "jp": "バッボ８",
-  "en": "",
+  "en": "Babbo 8",
   "call": "MswStr",
   "box": 169,
   "line": 1
@@ -330,7 +330,7 @@
  {
   "id": "DBG_FACE:0201f",
   "jp": "バッボ９",
-  "en": "",
+  "en": "Babbo 9",
   "call": "MswStr",
   "box": 169,
   "line": 2
@@ -338,7 +338,7 @@
  {
   "id": "DBG_FACE:02219",
   "jp": "バッボ１０",
-  "en": "",
+  "en": "Babbo 10",
   "call": "MswStr",
   "box": 180,
   "line": 0
@@ -346,7 +346,7 @@
  {
   "id": "DBG_FACE:0222f",
   "jp": "バッボ１１",
-  "en": "",
+  "en": "Babbo 11",
   "call": "MswStr",
   "box": 180,
   "line": 1
@@ -354,7 +354,7 @@
  {
   "id": "DBG_FACE:02245",
   "jp": "バッボ１２",
-  "en": "",
+  "en": "Babbo 12",
   "call": "MswStr",
   "box": 180,
   "line": 2
@@ -362,7 +362,7 @@
  {
   "id": "DBG_FACE:023d9",
   "jp": "バッボ１３",
-  "en": "",
+  "en": "Babbo 13",
   "call": "MswStr",
   "box": 189,
   "line": 0
@@ -370,7 +370,7 @@
  {
   "id": "DBG_FACE:023ef",
   "jp": "バッボ１４",
-  "en": "",
+  "en": "Babbo 14",
   "call": "MswStr",
   "box": 189,
   "line": 1
@@ -386,7 +386,7 @@
  {
   "id": "DBG_FACE:0264b",
   "jp": "ジャック１",
-  "en": "",
+  "en": "Jack 1",
   "call": "MswStr",
   "box": 203,
   "line": 0
@@ -394,7 +394,7 @@
  {
   "id": "DBG_FACE:02661",
   "jp": "ジャック２",
-  "en": "",
+  "en": "Jack 2",
   "call": "MswStr",
   "box": 203,
   "line": 1
@@ -402,7 +402,7 @@
  {
   "id": "DBG_FACE:02677",
   "jp": "ジャック３",
-  "en": "",
+  "en": "Jack 3",
   "call": "MswStr",
   "box": 203,
   "line": 2
@@ -410,7 +410,7 @@
  {
   "id": "DBG_FACE:02873",
   "jp": "ジャック４",
-  "en": "",
+  "en": "Jack 4",
   "call": "MswStr",
   "box": 214,
   "line": 0
@@ -418,7 +418,7 @@
  {
   "id": "DBG_FACE:02889",
   "jp": "ジャック５",
-  "en": "",
+  "en": "Jack 5",
   "call": "MswStr",
   "box": 214,
   "line": 1
@@ -426,7 +426,7 @@
  {
   "id": "DBG_FACE:0289f",
   "jp": "ジャック６",
-  "en": "",
+  "en": "Jack 6",
   "call": "MswStr",
   "box": 214,
   "line": 2
@@ -434,7 +434,7 @@
  {
   "id": "DBG_FACE:02a33",
   "jp": "ジャック７",
-  "en": "",
+  "en": "Jack 7",
   "call": "MswStr",
   "box": 223,
   "line": 0
@@ -442,7 +442,7 @@
  {
   "id": "DBG_FACE:02a49",
   "jp": "ジャック８",
-  "en": "",
+  "en": "Jack 8",
   "call": "MswStr",
   "box": 223,
   "line": 1
@@ -458,7 +458,7 @@
  {
   "id": "DBG_FACE:02b51",
   "jp": "ジャック鳥１",
-  "en": "",
+  "en": "Jack Bird 1",
   "call": "MswStr",
   "box": 229,
   "line": 0
@@ -482,7 +482,7 @@
  {
   "id": "DBG_FACE:02e0f",
   "jp": "スノウ１",
-  "en": "",
+  "en": "Snow 1",
   "call": "MswStr",
   "box": 246,
   "line": 0
@@ -490,7 +490,7 @@
  {
   "id": "DBG_FACE:02e23",
   "jp": "スノウ２",
-  "en": "",
+  "en": "Snow 2",
   "call": "MswStr",
   "box": 246,
   "line": 1
@@ -498,7 +498,7 @@
  {
   "id": "DBG_FACE:02e37",
   "jp": "スノウ３",
-  "en": "",
+  "en": "Snow 3",
   "call": "MswStr",
   "box": 246,
   "line": 2
@@ -506,7 +506,7 @@
  {
   "id": "DBG_FACE:03031",
   "jp": "スノウ４",
-  "en": "",
+  "en": "Snow 4",
   "call": "MswStr",
   "box": 257,
   "line": 0
@@ -514,7 +514,7 @@
  {
   "id": "DBG_FACE:03045",
   "jp": "スノウ５",
-  "en": "",
+  "en": "Snow 5",
   "call": "MswStr",
   "box": 257,
   "line": 1
@@ -522,7 +522,7 @@
  {
   "id": "DBG_FACE:03059",
   "jp": "スノウ６",
-  "en": "",
+  "en": "Snow 6",
   "call": "MswStr",
   "box": 257,
   "line": 2
@@ -530,7 +530,7 @@
  {
   "id": "DBG_FACE:03253",
   "jp": "スノウ７",
-  "en": "",
+  "en": "Snow 7",
   "call": "MswStr",
   "box": 268,
   "line": 0
@@ -538,7 +538,7 @@
  {
   "id": "DBG_FACE:03267",
   "jp": "スノウ８",
-  "en": "",
+  "en": "Snow 8",
   "call": "MswStr",
   "box": 268,
   "line": 1
@@ -546,7 +546,7 @@
  {
   "id": "DBG_FACE:0327b",
   "jp": "スノウ９",
-  "en": "",
+  "en": "Snow 9",
   "call": "MswStr",
   "box": 268,
   "line": 2
@@ -554,7 +554,7 @@
  {
   "id": "DBG_FACE:03475",
   "jp": "エド１",
-  "en": "",
+  "en": "Ed 1",
   "call": "MswStr",
   "box": 279,
   "line": 0
@@ -562,7 +562,7 @@
  {
   "id": "DBG_FACE:03487",
   "jp": "エド２",
-  "en": "",
+  "en": "Ed 2",
   "call": "MswStr",
   "box": 279,
   "line": 1
@@ -570,7 +570,7 @@
  {
   "id": "DBG_FACE:03499",
   "jp": "エド３",
-  "en": "",
+  "en": "Ed 3",
   "call": "MswStr",
   "box": 279,
   "line": 2
@@ -578,7 +578,7 @@
  {
   "id": "DBG_FACE:03629",
   "jp": "エド４",
-  "en": "",
+  "en": "Ed 4",
   "call": "MswStr",
   "box": 288,
   "line": 0
@@ -586,7 +586,7 @@
  {
   "id": "DBG_FACE:0363b",
   "jp": "エド５",
-  "en": "",
+  "en": "Ed 5",
   "call": "MswStr",
   "box": 288,
   "line": 1
@@ -602,7 +602,7 @@
  {
   "id": "DBG_FACE:03893",
   "jp": "アラン１",
-  "en": "",
+  "en": "Alan 1",
   "call": "MswStr",
   "box": 302,
   "line": 0
@@ -610,7 +610,7 @@
  {
   "id": "DBG_FACE:038a7",
   "jp": "アラン２",
-  "en": "",
+  "en": "Alan 2",
   "call": "MswStr",
   "box": 302,
   "line": 1
@@ -618,7 +618,7 @@
  {
   "id": "DBG_FACE:038bb",
   "jp": "アラン３",
-  "en": "",
+  "en": "Alan 3",
   "call": "MswStr",
   "box": 302,
   "line": 2
@@ -626,7 +626,7 @@
  {
   "id": "DBG_FACE:03ab5",
   "jp": "アラン４",
-  "en": "",
+  "en": "Alan 4",
   "call": "MswStr",
   "box": 313,
   "line": 0
@@ -634,7 +634,7 @@
  {
   "id": "DBG_FACE:03ac9",
   "jp": "アラン５",
-  "en": "",
+  "en": "Alan 5",
   "call": "MswStr",
   "box": 313,
   "line": 1
@@ -642,7 +642,7 @@
  {
   "id": "DBG_FACE:03add",
   "jp": "アラン６",
-  "en": "",
+  "en": "Alan 6",
   "call": "MswStr",
   "box": 313,
   "line": 2
@@ -650,7 +650,7 @@
  {
   "id": "DBG_FACE:03cd7",
   "jp": "アルヴィス１",
-  "en": "",
+  "en": "Alviss 1",
   "call": "MswStr",
   "box": 324,
   "line": 0
@@ -658,7 +658,7 @@
  {
   "id": "DBG_FACE:03cef",
   "jp": "アルヴィス２",
-  "en": "",
+  "en": "Alviss 2",
   "call": "MswStr",
   "box": 324,
   "line": 1
@@ -666,7 +666,7 @@
  {
   "id": "DBG_FACE:03d07",
   "jp": "アルヴィス３",
-  "en": "",
+  "en": "Alviss 3",
   "call": "MswStr",
   "box": 324,
   "line": 2
@@ -674,7 +674,7 @@
  {
   "id": "DBG_FACE:03f05",
   "jp": "アルヴィス４",
-  "en": "",
+  "en": "Alviss 4",
   "call": "MswStr",
   "box": 335,
   "line": 0
@@ -682,7 +682,7 @@
  {
   "id": "DBG_FACE:03f1d",
   "jp": "アルヴィス５",
-  "en": "",
+  "en": "Alviss 5",
   "call": "MswStr",
   "box": 335,
   "line": 1
@@ -690,7 +690,7 @@
  {
   "id": "DBG_FACE:03f35",
   "jp": "アルヴィス６",
-  "en": "",
+  "en": "Alviss 6",
   "call": "MswStr",
   "box": 335,
   "line": 2
@@ -698,7 +698,7 @@
  {
   "id": "DBG_FACE:04133",
   "jp": "ナナシ１",
-  "en": "",
+  "en": "Nanashi 1",
   "call": "MswStr",
   "box": 346,
   "line": 0
@@ -706,7 +706,7 @@
  {
   "id": "DBG_FACE:04147",
   "jp": "ナナシ２",
-  "en": "",
+  "en": "Nanashi 2",
   "call": "MswStr",
   "box": 346,
   "line": 1
@@ -714,7 +714,7 @@
  {
   "id": "DBG_FACE:0415b",
   "jp": "ナナシ３",
-  "en": "",
+  "en": "Nanashi 3",
   "call": "MswStr",
   "box": 346,
   "line": 2
@@ -722,7 +722,7 @@
  {
   "id": "DBG_FACE:04355",
   "jp": "ナナシ４",
-  "en": "",
+  "en": "Nanashi 4",
   "call": "MswStr",
   "box": 357,
   "line": 0
@@ -730,7 +730,7 @@
  {
   "id": "DBG_FACE:04369",
   "jp": "ナナシ５",
-  "en": "",
+  "en": "Nanashi 5",
   "call": "MswStr",
   "box": 357,
   "line": 1
@@ -738,7 +738,7 @@
  {
   "id": "DBG_FACE:0437d",
   "jp": "ナナシ６",
-  "en": "",
+  "en": "Nanashi 6",
   "call": "MswStr",
   "box": 357,
   "line": 2
@@ -746,7 +746,7 @@
  {
   "id": "DBG_FACE:04577",
   "jp": "ドロシー１",
-  "en": "",
+  "en": "Dorothy 1",
   "call": "MswStr",
   "box": 368,
   "line": 0
@@ -754,7 +754,7 @@
  {
   "id": "DBG_FACE:0458d",
   "jp": "ドロシー２",
-  "en": "",
+  "en": "Dorothy 2",
   "call": "MswStr",
   "box": 368,
   "line": 1
@@ -762,7 +762,7 @@
  {
   "id": "DBG_FACE:045a3",
   "jp": "ドロシー３",
-  "en": "",
+  "en": "Dorothy 3",
   "call": "MswStr",
   "box": 368,
   "line": 2
@@ -770,7 +770,7 @@
  {
   "id": "DBG_FACE:0479f",
   "jp": "ドロシー４",
-  "en": "",
+  "en": "Dorothy 4",
   "call": "MswStr",
   "box": 379,
   "line": 0
@@ -778,7 +778,7 @@
  {
   "id": "DBG_FACE:047b5",
   "jp": "ドロシー５",
-  "en": "",
+  "en": "Dorothy 5",
   "call": "MswStr",
   "box": 379,
   "line": 1
@@ -786,7 +786,7 @@
  {
   "id": "DBG_FACE:047cb",
   "jp": "ドロシー６",
-  "en": "",
+  "en": "Dorothy 6",
   "call": "MswStr",
   "box": 379,
   "line": 2
@@ -794,7 +794,7 @@
  {
   "id": "DBG_FACE:048f7",
   "jp": "ドロシー７",
-  "en": "",
+  "en": "Dorothy 7",
   "call": "MswStr",
   "box": 386,
   "line": 0
@@ -818,7 +818,7 @@
  {
   "id": "DBG_FACE:04bb3",
   "jp": "ルーガ１",
-  "en": "",
+  "en": "Luga 1",
   "call": "MswStr",
   "box": 403,
   "line": 0
@@ -826,7 +826,7 @@
  {
   "id": "DBG_FACE:04bc7",
   "jp": "ルーガ２",
-  "en": "",
+  "en": "Luga 2",
   "call": "MswStr",
   "box": 403,
   "line": 1
@@ -834,7 +834,7 @@
  {
   "id": "DBG_FACE:04bdb",
   "jp": "ルーガ３",
-  "en": "",
+  "en": "Luga 3",
   "call": "MswStr",
   "box": 403,
   "line": 2
@@ -842,7 +842,7 @@
  {
   "id": "DBG_FACE:04d05",
   "jp": "ルーガ４",
-  "en": "",
+  "en": "Luga 4",
   "call": "MswStr",
   "box": 410,
   "line": 0
@@ -866,7 +866,7 @@
  {
   "id": "DBG_FACE:04fbf",
   "jp": "ガルー１",
-  "en": "",
+  "en": "Garu 1",
   "call": "MswStr",
   "box": 427,
   "line": 0
@@ -874,7 +874,7 @@
  {
   "id": "DBG_FACE:04fd3",
   "jp": "ガルー２",
-  "en": "",
+  "en": "Garu 2",
   "call": "MswStr",
   "box": 427,
   "line": 1
@@ -882,7 +882,7 @@
  {
   "id": "DBG_FACE:04fe7",
   "jp": "ガルー３",
-  "en": "",
+  "en": "Garu 3",
   "call": "MswStr",
   "box": 427,
   "line": 2
@@ -890,7 +890,7 @@
  {
   "id": "DBG_FACE:05111",
   "jp": "ガルー４",
-  "en": "",
+  "en": "Garu 4",
   "call": "MswStr",
   "box": 434,
   "line": 0
@@ -914,7 +914,7 @@
  {
   "id": "DBG_FACE:053cb",
   "jp": "イアン１",
-  "en": "",
+  "en": "Ian 1",
   "call": "MswStr",
   "box": 451,
   "line": 0
@@ -922,7 +922,7 @@
  {
   "id": "DBG_FACE:053df",
   "jp": "イアン２",
-  "en": "",
+  "en": "Ian 2",
   "call": "MswStr",
   "box": 451,
   "line": 1
@@ -930,7 +930,7 @@
  {
   "id": "DBG_FACE:053f3",
   "jp": "イアン３",
-  "en": "",
+  "en": "Ian 3",
   "call": "MswStr",
   "box": 451,
   "line": 2
@@ -938,7 +938,7 @@
  {
   "id": "DBG_FACE:0551d",
   "jp": "イアン４",
-  "en": "",
+  "en": "Ian 4",
   "call": "MswStr",
   "box": 458,
   "line": 0
@@ -962,7 +962,7 @@
  {
   "id": "DBG_FACE:056eb",
   "jp": "ギド１",
-  "en": "",
+  "en": "Gido 1",
   "call": "MswStr",
   "box": 469,
   "line": 0
@@ -970,7 +970,7 @@
  {
   "id": "DBG_FACE:056fd",
   "jp": "ギド２",
-  "en": "",
+  "en": "Gido 2",
   "call": "MswStr",
   "box": 469,
   "line": 1
@@ -978,7 +978,7 @@
  {
   "id": "DBG_FACE:0570f",
   "jp": "ギド３",
-  "en": "",
+  "en": "Gido 3",
   "call": "MswStr",
   "box": 469,
   "line": 2
@@ -986,7 +986,7 @@
  {
   "id": "DBG_FACE:0595b",
   "jp": "オルコ１",
-  "en": "",
+  "en": "Orco 1",
   "call": "MswStr",
   "box": 483,
   "line": 0
@@ -994,7 +994,7 @@
  {
   "id": "DBG_FACE:0596f",
   "jp": "オルコ２",
-  "en": "",
+  "en": "Orco 2",
   "call": "MswStr",
   "box": 483,
   "line": 1
@@ -1002,7 +1002,7 @@
  {
   "id": "DBG_FACE:05983",
   "jp": "オルコ３",
-  "en": "",
+  "en": "Orco 3",
   "call": "MswStr",
   "box": 483,
   "line": 2
@@ -1010,7 +1010,7 @@
  {
   "id": "DBG_FACE:05b7d",
   "jp": "ギロム１",
-  "en": "",
+  "en": "Girom 1",
   "call": "MswStr",
   "box": 494,
   "line": 0
@@ -1018,7 +1018,7 @@
  {
   "id": "DBG_FACE:05b91",
   "jp": "ギロム２",
-  "en": "",
+  "en": "Girom 2",
   "call": "MswStr",
   "box": 494,
   "line": 1
@@ -1026,7 +1026,7 @@
  {
   "id": "DBG_FACE:05ba5",
   "jp": "ギロム３",
-  "en": "",
+  "en": "Girom 3",
   "call": "MswStr",
   "box": 494,
   "line": 2
@@ -1034,7 +1034,7 @@
  {
   "id": "DBG_FACE:05d9f",
   "jp": "ファントム１",
-  "en": "",
+  "en": "Phantom 1",
   "call": "MswStr",
   "box": 505,
   "line": 0
@@ -1042,7 +1042,7 @@
  {
   "id": "DBG_FACE:05db7",
   "jp": "ファントム２",
-  "en": "",
+  "en": "Phantom 2",
   "call": "MswStr",
   "box": 505,
   "line": 1
@@ -1050,7 +1050,7 @@
  {
   "id": "DBG_FACE:05dcf",
   "jp": "ファントム３",
-  "en": "",
+  "en": "Phantom 3",
   "call": "MswStr",
   "box": 505,
   "line": 2
@@ -1058,7 +1058,7 @@
  {
   "id": "DBG_FACE:05f65",
   "jp": "ファントム４",
-  "en": "",
+  "en": "Phantom 4",
   "call": "MswStr",
   "box": 514,
   "line": 0
@@ -1066,7 +1066,7 @@
  {
   "id": "DBG_FACE:05f7d",
   "jp": "ファントム５",
-  "en": "",
+  "en": "Phantom 5",
   "call": "MswStr",
   "box": 514,
   "line": 1
@@ -1082,7 +1082,7 @@
  {
   "id": "DBG_FACE:060ef",
   "jp": "ハロウィン１",
-  "en": "",
+  "en": "Halloween 1",
   "call": "MswStr",
   "box": 522,
   "line": 0
@@ -1090,7 +1090,7 @@
  {
   "id": "DBG_FACE:06107",
   "jp": "ハロウィン２",
-  "en": "",
+  "en": "Halloween 2",
   "call": "MswStr",
   "box": 522,
   "line": 1
@@ -1106,7 +1106,7 @@
  {
   "id": "DBG_FACE:06279",
   "jp": "ペタ１",
-  "en": "",
+  "en": "Peta 1",
   "call": "MswStr",
   "box": 530,
   "line": 0
@@ -1114,7 +1114,7 @@
  {
   "id": "DBG_FACE:0628b",
   "jp": "ペタ２",
-  "en": "",
+  "en": "Peta 2",
   "call": "MswStr",
   "box": 530,
   "line": 1
@@ -1130,7 +1130,7 @@
  {
   "id": "DBG_FACE:063f7",
   "jp": "ロコ１",
-  "en": "",
+  "en": "Loco 1",
   "call": "MswStr",
   "box": 538,
   "line": 0
@@ -1138,7 +1138,7 @@
  {
   "id": "DBG_FACE:06409",
   "jp": "ロコ２",
-  "en": "",
+  "en": "Loco 2",
   "call": "MswStr",
   "box": 538,
   "line": 1
@@ -1154,7 +1154,7 @@
  {
   "id": "DBG_FACE:06575",
   "jp": "メリロ１",
-  "en": "",
+  "en": "Merillo 1",
   "call": "MswStr",
   "box": 546,
   "line": 0
@@ -1162,7 +1162,7 @@
  {
   "id": "DBG_FACE:06589",
   "jp": "ブモル１",
-  "en": "",
+  "en": "Bumol 1",
   "call": "MswStr",
   "box": 546,
   "line": 1
@@ -1178,7 +1178,7 @@
  {
   "id": "DBG_FACE:066f7",
   "jp": "ベル１",
-  "en": "",
+  "en": "Bell 1",
   "call": "MswStr",
   "box": 554,
   "line": 0
@@ -1186,7 +1186,7 @@
  {
   "id": "DBG_FACE:06709",
   "jp": "ベル２",
-  "en": "",
+  "en": "Bell 2",
   "call": "MswStr",
   "box": 554,
   "line": 1
@@ -1202,7 +1202,7 @@
  {
   "id": "DBG_FACE:06961",
   "jp": "ジャックの母１",
-  "en": "",
+  "en": "Jack's Mom 1",
   "call": "MswStr",
   "box": 568,
   "line": 0
@@ -1210,7 +1210,7 @@
  {
   "id": "DBG_FACE:0697b",
   "jp": "ジャックの母２",
-  "en": "",
+  "en": "Jack's Mom 2",
   "call": "MswStr",
   "box": 568,
   "line": 1
@@ -1218,7 +1218,7 @@
  {
   "id": "DBG_FACE:06995",
   "jp": "ジャックの母３",
-  "en": "",
+  "en": "Jack's Mom 3",
   "call": "MswStr",
   "box": 568,
   "line": 2
@@ -1226,7 +1226,7 @@
  {
   "id": "DBG_FACE:06b95",
   "jp": "親岩１",
-  "en": "",
+  "en": "Papa Rock 1",
   "call": "MswStr",
   "box": 579,
   "line": 0
@@ -1234,7 +1234,7 @@
  {
   "id": "DBG_FACE:06ba7",
   "jp": "親岩２",
-  "en": "",
+  "en": "Papa Rock 2",
   "call": "MswStr",
   "box": 579,
   "line": 1
@@ -1242,7 +1242,7 @@
  {
   "id": "DBG_FACE:06bb9",
   "jp": "親岩３",
-  "en": "",
+  "en": "Papa Rock 3",
   "call": "MswStr",
   "box": 579,
   "line": 2
@@ -1250,7 +1250,7 @@
  {
   "id": "DBG_FACE:06d49",
   "jp": "子岩１",
-  "en": "",
+  "en": "Little Rock 1",
   "call": "MswStr",
   "box": 588,
   "line": 0
@@ -1258,7 +1258,7 @@
  {
   "id": "DBG_FACE:06d5b",
   "jp": "子岩２",
-  "en": "",
+  "en": "Little Rock 2",
   "call": "MswStr",
   "box": 588,
   "line": 1
@@ -1274,7 +1274,7 @@
  {
   "id": "DBG_FACE:06fb3",
   "jp": "小雪１",
-  "en": "",
+  "en": "Koyuki 1",
   "call": "MswStr",
   "box": 602,
   "line": 0
@@ -1282,7 +1282,7 @@
  {
   "id": "DBG_FACE:06fc5",
   "jp": "小雪４",
-  "en": "",
+  "en": "Koyuki 4",
   "call": "MswStr",
   "box": 602,
   "line": 1
@@ -1290,7 +1290,7 @@
  {
   "id": "DBG_FACE:06fd7",
   "jp": "小雪６",
-  "en": "",
+  "en": "Koyuki 6",
   "call": "MswStr",
   "box": 602,
   "line": 2
@@ -1298,7 +1298,7 @@
  {
   "id": "DBG_FACE:07167",
   "jp": "ブリキン１",
-  "en": "",
+  "en": "Brikin 1",
   "call": "MswStr",
   "box": 611,
   "line": 0
@@ -1306,7 +1306,7 @@
  {
   "id": "DBG_FACE:0717d",
   "jp": "リングアーマー１",
-  "en": "",
+  "en": "Ring Armor 1",
   "call": "MswStr",
   "box": 611,
   "line": 1
@@ -1322,7 +1322,7 @@
  {
   "id": "DBG_FACE:073df",
   "jp": "マール１",
-  "en": "",
+  "en": "Marl 1",
   "call": "MswStr",
   "box": 625,
   "line": 0
@@ -1330,7 +1330,7 @@
  {
   "id": "DBG_FACE:073f3",
   "jp": "マール２",
-  "en": "",
+  "en": "Marl 2",
   "call": "MswStr",
   "box": 625,
   "line": 1
@@ -1338,7 +1338,7 @@
  {
   "id": "DBG_FACE:07407",
   "jp": "マール３",
-  "en": "",
+  "en": "Marl 3",
   "call": "MswStr",
   "box": 625,
   "line": 2
@@ -1346,7 +1346,7 @@
  {
   "id": "DBG_FACE:07601",
   "jp": "マール４",
-  "en": "",
+  "en": "Marl 4",
   "call": "MswStr",
   "box": 636,
   "line": 0
@@ -1354,7 +1354,7 @@
  {
   "id": "DBG_FACE:07615",
   "jp": "マール５",
-  "en": "",
+  "en": "Marl 5",
   "call": "MswStr",
   "box": 636,
   "line": 1
@@ -1362,7 +1362,7 @@
  {
   "id": "DBG_FACE:07629",
   "jp": "ベリーニ１",
-  "en": "",
+  "en": "Bellini 1",
   "call": "MswStr",
   "box": 636,
   "line": 2
@@ -1370,7 +1370,7 @@
  {
   "id": "DBG_FACE:07755",
   "jp": "幽霊１",
-  "en": "",
+  "en": "Ghost 1",
   "call": "MswStr",
   "box": 643,
   "line": 0

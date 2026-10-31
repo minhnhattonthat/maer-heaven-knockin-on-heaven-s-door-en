@@ -10,7 +10,7 @@
  {
   "id": "G_VS_R:0012d",
   "jp": "{C0F04}ボッチャンに、このあいだのお礼を",
-  "en": "",
+  "en": "{C0F04}Young sir, please allow us to thank you for",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_VS_R:00160",
   "jp": "させてください",
-  "en": "",
+  "en": "the other day.",
   "call": "MswStr",
   "box": 7,
   "line": 2,
@@ -28,7 +28,7 @@
  {
   "id": "G_VS_R:001ec",
   "jp": "{C0D04}ガトリングバッボ{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Gatling Babbo{C0F04}",
   "call": "MswStr",
   "box": 12,
   "line": 0
@@ -36,7 +36,7 @@
  {
   "id": "G_VS_R:00218",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 12,
   "line": 1
@@ -60,7 +60,7 @@
  {
   "id": "G_VS_R:002b5",
   "jp": "{C0F04}気をつけてお行きなさい",
-  "en": "",
+  "en": "{C0F04}Do take care on your way.",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -86,7 +86,7 @@
  {
   "id": "G_VS_R:003f3",
   "jp": "{C0F04}ボッチャン、気をつけてお行きなさい",
-  "en": "",
+  "en": "{C0F04}Young sir, do take care on your way.",
   "call": "MswStr",
   "box": 23,
   "line": 1,

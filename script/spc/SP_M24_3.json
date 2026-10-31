@@ -10,7 +10,7 @@
  {
   "id": "SP_M24_3:00109",
   "jp": "{C0F04}閉まってる…",
-  "en": "",
+  "en": "{C0F04}It's closed... Doesn't look like it'll open",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "SP_M24_3:00128",
   "jp": "ちょっと開きそうにないな",
-  "en": "",
+  "en": "anytime soon.",
   "call": "MswStr",
   "box": 7,
   "line": 2,

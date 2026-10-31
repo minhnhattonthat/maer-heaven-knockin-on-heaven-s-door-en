@@ -10,7 +10,7 @@
  {
   "id": "G_EV041:00ee4",
   "jp": "{C0F04}だ、だいじょうぶっスか？",
-  "en": "",
+  "en": "{C0F04}Y-ya okay there?",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV041:01068",
   "jp": "{C0F04}だいじょぶよ",
-  "en": "",
+  "en": "{C0F04}I'm fine... ugh, what a day...",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV041:01087",
   "jp": "とほほ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 100,
   "line": 2,

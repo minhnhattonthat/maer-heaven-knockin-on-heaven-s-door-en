@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE02:00251",
   "jp": "{C0F04}！！",
-  "en": "",
+  "en": "{C0F04}!! (Such strong magic power!!)",
   "call": "MswStr",
   "box": 15,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_ICE02:00268",
   "jp": "（つよい魔力！！）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 15,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE02:0036b",
   "jp": "{C0F04}いかん！ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Look out! Ginta!!",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE02:008e6",
   "jp": "{C0F04}動くな",
-  "en": "",
+  "en": "{C0F04}Don't move.",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE02:00946",
   "jp": "{C0F04}…い！",
-  "en": "",
+  "en": "{C0F04}...Yikes!",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE02:00aef",
   "jp": "{C0F04}…ん？",
-  "en": "",
+  "en": "{C0F04}...Hm?",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE02:00d2b",
   "jp": "{C0F04}あーーーーーーーーーーー！？",
-  "en": "",
+  "en": "{C0F04}Aaaaaaaaaaaah?!",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE02:00e4b",
   "jp": "{C0F04}ドロシーだぁ！！",
-  "en": "",
+  "en": "{C0F04}It's Dorothy!!",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_ICE02:00f61",
   "jp": "{C0F04}きゃーーーー！",
-  "en": "",
+  "en": "{C0F04}Kyaaaah! We meet again!!",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_ICE02:00f82",
   "jp": "また会えた！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE02:0100f",
   "jp": "{C0F04}ギンタン♥ギンタン♥",
-  "en": "",
+  "en": "{C0F04}Gintan♥ Gintan♥",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE02:01112",
   "jp": "{C0F04}ギンタン♥ギンタン♥",
-  "en": "",
+  "en": "{C0F04}Gintan♥ Gintan♥",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_ICE02:013e1",
   "jp": "{C0F04}き、きれいな人っスね",
-  "en": "",
+  "en": "{C0F04}Sh-she sure is purty, ain't she?",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_ICE02:0144f",
   "jp": "{C0F04}また出おった！",
-  "en": "",
+  "en": "{C0F04}You again! Insolent fool of a woman!!",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_ICE02:01470",
   "jp": "ぶれいなバカ女！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 112,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_ICE02:01695",
   "jp": "{C0F04}ふ～～～ん",
-  "en": "",
+  "en": "{C0F04}Hmmmm~ I see...",
   "call": "MswStr",
   "box": 126,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_ICE02:016b2",
   "jp": "なるほどねぇ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 126,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_ICE02:01939",
   "jp": "{C0F04}それでこんな氷づけに",
-  "en": "",
+  "en": "{C0F04}So that's why it's all frozen solid like this.",
   "call": "MswStr",
   "box": 142,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_ICE02:01960",
   "jp": "なっちゃってるワケねぇ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 142,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_ICE02:019bf",
   "jp": "{C0F04}…助けに行くなら",
-  "en": "",
+  "en": "{C0F04}...If you're going to save her, you'd better",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_ICE02:019e2",
   "jp": "いそいだほうがいいわよ",
-  "en": "",
+  "en": "hurry.",
   "call": "MswStr",
   "box": 144,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_ICE02:01a41",
   "jp": "{C0F04}そのコもたぶん、完全に",
-  "en": "",
+  "en": "{C0F04}I bet that girl's frozen solid too.",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_ICE02:01a6a",
   "jp": "氷づけだと思う",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 146,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_ICE02:01ac1",
   "jp": "{C0F04}氷のÄＲＭつかいでウデのたつ人でも",
-  "en": "",
+  "en": "{C0F04}Even a skilled ice ÄRM user's heart would",
   "call": "MswStr",
   "box": 148,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_ICE02:01af6",
   "jp": "半日でしんぞう止まるはずだよ",
-  "en": "",
+  "en": "stop within half a day, you know.",
   "call": "MswStr",
   "box": 148,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_ICE02:01c78",
   "jp": "{C0F04}きさまっ！！",
-  "en": "",
+  "en": "{C0F04}You wretch!! Talking like it's none of your",
   "call": "MswStr",
   "box": 156,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_ICE02:01c97",
   "jp": "他人ごとのようにいいおって！",
-  "en": "",
+  "en": "business!",
   "call": "MswStr",
   "box": 156,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_ICE02:01d68",
   "jp": "{C0F04}他人ごとだっつーの",
-  "en": "",
+  "en": "{C0F04}'Cause it ISN'T any of my business, you ugly",
   "call": "MswStr",
   "box": 160,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_ICE02:01d8d",
   "jp": "このブサイク！",
-  "en": "",
+  "en": "thing!",
   "call": "MswStr",
   "box": 160,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_ICE02:01de4",
   "jp": "{C0F04}わたしはここへは",
-  "en": "",
+  "en": "{C0F04}I came here to hunt for ÄRM, so there!",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_ICE02:01e07",
   "jp": "ÄＲＭをさがしにきたんだモン",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 162,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_ICE02:01f14",
   "jp": "{C0F04}いそぐぞ！！",
-  "en": "",
+  "en": "{C0F04}Let's hurry!!",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_ICE02:02068",
   "jp": "{C0F04}あ、あっちのほうに",
-  "en": "",
+  "en": "{C0F04}Oh, there are stairs over that way.",
   "call": "MswStr",
   "box": 175,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_ICE02:0208d",
   "jp": "かいだんがあるわよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 175,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "EV_ICE02:02630",
   "jp": "{C0F04}よし！いくぜ！",
-  "en": "",
+  "en": "{C0F04}Okay! Let's go! ...What about you, Dorothy?",
   "call": "MswStr",
   "box": 211,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_ICE02:02651",
   "jp": "…ドロシーは？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 211,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "EV_ICE02:02791",
   "jp": "{C0F04}あたしはここでÄＲＭをさがしてるから",
-  "en": "",
+  "en": "{C0F04}I'll stay here and hunt for ÄRM. Bye-bye,",
   "call": "MswStr",
   "box": 218,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "EV_ICE02:027c8",
   "jp": "じゃあね、ギンタン♥",
-  "en": "",
+  "en": "Gintan♥",
   "call": "MswStr",
   "box": 218,
   "line": 2,

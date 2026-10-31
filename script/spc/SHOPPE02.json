@@ -10,7 +10,7 @@
  {
   "id": "SHOPPE02:001e2",
   "jp": "{C0F04}いらっしゃい！！",
-  "en": "",
+  "en": "{C0F04}Welcome!!",
   "call": "MswStr",
   "box": 8,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SHOPPE02:00258",
   "jp": "{C0F04}そなえあればうれいなし",
-  "en": "",
+  "en": "{C0F04}Better safe than sorry! How about some",
   "call": "MswStr",
   "box": 10,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SHOPPE02:00281",
   "jp": "マジックストーンはいかがですか？",
-  "en": "",
+  "en": "Magic Stones?",
   "call": "MswStr",
   "box": 10,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "SHOPPE02:0031c",
   "jp": "{C0F04}ほかに何かありますか？",
-  "en": "",
+  "en": "{C0F04}Is there anything else?",
   "call": "MswStr",
   "box": 11,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "SHOPPE02:0049e",
   "jp": "{C0F04}何を買取りましょうか？",
-  "en": "",
+  "en": "{C0F04}What can I buy from you?",
   "call": "MswStr",
   "box": 20,
   "line": 1,

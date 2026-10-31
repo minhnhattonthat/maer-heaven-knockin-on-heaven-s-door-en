@@ -10,7 +10,7 @@
  {
   "id": "EV_AL04:00249",
   "jp": "{C0F04}つよくなるには…",
-  "en": "",
+  "en": "{C0F04}To get strong...",
   "call": "MswStr",
   "box": 13,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_AL04:0039c",
   "jp": "{C0F04}魔物とたたかうのが",
-  "en": "",
+  "en": "{C0F04}Fighting monsters is the best way!!",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_AL04:003c1",
   "jp": "いちばんだ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_AL04:00416",
   "jp": "{C0F04}ガンガンいくぜ！",
-  "en": "",
+  "en": "{C0F04}Let's go all out!",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_AL04:00482",
   "jp": "{C0F04}いくっス！！",
-  "en": "",
+  "en": "{C0F04}Sure thing, let's go!!",
   "call": "MswStr",
   "box": 24,
   "line": 1,

@@ -10,7 +10,7 @@
  {
   "id": "OBJ_D:00224",
   "jp": "{C0F04}こんな低レベルのまほうじん、",
-  "en": "",
+  "en": "{C0F04}A low-level magic circle like this is in my",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "OBJ_D:00253",
   "jp": "じゃまだから消してあげるわ",
-  "en": "",
+  "en": "way, so I'll just erase it.",
   "call": "MswStr",
   "box": 14,
   "line": 2,
@@ -28,7 +28,7 @@
  {
   "id": "OBJ_D:0054a",
   "jp": "見えないまほうのかべで",
-  "en": "",
+  "en": "An invisible magic wall blocks the way.",
   "call": "MswStr",
   "box": 37,
   "line": 0
@@ -36,7 +36,7 @@
  {
   "id": "OBJ_D:0056c",
   "jp": "さえぎられている",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 37,
   "line": 1

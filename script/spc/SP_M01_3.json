@@ -10,7 +10,7 @@
  {
   "id": "SP_M01_3:0027c",
   "jp": "{C0F04}がんばってね～♥",
-  "en": "",
+  "en": "{C0F04}Good luck~♥",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M01_3:005f2",
   "jp": "{C0F04}オレが封印した宝ばこだ",
-  "en": "",
+  "en": "{C0F04}I sealed this treasure chest myself. Ain't",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SP_M01_3:0061b",
   "jp": "オレしかあけることはできねえんだ",
-  "en": "",
+  "en": "nobody but me can open it.",
   "call": "MswStr",
   "box": 38,
   "line": 2,
@@ -54,7 +54,7 @@
  {
   "id": "SP_M01_3:00834",
   "jp": "つよい魔力（まりょく）で封印されている",
-  "en": "",
+  "en": "It's sealed with strong magic power.",
   "call": "MswStr",
   "box": 53,
   "line": 0
@@ -78,7 +78,7 @@
  {
   "id": "SP_M01_3:00ad1",
   "jp": "{C0D04}６８０Ｐ{C0F04}が入っていた！",
-  "en": "",
+  "en": "{C0D04}680 P{C0F04} was inside!",
   "call": "MswStr",
   "box": 73,
   "line": 0

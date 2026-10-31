@@ -10,7 +10,7 @@
  {
   "id": "G_EV043:0032b",
   "jp": "{C0F04}ギンタン、あんまり",
-  "en": "",
+  "en": "{C0F04}Gintan, don't go wandering off too much,",
   "call": "MswStr",
   "box": 18,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV043:00350",
   "jp": "ふらふらしちゃダメよ",
-  "en": "",
+  "en": "okay?",
   "call": "MswStr",
   "box": 18,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV043:00412",
   "jp": "{C0F04}ちていこでチェスとたたかったときの",
-  "en": "",
+  "en": "{C0F04}Gintan, you're still tired from fighting the",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV043:00447",
   "jp": "つかれ、ギンタンまだとれてないでしょ？",
-  "en": "",
+  "en": "Chess at the underground lake, right?",
   "call": "MswStr",
   "box": 22,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV043:0059d",
   "jp": "{C0F04}う…うん…",
-  "en": "",
+  "en": "{C0F04}Y... yeah...",
   "call": "MswStr",
   "box": 29,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV043:00929",
   "jp": "{C0F04}村の人は、みんな",
-  "en": "",
+  "en": "{C0F04}The villagers are all getting ready for bed.",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "G_EV043:0094c",
   "jp": "おやすみのじゅんび、はじめたよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 50,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV043:00a98",
   "jp": "{C0F04}もうすぐ日もおちますゆえ…",
-  "en": "",
+  "en": "{C0F04}The sun will soon be setting...",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV043:00b48",
   "jp": "{C0F04}われわれも宿をさがさないと",
-  "en": "",
+  "en": "{C0F04}We, too, must find an inn!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV043:00b75",
   "jp": "いけませんな！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV043:00ef2",
   "jp": "{C0F04}おーーギンタか",
-  "en": "",
+  "en": "{C0F04}Heyyy, Ginta.",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV043:00f98",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV043:01032",
   "jp": "{C0F04}アカン、くいすぎたわ…",
-  "en": "",
+  "en": "{C0F04}Ain't good, I ate way too much... S-so full...",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV043:0105b",
   "jp": "く、くるしー…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV043:011cf",
   "jp": "{C0F04}…バカものめ…",
-  "en": "",
+  "en": "{C0F04}...Foolish man...",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV043:01275",
   "jp": "{C0F04}おまえもすこしは",
-  "en": "",
+  "en": "{C0F04}You might try acting a bit more like a",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV043:01298",
   "jp": "紳士（しんし）らしくなれ！",
-  "en": "",
+  "en": "gentleman!",
   "call": "MswStr",
   "box": 98,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV043:01337",
   "jp": "{C0F04}いちばん紳士じゃない",
-  "en": "",
+  "en": "{C0F04}I don't wanna hear that from you, the least",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV043:0135e",
   "jp": "おまえさんに、いわれとーないわ",
-  "en": "",
+  "en": "gentlemanly of the lot!",
   "call": "MswStr",
   "box": 101,
   "line": 2,

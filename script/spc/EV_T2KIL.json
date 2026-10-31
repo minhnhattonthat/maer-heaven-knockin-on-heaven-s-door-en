@@ -10,7 +10,7 @@
  {
   "id": "EV_T2KIL:00790",
   "jp": "{C0F04}どうよ！？",
-  "en": "",
+  "en": "{C0F04}How's THAT!?",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_T2KIL:00904",
   "jp": "{C0F04}やったぁ！！",
-  "en": "",
+  "en": "{C0F04}We did it!!",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_T2KIL:00a16",
   "jp": "{C0F04}どれどれ？",
-  "en": "",
+  "en": "{C0F04}Let's see, let's see? Never ever seen an",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_T2KIL:00a33",
   "jp": "こんなÄＲＭみったこっとな～いゾっと♪",
-  "en": "",
+  "en": "ÄRM like this befo~re~!",
   "call": "MswStr",
   "box": 59,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_T2KIL:00eb9",
   "jp": "{C0F04}ありがとうございました！",
-  "en": "",
+  "en": "{C0F04}Thank you so much!",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_T2KIL:01202",
   "jp": "{C0F04}え、えええと…",
-  "en": "",
+  "en": "{C0F04}Uh, um, well...",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_T2KIL:0126a",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_T2KIL:01304",
   "jp": "{C0F04}（へへ…ラッキー♥）",
-  "en": "",
+  "en": "{C0F04}(Heh... lucky me♥)",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_T2KIL:0141e",
   "jp": "{C0F04}…！！",
-  "en": "",
+  "en": "{C0F04}...!!",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_T2KIL:014be",
   "jp": "{C0F04}（こいつ…今…",
-  "en": "",
+  "en": "{C0F04}(This kid... just now... What is this nasty",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_T2KIL:014df",
   "jp": "　なんだろう、このイヤなかんじの魔力…）",
-  "en": "",
+  "en": "feeling I get from his magic power...?)",
   "call": "MswStr",
   "box": 118,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_T2KIL:01694",
   "jp": "{C0F04}これでふたつそろった！",
-  "en": "",
+  "en": "{C0F04}That makes two! The other door should be",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_T2KIL:016bd",
   "jp": "もうひとつのとびらもあいているよな！",
-  "en": "",
+  "en": "open too, right?",
   "call": "MswStr",
   "box": 127,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_T2KIL:017d2",
   "jp": "{C0F04}はい！",
-  "en": "",
+  "en": "{C0F04}Yes! The last part is the head!!",
   "call": "MswStr",
   "box": 132,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_T2KIL:017eb",
   "jp": "のこりのパーツはあたまです！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 132,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_T2KIL:018fa",
   "jp": "{C0F04}よし！ドロシー！",
-  "en": "",
+  "en": "{C0F04}Okay! Dorothy! Let's head back for now!",
   "call": "MswStr",
   "box": 137,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_T2KIL:0191d",
   "jp": "いったんもどろう！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 137,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_T2KIL:01abe",
   "jp": "{C0F04}え、ええ…",
-  "en": "",
+  "en": "{C0F04}Y-yeah...",
   "call": "MswStr",
   "box": 146,
   "line": 1,

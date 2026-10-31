@@ -10,7 +10,7 @@
  {
   "id": "CH_M26_6:00ac9",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M26_6:00c35",
   "jp": "{C0F04}まってたよ…",
-  "en": "",
+  "en": "{C0F04}I've been waiting...",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M26_6:00d45",
   "jp": "{C0F04}かえしてくれる気になったかい？",
-  "en": "",
+  "en": "{C0F04}Ready to give it back? Babbo, I mean.",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M26_6:00d76",
   "jp": "バッボを…さ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -80,7 +80,7 @@
  {
   "id": "CH_M26_6:0234e",
   "jp": "ォォォオオオオオオオォォォォ…",
-  "en": "",
+  "en": "Grrooooooooaaaaaaaahhhhhh...",
   "call": "MswStr",
   "box": 210,
   "line": 0
@@ -112,7 +112,7 @@
  {
   "id": "CH_M26_6:026be",
   "jp": "{C0F04}おまえ…かわいそうなヤツだな",
-  "en": "",
+  "en": "{C0F04}You're... kind of a sad guy, aren't you?",
   "call": "MswStr",
   "box": 231,
   "line": 1,
@@ -138,7 +138,7 @@
  {
   "id": "CH_M26_6:02844",
   "jp": "{C0F04}はは！",
-  "en": "",
+  "en": "{C0F04}Ha! Look who's talking.",
   "call": "MswStr",
   "box": 239,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "CH_M26_6:0285d",
   "jp": "キミにいわれたくないね",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 239,
   "line": 2,
@@ -164,7 +164,7 @@
  {
   "id": "CH_M26_6:028f8",
   "jp": "{C0F04}仲間にめいわくかけて一人でぼうそうして…",
-  "en": "",
+  "en": "{C0F04}Making trouble for your friends, running wild",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -173,7 +173,7 @@
  {
   "id": "CH_M26_6:02933",
   "jp": "そして一人でおちこんでいれば",
-  "en": "",
+  "en": "alone... then moping all by yourself?",
   "call": "MswStr",
   "box": 242,
   "line": 2,
@@ -190,7 +190,7 @@
  {
   "id": "CH_M26_6:02a40",
   "jp": "{C0F04}世話はないな",
-  "en": "",
+  "en": "{C0F04}What a joke! Hahahahaha!!",
   "call": "MswStr",
   "box": 247,
   "line": 1,
@@ -199,7 +199,7 @@
  {
   "id": "CH_M26_6:02a5f",
   "jp": "ははははは！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 247,
   "line": 2,
@@ -216,7 +216,7 @@
  {
   "id": "CH_M26_6:02c6e",
   "jp": "{C0F04}ぬぅ～～～！",
-  "en": "",
+  "en": "{C0F04}Nnngh~~~! What a thoroughly detestable",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "CH_M26_6:02c8d",
   "jp": "どこまでにくにくしいヤツ！！",
-  "en": "",
+  "en": "wretch!!",
   "call": "MswStr",
   "box": 258,
   "line": 2,
@@ -242,7 +242,7 @@
  {
   "id": "CH_M26_6:02d9a",
   "jp": "{C0F04}いっておくけど…",
-  "en": "",
+  "en": "{C0F04}Just so you know...",
   "call": "MswStr",
   "box": 263,
   "line": 1,
@@ -268,7 +268,7 @@
  {
   "id": "CH_M26_6:02e04",
   "jp": "{C0F04}この『タロス』をたおそうなんて",
-  "en": "",
+  "en": "{C0F04}I wouldn't even think about trying to beat",
   "call": "MswStr",
   "box": 265,
   "line": 1,
@@ -277,7 +277,7 @@
  {
   "id": "CH_M26_6:02e35",
   "jp": "かんがえないほうがいいと思うよ",
-  "en": "",
+  "en": "this 'Talos' if I were you.",
   "call": "MswStr",
   "box": 265,
   "line": 2,
@@ -294,7 +294,7 @@
  {
   "id": "CH_M26_6:03053",
   "jp": "{C0F04}なに？",
-  "en": "",
+  "en": "{C0F04}What?",
   "call": "MswStr",
   "box": 275,
   "line": 1,
@@ -320,7 +320,7 @@
  {
   "id": "CH_M26_6:0315d",
   "jp": "{C0F04}こいつは、みっつのパーツのときに",
-  "en": "",
+  "en": "{C0F04}While it was in three parts, it absorbed the",
   "call": "MswStr",
   "box": 280,
   "line": 1,
@@ -329,7 +329,7 @@
  {
   "id": "CH_M26_6:03190",
   "jp": "こうげきされた力を吸収する",
-  "en": "",
+  "en": "power of every attack that hit it.",
   "call": "MswStr",
   "box": 280,
   "line": 2,
@@ -346,7 +346,7 @@
  {
   "id": "CH_M26_6:0337d",
   "jp": "{C0F04}？？",
-  "en": "",
+  "en": "{C0F04}??",
   "call": "MswStr",
   "box": 291,
   "line": 1,
@@ -372,7 +372,7 @@
  {
   "id": "CH_M26_6:033db",
   "jp": "{C0F04}うでとあたまはバッボの力",
-  "en": "",
+  "en": "{C0F04}The arms and head have Babbo's power.",
   "call": "MswStr",
   "box": 293,
   "line": 1,
@@ -398,7 +398,7 @@
  {
   "id": "CH_M26_6:034f7",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 298,
   "line": 1,
@@ -424,7 +424,7 @@
  {
   "id": "CH_M26_6:03553",
   "jp": "{C0F04}あしはそこにいるマヌケな",
-  "en": "",
+  "en": "{C0F04}The legs have the power of that dimwit",
   "call": "MswStr",
   "box": 300,
   "line": 1,
@@ -433,7 +433,7 @@
  {
   "id": "CH_M26_6:0357e",
   "jp": "魔女（まじょ）の力",
-  "en": "",
+  "en": "witch over there.",
   "call": "MswStr",
   "box": 300,
   "line": 2,
@@ -450,7 +450,7 @@
  {
   "id": "CH_M26_6:036ef",
   "jp": "{C0F04}マヌケでわるかったわね！",
-  "en": "",
+  "en": "{C0F04}Well, excuse me for being a dimwit!",
   "call": "MswStr",
   "box": 307,
   "line": 1,
@@ -476,7 +476,7 @@
  {
   "id": "CH_M26_6:0380b",
   "jp": "{C0F04}タロスはもともとつよいボディを",
-  "en": "",
+  "en": "{C0F04}Talos already has a tough body, and on top",
   "call": "MswStr",
   "box": 312,
   "line": 1,
@@ -485,7 +485,7 @@
  {
   "id": "CH_M26_6:0383c",
   "jp": "もっているうえに、",
-  "en": "",
+  "en": "of that,",
   "call": "MswStr",
   "box": 312,
   "line": 2,
@@ -502,7 +502,7 @@
  {
   "id": "CH_M26_6:03895",
   "jp": "{C0F04}きみたちの力を",
-  "en": "",
+  "en": "{C0F04}it's absorbed each of your powers...",
   "call": "MswStr",
   "box": 314,
   "line": 1,
@@ -511,7 +511,7 @@
  {
   "id": "CH_M26_6:038b6",
   "jp": "それぞれ吸収している…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 314,
   "line": 2,
@@ -528,7 +528,7 @@
  {
   "id": "CH_M26_6:03913",
   "jp": "{C0F04}だれが何のÄＲＭをつかったって",
-  "en": "",
+  "en": "{C0F04}No matter who uses what ÄRM, nobody",
   "call": "MswStr",
   "box": 316,
   "line": 1,
@@ -537,7 +537,7 @@
  {
   "id": "CH_M26_6:03944",
   "jp": "コイツにかなうヤツなんていないのさ！",
-  "en": "",
+  "en": "can beat this thing!",
   "call": "MswStr",
   "box": 316,
   "line": 2,
@@ -554,7 +554,7 @@
  {
   "id": "CH_M26_6:03b10",
   "jp": "{C0F04}ながいせつめいだぜ…",
-  "en": "",
+  "en": "{C0F04}What a long-winded speech...",
   "call": "MswStr",
   "box": 326,
   "line": 1,
@@ -580,7 +580,7 @@
  {
   "id": "CH_M26_6:03c26",
   "jp": "{C0F04}おいギンタ！",
-  "en": "",
+  "en": "{C0F04}Hey, Ginta!",
   "call": "MswStr",
   "box": 331,
   "line": 1,
@@ -606,7 +606,7 @@
  {
   "id": "CH_M26_6:03def",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 341,
   "line": 1,
@@ -632,7 +632,7 @@
  {
   "id": "CH_M26_6:03e49",
   "jp": "{C0F04}てめぇでまいたタネだ",
-  "en": "",
+  "en": "{C0F04}You sowed this mess yourself...",
   "call": "MswStr",
   "box": 343,
   "line": 1,
@@ -658,7 +658,7 @@
  {
   "id": "CH_M26_6:03f5f",
   "jp": "{C0F04}てめぇでかりとれ！！",
-  "en": "",
+  "en": "{C0F04}So you reap it yourself!!",
   "call": "MswStr",
   "box": 348,
   "line": 1,
@@ -684,7 +684,7 @@
  {
   "id": "CH_M26_6:04077",
   "jp": "{C0F04}は！",
-  "en": "",
+  "en": "{C0F04}Hah!",
   "call": "MswStr",
   "box": 353,
   "line": 1,
@@ -710,7 +710,7 @@
  {
   "id": "CH_M26_6:040d5",
   "jp": "{C0F04}ここまで言ってやっても",
-  "en": "",
+  "en": "{C0F04}Even after all I've told you, you still wanna",
   "call": "MswStr",
   "box": 355,
   "line": 1,
@@ -719,7 +719,7 @@
  {
   "id": "CH_M26_6:040fe",
   "jp": "まだこの『タロス』にはむかうわけか！！",
-  "en": "",
+  "en": "take on this 'Talos'!?",
   "call": "MswStr",
   "box": 355,
   "line": 2,
@@ -736,7 +736,7 @@
  {
   "id": "CH_M26_6:04215",
   "jp": "{C0F04}なら…こいよ！！！",
-  "en": "",
+  "en": "{C0F04}Then... come on!!!",
   "call": "MswStr",
   "box": 360,
   "line": 1,

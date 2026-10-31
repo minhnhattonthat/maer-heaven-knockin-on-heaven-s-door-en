@@ -2,7 +2,7 @@
  {
   "id": "DITEMCOM:0013d",
   "jp": "からっぽだ！",
-  "en": "",
+  "en": "It's empty!",
   "call": "MswStr",
   "box": 9,
   "line": 0
@@ -26,7 +26,7 @@
  {
   "id": "DITEMCOM:002ea",
   "jp": "これ以上アイテムを持てません",
-  "en": "",
+  "en": "You can't carry any more items.",
   "call": "MswStr",
   "box": 21,
   "line": 0

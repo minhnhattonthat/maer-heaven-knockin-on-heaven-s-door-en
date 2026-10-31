@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE04:003ab",
   "jp": "{C0F04}さて…と",
-  "en": "",
+  "en": "{C0F04}Now then...",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE04:0040f",
   "jp": "{C0F04}ここにかんじられる魔力（まりょく）は…",
-  "en": "",
+  "en": "{C0F04}The magic power I'm sensing here...",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE04:00491",
   "jp": "{C0F04}いちばん上のフロアに",
-  "en": "",
+  "en": "{C0F04}Two strong-looking ones on the top floor...",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_ICE04:004b8",
   "jp": "つよそうな二人…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 24,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE04:00511",
   "jp": "{C0F04}このフロアにたっぷり…と",
-  "en": "",
+  "en": "{C0F04}And a whole bunch on this floor... got it.",
   "call": "MswStr",
   "box": 26,
   "line": 1,

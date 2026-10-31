@@ -10,7 +10,7 @@
  {
   "id": "HI_M01_1:002fa",
   "jp": "{C0F04}そこ穴あいてるわよ！",
-  "en": "",
+  "en": "{C0F04}There's a hole there! Watch your step!",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M01_1:00321",
   "jp": "気をつけてね！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M01_1:00376",
   "jp": "{C0F04}う…うん…",
-  "en": "",
+  "en": "{C0F04}Y... yeah...",
   "call": "MswStr",
   "box": 22,
   "line": 1,

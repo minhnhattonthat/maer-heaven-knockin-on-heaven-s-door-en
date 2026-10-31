@@ -10,7 +10,7 @@
  {
   "id": "EV_BA04:002c3",
   "jp": "{C0F04}ＯＫＯＫ！",
-  "en": "",
+  "en": "{C0F04}OK, OK! Nicely done♥",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_BA04:002e0",
   "jp": "上出来よ♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 17,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_BA04:00333",
   "jp": "{C0F04}バトルで出すことができるÄＲＭの数は",
-  "en": "",
+  "en": "{C0F04}The most ÄRM you can bring out in battle is",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_BA04:0036a",
   "jp": "２０コが限界だからね",
-  "en": "",
+  "en": "20, okay?",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_BA04:003c7",
   "jp": "{C0F04}もし、それ以上のÄＲＭを持っていたら",
-  "en": "",
+  "en": "{C0F04}If you have more ÄRM than that, you have",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_BA04:003fe",
   "jp": "その中から２０コをえらばなきゃいけないわ",
-  "en": "",
+  "en": "to pick 20 of them.",
   "call": "MswStr",
   "box": 21,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_BA04:0046f",
   "jp": "{C0F04}そのÄＲＭの組み合わせを",
-  "en": "",
+  "en": "{C0F04}That set of ÄRM is called your {C0904}'Deck'{C0F04}.",
   "call": "MswStr",
   "box": 23,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_BA04:0049a",
   "jp": "{C0904}『デッキ』{C0F04}というの",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 23,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_BA04:00503",
   "jp": "{C0904}『デッキ』{C0F04}をかえるには{C0904}コマンド{C0F04}を",
-  "en": "",
+  "en": "{C0904}Your 'Deck'{C0F04} can be changed: open {C0904}Command{C0F04}",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_BA04:0054b",
   "jp": "ひらいて、{C0904}デッキエディット{C0F04}をえらんでね",
-  "en": "",
+  "en": "and pick {C0904}Deck Edit{C0F04}.",
   "call": "MswStr",
   "box": 25,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_BA04:005c8",
   "jp": "{C0904}コマンド{C0F04}をひらくのは、{C0904}スタートボタン{C0F04}よ",
-  "en": "",
+  "en": "{C0904}Command{C0F04} opens with the {C0904}START Button{C0F04}.",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_BA04:007a9",
   "jp": "{C0F04}ねぇ、ほんとにコレもらっていいの！？",
-  "en": "",
+  "en": "{C0F04}Hey, can I really have this thing!?",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_BA04:00861",
   "jp": "{C0F04}いいのよ～～",
-  "en": "",
+  "en": "{C0F04}Sure you can~ Ugly things aren't my type",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_BA04:00880",
   "jp": "そんなブサイク趣味じゃないし！",
-  "en": "",
+  "en": "anyway!",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_BA04:008e7",
   "jp": "{C0F04}さっきのガーディアンÄＲＭ",
-  "en": "",
+  "en": "{C0F04}Besides, I already helped myself to that",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_BA04:00914",
   "jp": "いただいちゃったしね♥",
-  "en": "",
+  "en": "Guardian ÄRM♥",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_BA04:00973",
   "jp": "{C0F04}ありがと！助けてくれて！！",
-  "en": "",
+  "en": "{C0F04}Thanks for helping me out!!",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_BA04:009e9",
   "jp": "{C0F04}また会えるとうれしいよ！",
-  "en": "",
+  "en": "{C0F04}I'd love to see you again! Bye-bye, Ginta!!",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_BA04:00a14",
   "jp": "バイバイ、ギンタ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 46,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_BA04:00d1d",
   "jp": "{C0F04}「でもね…」",
-  "en": "",
+  "en": "{C0F04}\"But you know...\"",
   "call": "MswStr",
   "box": 66,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_BA04:00d85",
   "jp": "{C0F04}「それをもってると、いろんなヤツに",
-  "en": "",
+  "en": "{C0F04}\"With that thing, I bet all kinds of folks will",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_BA04:00dba",
   "jp": "　ねらわれると思う」",
-  "en": "",
+  "en": "come after you.\"",
   "call": "MswStr",
   "box": 68,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_BA04:00e17",
   "jp": "{C0F04}「生きてるウェポンÄＲＭなんて",
-  "en": "",
+  "en": "{C0F04}\"A living Weapon ÄRM is the rarest of the",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_BA04:00e48",
   "jp": "　レア中のレアだからね」",
-  "en": "",
+  "en": "rare, after all.\"",
   "call": "MswStr",
   "box": 70,
   "line": 2,
@@ -366,7 +366,7 @@
  {
   "id": "EV_BA04:01041",
   "jp": "{C0904}【コマンド】{C0F04}…{C0D04}スタートボタン",
-  "en": "",
+  "en": "{C0904}[Command]{C0F04}...{C0D04}START Button",
   "call": "MswStr",
   "box": 85,
   "line": 0
@@ -374,7 +374,7 @@
  {
   "id": "EV_BA04:0107e",
   "jp": "{C0F04}デッキをへんしゅうしたり",
-  "en": "",
+  "en": "{C0F04}Edit your deck or",
   "call": "MswStr",
   "box": 85,
   "line": 1
@@ -382,7 +382,7 @@
  {
   "id": "EV_BA04:010a9",
   "jp": "ステータスを見ることができます",
-  "en": "",
+  "en": "view your status.",
   "call": "MswStr",
   "box": 85,
   "line": 2
@@ -390,7 +390,7 @@
  {
   "id": "EV_BA04:010f1",
   "jp": "{C0904}【セーブ】{C0F04}…{C0D04}セレクトボタン",
-  "en": "",
+  "en": "{C0904}[Save]{C0F04}...{C0D04}SELECT Button",
   "call": "MswStr",
   "box": 87,
   "line": 0
@@ -398,7 +398,7 @@
  {
   "id": "EV_BA04:0112c",
   "jp": "{C0F04}ゲームのとちゅうけいかを",
-  "en": "",
+  "en": "{C0F04}Record your progress",
   "call": "MswStr",
   "box": 87,
   "line": 1
@@ -406,7 +406,7 @@
  {
   "id": "EV_BA04:01157",
   "jp": "きろくすることができます",
-  "en": "",
+  "en": "in the game.",
   "call": "MswStr",
   "box": 87,
   "line": 2

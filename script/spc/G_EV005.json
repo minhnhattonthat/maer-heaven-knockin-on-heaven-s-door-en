@@ -10,7 +10,7 @@
  {
   "id": "G_EV005:0102e",
   "jp": "{C0F04}ここが、とうぞくギルド",
-  "en": "",
+  "en": "{C0F04}This here's the hideout of the thieves' guild",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV005:01057",
   "jp": "{C0904}『ルベリア』{C0F04}のアジトや！！",
-  "en": "",
+  "en": "{C0904}'Luberia'{C0F04}!!",
   "call": "MswStr",
   "box": 95,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV005:010c6",
   "jp": "{C0F04}自分はここのボスやっとる",
-  "en": "",
+  "en": "{C0F04}I'm the boss 'round here. The name's",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV005:010f1",
   "jp": "{C0904}『ナナシ』{C0F04}ってモンや",
-  "en": "",
+  "en": "{C0904}'Nanashi'{C0F04}.",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV005:01198",
   "jp": "{C0F04}キミらのことまちがえて、わるかったのぉ",
-  "en": "",
+  "en": "{C0F04}Sorry 'bout mistakin' you lot fer somebody",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV005:011d1",
   "jp": "",
-  "en": "",
+  "en": "else.",
   "call": "MswStr",
   "box": 100,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV005:01218",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 102,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV005:012b2",
   "jp": "{C0F04}キミらがチェスに追われてる",
-  "en": "",
+  "en": "{C0F04}An' I get it now: the Chess are after ya.",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV005:012df",
   "jp": "っちゅうのも、わかった",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 105,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV005:0145b",
   "jp": "{C0F04}うん！",
-  "en": "",
+  "en": "{C0F04}Yeah!",
   "call": "MswStr",
   "box": 113,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV005:014bb",
   "jp": "{C0F04}そんで、にげるんやなく",
-  "en": "",
+  "en": "{C0F04}An' ya teamed up not ta run, but ta fight...",
   "call": "MswStr",
   "box": 115,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV005:014e4",
   "jp": "たたかうために結成された",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 115,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV005:01564",
   "jp": "{C0F04}『メル』…か",
-  "en": "",
+  "en": "{C0F04}'MÄR', huh...",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV005:01608",
   "jp": "{C0F04}このせかいを助けるんだ！",
-  "en": "",
+  "en": "{C0F04}We're gonna save this world!",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV005:017cf",
   "jp": "{C0F04}うむ！そのようなけしからんヤツらを",
-  "en": "",
+  "en": "{C0F04}Indeed! Such outrageous scoundrels cannot",
   "call": "MswStr",
   "box": 130,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "G_EV005:01804",
   "jp": "のばなしにはできん！",
-  "en": "",
+  "en": "be allowed to run free!",
   "call": "MswStr",
   "box": 130,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV005:0189d",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 133,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV005:0191a",
   "jp": "{C0F04}少し…おそかったかもしれんのぉ",
-  "en": "",
+  "en": "{C0F04}Might be... a lil' too late, though.",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV005:01b1f",
   "jp": "{C0F04}ど、どういうことっスか？",
-  "en": "",
+  "en": "{C0F04}Wh-what's that s'posed to mean?",
   "call": "MswStr",
   "box": 146,
   "line": 1,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV005:01bcf",
   "jp": "{C0F04}見せたいモンがある",
-  "en": "",
+  "en": "{C0F04}There's somethin' I wanna show ya.",
   "call": "MswStr",
   "box": 149,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV005:01ca7",
   "jp": "{C0F04}来てみぃ",
-  "en": "",
+  "en": "{C0F04}C'mon over.",
   "call": "MswStr",
   "box": 153,
   "line": 1,

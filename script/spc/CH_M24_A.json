@@ -10,7 +10,7 @@
  {
   "id": "CH_M24_A:001dc",
   "jp": "{C0F04}彫金するのん？",
-  "en": "",
+  "en": "{C0F04}You wanna engrave, nonn?",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M24_A:0038e",
   "jp": "彫金とは、いくつかの材料をまぜあわせて",
-  "en": "",
+  "en": "Engraving is mixin' a few materials together",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M24_A:003c0",
   "jp": "新しくÄＲＭを作ることですのん",
-  "en": "",
+  "en": "to make a brand-new ÄRM, nonn.",
   "call": "MswStr",
   "box": 22,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "CH_M24_A:00434",
   "jp": "どの材料で、何のÄＲＭができるのかは",
-  "en": "",
+  "en": "Which materials make which ÄRM is all",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "CH_M24_A:00464",
   "jp": "レシピに記録されていますのん",
-  "en": "",
+  "en": "written down in recipes, nonn.",
   "call": "MswStr",
   "box": 24,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "CH_M24_A:004d6",
   "jp": "だけど、まちがってそのレシピを",
-  "en": "",
+  "en": "But I goofed and sent those recipes flyin'",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "CH_M24_A:00500",
   "jp": "いせかいにとばしてしまい…",
-  "en": "",
+  "en": "off to the other world...",
   "call": "MswStr",
   "box": 26,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "CH_M24_A:00570",
   "jp": "もし、いせかいに行くことがあったら",
-  "en": "",
+  "en": "If you ever go to the other world, could you",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "CH_M24_A:0059e",
   "jp": "レシピをさがしてきてほしいのん？",
-  "en": "",
+  "en": "find the recipes for me, nonn?",
   "call": "MswStr",
   "box": 28,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "CH_M24_A:00614",
   "jp": "レシピは彫金師にしかわからない",
-  "en": "",
+  "en": "The recipes are written in a code only",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "CH_M24_A:0063e",
   "jp": "暗号になっていますのん",
-  "en": "",
+  "en": "engravers can read, nonn.",
   "call": "MswStr",
   "box": 30,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "CH_M24_A:006aa",
   "jp": "暗号をわたしに教えてくれたら",
-  "en": "",
+  "en": "Tell me a code, and I'll do a special",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "CH_M24_A:006d2",
   "jp": "とくべつに彫金してあげますのん",
-  "en": "",
+  "en": "engraving just for you, nonn.",
   "call": "MswStr",
   "box": 32,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "CH_M24_A:00746",
   "jp": "でも、材料はかならず",
-  "en": "",
+  "en": "But you'd better bring the materials, nonn!",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "CH_M24_A:00766",
   "jp": "もってくるのん！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 34,
   "line": 2,

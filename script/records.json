@@ -2,6230 +2,6230 @@
  {
   "id": "arm000.name",
   "jp": "ＥＭＰＴＹ",
-  "en": "",
+  "en": "Empty",
   "addr": "1b097c",
   "max": 33
  },
  {
   "id": "arm000.desc",
   "jp": "何のこうかもない",
-  "en": "",
+  "en": "No effect at all",
   "addr": "1b099e",
   "max": 33
  },
  {
   "id": "arm001.name",
   "jp": "バッボ",
-  "en": "",
+  "en": "Babbo",
   "addr": "1b09fc",
   "max": 33
  },
  {
   "id": "arm001.desc",
   "jp": "生きている、ふしぎなアーム",
-  "en": "",
+  "en": "A strange ÄRM that's alive",
   "addr": "1b0a1e",
   "max": 33
  },
  {
   "id": "arm002.name",
   "jp": "バトルスコップ",
-  "en": "",
+  "en": "Battle Shovel",
   "addr": "1b0a7c",
   "max": 33
  },
  {
   "id": "arm002.desc",
   "jp": "武器になるスコップ",
-  "en": "",
+  "en": "A shovel made for fighting",
   "addr": "1b0a9e",
   "max": 33
  },
  {
   "id": "arm003.name",
   "jp": "アースウェイブ",
-  "en": "",
+  "en": "Earth Wave",
   "addr": "1b0afc",
   "max": 33
  },
  {
   "id": "arm003.desc",
   "jp": "地面を波打たせる",
-  "en": "",
+  "en": "Makes the ground ripple",
   "addr": "1b0b1e",
   "max": 33
  },
  {
   "id": "arm004.name",
   "jp": "アースビーンズ",
-  "en": "",
+  "en": "Earth Beans",
   "addr": "1b0b7c",
   "max": 33
  },
  {
   "id": "arm004.desc",
   "jp": "ツタをからませてうごけなくする",
-  "en": "",
+  "en": "Vines tangle and trap foes",
   "addr": "1b0b9e",
   "max": 33
  },
  {
   "id": "arm005.name",
   "jp": "マジカルマッシュルーム",
-  "en": "",
+  "en": "Magical Mushroom",
   "addr": "1b0bfc",
   "max": 33
  },
  {
   "id": "arm005.desc",
   "jp": "幻覚を見せて無防備にする",
-  "en": "",
+  "en": "Illusions leave foes defenseless",
   "addr": "1b0c1e",
   "max": 33
  },
  {
   "id": "arm006.name",
   "jp": "ラフレシア",
-  "en": "",
+  "en": "Rafflesia",
   "addr": "1b0c7c",
   "max": 33
  },
  {
   "id": "arm006.desc",
   "jp": "巨大な食虫植物がかみつく",
-  "en": "",
+  "en": "A giant carnivorous plant bites",
   "addr": "1b0c9e",
   "max": 33
  },
  {
   "id": "arm007.name",
   "jp": "アースマグマ",
-  "en": "",
+  "en": "Earth Magma",
   "addr": "1b0cfc",
   "max": 33
  },
  {
   "id": "arm007.desc",
   "jp": "地面からマグマがふき出す",
-  "en": "",
+  "en": "Magma bursts from the ground",
   "addr": "1b0d1e",
   "max": 33
  },
  {
   "id": "arm008.name",
   "jp": "ドリアンシュート",
-  "en": "",
+  "en": "Durian Shoot",
   "addr": "1b0d7c",
   "max": 33
  },
  {
   "id": "arm008.desc",
   "jp": "臭い木の実を投げつける",
-  "en": "",
+  "en": "Hurls stinky fruit",
   "addr": "1b0d9e",
   "max": 33
  },
  {
   "id": "arm009.name",
   "jp": "ブーメランスコップ",
-  "en": "",
+  "en": "Boomerang Shovel",
   "addr": "1b0dfc",
   "max": 33
  },
  {
   "id": "arm009.desc",
   "jp": "スコップをブーメランにしてとばす",
-  "en": "",
+  "en": "Throws a boomerang shovel",
   "addr": "1b0e1e",
   "max": 33
  },
  {
   "id": "arm010.name",
   "jp": "ドリルスコップ",
-  "en": "",
+  "en": "Drill Shovel",
   "addr": "1b0e7c",
   "max": 33
  },
  {
   "id": "arm010.desc",
   "jp": "スコップをドリルにしてぶつける",
-  "en": "",
+  "en": "Turns the shovel into a drill",
   "addr": "1b0e9e",
   "max": 33
  },
  {
   "id": "arm011.name",
   "jp": "ドリルスコップ　ＳＰ",
-  "en": "",
+  "en": "Drill Shovel SP",
   "addr": "1b0efc",
   "max": 33
  },
  {
   "id": "arm011.desc",
   "jp": "すごいドリルスコップ！",
-  "en": "",
+  "en": "An awesome Drill Shovel!",
   "addr": "1b0f1e",
   "max": 33
  },
  {
   "id": "arm012.name",
   "jp": "アイスリング",
-  "en": "",
+  "en": "Ice Ring",
   "addr": "1b0f7c",
   "max": 33
  },
  {
   "id": "arm012.desc",
   "jp": "腕を氷の剣にする",
-  "en": "",
+  "en": "Turns your arm into an ice sword",
   "addr": "1b0f9e",
   "max": 33
  },
  {
   "id": "arm013.name",
   "jp": "スノーマンガード　ＣＬ２",
-  "en": "",
+  "en": "Snowman Guard CL2",
   "addr": "1b0ffc",
   "max": 33
  },
  {
   "id": "arm013.desc",
   "jp": "ユキちゃんがガードする",
-  "en": "",
+  "en": "Yuki-chan guards you",
   "addr": "1b101e",
   "max": 33
  },
  {
   "id": "arm014.name",
   "jp": "スノーマンガード　ＣＬ３",
-  "en": "",
+  "en": "Snowman Guard CL3",
   "addr": "1b107c",
   "max": 33
  },
  {
   "id": "arm014.desc",
   "jp": "長時間ユキちゃんがガードする",
-  "en": "",
+  "en": "Yuki-chan guards you for longer",
   "addr": "1b109e",
   "max": 33
  },
  {
   "id": "arm015.name",
   "jp": "スノーマンアタック　ＣＬ１",
-  "en": "",
+  "en": "Snowman Attack CL1",
   "addr": "1b10fc",
   "max": 33
  },
  {
   "id": "arm015.desc",
   "jp": "敵の上にユキちゃんをおとす",
-  "en": "",
+  "en": "Drops Yuki-chan on the enemy",
   "addr": "1b111e",
   "max": 33
  },
  {
   "id": "arm016.name",
   "jp": "スノーマンアタック　ＣＬ２",
-  "en": "",
+  "en": "Snowman Attack CL2",
   "addr": "1b117c",
   "max": 33
  },
  {
   "id": "arm016.desc",
   "jp": "ユキちゃんの回転アタック",
-  "en": "",
+  "en": "Yuki-chan's spinning attack",
   "addr": "1b119e",
   "max": 33
  },
  {
   "id": "arm017.name",
   "jp": "スノーマンアタック　ＣＬ３",
-  "en": "",
+  "en": "Snowman Attack CL3",
   "addr": "1b11fc",
   "max": 33
  },
  {
   "id": "arm017.desc",
   "jp": "ツララをロケット発射する",
-  "en": "",
+  "en": "Fires icicles like rockets",
   "addr": "1b121e",
   "max": 33
  },
  {
   "id": "arm018.name",
   "jp": "スノーマンアタック　ＣＬ４",
-  "en": "",
+  "en": "Snowman Attack CL4",
   "addr": "1b127c",
   "max": 33
  },
  {
   "id": "arm018.desc",
   "jp": "モーレツなふぶきをはく",
-  "en": "",
+  "en": "Breathes a fierce blizzard",
   "addr": "1b129e",
   "max": 33
  },
  {
   "id": "arm019.name",
   "jp": "スノーマンアタック　ＣＬ５",
-  "en": "",
+  "en": "Snowman Attack CL5",
   "addr": "1b12fc",
   "max": 33
  },
  {
   "id": "arm019.desc",
   "jp": "なだれをおこす",
-  "en": "",
+  "en": "Sets off an avalanche",
   "addr": "1b131e",
   "max": 33
  },
  {
   "id": "arm020.name",
   "jp": "スノーマンアタック　ＳＰ",
-  "en": "",
+  "en": "Snowman Attack SP",
   "addr": "1b137c",
   "max": 33
  },
  {
   "id": "arm020.desc",
   "jp": "すごいスノーマンアタック！",
-  "en": "",
+  "en": "An awesome Snowman Attack!",
   "addr": "1b139e",
   "max": 33
  },
  {
   "id": "arm021.name",
   "jp": "１３トーテムポールチェーン",
-  "en": "",
+  "en": "13 Totem Pole Chain",
   "addr": "1b13fc",
   "max": 33
  },
  {
   "id": "arm021.desc",
   "jp": "地面からトーテムポールが飛び出す",
-  "en": "",
+  "en": "Totem poles burst from the earth",
   "addr": "1b141e",
   "max": 33
  },
  {
   "id": "arm022.name",
   "jp": "１３トーテムポールチェーン　ＳＰ",
-  "en": "",
+  "en": "13 Totem Pole Chain SP",
   "addr": "1b147c",
   "max": 33
  },
  {
   "id": "arm022.desc",
   "jp": "すごい１３トーテムポール！",
-  "en": "",
+  "en": "An awesome 13 Totem Pole!",
   "addr": "1b149e",
   "max": 33
  },
  {
   "id": "arm023.name",
   "jp": "ゼピュロスブルーム",
-  "en": "",
+  "en": "Zephyrus Broom",
   "addr": "1b14fc",
   "max": 33
  },
  {
   "id": "arm023.desc",
   "jp": "風をあやつるほうき",
-  "en": "",
+  "en": "A broom that controls the wind",
   "addr": "1b151e",
   "max": 33
  },
  {
   "id": "arm024.name",
   "jp": "リングアーマー　ＣＬ１",
-  "en": "",
+  "en": "Ring Armor CL1",
   "addr": "1b157c",
   "max": 33
  },
  {
   "id": "arm024.desc",
   "jp": "リングアーマーの一撃",
-  "en": "",
+  "en": "A single Ring Armor strike",
   "addr": "1b159e",
   "max": 33
  },
  {
   "id": "arm025.name",
   "jp": "リングアーマー　ＣＬ２",
-  "en": "",
+  "en": "Ring Armor CL2",
   "addr": "1b15fc",
   "max": 33
  },
  {
   "id": "arm025.desc",
   "jp": "リングアーマーの連続攻撃",
-  "en": "",
+  "en": "Ring Armor's combo attack",
   "addr": "1b161e",
   "max": 33
  },
  {
   "id": "arm026.name",
   "jp": "リングアーマー　ＣＬ３",
-  "en": "",
+  "en": "Ring Armor CL3",
   "addr": "1b167c",
   "max": 33
  },
  {
   "id": "arm026.desc",
   "jp": "リングアーマーが斬る",
-  "en": "",
+  "en": "Ring Armor slashes",
   "addr": "1b169e",
   "max": 33
  },
  {
   "id": "arm027.name",
   "jp": "リングアーマー　ＣＬ４",
-  "en": "",
+  "en": "Ring Armor CL4",
   "addr": "1b16fc",
   "max": 33
  },
  {
   "id": "arm027.desc",
   "jp": "リングアーマーがたくさん登場",
-  "en": "",
+  "en": "Lots of Ring Armor appear",
   "addr": "1b171e",
   "max": 33
  },
  {
   "id": "arm028.name",
   "jp": "リングダガー",
-  "en": "",
+  "en": "Ring Dagger",
   "addr": "1b177c",
   "max": 33
  },
  {
   "id": "arm028.desc",
   "jp": "ダガーで斬りつける",
-  "en": "",
+  "en": "Slashes with a dagger",
   "addr": "1b179e",
   "max": 33
  },
  {
   "id": "arm029.name",
   "jp": "リングナイフ",
-  "en": "",
+  "en": "Ring Knife",
   "addr": "1b17fc",
   "max": 33
  },
  {
   "id": "arm029.desc",
   "jp": "ナイフで刺す",
-  "en": "",
+  "en": "Stabs with a knife",
   "addr": "1b181e",
   "max": 33
  },
  {
   "id": "arm030.name",
   "jp": "リングフルーレ",
-  "en": "",
+  "en": "Ring Foil",
   "addr": "1b187c",
   "max": 33
  },
  {
   "id": "arm030.desc",
   "jp": "フルーレで斬って刺す",
-  "en": "",
+  "en": "Slashes and stabs with a foil",
   "addr": "1b189e",
   "max": 33
  },
  {
   "id": "arm031.name",
   "jp": "リングソード",
-  "en": "",
+  "en": "Ring Sword",
   "addr": "1b18fc",
   "max": 33
  },
  {
   "id": "arm031.desc",
   "jp": "ソードでクロス斬り",
-  "en": "",
+  "en": "A cross slash with a sword",
   "addr": "1b191e",
   "max": 33
  },
  {
   "id": "arm032.name",
   "jp": "リングダブルソード",
-  "en": "",
+  "en": "Ring Double Sword",
   "addr": "1b197c",
   "max": 33
  },
  {
   "id": "arm032.desc",
   "jp": "ソードで斬りまくる",
-  "en": "",
+  "en": "Slashes wildly with swords",
   "addr": "1b199e",
   "max": 33
  },
  {
   "id": "arm033.name",
   "jp": "フライングレオ",
-  "en": "",
+  "en": "Flying Leo",
   "addr": "1b19fc",
   "max": 33
  },
  {
   "id": "arm033.desc",
   "jp": "空飛ぶライオンが体当たり",
-  "en": "",
+  "en": "A flying lion rams the enemy",
   "addr": "1b1a1e",
   "max": 33
  },
  {
   "id": "arm034.name",
   "jp": "ブリキン　ＣＬ２",
-  "en": "",
+  "en": "Brikin CL2",
   "addr": "1b1a7c",
   "max": 33
  },
  {
   "id": "arm034.desc",
   "jp": "ブリキンがぶんなぐる",
-  "en": "",
+  "en": "Brikin punches hard",
   "addr": "1b1a9e",
   "max": 33
  },
  {
   "id": "arm035.name",
   "jp": "ブリキン　ＣＬ３",
-  "en": "",
+  "en": "Brikin CL3",
   "addr": "1b1afc",
   "max": 33
  },
  {
   "id": "arm035.desc",
   "jp": "ブリキンのタックル＆パンチ",
-  "en": "",
+  "en": "Brikin's tackle & punch",
   "addr": "1b1b1e",
   "max": 33
  },
  {
   "id": "arm036.name",
   "jp": "マジックミラーリング",
-  "en": "",
+  "en": "Magic Mirror Ring",
   "addr": "1b1b7c",
   "max": 33
  },
  {
   "id": "arm036.desc",
   "jp": "離れた場所で会話ができる",
-  "en": "",
+  "en": "Talk with someone far away",
   "addr": "1b1b9e",
   "max": 33
  },
  {
   "id": "arm037.name",
   "jp": "５ダガーブレスレット",
-  "en": "",
+  "en": "5 Dagger Bracelet",
   "addr": "1b1bfc",
   "max": 33
  },
  {
   "id": "arm037.desc",
   "jp": "５本のダガーを前に飛ばす",
-  "en": "",
+  "en": "Fires 5 daggers forward",
   "addr": "1b1c1e",
   "max": 33
  },
  {
   "id": "arm038.name",
   "jp": "１０ダガーブレスレット",
-  "en": "",
+  "en": "10 Dagger Bracelet",
   "addr": "1b1c7c",
   "max": 33
  },
  {
   "id": "arm038.desc",
   "jp": "１０本のダガーを前に飛ばす",
-  "en": "",
+  "en": "Fires 10 daggers forward",
   "addr": "1b1c9e",
   "max": 33
  },
  {
   "id": "arm039.name",
   "jp": "２０ダガーブレスレット",
-  "en": "",
+  "en": "20 Dagger Bracelet",
   "addr": "1b1cfc",
   "max": 33
  },
  {
   "id": "arm039.desc",
   "jp": "２０本のダガーを前後に飛ばす",
-  "en": "",
+  "en": "Fires 20 daggers front and back",
   "addr": "1b1d1e",
   "max": 33
  },
  {
   "id": "arm040.name",
   "jp": "ネックレスブレード",
-  "en": "",
+  "en": "Necklace Blade",
   "addr": "1b1d7c",
   "max": 33
  },
  {
   "id": "arm040.desc",
   "jp": "大きな剣が敵を斬る",
-  "en": "",
+  "en": "A huge sword slashes the enemy",
   "addr": "1b1d9e",
   "max": 33
  },
  {
   "id": "arm041.name",
   "jp": "カゴの鳥",
-  "en": "",
+  "en": "Bird Cage",
   "addr": "1b1dfc",
   "max": 33
  },
  {
   "id": "arm041.desc",
   "jp": "敵を鳥にしてカゴに閉じこめる",
-  "en": "",
+  "en": "Turns a foe into a caged bird",
   "addr": "1b1e1e",
   "max": 33
  },
  {
   "id": "arm042.name",
   "jp": "パイソンウィップ",
-  "en": "",
+  "en": "Python Whip",
   "addr": "1b1e7c",
   "max": 33
  },
  {
   "id": "arm042.desc",
   "jp": "２本のムチで攻撃",
-  "en": "",
+  "en": "Attacks with 2 whips",
   "addr": "1b1e9e",
   "max": 33
  },
  {
   "id": "arm043.name",
   "jp": "メルトアイス",
-  "en": "",
+  "en": "Melt Ice",
   "addr": "1b1efc",
   "max": 33
  },
  {
   "id": "arm043.desc",
   "jp": "熱い空気を広げて攻撃",
-  "en": "",
+  "en": "Spreads hot air to attack",
   "addr": "1b1f1e",
   "max": 33
  },
  {
   "id": "arm044.name",
   "jp": "修練の門",
-  "en": "",
+  "en": "Training Gate",
   "addr": "1b1f7c",
   "max": 33
  },
  {
   "id": "arm044.desc",
   "jp": "異世界への入口",
-  "en": "",
+  "en": "A gateway to another world",
   "addr": "1b1f9e",
   "max": 33
  },
  {
   "id": "arm045.name",
   "jp": "メリロさん",
-  "en": "",
+  "en": "Merillo-san",
   "addr": "1b1ffc",
   "max": 33
  },
  {
   "id": "arm045.desc",
   "jp": "とってもかわいいガイドさん",
-  "en": "",
+  "en": "A super cute guide-san",
   "addr": "1b201e",
   "max": 33
  },
  {
   "id": "arm046.name",
   "jp": "ブモルさん",
-  "en": "",
+  "en": "Bumol-san",
   "addr": "1b207c",
   "max": 33
  },
  {
   "id": "arm046.desc",
   "jp": "ナビゲーター",
-  "en": "",
+  "en": "A navigator",
   "addr": "1b209e",
   "max": 33
  },
  {
   "id": "arm047.name",
   "jp": "エアハンマー",
-  "en": "",
+  "en": "Air Hammer",
   "addr": "1b20fc",
   "max": 33
  },
  {
   "id": "arm047.desc",
   "jp": "空気を固めて発射する",
-  "en": "",
+  "en": "Fires a blast of solid air",
   "addr": "1b211e",
   "max": 33
  },
  {
   "id": "arm048.name",
   "jp": "エアハンマー　ＳＰ",
-  "en": "",
+  "en": "Air Hammer SP",
   "addr": "1b217c",
   "max": 33
  },
  {
   "id": "arm048.desc",
   "jp": "すごいエアハンマー！",
-  "en": "",
+  "en": "An awesome Air Hammer!",
   "addr": "1b219e",
   "max": 33
  },
  {
   "id": "arm049.name",
   "jp": "オクトパス",
-  "en": "",
+  "en": "Octopus",
   "addr": "1b21fc",
   "max": 33
  },
  {
   "id": "arm049.desc",
   "jp": "８本のムチで攻撃",
-  "en": "",
+  "en": "Attacks with 8 whips",
   "addr": "1b221e",
   "max": 33
  },
  {
   "id": "arm050.name",
   "jp": "癒しの天使　ＣＬ１",
-  "en": "",
+  "en": "Healing Angel CL1",
   "addr": "1b227c",
   "max": 33
  },
  {
   "id": "arm050.desc",
   "jp": "使用者の体力を少し回復する",
-  "en": "",
+  "en": "Heals the user a little",
   "addr": "1b229e",
   "max": 33
  },
  {
   "id": "arm051.name",
   "jp": "癒しの天使　ＣＬ２",
-  "en": "",
+  "en": "Healing Angel CL2",
   "addr": "1b22fc",
   "max": 33
  },
  {
   "id": "arm051.desc",
   "jp": "使用者の体力をかなり回復する",
-  "en": "",
+  "en": "Heals the user a lot",
   "addr": "1b231e",
   "max": 33
  },
  {
   "id": "arm052.name",
   "jp": "癒しの天使　ＣＬ３",
-  "en": "",
+  "en": "Healing Angel CL3",
   "addr": "1b237c",
   "max": 33
  },
  {
   "id": "arm052.desc",
   "jp": "使用者の体力が全部回復する",
-  "en": "",
+  "en": "Fully heals the user",
   "addr": "1b239e",
   "max": 33
  },
  {
   "id": "arm053.name",
   "jp": "癒しの天使　ＣＬ５",
-  "en": "",
+  "en": "Healing Angel CL5",
   "addr": "1b23fc",
   "max": 33
  },
  {
   "id": "arm053.desc",
   "jp": "味方全員の体力が回復か半分に…",
-  "en": "",
+  "en": "All allies' HP: full or halved...",
   "addr": "1b241e",
   "max": 33
  },
  {
   "id": "arm054.name",
   "jp": "マジックカーペット",
-  "en": "",
+  "en": "Magic Carpet",
   "addr": "1b247c",
   "max": 33
  },
  {
   "id": "arm054.desc",
   "jp": "人を乗せて空中を移動する",
-  "en": "",
+  "en": "Carries people through the air",
   "addr": "1b249e",
   "max": 33
  },
  {
   "id": "arm055.name",
   "jp": "アンダータ",
-  "en": "",
+  "en": "Andata",
   "addr": "1b24fc",
   "max": 33
  },
  {
   "id": "arm055.desc",
   "jp": "願ったところに瞬間移動する",
-  "en": "",
+  "en": "Teleports you where you wish",
   "addr": "1b251e",
   "max": 33
  },
  {
   "id": "arm056.name",
   "jp": "ストーンボディ　ＣＬ１",
-  "en": "",
+  "en": "Stone Body CL1",
   "addr": "1b257c",
   "max": 33
  },
  {
   "id": "arm056.desc",
   "jp": "体が石のように固くなる",
-  "en": "",
+  "en": "Makes your body hard as stone",
   "addr": "1b259e",
   "max": 33
  },
  {
   "id": "arm057.name",
   "jp": "ストーンボディ　ＣＬ２",
-  "en": "",
+  "en": "Stone Body CL2",
   "addr": "1b25fc",
   "max": 33
  },
  {
   "id": "arm057.desc",
   "jp": "体が鉄のように固くなる",
-  "en": "",
+  "en": "Makes your body hard as iron",
   "addr": "1b261e",
   "max": 33
  },
  {
   "id": "arm058.name",
   "jp": "ストーンボディ　ＣＬ３",
-  "en": "",
+  "en": "Stone Body CL3",
   "addr": "1b267c",
   "max": 33
  },
  {
   "id": "arm058.desc",
   "jp": "体がチタンのように固くなる",
-  "en": "",
+  "en": "Makes your body hard as titanium",
   "addr": "1b269e",
   "max": 33
  },
  {
   "id": "arm059.name",
   "jp": "ストーンボディ　ＣＬ５",
-  "en": "",
+  "en": "Stone Body CL5",
   "addr": "1b26fc",
   "max": 33
  },
  {
   "id": "arm059.desc",
   "jp": "体がダイヤモンドのように固くなる",
-  "en": "",
+  "en": "Makes your body hard as diamond",
   "addr": "1b271e",
   "max": 33
  },
  {
   "id": "arm060.name",
   "jp": "エレクトリック・アイ　ＣＬ２",
-  "en": "",
+  "en": "Electric Eye CL2",
   "addr": "1b277c",
   "max": 33
  },
  {
   "id": "arm060.desc",
   "jp": "電撃が横に走る",
-  "en": "",
+  "en": "Lightning shoots sideways",
   "addr": "1b279e",
   "max": 33
  },
  {
   "id": "arm061.name",
   "jp": "エレクトリック・アイ　ＣＬ３",
-  "en": "",
+  "en": "Electric Eye CL3",
   "addr": "1b27fc",
   "max": 33
  },
  {
   "id": "arm061.desc",
   "jp": "強い電撃が横に走る",
-  "en": "",
+  "en": "Strong lightning shoots sideways",
   "addr": "1b281e",
   "max": 33
  },
  {
   "id": "arm062.name",
   "jp": "エレクトリック・アイ　ＣＬ４",
-  "en": "",
+  "en": "Electric Eye CL4",
   "addr": "1b287c",
   "max": 33
  },
  {
   "id": "arm062.desc",
   "jp": "ものすごい電撃が横に走る",
-  "en": "",
+  "en": "Massive lightning shoots sideways",
   "addr": "1b289e",
   "max": 33
  },
  {
   "id": "arm063.name",
   "jp": "エレクトリック・アイ　ＳＰ",
-  "en": "",
+  "en": "Electric Eye SP",
   "addr": "1b28fc",
   "max": 33
  },
  {
   "id": "arm063.desc",
   "jp": "すごいエレクトリック・アイ！",
-  "en": "",
+  "en": "An awesome Electric Eye!",
   "addr": "1b291e",
   "max": 33
  },
  {
   "id": "arm064.name",
   "jp": "アイスドアース　ＣＬ２",
-  "en": "",
+  "en": "Iced Earth CL2",
   "addr": "1b297c",
   "max": 33
  },
  {
   "id": "arm064.desc",
   "jp": "小さな氷をぶつける",
-  "en": "",
+  "en": "Hurls small chunks of ice",
   "addr": "1b299e",
   "max": 33
  },
  {
   "id": "arm065.name",
   "jp": "アイスドアース　ＣＬ３",
-  "en": "",
+  "en": "Iced Earth CL3",
   "addr": "1b29fc",
   "max": 33
  },
  {
   "id": "arm065.desc",
   "jp": "たくさんの氷をぶつける",
-  "en": "",
+  "en": "Hurls lots of ice",
   "addr": "1b2a1e",
   "max": 33
  },
  {
   "id": "arm066.name",
   "jp": "アイスドアース　ＣＬ４",
-  "en": "",
+  "en": "Iced Earth CL4",
   "addr": "1b2a7c",
   "max": 33
  },
  {
   "id": "arm066.desc",
   "jp": "たくさんの氷を勢いよくぶつける",
-  "en": "",
+  "en": "Hurls lots of ice at full force",
   "addr": "1b2a9e",
   "max": 33
  },
  {
   "id": "arm067.name",
   "jp": "フレイムボール　ＣＬ２",
-  "en": "",
+  "en": "Flame Ball CL2",
   "addr": "1b2afc",
   "max": 33
  },
  {
   "id": "arm067.desc",
   "jp": "炎のかたまりをぶつける",
-  "en": "",
+  "en": "Hurls a ball of fire",
   "addr": "1b2b1e",
   "max": 33
  },
  {
   "id": "arm068.name",
   "jp": "フレイムボール　ＣＬ３",
-  "en": "",
+  "en": "Flame Ball CL3",
   "addr": "1b2b7c",
   "max": 33
  },
  {
   "id": "arm068.desc",
   "jp": "熱い溶岩をぶつける",
-  "en": "",
+  "en": "Hurls hot lava",
   "addr": "1b2b9e",
   "max": 33
  },
  {
   "id": "arm069.name",
   "jp": "フレイムボール　ＣＬ４",
-  "en": "",
+  "en": "Flame Ball CL4",
   "addr": "1b2bfc",
   "max": 33
  },
  {
   "id": "arm069.desc",
   "jp": "長い炎を飛ばす",
-  "en": "",
+  "en": "Shoots a long stream of fire",
   "addr": "1b2c1e",
   "max": 33
  },
  {
   "id": "arm070.name",
   "jp": "パワーリング　ＣＬ１",
-  "en": "",
+  "en": "Power Ring CL1",
   "addr": "1b2c7c",
   "max": 33
  },
  {
   "id": "arm070.desc",
   "jp": "腕力がすこし強くなる",
-  "en": "",
+  "en": "Raises strength a little",
   "addr": "1b2c9e",
   "max": 33
  },
  {
   "id": "arm071.name",
   "jp": "パワーリング　ＣＬ２",
-  "en": "",
+  "en": "Power Ring CL2",
   "addr": "1b2cfc",
   "max": 33
  },
  {
   "id": "arm071.desc",
   "jp": "腕力がかなり強くなる",
-  "en": "",
+  "en": "Raises strength a lot",
   "addr": "1b2d1e",
   "max": 33
  },
  {
   "id": "arm072.name",
   "jp": "パワーリング　ＣＬ３",
-  "en": "",
+  "en": "Power Ring CL3",
   "addr": "1b2d7c",
   "max": 33
  },
  {
   "id": "arm072.desc",
   "jp": "腕力がすごく強くなる",
-  "en": "",
+  "en": "Raises strength hugely",
   "addr": "1b2d9e",
   "max": 33
  },
  {
   "id": "arm073.name",
   "jp": "パワーリング　ＣＬ４",
-  "en": "",
+  "en": "Power Ring CL4",
   "addr": "1b2dfc",
   "max": 33
  },
  {
   "id": "arm073.desc",
   "jp": "腕力がとてつもなく強くなる",
-  "en": "",
+  "en": "Raises strength enormously",
   "addr": "1b2e1e",
   "max": 33
  },
  {
   "id": "arm074.name",
   "jp": "ヴィンダールブ　ＣＬ３",
-  "en": "",
+  "en": "Vindalf CL3",
   "addr": "1b2e7c",
   "max": 33
  },
  {
   "id": "arm074.desc",
   "jp": "突風をぶつける",
-  "en": "",
+  "en": "Hurls a gust of wind",
   "addr": "1b2e9e",
   "max": 33
  },
  {
   "id": "arm075.name",
   "jp": "ヴィンダールブ　ＣＬ４",
-  "en": "",
+  "en": "Vindalf CL4",
   "addr": "1b2efc",
   "max": 33
  },
  {
   "id": "arm075.desc",
   "jp": "竜巻を作ってぶつける",
-  "en": "",
+  "en": "Whips up a tornado and hurls it",
   "addr": "1b2f1e",
   "max": 33
  },
  {
   "id": "arm076.name",
   "jp": "ヴィンダールブ　ＣＬ５",
-  "en": "",
+  "en": "Vindalf CL5",
   "addr": "1b2f7c",
   "max": 33
  },
  {
   "id": "arm076.desc",
   "jp": "台風を発生させる",
-  "en": "",
+  "en": "Stirs up a typhoon",
   "addr": "1b2f9e",
   "max": 33
  },
  {
   "id": "arm077.name",
   "jp": "ジッパー",
-  "en": "",
+  "en": "Zipper",
   "addr": "1b2ffc",
   "max": 33
  },
  {
   "id": "arm077.desc",
   "jp": "何が出るかはお楽しみ",
-  "en": "",
+  "en": "What comes out? It's a surprise!",
   "addr": "1b301e",
   "max": 33
  },
  {
   "id": "arm078.name",
   "jp": "レインドッグ",
-  "en": "",
+  "en": "Rain Dog",
   "addr": "1b307c",
   "max": 33
  },
  {
   "id": "arm078.desc",
   "jp": "敵を食い尽くすどう猛な犬",
-  "en": "",
+  "en": "A vicious dog that devours foes",
   "addr": "1b309e",
   "max": 33
  },
  {
   "id": "arm079.name",
   "jp": "レインドッグ　ＳＰ",
-  "en": "",
+  "en": "Rain Dog SP",
   "addr": "1b30fc",
   "max": 33
  },
  {
   "id": "arm079.desc",
   "jp": "すごいレインドッグ！",
-  "en": "",
+  "en": "An awesome Rain Dog!",
   "addr": "1b311e",
   "max": 33
  },
  {
   "id": "arm080.name",
   "jp": "スクリューサーベル",
-  "en": "",
+  "en": "Screw Saber",
   "addr": "1b317c",
   "max": 33
  },
  {
   "id": "arm080.desc",
   "jp": "うず巻きサーベルで刺す",
-  "en": "",
+  "en": "Stabs with a spiral saber",
   "addr": "1b319e",
   "max": 33
  },
  {
   "id": "arm081.name",
   "jp": "ストーンキューブ　ＣＬ２",
-  "en": "",
+  "en": "Stone Cube CL2",
   "addr": "1b31fc",
   "max": 33
  },
  {
   "id": "arm081.desc",
   "jp": "自爆する石が降ってくる",
-  "en": "",
+  "en": "Exploding stones rain down",
   "addr": "1b321e",
   "max": 33
  },
  {
   "id": "arm082.name",
   "jp": "ストーンキューブ　ＣＬ３",
-  "en": "",
+  "en": "Stone Cube CL3",
   "addr": "1b327c",
   "max": 33
  },
  {
   "id": "arm082.desc",
   "jp": "自爆する石が多く降ってくる",
-  "en": "",
+  "en": "More exploding stones rain down",
   "addr": "1b329e",
   "max": 33
  },
  {
   "id": "arm083.name",
   "jp": "ストーンキューブ　ＣＬ４",
-  "en": "",
+  "en": "Stone Cube CL4",
   "addr": "1b32fc",
   "max": 33
  },
  {
   "id": "arm083.desc",
   "jp": "自爆する石がたくさん降ってくる",
-  "en": "",
+  "en": "Tons of exploding stones fall",
   "addr": "1b331e",
   "max": 33
  },
  {
   "id": "arm084.name",
   "jp": "ストーンキューブ　ＣＬ５",
-  "en": "",
+  "en": "Stone Cube CL5",
   "addr": "1b337c",
   "max": 33
  },
  {
   "id": "arm084.desc",
   "jp": "マグマのヘビが飛び回る",
-  "en": "",
+  "en": "Magma snakes fly all around",
   "addr": "1b339e",
   "max": 33
  },
  {
   "id": "arm085.name",
   "jp": "シャドーマン",
-  "en": "",
+  "en": "Shadow Man",
   "addr": "1b33fc",
   "max": 33
  },
  {
   "id": "arm085.desc",
   "jp": "自分の分身が戦う",
-  "en": "",
+  "en": "Your double fights for you",
   "addr": "1b341e",
   "max": 33
  },
  {
   "id": "arm086.name",
   "jp": "ナイフリング",
-  "en": "",
+  "en": "Knife Ring",
   "addr": "1b347c",
   "max": 33
  },
  {
   "id": "arm086.desc",
   "jp": "前向きにナイフで刺す",
-  "en": "",
+  "en": "Stabs straight ahead with a knife",
   "addr": "1b349e",
   "max": 33
  },
  {
   "id": "arm087.name",
   "jp": "クラブリング",
-  "en": "",
+  "en": "Club Ring",
   "addr": "1b34fc",
   "max": 33
  },
  {
   "id": "arm087.desc",
   "jp": "前向きにこん棒でなぐる",
-  "en": "",
+  "en": "Swings a club straight ahead",
   "addr": "1b351e",
   "max": 33
  },
  {
   "id": "arm088.name",
   "jp": "ソードリング",
-  "en": "",
+  "en": "Sword Ring",
   "addr": "1b357c",
   "max": 33
  },
  {
   "id": "arm088.desc",
   "jp": "前向きに剣で斬る",
-  "en": "",
+  "en": "Sword slash straight ahead",
   "addr": "1b359e",
   "max": 33
  },
  {
   "id": "arm089.name",
   "jp": "アックスリング",
-  "en": "",
+  "en": "Axe Ring",
   "addr": "1b35fc",
   "max": 33
  },
  {
   "id": "arm089.desc",
   "jp": "前向きにオノをふりおろす",
-  "en": "",
+  "en": "Swings an axe down ahead",
   "addr": "1b361e",
   "max": 33
  },
  {
   "id": "arm090.name",
   "jp": "カタナリング",
-  "en": "",
+  "en": "Katana Ring",
   "addr": "1b367c",
   "max": 33
  },
  {
   "id": "arm090.desc",
   "jp": "前向きに日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a katana",
   "addr": "1b369e",
   "max": 33
  },
  {
   "id": "arm091.name",
   "jp": "ウォーターナイフリング",
-  "en": "",
+  "en": "Water Knife Ring",
   "addr": "1b36fc",
   "max": 33
  },
  {
   "id": "arm091.desc",
   "jp": "前向きに水属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Water knife",
   "addr": "1b371e",
   "max": 33
  },
  {
   "id": "arm092.name",
   "jp": "ウォータークラブリング",
-  "en": "",
+  "en": "Water Club Ring",
   "addr": "1b377c",
   "max": 33
  },
  {
   "id": "arm092.desc",
   "jp": "前向きに水属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Water club",
   "addr": "1b379e",
   "max": 33
  },
  {
   "id": "arm093.name",
   "jp": "ウォーターソードリング",
-  "en": "",
+  "en": "Water Sword Ring",
   "addr": "1b37fc",
   "max": 33
  },
  {
   "id": "arm093.desc",
   "jp": "前向きに水属性の剣で斬る",
-  "en": "",
+  "en": "Water sword slash ahead",
   "addr": "1b381e",
   "max": 33
  },
  {
   "id": "arm094.name",
   "jp": "ウォーターアックスリング",
-  "en": "",
+  "en": "Water Axe Ring",
   "addr": "1b387c",
   "max": 33
  },
  {
   "id": "arm094.desc",
   "jp": "前向きに水属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Water axe down ahead",
   "addr": "1b389e",
   "max": 33
  },
  {
   "id": "arm095.name",
   "jp": "ウォーターカタナリング",
-  "en": "",
+  "en": "Water Katana Ring",
   "addr": "1b38fc",
   "max": 33
  },
  {
   "id": "arm095.desc",
   "jp": "前向きに水属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Water katana",
   "addr": "1b391e",
   "max": 33
  },
  {
   "id": "arm096.name",
   "jp": "ファイアナイフリング",
-  "en": "",
+  "en": "Fire Knife Ring",
   "addr": "1b397c",
   "max": 33
  },
  {
   "id": "arm096.desc",
   "jp": "前向きに火属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Fire knife",
   "addr": "1b399e",
   "max": 33
  },
  {
   "id": "arm097.name",
   "jp": "ファイアクラブリング",
-  "en": "",
+  "en": "Fire Club Ring",
   "addr": "1b39fc",
   "max": 33
  },
  {
   "id": "arm097.desc",
   "jp": "前向きに火属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Fire club",
   "addr": "1b3a1e",
   "max": 33
  },
  {
   "id": "arm098.name",
   "jp": "ファイアソードリング",
-  "en": "",
+  "en": "Fire Sword Ring",
   "addr": "1b3a7c",
   "max": 33
  },
  {
   "id": "arm098.desc",
   "jp": "前向きに火属性の剣で斬る",
-  "en": "",
+  "en": "Fire sword slash ahead",
   "addr": "1b3a9e",
   "max": 33
  },
  {
   "id": "arm099.name",
   "jp": "ファイアアックスリング",
-  "en": "",
+  "en": "Fire Axe Ring",
   "addr": "1b3afc",
   "max": 33
  },
  {
   "id": "arm099.desc",
   "jp": "前向きに火属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Fire axe down ahead",
   "addr": "1b3b1e",
   "max": 33
  },
  {
   "id": "arm100.name",
   "jp": "ファイアカタナリング",
-  "en": "",
+  "en": "Fire Katana Ring",
   "addr": "1b3b7c",
   "max": 33
  },
  {
   "id": "arm100.desc",
   "jp": "前向きに火属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Fire katana",
   "addr": "1b3b9e",
   "max": 33
  },
  {
   "id": "arm101.name",
   "jp": "リーフナイフリング",
-  "en": "",
+  "en": "Leaf Knife Ring",
   "addr": "1b3bfc",
   "max": 33
  },
  {
   "id": "arm101.desc",
   "jp": "前向きに木属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Leaf knife",
   "addr": "1b3c1e",
   "max": 33
  },
  {
   "id": "arm102.name",
   "jp": "リーフクラブリング",
-  "en": "",
+  "en": "Leaf Club Ring",
   "addr": "1b3c7c",
   "max": 33
  },
  {
   "id": "arm102.desc",
   "jp": "前向きに木属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Leaf club",
   "addr": "1b3c9e",
   "max": 33
  },
  {
   "id": "arm103.name",
   "jp": "リーフソードリング",
-  "en": "",
+  "en": "Leaf Sword Ring",
   "addr": "1b3cfc",
   "max": 33
  },
  {
   "id": "arm103.desc",
   "jp": "前向きに木属性の剣で斬る",
-  "en": "",
+  "en": "Leaf sword slash ahead",
   "addr": "1b3d1e",
   "max": 33
  },
  {
   "id": "arm104.name",
   "jp": "リーフアックスリング",
-  "en": "",
+  "en": "Leaf Axe Ring",
   "addr": "1b3d7c",
   "max": 33
  },
  {
   "id": "arm104.desc",
   "jp": "前向きに木属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Leaf axe down ahead",
   "addr": "1b3d9e",
   "max": 33
  },
  {
   "id": "arm105.name",
   "jp": "リーフカタナリング",
-  "en": "",
+  "en": "Leaf Katana Ring",
   "addr": "1b3dfc",
   "max": 33
  },
  {
   "id": "arm105.desc",
   "jp": "前向きに木属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Leaf katana",
   "addr": "1b3e1e",
   "max": 33
  },
  {
   "id": "arm106.name",
   "jp": "ウィンドナイフリング",
-  "en": "",
+  "en": "Wind Knife Ring",
   "addr": "1b3e7c",
   "max": 33
  },
  {
   "id": "arm106.desc",
   "jp": "前向きに風属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Wind knife",
   "addr": "1b3e9e",
   "max": 33
  },
  {
   "id": "arm107.name",
   "jp": "ウィンドクラブリング",
-  "en": "",
+  "en": "Wind Club Ring",
   "addr": "1b3efc",
   "max": 33
  },
  {
   "id": "arm107.desc",
   "jp": "前向きに風属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Wind club",
   "addr": "1b3f1e",
   "max": 33
  },
  {
   "id": "arm108.name",
   "jp": "ウィンドソードリング",
-  "en": "",
+  "en": "Wind Sword Ring",
   "addr": "1b3f7c",
   "max": 33
  },
  {
   "id": "arm108.desc",
   "jp": "前向きに風属性の剣で斬る",
-  "en": "",
+  "en": "Wind sword slash ahead",
   "addr": "1b3f9e",
   "max": 33
  },
  {
   "id": "arm109.name",
   "jp": "ウィンドアックスリング",
-  "en": "",
+  "en": "Wind Axe Ring",
   "addr": "1b3ffc",
   "max": 33
  },
  {
   "id": "arm109.desc",
   "jp": "前向きに風属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Wind axe down ahead",
   "addr": "1b401e",
   "max": 33
  },
  {
   "id": "arm110.name",
   "jp": "ウィンドカタナリング",
-  "en": "",
+  "en": "Wind Katana Ring",
   "addr": "1b407c",
   "max": 33
  },
  {
   "id": "arm110.desc",
   "jp": "前向きに風属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Wind katana",
   "addr": "1b409e",
   "max": 33
  },
  {
   "id": "arm111.name",
   "jp": "アースナイフリング",
-  "en": "",
+  "en": "Earth Knife Ring",
   "addr": "1b40fc",
   "max": 33
  },
  {
   "id": "arm111.desc",
   "jp": "前向きに地属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with an Earth knife",
   "addr": "1b411e",
   "max": 33
  },
  {
   "id": "arm112.name",
   "jp": "アースクラブリング",
-  "en": "",
+  "en": "Earth Club Ring",
   "addr": "1b417c",
   "max": 33
  },
  {
   "id": "arm112.desc",
   "jp": "前向きに地属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with an Earth club",
   "addr": "1b419e",
   "max": 33
  },
  {
   "id": "arm113.name",
   "jp": "アースソードリング",
-  "en": "",
+  "en": "Earth Sword Ring",
   "addr": "1b41fc",
   "max": 33
  },
  {
   "id": "arm113.desc",
   "jp": "前向きに地属性の剣で斬る",
-  "en": "",
+  "en": "Earth sword slash ahead",
   "addr": "1b421e",
   "max": 33
  },
  {
   "id": "arm114.name",
   "jp": "アースアックスリング",
-  "en": "",
+  "en": "Earth Axe Ring",
   "addr": "1b427c",
   "max": 33
  },
  {
   "id": "arm114.desc",
   "jp": "前向きに地属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings an Earth axe down ahead",
   "addr": "1b429e",
   "max": 33
  },
  {
   "id": "arm115.name",
   "jp": "アースカタナリング",
-  "en": "",
+  "en": "Earth Katana Ring",
   "addr": "1b42fc",
   "max": 33
  },
  {
   "id": "arm115.desc",
   "jp": "前向きに地属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with an Earth katana",
   "addr": "1b431e",
   "max": 33
  },
  {
   "id": "arm116.name",
   "jp": "サンダーナイフリング",
-  "en": "",
+  "en": "Thunder Knife Ring",
   "addr": "1b437c",
   "max": 33
  },
  {
   "id": "arm116.desc",
   "jp": "前向きに雷属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Thunder knife",
   "addr": "1b439e",
   "max": 33
  },
  {
   "id": "arm117.name",
   "jp": "サンダークラブリング",
-  "en": "",
+  "en": "Thunder Club Ring",
   "addr": "1b43fc",
   "max": 33
  },
  {
   "id": "arm117.desc",
   "jp": "前向きに雷属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Thunder club",
   "addr": "1b441e",
   "max": 33
  },
  {
   "id": "arm118.name",
   "jp": "サンダーソードリング",
-  "en": "",
+  "en": "Thunder Sword Ring",
   "addr": "1b447c",
   "max": 33
  },
  {
   "id": "arm118.desc",
   "jp": "前向きに雷属性の剣で斬る",
-  "en": "",
+  "en": "Thunder sword slash ahead",
   "addr": "1b449e",
   "max": 33
  },
  {
   "id": "arm119.name",
   "jp": "サンダーアックスリング",
-  "en": "",
+  "en": "Thunder Axe Ring",
   "addr": "1b44fc",
   "max": 33
  },
  {
   "id": "arm119.desc",
   "jp": "前向きに雷属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Thunder axe down ahead",
   "addr": "1b451e",
   "max": 33
  },
  {
   "id": "arm120.name",
   "jp": "サンダーカタナリング",
-  "en": "",
+  "en": "Thunder Katana Ring",
   "addr": "1b457c",
   "max": 33
  },
  {
   "id": "arm120.desc",
   "jp": "前向きに雷属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Thunder katana",
   "addr": "1b459e",
   "max": 33
  },
  {
   "id": "arm121.name",
   "jp": "ウォーターパワー　ＣＬ１",
-  "en": "",
+  "en": "Water Power CL1",
   "addr": "1b45fc",
   "max": 33
  },
  {
   "id": "arm121.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1b461e",
   "max": 33
  },
  {
   "id": "arm122.name",
   "jp": "ウォーターパワー　ＣＬ２",
-  "en": "",
+  "en": "Water Power CL2",
   "addr": "1b467c",
   "max": 33
  },
  {
   "id": "arm122.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1b469e",
   "max": 33
  },
  {
   "id": "arm123.name",
   "jp": "ウォーターパワー　ＣＬ３",
-  "en": "",
+  "en": "Water Power CL3",
   "addr": "1b46fc",
   "max": 33
  },
  {
   "id": "arm123.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1b471e",
   "max": 33
  },
  {
   "id": "arm124.name",
   "jp": "ウォーターパワー　ＣＬ４",
-  "en": "",
+  "en": "Water Power CL4",
   "addr": "1b477c",
   "max": 33
  },
  {
   "id": "arm124.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1b479e",
   "max": 33
  },
  {
   "id": "arm125.name",
   "jp": "ウォーターパワー　ＣＬ５",
-  "en": "",
+  "en": "Water Power CL5",
   "addr": "1b47fc",
   "max": 33
  },
  {
   "id": "arm125.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1b481e",
   "max": 33
  },
  {
   "id": "arm126.name",
   "jp": "ファイアパワー　ＣＬ１",
-  "en": "",
+  "en": "Fire Power CL1",
   "addr": "1b487c",
   "max": 33
  },
  {
   "id": "arm126.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1b489e",
   "max": 33
  },
  {
   "id": "arm127.name",
   "jp": "ファイアパワー　ＣＬ２",
-  "en": "",
+  "en": "Fire Power CL2",
   "addr": "1b48fc",
   "max": 33
  },
  {
   "id": "arm127.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1b491e",
   "max": 33
  },
  {
   "id": "arm128.name",
   "jp": "ファイアパワー　ＣＬ３",
-  "en": "",
+  "en": "Fire Power CL3",
   "addr": "1b497c",
   "max": 33
  },
  {
   "id": "arm128.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1b499e",
   "max": 33
  },
  {
   "id": "arm129.name",
   "jp": "ファイアパワー　ＣＬ４",
-  "en": "",
+  "en": "Fire Power CL4",
   "addr": "1b49fc",
   "max": 33
  },
  {
   "id": "arm129.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1b4a1e",
   "max": 33
  },
  {
   "id": "arm130.name",
   "jp": "ファイアパワー　ＣＬ５",
-  "en": "",
+  "en": "Fire Power CL5",
   "addr": "1b4a7c",
   "max": 33
  },
  {
   "id": "arm130.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1b4a9e",
   "max": 33
  },
  {
   "id": "arm131.name",
   "jp": "リーフパワー　ＣＬ１",
-  "en": "",
+  "en": "Leaf Power CL1",
   "addr": "1b4afc",
   "max": 33
  },
  {
   "id": "arm131.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1b4b1e",
   "max": 33
  },
  {
   "id": "arm132.name",
   "jp": "リーフパワー　ＣＬ２",
-  "en": "",
+  "en": "Leaf Power CL2",
   "addr": "1b4b7c",
   "max": 33
  },
  {
   "id": "arm132.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1b4b9e",
   "max": 33
  },
  {
   "id": "arm133.name",
   "jp": "リーフパワー　ＣＬ３",
-  "en": "",
+  "en": "Leaf Power CL3",
   "addr": "1b4bfc",
   "max": 33
  },
  {
   "id": "arm133.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1b4c1e",
   "max": 33
  },
  {
   "id": "arm134.name",
   "jp": "リーフパワー　ＣＬ４",
-  "en": "",
+  "en": "Leaf Power CL4",
   "addr": "1b4c7c",
   "max": 33
  },
  {
   "id": "arm134.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1b4c9e",
   "max": 33
  },
  {
   "id": "arm135.name",
   "jp": "リーフパワー　ＣＬ５",
-  "en": "",
+  "en": "Leaf Power CL5",
   "addr": "1b4cfc",
   "max": 33
  },
  {
   "id": "arm135.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1b4d1e",
   "max": 33
  },
  {
   "id": "arm136.name",
   "jp": "ウィンドパワー　ＣＬ１",
-  "en": "",
+  "en": "Wind Power CL1",
   "addr": "1b4d7c",
   "max": 33
  },
  {
   "id": "arm136.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1b4d9e",
   "max": 33
  },
  {
   "id": "arm137.name",
   "jp": "ウィンドパワー　ＣＬ２",
-  "en": "",
+  "en": "Wind Power CL2",
   "addr": "1b4dfc",
   "max": 33
  },
  {
   "id": "arm137.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1b4e1e",
   "max": 33
  },
  {
   "id": "arm138.name",
   "jp": "ウィンドパワー　ＣＬ３",
-  "en": "",
+  "en": "Wind Power CL3",
   "addr": "1b4e7c",
   "max": 33
  },
  {
   "id": "arm138.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1b4e9e",
   "max": 33
  },
  {
   "id": "arm139.name",
   "jp": "ウィンドパワー　ＣＬ４",
-  "en": "",
+  "en": "Wind Power CL4",
   "addr": "1b4efc",
   "max": 33
  },
  {
   "id": "arm139.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1b4f1e",
   "max": 33
  },
  {
   "id": "arm140.name",
   "jp": "ウィンドパワー　ＣＬ５",
-  "en": "",
+  "en": "Wind Power CL5",
   "addr": "1b4f7c",
   "max": 33
  },
  {
   "id": "arm140.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1b4f9e",
   "max": 33
  },
  {
   "id": "arm141.name",
   "jp": "アースパワー　ＣＬ１",
-  "en": "",
+  "en": "Earth Power CL1",
   "addr": "1b4ffc",
   "max": 33
  },
  {
   "id": "arm141.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1b501e",
   "max": 33
  },
  {
   "id": "arm142.name",
   "jp": "アースパワー　ＣＬ２",
-  "en": "",
+  "en": "Earth Power CL2",
   "addr": "1b507c",
   "max": 33
  },
  {
   "id": "arm142.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1b509e",
   "max": 33
  },
  {
   "id": "arm143.name",
   "jp": "アースパワー　ＣＬ３",
-  "en": "",
+  "en": "Earth Power CL3",
   "addr": "1b50fc",
   "max": 33
  },
  {
   "id": "arm143.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1b511e",
   "max": 33
  },
  {
   "id": "arm144.name",
   "jp": "アースパワー　ＣＬ４",
-  "en": "",
+  "en": "Earth Power CL4",
   "addr": "1b517c",
   "max": 33
  },
  {
   "id": "arm144.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1b519e",
   "max": 33
  },
  {
   "id": "arm145.name",
   "jp": "アースパワー　ＣＬ５",
-  "en": "",
+  "en": "Earth Power CL5",
   "addr": "1b51fc",
   "max": 33
  },
  {
   "id": "arm145.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1b521e",
   "max": 33
  },
  {
   "id": "arm146.name",
   "jp": "サンダーパワー　ＣＬ１",
-  "en": "",
+  "en": "Thunder Power CL1",
   "addr": "1b527c",
   "max": 33
  },
  {
   "id": "arm146.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1b529e",
   "max": 33
  },
  {
   "id": "arm147.name",
   "jp": "サンダーパワー　ＣＬ２",
-  "en": "",
+  "en": "Thunder Power CL2",
   "addr": "1b52fc",
   "max": 33
  },
  {
   "id": "arm147.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1b531e",
   "max": 33
  },
  {
   "id": "arm148.name",
   "jp": "サンダーパワー　ＣＬ３",
-  "en": "",
+  "en": "Thunder Power CL3",
   "addr": "1b537c",
   "max": 33
  },
  {
   "id": "arm148.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1b539e",
   "max": 33
  },
  {
   "id": "arm149.name",
   "jp": "サンダーパワー　ＣＬ４",
-  "en": "",
+  "en": "Thunder Power CL4",
   "addr": "1b53fc",
   "max": 33
  },
  {
   "id": "arm149.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1b541e",
   "max": 33
  },
  {
   "id": "arm150.name",
   "jp": "サンダーパワー　ＣＬ５",
-  "en": "",
+  "en": "Thunder Power CL5",
   "addr": "1b547c",
   "max": 33
  },
  {
   "id": "arm150.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1b549e",
   "max": 33
  },
  {
   "id": "arm151.name",
   "jp": "ウォーターコート　ＣＬ１",
-  "en": "",
+  "en": "Water Coat CL1",
   "addr": "1b54fc",
   "max": 33
  },
  {
   "id": "arm151.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1b551e",
   "max": 33
  },
  {
   "id": "arm152.name",
   "jp": "ウォーターコート　ＣＬ２",
-  "en": "",
+  "en": "Water Coat CL2",
   "addr": "1b557c",
   "max": 33
  },
  {
   "id": "arm152.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1b559e",
   "max": 33
  },
  {
   "id": "arm153.name",
   "jp": "ウォーターコート　ＣＬ３",
-  "en": "",
+  "en": "Water Coat CL3",
   "addr": "1b55fc",
   "max": 33
  },
  {
   "id": "arm153.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1b561e",
   "max": 33
  },
  {
   "id": "arm154.name",
   "jp": "ウォーターコート　ＣＬ４",
-  "en": "",
+  "en": "Water Coat CL4",
   "addr": "1b567c",
   "max": 33
  },
  {
   "id": "arm154.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1b569e",
   "max": 33
  },
  {
   "id": "arm155.name",
   "jp": "ウォーターコート　ＣＬ５",
-  "en": "",
+  "en": "Water Coat CL5",
   "addr": "1b56fc",
   "max": 33
  },
  {
   "id": "arm155.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1b571e",
   "max": 33
  },
  {
   "id": "arm156.name",
   "jp": "ファイアコート　ＣＬ１",
-  "en": "",
+  "en": "Fire Coat CL1",
   "addr": "1b577c",
   "max": 33
  },
  {
   "id": "arm156.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1b579e",
   "max": 33
  },
  {
   "id": "arm157.name",
   "jp": "ファイアコート　ＣＬ２",
-  "en": "",
+  "en": "Fire Coat CL2",
   "addr": "1b57fc",
   "max": 33
  },
  {
   "id": "arm157.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1b581e",
   "max": 33
  },
  {
   "id": "arm158.name",
   "jp": "ファイアコート　ＣＬ３",
-  "en": "",
+  "en": "Fire Coat CL3",
   "addr": "1b587c",
   "max": 33
  },
  {
   "id": "arm158.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1b589e",
   "max": 33
  },
  {
   "id": "arm159.name",
   "jp": "ファイアコート　ＣＬ４",
-  "en": "",
+  "en": "Fire Coat CL4",
   "addr": "1b58fc",
   "max": 33
  },
  {
   "id": "arm159.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1b591e",
   "max": 33
  },
  {
   "id": "arm160.name",
   "jp": "ファイアコート　ＣＬ５",
-  "en": "",
+  "en": "Fire Coat CL5",
   "addr": "1b597c",
   "max": 33
  },
  {
   "id": "arm160.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1b599e",
   "max": 33
  },
  {
   "id": "arm161.name",
   "jp": "リーフコート　ＣＬ１",
-  "en": "",
+  "en": "Leaf Coat CL1",
   "addr": "1b59fc",
   "max": 33
  },
  {
   "id": "arm161.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1b5a1e",
   "max": 33
  },
  {
   "id": "arm162.name",
   "jp": "リーフコート　ＣＬ２",
-  "en": "",
+  "en": "Leaf Coat CL2",
   "addr": "1b5a7c",
   "max": 33
  },
  {
   "id": "arm162.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1b5a9e",
   "max": 33
  },
  {
   "id": "arm163.name",
   "jp": "リーフコート　ＣＬ３",
-  "en": "",
+  "en": "Leaf Coat CL3",
   "addr": "1b5afc",
   "max": 33
  },
  {
   "id": "arm163.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1b5b1e",
   "max": 33
  },
  {
   "id": "arm164.name",
   "jp": "リーフコート　ＣＬ４",
-  "en": "",
+  "en": "Leaf Coat CL4",
   "addr": "1b5b7c",
   "max": 33
  },
  {
   "id": "arm164.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1b5b9e",
   "max": 33
  },
  {
   "id": "arm165.name",
   "jp": "リーフコート　ＣＬ５",
-  "en": "",
+  "en": "Leaf Coat CL5",
   "addr": "1b5bfc",
   "max": 33
  },
  {
   "id": "arm165.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1b5c1e",
   "max": 33
  },
  {
   "id": "arm166.name",
   "jp": "ウィンドコート　ＣＬ１",
-  "en": "",
+  "en": "Wind Coat CL1",
   "addr": "1b5c7c",
   "max": 33
  },
  {
   "id": "arm166.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1b5c9e",
   "max": 33
  },
  {
   "id": "arm167.name",
   "jp": "ウィンドコート　ＣＬ２",
-  "en": "",
+  "en": "Wind Coat CL2",
   "addr": "1b5cfc",
   "max": 33
  },
  {
   "id": "arm167.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1b5d1e",
   "max": 33
  },
  {
   "id": "arm168.name",
   "jp": "ウィンドコート　ＣＬ３",
-  "en": "",
+  "en": "Wind Coat CL3",
   "addr": "1b5d7c",
   "max": 33
  },
  {
   "id": "arm168.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1b5d9e",
   "max": 33
  },
  {
   "id": "arm169.name",
   "jp": "ウィンドコート　ＣＬ４",
-  "en": "",
+  "en": "Wind Coat CL4",
   "addr": "1b5dfc",
   "max": 33
  },
  {
   "id": "arm169.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1b5e1e",
   "max": 33
  },
  {
   "id": "arm170.name",
   "jp": "ウィンドコート　ＣＬ５",
-  "en": "",
+  "en": "Wind Coat CL5",
   "addr": "1b5e7c",
   "max": 33
  },
  {
   "id": "arm170.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1b5e9e",
   "max": 33
  },
  {
   "id": "arm171.name",
   "jp": "アースコート　ＣＬ１",
-  "en": "",
+  "en": "Earth Coat CL1",
   "addr": "1b5efc",
   "max": 33
  },
  {
   "id": "arm171.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1b5f1e",
   "max": 33
  },
  {
   "id": "arm172.name",
   "jp": "アースコート　ＣＬ２",
-  "en": "",
+  "en": "Earth Coat CL2",
   "addr": "1b5f7c",
   "max": 33
  },
  {
   "id": "arm172.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1b5f9e",
   "max": 33
  },
  {
   "id": "arm173.name",
   "jp": "アースコート　ＣＬ３",
-  "en": "",
+  "en": "Earth Coat CL3",
   "addr": "1b5ffc",
   "max": 33
  },
  {
   "id": "arm173.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1b601e",
   "max": 33
  },
  {
   "id": "arm174.name",
   "jp": "アースコート　ＣＬ４",
-  "en": "",
+  "en": "Earth Coat CL4",
   "addr": "1b607c",
   "max": 33
  },
  {
   "id": "arm174.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1b609e",
   "max": 33
  },
  {
   "id": "arm175.name",
   "jp": "アースコート　ＣＬ５",
-  "en": "",
+  "en": "Earth Coat CL5",
   "addr": "1b60fc",
   "max": 33
  },
  {
   "id": "arm175.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1b611e",
   "max": 33
  },
  {
   "id": "arm176.name",
   "jp": "サンダーコート　ＣＬ１",
-  "en": "",
+  "en": "Thunder Coat CL1",
   "addr": "1b617c",
   "max": 33
  },
  {
   "id": "arm176.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1b619e",
   "max": 33
  },
  {
   "id": "arm177.name",
   "jp": "サンダーコート　ＣＬ２",
-  "en": "",
+  "en": "Thunder Coat CL2",
   "addr": "1b61fc",
   "max": 33
  },
  {
   "id": "arm177.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1b621e",
   "max": 33
  },
  {
   "id": "arm178.name",
   "jp": "サンダーコート　ＣＬ３",
-  "en": "",
+  "en": "Thunder Coat CL3",
   "addr": "1b627c",
   "max": 33
  },
  {
   "id": "arm178.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1b629e",
   "max": 33
  },
  {
   "id": "arm179.name",
   "jp": "サンダーコート　ＣＬ４",
-  "en": "",
+  "en": "Thunder Coat CL4",
   "addr": "1b62fc",
   "max": 33
  },
  {
   "id": "arm179.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1b631e",
   "max": 33
  },
  {
   "id": "arm180.name",
   "jp": "サンダーコート　ＣＬ５",
-  "en": "",
+  "en": "Thunder Coat CL5",
   "addr": "1b637c",
   "max": 33
  },
  {
   "id": "arm180.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1b639e",
   "max": 33
  },
  {
   "id": "arm181.name",
   "jp": "エスケイプ　ＣＬ２",
-  "en": "",
+  "en": "Escape CL2",
   "addr": "1b63fc",
   "max": 33
  },
  {
   "id": "arm181.desc",
   "jp": "うまくいけば戦闘から逃げられる",
-  "en": "",
+  "en": "With luck, you can flee battle",
   "addr": "1b641e",
   "max": 33
  },
  {
   "id": "arm182.name",
   "jp": "エスケイプ　ＣＬ３",
-  "en": "",
+  "en": "Escape CL3",
   "addr": "1b647c",
   "max": 33
  },
  {
   "id": "arm182.desc",
   "jp": "戦闘から高い確率で逃げられる",
-  "en": "",
+  "en": "Good odds of fleeing battle",
   "addr": "1b649e",
   "max": 33
  },
  {
   "id": "arm183.name",
   "jp": "エスケイプ　ＣＬ４",
-  "en": "",
+  "en": "Escape CL4",
   "addr": "1b64fc",
   "max": 33
  },
  {
   "id": "arm183.desc",
   "jp": "ほぼ確実に戦闘から逃げられる",
-  "en": "",
+  "en": "Flees battle almost every time",
   "addr": "1b651e",
   "max": 33
  },
  {
   "id": "arm184.name",
   "jp": "天使の口づけ",
-  "en": "",
+  "en": "Angel's Kiss",
   "addr": "1b657c",
   "max": 33
  },
  {
   "id": "arm184.desc",
   "jp": "ダークネス効果を消し去る",
-  "en": "",
+  "en": "Wipes out Darkness effects",
   "addr": "1b659e",
   "max": 33
  },
  {
   "id": "arm185.name",
   "jp": "フェニックス",
-  "en": "",
+  "en": "Phoenix",
   "addr": "1b65fc",
   "max": 33
  },
  {
   "id": "arm185.desc",
   "jp": "体力が０になると自動的に回復する",
-  "en": "",
+  "en": "Auto-revives when HP hits 0",
   "addr": "1b661e",
   "max": 33
  },
  {
   "id": "arm186.name",
   "jp": "スリーピーリング　ＣＬ１",
-  "en": "",
+  "en": "Sleepy Ring CL1",
   "addr": "1b667c",
   "max": 33
  },
  {
   "id": "arm186.desc",
   "jp": "敵を少し眠らせる",
-  "en": "",
+  "en": "Puts the enemy to sleep briefly",
   "addr": "1b669e",
   "max": 33
  },
  {
   "id": "arm187.name",
   "jp": "スリーピーリング　ＣＬ２",
-  "en": "",
+  "en": "Sleepy Ring CL2",
   "addr": "1b66fc",
   "max": 33
  },
  {
   "id": "arm187.desc",
   "jp": "敵を眠らせる",
-  "en": "",
+  "en": "Puts the enemy to sleep",
   "addr": "1b671e",
   "max": 33
  },
  {
   "id": "arm188.name",
   "jp": "スリーピーリング　ＣＬ３",
-  "en": "",
+  "en": "Sleepy Ring CL3",
   "addr": "1b677c",
   "max": 33
  },
  {
   "id": "arm188.desc",
   "jp": "敵を熟睡させる",
-  "en": "",
+  "en": "Puts the enemy into a deep sleep",
   "addr": "1b679e",
   "max": 33
  },
  {
   "id": "arm189.name",
   "jp": "スリーピーリング　ＣＬ４",
-  "en": "",
+  "en": "Sleepy Ring CL4",
   "addr": "1b67fc",
   "max": 33
  },
  {
   "id": "arm189.desc",
   "jp": "敵を長い時間眠らせる",
-  "en": "",
+  "en": "Enemy sleeps for a long time",
   "addr": "1b681e",
   "max": 33
  },
  {
   "id": "arm190.name",
   "jp": "スリーピーリング　ＣＬ５",
-  "en": "",
+  "en": "Sleepy Ring CL5",
   "addr": "1b687c",
   "max": 33
  },
  {
   "id": "arm190.desc",
   "jp": "敵をかなり長時間眠らせる",
-  "en": "",
+  "en": "Enemy sleeps for a very long time",
   "addr": "1b689e",
   "max": 33
  },
  {
   "id": "arm191.name",
   "jp": "アームフリーズ　ＣＬ１",
-  "en": "",
+  "en": "ÄRM Freeze CL1",
   "addr": "1b68fc",
   "max": 33
  },
  {
   "id": "arm191.desc",
   "jp": "ＣＬ１のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL1 ÄRM",
   "addr": "1b691e",
   "max": 33
  },
  {
   "id": "arm192.name",
   "jp": "アームフリーズ　ＣＬ２",
-  "en": "",
+  "en": "ÄRM Freeze CL2",
   "addr": "1b697c",
   "max": 33
  },
  {
   "id": "arm192.desc",
   "jp": "ＣＬ２以下のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL2-or-lower ÄRM",
   "addr": "1b699e",
   "max": 33
  },
  {
   "id": "arm193.name",
   "jp": "アームフリーズ　ＣＬ３",
-  "en": "",
+  "en": "ÄRM Freeze CL3",
   "addr": "1b69fc",
   "max": 33
  },
  {
   "id": "arm193.desc",
   "jp": "ＣＬ３以下のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL3-or-lower ÄRM",
   "addr": "1b6a1e",
   "max": 33
  },
  {
   "id": "arm194.name",
   "jp": "アームフリーズ　ＣＬ４",
-  "en": "",
+  "en": "ÄRM Freeze CL4",
   "addr": "1b6a7c",
   "max": 33
  },
  {
   "id": "arm194.desc",
   "jp": "ＣＬ４以下のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL4-or-lower ÄRM",
   "addr": "1b6a9e",
   "max": 33
  },
  {
   "id": "arm195.name",
   "jp": "カウントダウン　ＣＬ１",
-  "en": "",
+  "en": "Countdown CL1",
   "addr": "1b6afc",
   "max": 33
  },
  {
   "id": "arm195.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1b6b1e",
   "max": 33
  },
  {
   "id": "arm196.name",
   "jp": "カウントダウン　ＣＬ２",
-  "en": "",
+  "en": "Countdown CL2",
   "addr": "1b6b7c",
   "max": 33
  },
  {
   "id": "arm196.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1b6b9e",
   "max": 33
  },
  {
   "id": "arm197.name",
   "jp": "カウントダウン　ＣＬ３",
-  "en": "",
+  "en": "Countdown CL3",
   "addr": "1b6bfc",
   "max": 33
  },
  {
   "id": "arm197.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1b6c1e",
   "max": 33
  },
  {
   "id": "arm198.name",
   "jp": "カウントダウン　ＣＬ４",
-  "en": "",
+  "en": "Countdown CL4",
   "addr": "1b6c7c",
   "max": 33
  },
  {
   "id": "arm198.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1b6c9e",
   "max": 33
  },
  {
   "id": "arm199.name",
   "jp": "カウントダウン　ＣＬ５",
-  "en": "",
+  "en": "Countdown CL5",
   "addr": "1b6cfc",
   "max": 33
  },
  {
   "id": "arm199.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1b6d1e",
   "max": 33
  },
  {
   "id": "arm200.name",
   "jp": "デッキダウン　ＣＬ２",
-  "en": "",
+  "en": "Deck Down CL2",
   "addr": "1b6d7c",
   "max": 33
  },
  {
   "id": "arm200.desc",
   "jp": "敵のÄＲＭセレクトを４つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 4",
   "addr": "1b6d9e",
   "max": 33
  },
  {
   "id": "arm201.name",
   "jp": "デッキダウン　ＣＬ３",
-  "en": "",
+  "en": "Deck Down CL3",
   "addr": "1b6dfc",
   "max": 33
  },
  {
   "id": "arm201.desc",
   "jp": "敵のÄＲＭセレクトを３つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 3",
   "addr": "1b6e1e",
   "max": 33
  },
  {
   "id": "arm202.name",
   "jp": "デッキダウン　ＣＬ４",
-  "en": "",
+  "en": "Deck Down CL4",
   "addr": "1b6e7c",
   "max": 33
  },
  {
   "id": "arm202.desc",
   "jp": "敵のÄＲＭセレクトを２つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 2",
   "addr": "1b6e9e",
   "max": 33
  },
  {
   "id": "arm203.name",
   "jp": "デッキダウン　ＣＬ５",
-  "en": "",
+  "en": "Deck Down CL5",
   "addr": "1b6efc",
   "max": 33
  },
  {
   "id": "arm203.desc",
   "jp": "敵のÄＲＭセレクトを１つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 1",
   "addr": "1b6f1e",
   "max": 33
  },
  {
   "id": "arm204.name",
   "jp": "ミノタウロ　ＣＬ２",
-  "en": "",
+  "en": "Minotaur CL2",
   "addr": "1b6f7c",
   "max": 33
  },
  {
   "id": "arm204.desc",
   "jp": "ミノタウロのタックル攻撃",
-  "en": "",
+  "en": "Minotaur's tackle attack",
   "addr": "1b6f9e",
   "max": 33
  },
  {
   "id": "arm205.name",
   "jp": "ミノタウロ　ＣＬ３",
-  "en": "",
+  "en": "Minotaur CL3",
   "addr": "1b6ffc",
   "max": 33
  },
  {
   "id": "arm205.desc",
   "jp": "ミノタウロの連続タックル",
-  "en": "",
+  "en": "Minotaur's rapid tackles",
   "addr": "1b701e",
   "max": 33
  },
  {
   "id": "arm206.name",
   "jp": "ミノタウロ　ＣＬ４",
-  "en": "",
+  "en": "Minotaur CL4",
   "addr": "1b707c",
   "max": 33
  },
  {
   "id": "arm206.desc",
   "jp": "ミノタウロの連続パンチ",
-  "en": "",
+  "en": "Minotaur's rapid punches",
   "addr": "1b709e",
   "max": 33
  },
  {
   "id": "arm207.name",
   "jp": "ミノタウロ　ＣＬ５",
-  "en": "",
+  "en": "Minotaur CL5",
   "addr": "1b70fc",
   "max": 33
  },
  {
   "id": "arm207.desc",
   "jp": "ミノタウロの必殺コンボ",
-  "en": "",
+  "en": "Minotaur's killer combo",
   "addr": "1b711e",
   "max": 33
  },
  {
   "id": "arm208.name",
   "jp": "サーペント　ＣＬ２",
-  "en": "",
+  "en": "Serpent CL2",
   "addr": "1b717c",
   "max": 33
  },
  {
   "id": "arm208.desc",
   "jp": "サーペントが水属性に変えて防御",
-  "en": "",
+  "en": "Serpent guards as Water type",
   "addr": "1b719e",
   "max": 33
  },
  {
   "id": "arm209.name",
   "jp": "サーペント　ＣＬ３",
-  "en": "",
+  "en": "Serpent CL3",
   "addr": "1b71fc",
   "max": 33
  },
  {
   "id": "arm209.desc",
   "jp": "サーペントがうず巻きを発生させる",
-  "en": "",
+  "en": "Serpent whips up a whirlpool",
   "addr": "1b721e",
   "max": 33
  },
  {
   "id": "arm210.name",
   "jp": "サーペント　ＣＬ４",
-  "en": "",
+  "en": "Serpent CL4",
   "addr": "1b727c",
   "max": 33
  },
  {
   "id": "arm210.desc",
   "jp": "サーペントが津波をおこす",
-  "en": "",
+  "en": "Serpent raises a tidal wave",
   "addr": "1b729e",
   "max": 33
  },
  {
   "id": "arm211.name",
   "jp": "サーペント　ＣＬ５",
-  "en": "",
+  "en": "Serpent CL5",
   "addr": "1b72fc",
   "max": 33
  },
  {
   "id": "arm211.desc",
   "jp": "サーペントが津波をおこし凍らせる",
-  "en": "",
+  "en": "Serpent's freezing tidal wave",
   "addr": "1b731e",
   "max": 33
  },
  {
   "id": "arm212.name",
   "jp": "サラマンダー　ＣＬ２",
-  "en": "",
+  "en": "Salamander CL2",
   "addr": "1b737c",
   "max": 33
  },
  {
   "id": "arm212.desc",
   "jp": "サラマンダーが火属性に変えて防御",
-  "en": "",
+  "en": "Salamander guards as Fire type",
   "addr": "1b739e",
   "max": 33
  },
  {
   "id": "arm213.name",
   "jp": "サラマンダー　ＣＬ３",
-  "en": "",
+  "en": "Salamander CL3",
   "addr": "1b73fc",
   "max": 33
  },
  {
   "id": "arm213.desc",
   "jp": "サラマンダーが敵にアタック",
-  "en": "",
+  "en": "Salamander attacks the enemy",
   "addr": "1b741e",
   "max": 33
  },
  {
   "id": "arm214.name",
   "jp": "サラマンダー　ＣＬ４",
-  "en": "",
+  "en": "Salamander CL4",
   "addr": "1b747c",
   "max": 33
  },
  {
   "id": "arm214.desc",
   "jp": "サラマンダーから炎が飛び出す",
-  "en": "",
+  "en": "Flames burst out of Salamander",
   "addr": "1b749e",
   "max": 33
  },
  {
   "id": "arm215.name",
   "jp": "サラマンダー　ＣＬ５",
-  "en": "",
+  "en": "Salamander CL5",
   "addr": "1b74fc",
   "max": 33
  },
  {
   "id": "arm215.desc",
   "jp": "巨大サラマンダーが炎をはく",
-  "en": "",
+  "en": "Giant Salamander breathes fire",
   "addr": "1b751e",
   "max": 33
  },
  {
   "id": "arm216.name",
   "jp": "トレント　ＣＬ２",
-  "en": "",
+  "en": "Treant CL2",
   "addr": "1b757c",
   "max": 33
  },
  {
   "id": "arm216.desc",
   "jp": "トレントが木属性に変えて防御",
-  "en": "",
+  "en": "Treant guards as Leaf type",
   "addr": "1b759e",
   "max": 33
  },
  {
   "id": "arm217.name",
   "jp": "トレント　ＣＬ３",
-  "en": "",
+  "en": "Treant CL3",
   "addr": "1b75fc",
   "max": 33
  },
  {
   "id": "arm217.desc",
   "jp": "トレントの葉攻撃＆体力回復",
-  "en": "",
+  "en": "Treant leaf attack & heals HP",
   "addr": "1b761e",
   "max": 33
  },
  {
   "id": "arm218.name",
   "jp": "トレント　ＣＬ４",
-  "en": "",
+  "en": "Treant CL4",
   "addr": "1b767c",
   "max": 33
  },
  {
   "id": "arm218.desc",
   "jp": "トレントの倒木攻撃＆体力回復",
-  "en": "",
+  "en": "Treant falling tree & heals HP",
   "addr": "1b769e",
   "max": 33
  },
  {
   "id": "arm219.name",
   "jp": "トレント　ＣＬ５",
-  "en": "",
+  "en": "Treant CL5",
   "addr": "1b76fc",
   "max": 33
  },
  {
   "id": "arm219.desc",
   "jp": "トレントの殴り攻撃＆体力回復",
-  "en": "",
+  "en": "Treant punch attack & heals HP",
   "addr": "1b771e",
   "max": 33
  },
  {
   "id": "arm220.name",
   "jp": "ジン　ＣＬ２",
-  "en": "",
+  "en": "Djinn CL2",
   "addr": "1b777c",
   "max": 33
  },
  {
   "id": "arm220.desc",
   "jp": "ジンが風属性に変えて防御",
-  "en": "",
+  "en": "Djinn guards as Wind type",
   "addr": "1b779e",
   "max": 33
  },
  {
   "id": "arm221.name",
   "jp": "ジン　ＣＬ３",
-  "en": "",
+  "en": "Djinn CL3",
   "addr": "1b77fc",
   "max": 33
  },
  {
   "id": "arm221.desc",
   "jp": "ジンの体当たり攻撃",
-  "en": "",
+  "en": "Djinn's body slam attack",
   "addr": "1b781e",
   "max": 33
  },
  {
   "id": "arm222.name",
   "jp": "ジン　ＣＬ４",
-  "en": "",
+  "en": "Djinn CL4",
   "addr": "1b787c",
   "max": 33
  },
  {
   "id": "arm222.desc",
   "jp": "ジンの分裂体当たり攻撃",
-  "en": "",
+  "en": "Djinn splits up and body slams",
   "addr": "1b789e",
   "max": 33
  },
  {
   "id": "arm223.name",
   "jp": "ジン　ＣＬ５",
-  "en": "",
+  "en": "Djinn CL5",
   "addr": "1b78fc",
   "max": 33
  },
  {
   "id": "arm223.desc",
   "jp": "ジンの大分裂＆超アタック",
-  "en": "",
+  "en": "Djinn's big split & super attack",
   "addr": "1b791e",
   "max": 33
  },
  {
   "id": "arm224.name",
   "jp": "クエイク　ＣＬ２",
-  "en": "",
+  "en": "Quake CL2",
   "addr": "1b797c",
   "max": 33
  },
  {
   "id": "arm224.desc",
   "jp": "クエイクが地属性に変え防御と回復",
-  "en": "",
+  "en": "Quake guards as Earth & heals",
   "addr": "1b799e",
   "max": 33
  },
  {
   "id": "arm225.name",
   "jp": "クエイク　ＣＬ３",
-  "en": "",
+  "en": "Quake CL3",
   "addr": "1b79fc",
   "max": 33
  },
  {
   "id": "arm225.desc",
   "jp": "クエイクの大地の攻撃＆体力回復",
-  "en": "",
+  "en": "Quake earth attack & heals HP",
   "addr": "1b7a1e",
   "max": 33
  },
  {
   "id": "arm226.name",
   "jp": "クエイク　ＣＬ４",
-  "en": "",
+  "en": "Quake CL4",
   "addr": "1b7a7c",
   "max": 33
  },
  {
   "id": "arm226.desc",
   "jp": "クエイクの大地連続攻撃＆体力回復",
-  "en": "",
+  "en": "Quake earth combo & heals HP",
   "addr": "1b7a9e",
   "max": 33
  },
  {
   "id": "arm227.name",
   "jp": "クエイク　ＣＬ５",
-  "en": "",
+  "en": "Quake CL5",
   "addr": "1b7afc",
   "max": 33
  },
  {
   "id": "arm227.desc",
   "jp": "クエイクの大噴火攻撃＆体力回復",
-  "en": "",
+  "en": "Quake eruption & heals HP",
   "addr": "1b7b1e",
   "max": 33
  },
  {
   "id": "arm228.name",
   "jp": "インドラ　ＣＬ２",
-  "en": "",
+  "en": "Indra CL2",
   "addr": "1b7b7c",
   "max": 33
  },
  {
   "id": "arm228.desc",
   "jp": "インドラが雷属性に変えて防御",
-  "en": "",
+  "en": "Indra guards as Thunder type",
   "addr": "1b7b9e",
   "max": 33
  },
  {
   "id": "arm229.name",
   "jp": "インドラ　ＣＬ３",
-  "en": "",
+  "en": "Indra CL3",
   "addr": "1b7bfc",
   "max": 33
  },
  {
   "id": "arm229.desc",
   "jp": "インドラの電撃で１体が動作不能",
-  "en": "",
+  "en": "Indra's shock stuns one foe",
   "addr": "1b7c1e",
   "max": 33
  },
  {
   "id": "arm230.name",
   "jp": "インドラ　ＣＬ４",
-  "en": "",
+  "en": "Indra CL4",
   "addr": "1b7c7c",
   "max": 33
  },
  {
   "id": "arm230.desc",
   "jp": "インドラの大電撃で１体が動作不能",
-  "en": "",
+  "en": "Indra's big shock stuns one foe",
   "addr": "1b7c9e",
   "max": 33
  },
  {
   "id": "arm231.name",
   "jp": "インドラ　ＣＬ５",
-  "en": "",
+  "en": "Indra CL5",
   "addr": "1b7cfc",
   "max": 33
  },
  {
   "id": "arm231.desc",
   "jp": "インドラの超電撃で１体が動作不能",
-  "en": "",
+  "en": "Indra's super shock stuns one foe",
   "addr": "1b7d1e",
   "max": 33
  },
  {
   "id": "arm232.name",
   "jp": "アイス＆ウォーター　ＣＬ１",
-  "en": "",
+  "en": "Ice & Water CL1",
   "addr": "1b7d7c",
   "max": 33
  },
  {
   "id": "arm232.desc",
   "jp": "水のかたまりを前方向に投げる",
-  "en": "",
+  "en": "Throws a blob of water ahead",
   "addr": "1b7d9e",
   "max": 33
  },
  {
   "id": "arm233.name",
   "jp": "アイス＆ウォーター　ＣＬ２",
-  "en": "",
+  "en": "Ice & Water CL2",
   "addr": "1b7dfc",
   "max": 33
  },
  {
   "id": "arm233.desc",
   "jp": "氷のかたまりを前方向に投げる",
-  "en": "",
+  "en": "Throws a chunk of ice ahead",
   "addr": "1b7e1e",
   "max": 33
  },
  {
   "id": "arm234.name",
   "jp": "アイス＆ウォーター　ＣＬ３",
-  "en": "",
+  "en": "Ice & Water CL3",
   "addr": "1b7e7c",
   "max": 33
  },
  {
   "id": "arm234.desc",
   "jp": "多くの氷を前方向にばらまく",
-  "en": "",
+  "en": "Scatters lots of ice ahead",
   "addr": "1b7e9e",
   "max": 33
  },
  {
   "id": "arm235.name",
   "jp": "アイス＆ウォーター　ＣＬ４",
-  "en": "",
+  "en": "Ice & Water CL4",
   "addr": "1b7efc",
   "max": 33
  },
  {
   "id": "arm235.desc",
   "jp": "大量の氷を前にばらまく",
-  "en": "",
+  "en": "Scatters tons of ice ahead",
   "addr": "1b7f1e",
   "max": 33
  },
  {
   "id": "arm236.name",
   "jp": "アイス＆ウォーター　ＣＬ５",
-  "en": "",
+  "en": "Ice & Water CL5",
   "addr": "1b7f7c",
   "max": 33
  },
  {
   "id": "arm236.desc",
   "jp": "氷河が敵を飲みこむ",
-  "en": "",
+  "en": "A glacier swallows the enemy",
   "addr": "1b7f9e",
   "max": 33
  },
  {
   "id": "arm237.name",
   "jp": "ファイアバーニング　ＣＬ１",
-  "en": "",
+  "en": "Fire Burning CL1",
   "addr": "1b7ffc",
   "max": 33
  },
  {
   "id": "arm237.desc",
   "jp": "小さな火の玉を飛ばす",
-  "en": "",
+  "en": "Shoots a small fireball",
   "addr": "1b801e",
   "max": 33
  },
  {
   "id": "arm238.name",
   "jp": "ファイアバーニング　ＣＬ２",
-  "en": "",
+  "en": "Fire Burning CL2",
   "addr": "1b807c",
   "max": 33
  },
  {
   "id": "arm238.desc",
   "jp": "大きな火の玉を飛ばす",
-  "en": "",
+  "en": "Shoots a big fireball",
   "addr": "1b809e",
   "max": 33
  },
  {
   "id": "arm239.name",
   "jp": "ファイアバーニング　ＣＬ３",
-  "en": "",
+  "en": "Fire Burning CL3",
   "addr": "1b80fc",
   "max": 33
  },
  {
   "id": "arm239.desc",
   "jp": "火の玉を渦巻きのように飛ばす",
-  "en": "",
+  "en": "Shoots fireballs in a swirl",
   "addr": "1b811e",
   "max": 33
  },
  {
   "id": "arm240.name",
   "jp": "ファイアバーニング　ＣＬ４",
-  "en": "",
+  "en": "Fire Burning CL4",
   "addr": "1b817c",
   "max": 33
  },
  {
   "id": "arm240.desc",
   "jp": "上下から炎攻撃",
-  "en": "",
+  "en": "Fire attack from above and below",
   "addr": "1b819e",
   "max": 33
  },
  {
   "id": "arm241.name",
   "jp": "ファイアバーニング　ＣＬ５",
-  "en": "",
+  "en": "Fire Burning CL5",
   "addr": "1b81fc",
   "max": 33
  },
  {
   "id": "arm241.desc",
   "jp": "小さな超新星爆発をおこす",
-  "en": "",
+  "en": "Sets off a mini supernova",
   "addr": "1b821e",
   "max": 33
  },
  {
   "id": "arm242.name",
   "jp": "プランツアタック　ＣＬ１",
-  "en": "",
+  "en": "Plants Attack CL1",
   "addr": "1b827c",
   "max": 33
  },
  {
   "id": "arm242.desc",
   "jp": "体を葉で包み、動きを遅くする",
-  "en": "",
+  "en": "Wraps foe in leaves to slow it",
   "addr": "1b829e",
   "max": 33
  },
  {
   "id": "arm243.name",
   "jp": "プランツアタック　ＣＬ２",
-  "en": "",
+  "en": "Plants Attack CL2",
   "addr": "1b82fc",
   "max": 33
  },
  {
   "id": "arm243.desc",
   "jp": "ツタを足に絡ませて動きを止める",
-  "en": "",
+  "en": "Vines wrap its legs to stop it",
   "addr": "1b831e",
   "max": 33
  },
  {
   "id": "arm244.name",
   "jp": "プランツアタック　ＣＬ３",
-  "en": "",
+  "en": "Plants Attack CL3",
   "addr": "1b837c",
   "max": 33
  },
  {
   "id": "arm244.desc",
   "jp": "ツタを体に絡ませて動きを止める",
-  "en": "",
+  "en": "Vines wrap its body to stop it",
   "addr": "1b839e",
   "max": 33
  },
  {
   "id": "arm245.name",
   "jp": "プランツアタック　ＣＬ４",
-  "en": "",
+  "en": "Plants Attack CL4",
   "addr": "1b83fc",
   "max": 33
  },
  {
   "id": "arm245.desc",
   "jp": "木から大量の虫を飛ばす",
-  "en": "",
+  "en": "Shoots tons of bugs from a tree",
   "addr": "1b841e",
   "max": 33
  },
  {
   "id": "arm246.name",
   "jp": "プランツアタック　ＣＬ５",
-  "en": "",
+  "en": "Plants Attack CL5",
   "addr": "1b847c",
   "max": 33
  },
  {
   "id": "arm246.desc",
   "jp": "大木がすべてにダメージを与える",
-  "en": "",
+  "en": "A giant tree damages everyone",
   "addr": "1b849e",
   "max": 33
  },
  {
   "id": "arm247.name",
   "jp": "デンジャラスストーム　ＣＬ１",
-  "en": "",
+  "en": "Dangerous Storm CL1",
   "addr": "1b84fc",
   "max": 33
  },
  {
   "id": "arm247.desc",
   "jp": "悪臭のつまった風船を飛ばす",
-  "en": "",
+  "en": "Launches a stink-filled balloon",
   "addr": "1b851e",
   "max": 33
  },
  {
   "id": "arm248.name",
   "jp": "デンジャラスストーム　ＣＬ２",
-  "en": "",
+  "en": "Dangerous Storm CL2",
   "addr": "1b857c",
   "max": 33
  },
  {
   "id": "arm248.desc",
   "jp": "たくさんの悪臭風船を飛ばす",
-  "en": "",
+  "en": "Launches lots of stink balloons",
   "addr": "1b859e",
   "max": 33
  },
  {
   "id": "arm249.name",
   "jp": "デンジャラスストーム　ＣＬ３",
-  "en": "",
+  "en": "Dangerous Storm CL3",
   "addr": "1b85fc",
   "max": 33
  },
  {
   "id": "arm249.desc",
   "jp": "大量の悪臭風船を飛ばす",
-  "en": "",
+  "en": "Launches tons of stink balloons",
   "addr": "1b861e",
   "max": 33
  },
  {
   "id": "arm250.name",
   "jp": "デンジャラスストーム　ＣＬ４",
-  "en": "",
+  "en": "Dangerous Storm CL4",
   "addr": "1b867c",
   "max": 33
  },
  {
   "id": "arm250.desc",
   "jp": "砂嵐で攻撃し、目に砂を入れる",
-  "en": "",
+  "en": "Sandstorm gets sand in foe's eyes",
   "addr": "1b869e",
   "max": 33
  },
  {
   "id": "arm251.name",
   "jp": "デンジャラスストーム　ＣＬ５",
-  "en": "",
+  "en": "Dangerous Storm CL5",
   "addr": "1b86fc",
   "max": 33
  },
  {
   "id": "arm251.desc",
   "jp": "ハリケーンからいろいろ飛び出す",
-  "en": "",
+  "en": "All sorts fly out of a hurricane",
   "addr": "1b871e",
   "max": 33
  },
  {
   "id": "arm252.name",
   "jp": "アースフォース　ＣＬ１",
-  "en": "",
+  "en": "Earth Force CL1",
   "addr": "1b877c",
   "max": 33
  },
  {
   "id": "arm252.desc",
   "jp": "足元をドロにして移動できなくする",
-  "en": "",
+  "en": "Mud underfoot stops movement",
   "addr": "1b879e",
   "max": 33
  },
  {
   "id": "arm253.name",
   "jp": "アースフォース　ＣＬ２",
-  "en": "",
+  "en": "Earth Force CL2",
   "addr": "1b87fc",
   "max": 33
  },
  {
   "id": "arm253.desc",
   "jp": "水晶がガードする",
-  "en": "",
+  "en": "Crystals guard you",
   "addr": "1b881e",
   "max": 33
  },
  {
   "id": "arm254.name",
   "jp": "アースフォース　ＣＬ３",
-  "en": "",
+  "en": "Earth Force CL3",
   "addr": "1b887c",
   "max": 33
  },
  {
   "id": "arm254.desc",
   "jp": "宝石がガードする",
-  "en": "",
+  "en": "Jewels guard you",
   "addr": "1b889e",
   "max": 33
  },
  {
   "id": "arm255.name",
   "jp": "アースフォース　ＣＬ４",
-  "en": "",
+  "en": "Earth Force CL4",
   "addr": "1b88fc",
   "max": 33
  },
  {
   "id": "arm255.desc",
   "jp": "地震をおこし岩を落とす",
-  "en": "",
+  "en": "Shakes the earth, drops rocks",
   "addr": "1b891e",
   "max": 33
  },
  {
   "id": "arm256.name",
   "jp": "アースフォース　ＣＬ５",
-  "en": "",
+  "en": "Earth Force CL5",
   "addr": "1b897c",
   "max": 33
  },
  {
   "id": "arm256.desc",
   "jp": "地割れをおこしマグマが噴き出す",
-  "en": "",
+  "en": "Cracks the earth, magma erupts",
   "addr": "1b899e",
   "max": 33
  },
  {
   "id": "arm257.name",
   "jp": "ライトニングボルト　ＣＬ１",
-  "en": "",
+  "en": "Lightning Bolt CL1",
   "addr": "1b89fc",
   "max": 33
  },
  {
   "id": "arm257.desc",
   "jp": "プラズマ電気をぶつける",
-  "en": "",
+  "en": "Hurls plasma electricity",
   "addr": "1b8a1e",
   "max": 33
  },
  {
   "id": "arm258.name",
   "jp": "ライトニングボルト　ＣＬ２",
-  "en": "",
+  "en": "Lightning Bolt CL2",
   "addr": "1b8a7c",
   "max": 33
  },
  {
   "id": "arm258.desc",
   "jp": "雷をおとす",
-  "en": "",
+  "en": "Calls down lightning",
   "addr": "1b8a9e",
   "max": 33
  },
  {
   "id": "arm259.name",
   "jp": "ライトニングボルト　ＣＬ３",
-  "en": "",
+  "en": "Lightning Bolt CL3",
   "addr": "1b8afc",
   "max": 33
  },
  {
   "id": "arm259.desc",
   "jp": "大きな雷をおとす",
-  "en": "",
+  "en": "Calls down a big lightning bolt",
   "addr": "1b8b1e",
   "max": 33
  },
  {
   "id": "arm260.name",
   "jp": "ライトニングボルト　ＣＬ４",
-  "en": "",
+  "en": "Lightning Bolt CL4",
   "addr": "1b8b7c",
   "max": 33
  },
  {
   "id": "arm260.desc",
   "jp": "たくさんの雷をおとす",
-  "en": "",
+  "en": "Calls down lots of lightning",
   "addr": "1b8b9e",
   "max": 33
  },
  {
   "id": "arm261.name",
   "jp": "ライトニングボルト　ＣＬ５",
-  "en": "",
+  "en": "Lightning Bolt CL5",
   "addr": "1b8bfc",
   "max": 33
  },
  {
   "id": "arm261.desc",
   "jp": "巨大雷をおとしまわりに放電させる",
-  "en": "",
+  "en": "Giant bolt that sparks all around",
   "addr": "1b8c1e",
   "max": 33
  },
  {
   "id": "arm262.name",
   "jp": "スキャンリング",
-  "en": "",
+  "en": "Scan Ring",
   "addr": "1b8c7c",
   "max": 33
  },
  {
   "id": "arm262.desc",
   "jp": "使用可能な敵のセットÄＲＭを使う",
-  "en": "",
+  "en": "Uses an enemy's usable set ÄRM",
   "addr": "1b8c9e",
   "max": 33
  },
  {
   "id": "arm263.name",
   "jp": "ストックリング",
-  "en": "",
+  "en": "Stock Ring",
   "addr": "1b8cfc",
   "max": 33
  },
  {
   "id": "arm263.desc",
   "jp": "次に使うÄＲＭをセレクトに残せる",
-  "en": "",
+  "en": "Keeps your next ÄRM in Select",
   "addr": "1b8d1e",
   "max": 33
  },
  {
   "id": "arm264.name",
   "jp": "シャッフルリング",
-  "en": "",
+  "en": "Shuffle Ring",
   "addr": "1b8d7c",
   "max": 33
  },
  {
   "id": "arm264.desc",
   "jp": "デッキのÄＲＭをシャッフルできる",
-  "en": "",
+  "en": "Shuffles the ÄRM in your deck",
   "addr": "1b8d9e",
   "max": 33
  },
  {
   "id": "arm265.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8dfc",
   "max": 33
  },
  {
   "id": "arm265.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8e1e",
   "max": 33
  },
  {
   "id": "arm266.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8e7c",
   "max": 33
  },
  {
   "id": "arm266.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8e9e",
   "max": 33
  },
  {
   "id": "arm267.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8efc",
   "max": 33
  },
  {
   "id": "arm267.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8f1e",
   "max": 33
  },
  {
   "id": "arm268.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8f7c",
   "max": 33
  },
  {
   "id": "arm268.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8f9e",
   "max": 33
  },
  {
   "id": "arm269.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b8ffc",
   "max": 33
  },
  {
   "id": "arm269.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b901e",
   "max": 33
  },
  {
   "id": "arm270.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b907c",
   "max": 33
  },
  {
   "id": "arm270.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b909e",
   "max": 33
  },
  {
   "id": "arm271.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b90fc",
   "max": 33
  },
  {
   "id": "arm271.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b911e",
   "max": 33
  },
  {
   "id": "arm272.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b917c",
   "max": 33
  },
  {
   "id": "arm272.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b919e",
   "max": 33
  },
  {
   "id": "arm273.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b91fc",
   "max": 33
  },
  {
   "id": "arm273.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b921e",
   "max": 33
  },
  {
   "id": "arm274.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b927c",
   "max": 33
  },
  {
   "id": "arm274.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b929e",
   "max": 33
  },
  {
   "id": "arm275.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b92fc",
   "max": 33
  },
  {
   "id": "arm275.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b931e",
   "max": 33
  },
  {
   "id": "arm276.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b937c",
   "max": 33
  },
  {
   "id": "arm276.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b939e",
   "max": 33
  },
  {
   "id": "arm277.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b93fc",
   "max": 33
  },
  {
   "id": "arm277.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b941e",
   "max": 33
  },
  {
   "id": "arm278.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b947c",
   "max": 33
  },
  {
   "id": "arm278.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b949e",
   "max": 33
  },
  {
   "id": "arm279.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b94fc",
   "max": 33
  },
  {
   "id": "arm279.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b951e",
   "max": 33
  },
  {
   "id": "arm280.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b957c",
   "max": 33
  },
  {
   "id": "arm280.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b959e",
   "max": 33
  },
  {
   "id": "arm281.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b95fc",
   "max": 33
  },
  {
   "id": "arm281.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b961e",
   "max": 33
  },
  {
   "id": "arm282.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b967c",
   "max": 33
  },
  {
   "id": "arm282.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b969e",
   "max": 33
  },
  {
   "id": "arm283.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b96fc",
   "max": 33
  },
  {
   "id": "arm283.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b971e",
   "max": 33
  },
  {
   "id": "arm284.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b977c",
   "max": 33
  },
  {
   "id": "arm284.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b979e",
   "max": 33
  },
  {
   "id": "arm285.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b97fc",
   "max": 33
  },
  {
   "id": "arm285.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b981e",
   "max": 33
  },
  {
   "id": "arm286.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b987c",
   "max": 33
  },
  {
   "id": "arm286.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b989e",
   "max": 33
  },
  {
   "id": "arm287.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b98fc",
   "max": 33
  },
  {
   "id": "arm287.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b991e",
   "max": 33
  },
  {
   "id": "arm288.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b997c",
   "max": 33
  },
  {
   "id": "arm288.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b999e",
   "max": 33
  },
  {
   "id": "arm289.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b99fc",
   "max": 33
  },
  {
   "id": "arm289.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9a1e",
   "max": 33
  },
  {
   "id": "arm290.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9a7c",
   "max": 33
  },
  {
   "id": "arm290.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9a9e",
   "max": 33
  },
  {
   "id": "arm291.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9afc",
   "max": 33
  },
  {
   "id": "arm291.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9b1e",
   "max": 33
  },
  {
   "id": "arm292.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9b7c",
   "max": 33
  },
  {
   "id": "arm292.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9b9e",
   "max": 33
  },
  {
   "id": "arm293.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9bfc",
   "max": 33
  },
  {
   "id": "arm293.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9c1e",
   "max": 33
  },
  {
   "id": "arm294.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9c7c",
   "max": 33
  },
  {
   "id": "arm294.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9c9e",
   "max": 33
  },
  {
   "id": "arm295.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9cfc",
   "max": 33
  },
  {
   "id": "arm295.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9d1e",
   "max": 33
  },
  {
   "id": "arm296.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9d7c",
   "max": 33
  },
  {
   "id": "arm296.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9d9e",
   "max": 33
  },
  {
   "id": "arm297.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9dfc",
   "max": 33
  },
  {
   "id": "arm297.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9e1e",
   "max": 33
  },
  {
   "id": "arm298.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9e7c",
   "max": 33
  },
  {
   "id": "arm298.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9e9e",
   "max": 33
  },
  {
   "id": "arm299.name",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9efc",
   "max": 33
  },
  {
   "id": "arm299.desc",
   "jp": "ダミー",
-  "en": "",
+  "en": "Dummy",
   "addr": "1b9f1e",
   "max": 33
  },
  {
   "id": "arm300.name",
   "jp": "ビッグバッボ",
-  "en": "",
+  "en": "Big Babbo",
   "addr": "1b9f7c",
   "max": 33
  },
  {
   "id": "arm300.desc",
   "jp": "巨大化したバッボを前にふりおろす",
-  "en": "",
+  "en": "Swings a giant Babbo down ahead",
   "addr": "1b9f9e",
   "max": 33
  },
  {
   "id": "arm301.name",
   "jp": "ハンマーアーム",
-  "en": "",
+  "en": "Hammer ÄRM",
   "addr": "1b9ffc",
   "max": 33
  },
  {
   "id": "arm301.desc",
   "jp": "腕を鉄球にしてアタック",
-  "en": "",
+  "en": "Attacks with an iron-ball arm",
   "addr": "1ba01e",
   "max": 33
  },
  {
   "id": "arm302.name",
   "jp": "ダガーアーム",
-  "en": "",
+  "en": "Dagger ÄRM",
   "addr": "1ba07c",
   "max": 33
  },
  {
   "id": "arm302.desc",
   "jp": "腕を剣にして斬る",
-  "en": "",
+  "en": "Turns arm into a blade, slashes",
   "addr": "1ba09e",
   "max": 33
  },
  {
   "id": "arm303.name",
   "jp": "バブルランチャー",
-  "en": "",
+  "en": "Bubble Launcher",
   "addr": "1ba0fc",
   "max": 33
  },
  {
   "id": "arm303.desc",
   "jp": "シャボン玉ばくだんを発射する",
-  "en": "",
+  "en": "Fires soap-bubble bombs",
   "addr": "1ba11e",
   "max": 33
  },
  {
   "id": "arm304.name",
   "jp": "ガーゴイル　ＣＬ４",
-  "en": "",
+  "en": "Gargoyle CL4",
   "addr": "1ba17c",
   "max": 33
  },
  {
   "id": "arm304.desc",
   "jp": "ガーゴイルのパンチがさくれつ",
-  "en": "",
+  "en": "Gargoyle lands a mighty punch",
   "addr": "1ba19e",
   "max": 33
  },
  {
   "id": "arm305.name",
   "jp": "ガーゴイル　ＣＬ５",
-  "en": "",
+  "en": "Gargoyle CL5",
   "addr": "1ba1fc",
   "max": 33
  },
  {
   "id": "arm305.desc",
   "jp": "ガーゴイルがビームをはなつ",
-  "en": "",
+  "en": "Gargoyle fires a beam",
   "addr": "1ba21e",
   "max": 33
  },
  {
   "id": "arm306.name",
   "jp": "ガーゴイル　ＳＰ",
-  "en": "",
+  "en": "Gargoyle SP",
   "addr": "1ba27c",
   "max": 33
  },
  {
   "id": "arm306.desc",
   "jp": "すごいガーゴイル！",
-  "en": "",
+  "en": "One awesome Gargoyle!",
   "addr": "1ba29e",
   "max": 33
  },
  {
   "id": "arm307.name",
   "jp": "アリス",
-  "en": "",
+  "en": "Alice",
   "addr": "1ba2fc",
   "max": 33
  },
  {
   "id": "arm307.desc",
   "jp": "ダークネス効果を消して体力回復",
-  "en": "",
+  "en": "Clears Darkness effects, heals HP",
   "addr": "1ba31e",
   "max": 33
  },
  {
   "id": "arm308.name",
   "jp": "ガトリングバッボ",
-  "en": "",
+  "en": "Gatling Babbo",
   "addr": "1ba37c",
   "max": 33
  },
  {
   "id": "arm308.desc",
   "jp": "小さなバッボを連射する",
-  "en": "",
+  "en": "Rapid-fires little Babbos",
   "addr": "1ba39e",
   "max": 33
  },
  {
   "id": "arm309.name",
   "jp": "アーマーストーン　ＣＬ１",
-  "en": "",
+  "en": "Armor Stone CL1",
   "addr": "1ba3fc",
   "max": 33
  },
  {
   "id": "arm309.desc",
   "jp": "リングアーマーの一撃",
-  "en": "",
+  "en": "A single Ring Armor strike",
   "addr": "1ba41e",
   "max": 33
  },
  {
   "id": "arm310.name",
   "jp": "アーマーストーン　ＣＬ２",
-  "en": "",
+  "en": "Armor Stone CL2",
   "addr": "1ba47c",
   "max": 33
  },
  {
   "id": "arm310.desc",
   "jp": "リングアーマーの連続攻撃",
-  "en": "",
+  "en": "Ring Armor's combo attack",
   "addr": "1ba49e",
   "max": 33
  },
  {
   "id": "arm311.name",
   "jp": "５ダガーストーン",
-  "en": "",
+  "en": "5 Dagger Stone",
   "addr": "1ba4fc",
   "max": 33
  },
  {
   "id": "arm311.desc",
   "jp": "５本のダガーを前に飛ばす",
-  "en": "",
+  "en": "Fires 5 daggers forward",
   "addr": "1ba51e",
   "max": 33
  },
  {
   "id": "arm312.name",
   "jp": "１０ダガーストーン",
-  "en": "",
+  "en": "10 Dagger Stone",
   "addr": "1ba57c",
   "max": 33
  },
  {
   "id": "arm312.desc",
   "jp": "１０本のダガーを前に飛ばす",
-  "en": "",
+  "en": "Fires 10 daggers forward",
   "addr": "1ba59e",
   "max": 33
  },
  {
   "id": "arm313.name",
   "jp": "２０ダガーストーン",
-  "en": "",
+  "en": "20 Dagger Stone",
   "addr": "1ba5fc",
   "max": 33
  },
  {
   "id": "arm313.desc",
   "jp": "２０本のダガーを前後に飛ばす",
-  "en": "",
+  "en": "Fires 20 daggers front and back",
   "addr": "1ba61e",
   "max": 33
  },
  {
   "id": "arm314.name",
   "jp": "ブレードストーン",
-  "en": "",
+  "en": "Blade Stone",
   "addr": "1ba67c",
   "max": 33
  },
  {
   "id": "arm314.desc",
   "jp": "大きな剣が敵を斬る",
-  "en": "",
+  "en": "A huge sword slashes the enemy",
   "addr": "1ba69e",
   "max": 33
  },
  {
   "id": "arm315.name",
   "jp": "メルトアイスストーン",
-  "en": "",
+  "en": "Melt Ice Stone",
   "addr": "1ba6fc",
   "max": 33
  },
  {
   "id": "arm315.desc",
   "jp": "熱い空気を広げる",
-  "en": "",
+  "en": "Spreads hot air around",
   "addr": "1ba71e",
   "max": 33
  },
  {
   "id": "arm316.name",
   "jp": "癒しの天使石　ＣＬ１",
-  "en": "",
+  "en": "Healing Angel Stone CL1",
   "addr": "1ba77c",
   "max": 33
  },
  {
   "id": "arm316.desc",
   "jp": "使用者の体力を少し回復する",
-  "en": "",
+  "en": "Heals the user a little",
   "addr": "1ba79e",
   "max": 33
  },
  {
   "id": "arm317.name",
   "jp": "癒しの天使石　ＣＬ２",
-  "en": "",
+  "en": "Healing Angel Stone CL2",
   "addr": "1ba7fc",
   "max": 33
  },
  {
   "id": "arm317.desc",
   "jp": "使用者の体力をかなり回復する",
-  "en": "",
+  "en": "Heals the user a lot",
   "addr": "1ba81e",
   "max": 33
  },
  {
   "id": "arm318.name",
   "jp": "パワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Powerstone CL1",
   "addr": "1ba87c",
   "max": 33
  },
  {
   "id": "arm318.desc",
   "jp": "腕力がすこし強くなる",
-  "en": "",
+  "en": "Raises strength a little",
   "addr": "1ba89e",
   "max": 33
  },
  {
   "id": "arm319.name",
   "jp": "パワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Powerstone CL2",
   "addr": "1ba8fc",
   "max": 33
  },
  {
   "id": "arm319.desc",
   "jp": "腕力がかなり強くなる",
-  "en": "",
+  "en": "Raises strength a lot",
   "addr": "1ba91e",
   "max": 33
  },
  {
   "id": "arm320.name",
   "jp": "パワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Powerstone CL3",
   "addr": "1ba97c",
   "max": 33
  },
  {
   "id": "arm320.desc",
   "jp": "腕力がすごく強くなる",
-  "en": "",
+  "en": "Raises strength hugely",
   "addr": "1ba99e",
   "max": 33
  },
  {
   "id": "arm321.name",
   "jp": "ナイフストーン",
-  "en": "",
+  "en": "Knife Stone",
   "addr": "1ba9fc",
   "max": 33
  },
  {
   "id": "arm321.desc",
   "jp": "前向きにナイフで刺す",
-  "en": "",
+  "en": "Stabs straight ahead with a knife",
   "addr": "1baa1e",
   "max": 33
  },
  {
   "id": "arm322.name",
   "jp": "クラブストーン",
-  "en": "",
+  "en": "Club Stone",
   "addr": "1baa7c",
   "max": 33
  },
  {
   "id": "arm322.desc",
   "jp": "前向きにこん棒でなぐる",
-  "en": "",
+  "en": "Swings a club straight ahead",
   "addr": "1baa9e",
   "max": 33
  },
  {
   "id": "arm323.name",
   "jp": "ソードストーン",
-  "en": "",
+  "en": "Sword Stone",
   "addr": "1baafc",
   "max": 33
  },
  {
   "id": "arm323.desc",
   "jp": "前向きに剣で斬る",
-  "en": "",
+  "en": "Sword slash straight ahead",
   "addr": "1bab1e",
   "max": 33
  },
  {
   "id": "arm324.name",
   "jp": "アックスストーン",
-  "en": "",
+  "en": "Axe Stone",
   "addr": "1bab7c",
   "max": 33
  },
  {
   "id": "arm324.desc",
   "jp": "前向きにオノをふりおろす",
-  "en": "",
+  "en": "Swings an axe down ahead",
   "addr": "1bab9e",
   "max": 33
  },
  {
   "id": "arm325.name",
   "jp": "カタナストーン",
-  "en": "",
+  "en": "Katana Stone",
   "addr": "1babfc",
   "max": 33
  },
  {
   "id": "arm325.desc",
   "jp": "前向きに日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a katana",
   "addr": "1bac1e",
   "max": 33
  },
  {
   "id": "arm326.name",
   "jp": "ウォーターナイフストーン",
-  "en": "",
+  "en": "Water Knife Stone",
   "addr": "1bac7c",
   "max": 33
  },
  {
   "id": "arm326.desc",
   "jp": "前向きに水属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Water knife",
   "addr": "1bac9e",
   "max": 33
  },
  {
   "id": "arm327.name",
   "jp": "ウォータークラブストーン",
-  "en": "",
+  "en": "Water Club Stone",
   "addr": "1bacfc",
   "max": 33
  },
  {
   "id": "arm327.desc",
   "jp": "前向きに水属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Water club",
   "addr": "1bad1e",
   "max": 33
  },
  {
   "id": "arm328.name",
   "jp": "ウォーターソードストーン",
-  "en": "",
+  "en": "Water Sword Stone",
   "addr": "1bad7c",
   "max": 33
  },
  {
   "id": "arm328.desc",
   "jp": "前向きに水属性の剣で斬る",
-  "en": "",
+  "en": "Water sword slash ahead",
   "addr": "1bad9e",
   "max": 33
  },
  {
   "id": "arm329.name",
   "jp": "ウォーターアックスストーン",
-  "en": "",
+  "en": "Water Axe Stone",
   "addr": "1badfc",
   "max": 33
  },
  {
   "id": "arm329.desc",
   "jp": "前向きに水属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Water axe down ahead",
   "addr": "1bae1e",
   "max": 33
  },
  {
   "id": "arm330.name",
   "jp": "ウォーターカタナストーン",
-  "en": "",
+  "en": "Water Katana Stone",
   "addr": "1bae7c",
   "max": 33
  },
  {
   "id": "arm330.desc",
   "jp": "前向きに水属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Water katana",
   "addr": "1bae9e",
   "max": 33
  },
  {
   "id": "arm331.name",
   "jp": "ファイアナイフストーン",
-  "en": "",
+  "en": "Fire Knife Stone",
   "addr": "1baefc",
   "max": 33
  },
  {
   "id": "arm331.desc",
   "jp": "前向きに火属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Fire knife",
   "addr": "1baf1e",
   "max": 33
  },
  {
   "id": "arm332.name",
   "jp": "ファイアクラブストーン",
-  "en": "",
+  "en": "Fire Club Stone",
   "addr": "1baf7c",
   "max": 33
  },
  {
   "id": "arm332.desc",
   "jp": "前向きに火属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Fire club",
   "addr": "1baf9e",
   "max": 33
  },
  {
   "id": "arm333.name",
   "jp": "ファイアソードストーン",
-  "en": "",
+  "en": "Fire Sword Stone",
   "addr": "1baffc",
   "max": 33
  },
  {
   "id": "arm333.desc",
   "jp": "前向きに火属性の剣で斬る",
-  "en": "",
+  "en": "Fire sword slash ahead",
   "addr": "1bb01e",
   "max": 33
  },
  {
   "id": "arm334.name",
   "jp": "ファイアアックスストーン",
-  "en": "",
+  "en": "Fire Axe Stone",
   "addr": "1bb07c",
   "max": 33
  },
  {
   "id": "arm334.desc",
   "jp": "前向きに火属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Fire axe down ahead",
   "addr": "1bb09e",
   "max": 33
  },
  {
   "id": "arm335.name",
   "jp": "ファイアカタナストーン",
-  "en": "",
+  "en": "Fire Katana Stone",
   "addr": "1bb0fc",
   "max": 33
  },
  {
   "id": "arm335.desc",
   "jp": "前向きに火属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Fire katana",
   "addr": "1bb11e",
   "max": 33
  },
  {
   "id": "arm336.name",
   "jp": "リーフナイフストーン",
-  "en": "",
+  "en": "Leaf Knife Stone",
   "addr": "1bb17c",
   "max": 33
  },
  {
   "id": "arm336.desc",
   "jp": "前向きに木属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Leaf knife",
   "addr": "1bb19e",
   "max": 33
  },
  {
   "id": "arm337.name",
   "jp": "リーフクラブストーン",
-  "en": "",
+  "en": "Leaf Club Stone",
   "addr": "1bb1fc",
   "max": 33
  },
  {
   "id": "arm337.desc",
   "jp": "前向きに木属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Leaf club",
   "addr": "1bb21e",
   "max": 33
  },
  {
   "id": "arm338.name",
   "jp": "リーフソードストーン",
-  "en": "",
+  "en": "Leaf Sword Stone",
   "addr": "1bb27c",
   "max": 33
  },
  {
   "id": "arm338.desc",
   "jp": "前向きに木属性の剣で斬る",
-  "en": "",
+  "en": "Leaf sword slash ahead",
   "addr": "1bb29e",
   "max": 33
  },
  {
   "id": "arm339.name",
   "jp": "リーフアックスストーン",
-  "en": "",
+  "en": "Leaf Axe Stone",
   "addr": "1bb2fc",
   "max": 33
  },
  {
   "id": "arm339.desc",
   "jp": "前向きに木属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Leaf axe down ahead",
   "addr": "1bb31e",
   "max": 33
  },
  {
   "id": "arm340.name",
   "jp": "リーフカタナストーン",
-  "en": "",
+  "en": "Leaf Katana Stone",
   "addr": "1bb37c",
   "max": 33
  },
  {
   "id": "arm340.desc",
   "jp": "前向きに木属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Leaf katana",
   "addr": "1bb39e",
   "max": 33
  },
  {
   "id": "arm341.name",
   "jp": "ウィンドナイフストーン",
-  "en": "",
+  "en": "Wind Knife Stone",
   "addr": "1bb3fc",
   "max": 33
  },
  {
   "id": "arm341.desc",
   "jp": "前向きに風属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Wind knife",
   "addr": "1bb41e",
   "max": 33
  },
  {
   "id": "arm342.name",
   "jp": "ウィンドクラブストーン",
-  "en": "",
+  "en": "Wind Club Stone",
   "addr": "1bb47c",
   "max": 33
  },
  {
   "id": "arm342.desc",
   "jp": "前向きに風属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Wind club",
   "addr": "1bb49e",
   "max": 33
  },
  {
   "id": "arm343.name",
   "jp": "ウィンドソードストーン",
-  "en": "",
+  "en": "Wind Sword Stone",
   "addr": "1bb4fc",
   "max": 33
  },
  {
   "id": "arm343.desc",
   "jp": "前向きに風属性の剣で斬る",
-  "en": "",
+  "en": "Wind sword slash ahead",
   "addr": "1bb51e",
   "max": 33
  },
  {
   "id": "arm344.name",
   "jp": "ウィンドアックスストーン",
-  "en": "",
+  "en": "Wind Axe Stone",
   "addr": "1bb57c",
   "max": 33
  },
  {
   "id": "arm344.desc",
   "jp": "前向きに風属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Wind axe down ahead",
   "addr": "1bb59e",
   "max": 33
  },
  {
   "id": "arm345.name",
   "jp": "ウィンドカタナストーン",
-  "en": "",
+  "en": "Wind Katana Stone",
   "addr": "1bb5fc",
   "max": 33
  },
  {
   "id": "arm345.desc",
   "jp": "前向きに風属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Wind katana",
   "addr": "1bb61e",
   "max": 33
  },
  {
   "id": "arm346.name",
   "jp": "アースナイフストーン",
-  "en": "",
+  "en": "Earth Knife Stone",
   "addr": "1bb67c",
   "max": 33
  },
  {
   "id": "arm346.desc",
   "jp": "前向きに地属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with an Earth knife",
   "addr": "1bb69e",
   "max": 33
  },
  {
   "id": "arm347.name",
   "jp": "アースクラブストーン",
-  "en": "",
+  "en": "Earth Club Stone",
   "addr": "1bb6fc",
   "max": 33
  },
  {
   "id": "arm347.desc",
   "jp": "前向きに地属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with an Earth club",
   "addr": "1bb71e",
   "max": 33
  },
  {
   "id": "arm348.name",
   "jp": "アースソードストーン",
-  "en": "",
+  "en": "Earth Sword Stone",
   "addr": "1bb77c",
   "max": 33
  },
  {
   "id": "arm348.desc",
   "jp": "前向きに地属性の剣で斬る",
-  "en": "",
+  "en": "Earth sword slash ahead",
   "addr": "1bb79e",
   "max": 33
  },
  {
   "id": "arm349.name",
   "jp": "アースアックスストーン",
-  "en": "",
+  "en": "Earth Axe Stone",
   "addr": "1bb7fc",
   "max": 33
  },
  {
   "id": "arm349.desc",
   "jp": "前向きに地属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings an Earth axe down ahead",
   "addr": "1bb81e",
   "max": 33
  },
  {
   "id": "arm350.name",
   "jp": "アースカタナストーン",
-  "en": "",
+  "en": "Earth Katana Stone",
   "addr": "1bb87c",
   "max": 33
  },
  {
   "id": "arm350.desc",
   "jp": "前向きに地属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with an Earth katana",
   "addr": "1bb89e",
   "max": 33
  },
  {
   "id": "arm351.name",
   "jp": "サンダーナイフストーン",
-  "en": "",
+  "en": "Thunder Knife Stone",
   "addr": "1bb8fc",
   "max": 33
  },
  {
   "id": "arm351.desc",
   "jp": "前向きに雷属性のナイフで刺す",
-  "en": "",
+  "en": "Stabs ahead with a Thunder knife",
   "addr": "1bb91e",
   "max": 33
  },
  {
   "id": "arm352.name",
   "jp": "サンダークラブストーン",
-  "en": "",
+  "en": "Thunder Club Stone",
   "addr": "1bb97c",
   "max": 33
  },
  {
   "id": "arm352.desc",
   "jp": "前向きに雷属性のこん棒でなぐる",
-  "en": "",
+  "en": "Bashes ahead with a Thunder club",
   "addr": "1bb99e",
   "max": 33
  },
  {
   "id": "arm353.name",
   "jp": "サンダーソードストーン",
-  "en": "",
+  "en": "Thunder Sword Stone",
   "addr": "1bb9fc",
   "max": 33
  },
  {
   "id": "arm353.desc",
   "jp": "前向きに雷属性の剣で斬る",
-  "en": "",
+  "en": "Thunder sword slash ahead",
   "addr": "1bba1e",
   "max": 33
  },
  {
   "id": "arm354.name",
   "jp": "サンダーアックスストーン",
-  "en": "",
+  "en": "Thunder Axe Stone",
   "addr": "1bba7c",
   "max": 33
  },
  {
   "id": "arm354.desc",
   "jp": "前向きに雷属性のオノをふりおろす",
-  "en": "",
+  "en": "Swings a Thunder axe down ahead",
   "addr": "1bba9e",
   "max": 33
  },
  {
   "id": "arm355.name",
   "jp": "サンダーカタナストーン",
-  "en": "",
+  "en": "Thunder Katana Stone",
   "addr": "1bbafc",
   "max": 33
  },
  {
   "id": "arm355.desc",
   "jp": "前向きに雷属性の日本刀で斬る",
-  "en": "",
+  "en": "Cuts ahead with a Thunder katana",
   "addr": "1bbb1e",
   "max": 33
  },
  {
   "id": "arm356.name",
   "jp": "ウォーターパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Water Powerstone CL1",
   "addr": "1bbb7c",
   "max": 33
  },
  {
   "id": "arm356.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1bbb9e",
   "max": 33
  },
  {
   "id": "arm357.name",
   "jp": "ウォーターパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Water Powerstone CL2",
   "addr": "1bbbfc",
   "max": 33
  },
  {
   "id": "arm357.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1bbc1e",
   "max": 33
  },
  {
   "id": "arm358.name",
   "jp": "ウォーターパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Water Powerstone CL3",
   "addr": "1bbc7c",
   "max": 33
  },
  {
   "id": "arm358.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1bbc9e",
   "max": 33
  },
  {
   "id": "arm359.name",
   "jp": "ウォーターパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Water Powerstone CL4",
   "addr": "1bbcfc",
   "max": 33
  },
  {
   "id": "arm359.desc",
   "jp": "攻撃力を増やして水属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Water type",
   "addr": "1bbd1e",
   "max": 33
  },
  {
   "id": "arm360.name",
   "jp": "ファイアパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Fire Powerstone CL1",
   "addr": "1bbd7c",
   "max": 33
  },
  {
   "id": "arm360.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1bbd9e",
   "max": 33
  },
  {
   "id": "arm361.name",
   "jp": "ファイアパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Fire Powerstone CL2",
   "addr": "1bbdfc",
   "max": 33
  },
  {
   "id": "arm361.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1bbe1e",
   "max": 33
  },
  {
   "id": "arm362.name",
   "jp": "ファイアパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Fire Powerstone CL3",
   "addr": "1bbe7c",
   "max": 33
  },
  {
   "id": "arm362.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1bbe9e",
   "max": 33
  },
  {
   "id": "arm363.name",
   "jp": "ファイアパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Fire Powerstone CL4",
   "addr": "1bbefc",
   "max": 33
  },
  {
   "id": "arm363.desc",
   "jp": "攻撃力を増やして火属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Fire type",
   "addr": "1bbf1e",
   "max": 33
  },
  {
   "id": "arm364.name",
   "jp": "リーフパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Leaf Powerstone CL1",
   "addr": "1bbf7c",
   "max": 33
  },
  {
   "id": "arm364.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1bbf9e",
   "max": 33
  },
  {
   "id": "arm365.name",
   "jp": "リーフパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Leaf Powerstone CL2",
   "addr": "1bbffc",
   "max": 33
  },
  {
   "id": "arm365.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1bc01e",
   "max": 33
  },
  {
   "id": "arm366.name",
   "jp": "リーフパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Leaf Powerstone CL3",
   "addr": "1bc07c",
   "max": 33
  },
  {
   "id": "arm366.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1bc09e",
   "max": 33
  },
  {
   "id": "arm367.name",
   "jp": "リーフパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Leaf Powerstone CL4",
   "addr": "1bc0fc",
   "max": 33
  },
  {
   "id": "arm367.desc",
   "jp": "攻撃力を増やして木属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Leaf type",
   "addr": "1bc11e",
   "max": 33
  },
  {
   "id": "arm368.name",
   "jp": "ウィンドパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Wind Powerstone CL1",
   "addr": "1bc17c",
   "max": 33
  },
  {
   "id": "arm368.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1bc19e",
   "max": 33
  },
  {
   "id": "arm369.name",
   "jp": "ウィンドパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Wind Powerstone CL2",
   "addr": "1bc1fc",
   "max": 33
  },
  {
   "id": "arm369.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1bc21e",
   "max": 33
  },
  {
   "id": "arm370.name",
   "jp": "ウィンドパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Wind Powerstone CL3",
   "addr": "1bc27c",
   "max": 33
  },
  {
   "id": "arm370.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1bc29e",
   "max": 33
  },
  {
   "id": "arm371.name",
   "jp": "ウィンドパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Wind Powerstone CL4",
   "addr": "1bc2fc",
   "max": 33
  },
  {
   "id": "arm371.desc",
   "jp": "攻撃力を増やして風属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Wind type",
   "addr": "1bc31e",
   "max": 33
  },
  {
   "id": "arm372.name",
   "jp": "アースパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Earth Powerstone CL1",
   "addr": "1bc37c",
   "max": 33
  },
  {
   "id": "arm372.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1bc39e",
   "max": 33
  },
  {
   "id": "arm373.name",
   "jp": "アースパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Earth Powerstone CL2",
   "addr": "1bc3fc",
   "max": 33
  },
  {
   "id": "arm373.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1bc41e",
   "max": 33
  },
  {
   "id": "arm374.name",
   "jp": "アースパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Earth Powerstone CL3",
   "addr": "1bc47c",
   "max": 33
  },
  {
   "id": "arm374.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1bc49e",
   "max": 33
  },
  {
   "id": "arm375.name",
   "jp": "アースパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Earth Powerstone CL4",
   "addr": "1bc4fc",
   "max": 33
  },
  {
   "id": "arm375.desc",
   "jp": "攻撃力を増やして地属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Earth type",
   "addr": "1bc51e",
   "max": 33
  },
  {
   "id": "arm376.name",
   "jp": "サンダーパワーストーン　ＣＬ１",
-  "en": "",
+  "en": "Thunder Powerstone CL1",
   "addr": "1bc57c",
   "max": 33
  },
  {
   "id": "arm376.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1bc59e",
   "max": 33
  },
  {
   "id": "arm377.name",
   "jp": "サンダーパワーストーン　ＣＬ２",
-  "en": "",
+  "en": "Thunder Powerstone CL2",
   "addr": "1bc5fc",
   "max": 33
  },
  {
   "id": "arm377.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1bc61e",
   "max": 33
  },
  {
   "id": "arm378.name",
   "jp": "サンダーパワーストーン　ＣＬ３",
-  "en": "",
+  "en": "Thunder Powerstone CL3",
   "addr": "1bc67c",
   "max": 33
  },
  {
   "id": "arm378.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1bc69e",
   "max": 33
  },
  {
   "id": "arm379.name",
   "jp": "サンダーパワーストーン　ＣＬ４",
-  "en": "",
+  "en": "Thunder Powerstone CL4",
   "addr": "1bc6fc",
   "max": 33
  },
  {
   "id": "arm379.desc",
   "jp": "攻撃力を増やして雷属性にチェンジ",
-  "en": "",
+  "en": "Attack up +Thunder type",
   "addr": "1bc71e",
   "max": 33
  },
  {
   "id": "arm380.name",
   "jp": "ウォーターコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Water Coat Stone CL1",
   "addr": "1bc77c",
   "max": 33
  },
  {
   "id": "arm380.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1bc79e",
   "max": 33
  },
  {
   "id": "arm381.name",
   "jp": "ウォーターコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Water Coat Stone CL2",
   "addr": "1bc7fc",
   "max": 33
  },
  {
   "id": "arm381.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1bc81e",
   "max": 33
  },
  {
   "id": "arm382.name",
   "jp": "ウォーターコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Water Coat Stone CL3",
   "addr": "1bc87c",
   "max": 33
  },
  {
   "id": "arm382.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1bc89e",
   "max": 33
  },
  {
   "id": "arm383.name",
   "jp": "ウォーターコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Water Coat Stone CL4",
   "addr": "1bc8fc",
   "max": 33
  },
  {
   "id": "arm383.desc",
   "jp": "防御力を高めて水属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Water type",
   "addr": "1bc91e",
   "max": 33
  },
  {
   "id": "arm384.name",
   "jp": "ファイアコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Fire Coat Stone CL1",
   "addr": "1bc97c",
   "max": 33
  },
  {
   "id": "arm384.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1bc99e",
   "max": 33
  },
  {
   "id": "arm385.name",
   "jp": "ファイアコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Fire Coat Stone CL2",
   "addr": "1bc9fc",
   "max": 33
  },
  {
   "id": "arm385.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1bca1e",
   "max": 33
  },
  {
   "id": "arm386.name",
   "jp": "ファイアコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Fire Coat Stone CL3",
   "addr": "1bca7c",
   "max": 33
  },
  {
   "id": "arm386.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1bca9e",
   "max": 33
  },
  {
   "id": "arm387.name",
   "jp": "ファイアコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Fire Coat Stone CL4",
   "addr": "1bcafc",
   "max": 33
  },
  {
   "id": "arm387.desc",
   "jp": "防御力を高めて火属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Fire type",
   "addr": "1bcb1e",
   "max": 33
  },
  {
   "id": "arm388.name",
   "jp": "リーフコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Leaf Coat Stone CL1",
   "addr": "1bcb7c",
   "max": 33
  },
  {
   "id": "arm388.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1bcb9e",
   "max": 33
  },
  {
   "id": "arm389.name",
   "jp": "リーフコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Leaf Coat Stone CL2",
   "addr": "1bcbfc",
   "max": 33
  },
  {
   "id": "arm389.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1bcc1e",
   "max": 33
  },
  {
   "id": "arm390.name",
   "jp": "リーフコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Leaf Coat Stone CL3",
   "addr": "1bcc7c",
   "max": 33
  },
  {
   "id": "arm390.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1bcc9e",
   "max": 33
  },
  {
   "id": "arm391.name",
   "jp": "リーフコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Leaf Coat Stone CL4",
   "addr": "1bccfc",
   "max": 33
  },
  {
   "id": "arm391.desc",
   "jp": "防御力を高めて木属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Leaf type",
   "addr": "1bcd1e",
   "max": 33
  },
  {
   "id": "arm392.name",
   "jp": "ウィンドコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Wind Coat Stone CL1",
   "addr": "1bcd7c",
   "max": 33
  },
  {
   "id": "arm392.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1bcd9e",
   "max": 33
  },
  {
   "id": "arm393.name",
   "jp": "ウィンドコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Wind Coat Stone CL2",
   "addr": "1bcdfc",
   "max": 33
  },
  {
   "id": "arm393.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1bce1e",
   "max": 33
  },
  {
   "id": "arm394.name",
   "jp": "ウィンドコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Wind Coat Stone CL3",
   "addr": "1bce7c",
   "max": 33
  },
  {
   "id": "arm394.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1bce9e",
   "max": 33
  },
  {
   "id": "arm395.name",
   "jp": "ウィンドコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Wind Coat Stone CL4",
   "addr": "1bcefc",
   "max": 33
  },
  {
   "id": "arm395.desc",
   "jp": "防御力を高めて風属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Wind type",
   "addr": "1bcf1e",
   "max": 33
  },
  {
   "id": "arm396.name",
   "jp": "アースコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Earth Coat Stone CL1",
   "addr": "1bcf7c",
   "max": 33
  },
  {
   "id": "arm396.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1bcf9e",
   "max": 33
  },
  {
   "id": "arm397.name",
   "jp": "アースコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Earth Coat Stone CL2",
   "addr": "1bcffc",
   "max": 33
  },
  {
   "id": "arm397.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1bd01e",
   "max": 33
  },
  {
   "id": "arm398.name",
   "jp": "アースコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Earth Coat Stone CL3",
   "addr": "1bd07c",
   "max": 33
  },
  {
   "id": "arm398.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1bd09e",
   "max": 33
  },
  {
   "id": "arm399.name",
   "jp": "アースコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Earth Coat Stone CL4",
   "addr": "1bd0fc",
   "max": 33
  },
  {
   "id": "arm399.desc",
   "jp": "防御力を高めて地属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Earth type",
   "addr": "1bd11e",
   "max": 33
  },
  {
   "id": "arm400.name",
   "jp": "サンダーコートストーン　ＣＬ１",
-  "en": "",
+  "en": "Thunder Coat Stone CL1",
   "addr": "1bd17c",
   "max": 33
  },
  {
   "id": "arm400.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1bd19e",
   "max": 33
  },
  {
   "id": "arm401.name",
   "jp": "サンダーコートストーン　ＣＬ２",
-  "en": "",
+  "en": "Thunder Coat Stone CL2",
   "addr": "1bd1fc",
   "max": 33
  },
  {
   "id": "arm401.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1bd21e",
   "max": 33
  },
  {
   "id": "arm402.name",
   "jp": "サンダーコートストーン　ＣＬ３",
-  "en": "",
+  "en": "Thunder Coat Stone CL3",
   "addr": "1bd27c",
   "max": 33
  },
  {
   "id": "arm402.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1bd29e",
   "max": 33
  },
  {
   "id": "arm403.name",
   "jp": "サンダーコートストーン　ＣＬ４",
-  "en": "",
+  "en": "Thunder Coat Stone CL4",
   "addr": "1bd2fc",
   "max": 33
  },
  {
   "id": "arm403.desc",
   "jp": "防御力を高めて雷属性にチェンジ",
-  "en": "",
+  "en": "Defense up +Thunder type",
   "addr": "1bd31e",
   "max": 33
  },
  {
   "id": "arm404.name",
   "jp": "フリーズストーン　ＣＬ１",
-  "en": "",
+  "en": "Freeze Stone CL1",
   "addr": "1bd37c",
   "max": 33
  },
  {
   "id": "arm404.desc",
   "jp": "ＣＬ１のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL1 ÄRM",
   "addr": "1bd39e",
   "max": 33
  },
  {
   "id": "arm405.name",
   "jp": "フリーズストーン　ＣＬ２",
-  "en": "",
+  "en": "Freeze Stone CL2",
   "addr": "1bd3fc",
   "max": 33
  },
  {
   "id": "arm405.desc",
   "jp": "ＣＬ２以下のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL2-or-lower ÄRM",
   "addr": "1bd41e",
   "max": 33
  },
  {
   "id": "arm406.name",
   "jp": "フリーズストーン　ＣＬ３",
-  "en": "",
+  "en": "Freeze Stone CL3",
   "addr": "1bd47c",
   "max": 33
  },
  {
   "id": "arm406.desc",
   "jp": "ＣＬ３以下のÄＲＭを使えなくする",
-  "en": "",
+  "en": "Blocks use of CL3-or-lower ÄRM",
   "addr": "1bd49e",
   "max": 33
  },
  {
   "id": "arm407.name",
   "jp": "カウントダウンストーン　ＣＬ１",
-  "en": "",
+  "en": "Countdown Stone CL1",
   "addr": "1bd4fc",
   "max": 33
  },
  {
   "id": "arm407.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1bd51e",
   "max": 33
  },
  {
   "id": "arm408.name",
   "jp": "カウントダウンストーン　ＣＬ２",
-  "en": "",
+  "en": "Countdown Stone CL2",
   "addr": "1bd57c",
   "max": 33
  },
  {
   "id": "arm408.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1bd59e",
   "max": 33
  },
  {
   "id": "arm409.name",
   "jp": "カウントダウンストーン　ＣＬ３",
-  "en": "",
+  "en": "Countdown Stone CL3",
   "addr": "1bd5fc",
   "max": 33
  },
  {
   "id": "arm409.desc",
   "jp": "パラメータを減らすカウントダウン",
-  "en": "",
+  "en": "A countdown that lowers stats",
   "addr": "1bd61e",
   "max": 33
  },
  {
   "id": "arm410.name",
   "jp": "デッキダウンストーン　ＣＬ２",
-  "en": "",
+  "en": "Deck Down Stone CL2",
   "addr": "1bd67c",
   "max": 33
  },
  {
   "id": "arm410.desc",
   "jp": "敵のÄＲＭセレクトを４つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 4",
   "addr": "1bd69e",
   "max": 33
  },
  {
   "id": "arm411.name",
   "jp": "デッキダウンストーン　ＣＬ３",
-  "en": "",
+  "en": "Deck Down Stone CL3",
   "addr": "1bd6fc",
   "max": 33
  },
  {
   "id": "arm411.desc",
   "jp": "敵のÄＲＭセレクトを３つにする",
-  "en": "",
+  "en": "Cuts enemy's ÄRM Select to 3",
   "addr": "1bd71e",
   "max": 33
  },
  {
   "id": "arm412.name",
   "jp": "ミノタウロストーン　ＣＬ２",
-  "en": "",
+  "en": "Minotaur Stone CL2",
   "addr": "1bd77c",
   "max": 33
  },
  {
   "id": "arm412.desc",
   "jp": "ミノタウロのタックル攻撃",
-  "en": "",
+  "en": "Minotaur's tackle attack",
   "addr": "1bd79e",
   "max": 33
  },
  {
   "id": "arm413.name",
   "jp": "ミノタウロストーン　ＣＬ３",
-  "en": "",
+  "en": "Minotaur Stone CL3",
   "addr": "1bd7fc",
   "max": 33
  },
  {
   "id": "arm413.desc",
   "jp": "ミノタウロの連続タックル",
-  "en": "",
+  "en": "Minotaur's rapid tackles",
   "addr": "1bd81e",
   "max": 33
  },
  {
   "id": "arm414.name",
   "jp": "サーペントストーン　ＣＬ２",
-  "en": "",
+  "en": "Serpent Stone CL2",
   "addr": "1bd87c",
   "max": 33
  },
  {
   "id": "arm414.desc",
   "jp": "サーペントが水属性に変えて防御",
-  "en": "",
+  "en": "Serpent guards as Water type",
   "addr": "1bd89e",
   "max": 33
  },
  {
   "id": "arm415.name",
   "jp": "サーペントストーン　ＣＬ３",
-  "en": "",
+  "en": "Serpent Stone CL3",
   "addr": "1bd8fc",
   "max": 33
  },
  {
   "id": "arm415.desc",
   "jp": "サーペントが渦巻きを発生させる",
-  "en": "",
+  "en": "Serpent whips up a whirlpool",
   "addr": "1bd91e",
   "max": 33
  },
  {
   "id": "arm416.name",
   "jp": "サラマンダーストーン　ＣＬ２",
-  "en": "",
+  "en": "Salamander Stone CL2",
   "addr": "1bd97c",
   "max": 33
  },
  {
   "id": "arm416.desc",
   "jp": "サラマンダーが火属性に変えて防御",
-  "en": "",
+  "en": "Salamander guards as Fire type",
   "addr": "1bd99e",
   "max": 33
  },
  {
   "id": "arm417.name",
   "jp": "サラマンダーストーン　ＣＬ３",
-  "en": "",
+  "en": "Salamander Stone CL3",
   "addr": "1bd9fc",
   "max": 33
  },
  {
   "id": "arm417.desc",
   "jp": "サラマンダーが敵にアタック",
-  "en": "",
+  "en": "Salamander attacks the enemy",
   "addr": "1bda1e",
   "max": 33
  },
  {
   "id": "arm418.name",
   "jp": "トレントストーン　ＣＬ２",
-  "en": "",
+  "en": "Treant Stone CL2",
   "addr": "1bda7c",
   "max": 33
  },
  {
   "id": "arm418.desc",
   "jp": "トレントが木属性に変えて防御",
-  "en": "",
+  "en": "Treant guards as Leaf type",
   "addr": "1bda9e",
   "max": 33
  },
  {
   "id": "arm419.name",
   "jp": "トレントストーン　ＣＬ３",
-  "en": "",
+  "en": "Treant Stone CL3",
   "addr": "1bdafc",
   "max": 33
  },
  {
   "id": "arm419.desc",
   "jp": "トレントの葉攻撃＆体力回復",
-  "en": "",
+  "en": "Treant leaf attack & heals HP",
   "addr": "1bdb1e",
   "max": 33
  },
  {
   "id": "arm420.name",
   "jp": "ジンストーン　ＣＬ２",
-  "en": "",
+  "en": "Djinn Stone CL2",
   "addr": "1bdb7c",
   "max": 33
  },
  {
   "id": "arm420.desc",
   "jp": "ジンが風属性に変えて防御",
-  "en": "",
+  "en": "Djinn guards as Wind type",
   "addr": "1bdb9e",
   "max": 33
  },
  {
   "id": "arm421.name",
   "jp": "ジンストーン　ＣＬ３",
-  "en": "",
+  "en": "Djinn Stone CL3",
   "addr": "1bdbfc",
   "max": 33
  },
  {
   "id": "arm421.desc",
   "jp": "ジンの体当たり攻撃",
-  "en": "",
+  "en": "Djinn's body slam attack",
   "addr": "1bdc1e",
   "max": 33
  },
  {
   "id": "arm422.name",
   "jp": "クエイクストーン　ＣＬ２",
-  "en": "",
+  "en": "Quake Stone CL2",
   "addr": "1bdc7c",
   "max": 33
  },
  {
   "id": "arm422.desc",
   "jp": "クエイクが地属性に変え防御と回復",
-  "en": "",
+  "en": "Quake guards as Earth & heals",
   "addr": "1bdc9e",
   "max": 33
  },
  {
   "id": "arm423.name",
   "jp": "クエイクストーン　ＣＬ３",
-  "en": "",
+  "en": "Quake Stone CL3",
   "addr": "1bdcfc",
   "max": 33
  },
  {
   "id": "arm423.desc",
   "jp": "クエイクの大地の攻撃＆体力回復",
-  "en": "",
+  "en": "Quake earth attack & heals HP",
   "addr": "1bdd1e",
   "max": 33
  },
  {
   "id": "arm424.name",
   "jp": "インドラストーン　ＣＬ２",
-  "en": "",
+  "en": "Indra Stone CL2",
   "addr": "1bdd7c",
   "max": 33
  },
  {
   "id": "arm424.desc",
   "jp": "インドラが雷属性に変えて防御",
-  "en": "",
+  "en": "Indra guards as Thunder type",
   "addr": "1bdd9e",
   "max": 33
  },
  {
   "id": "arm425.name",
   "jp": "インドラストーン　ＣＬ３",
-  "en": "",
+  "en": "Indra Stone CL3",
   "addr": "1bddfc",
   "max": 33
  },
  {
   "id": "arm425.desc",
   "jp": "インドラの電撃で１体が動作不能",
-  "en": "",
+  "en": "Indra's shock stuns one foe",
   "addr": "1bde1e",
   "max": 33
  },
  {
   "id": "arm426.name",
   "jp": "アイスストーン　ＣＬ１",
-  "en": "",
+  "en": "Ice Stone CL1",
   "addr": "1bde7c",
   "max": 33
  },
  {
   "id": "arm426.desc",
   "jp": "水のかたまりを前方向に投げる",
-  "en": "",
+  "en": "Throws a blob of water ahead",
   "addr": "1bde9e",
   "max": 33
  },
  {
   "id": "arm427.name",
   "jp": "アイスストーン　ＣＬ２",
-  "en": "",
+  "en": "Ice Stone CL2",
   "addr": "1bdefc",
   "max": 33
  },
  {
   "id": "arm427.desc",
   "jp": "氷のかたまりを前方向に投げる",
-  "en": "",
+  "en": "Throws a chunk of ice ahead",
   "addr": "1bdf1e",
   "max": 33
  },
  {
   "id": "arm428.name",
   "jp": "アイスストーン　ＣＬ３",
-  "en": "",
+  "en": "Ice Stone CL3",
   "addr": "1bdf7c",
   "max": 33
  },
  {
   "id": "arm428.desc",
   "jp": "多くの氷を前方向にばらまく",
-  "en": "",
+  "en": "Scatters lots of ice ahead",
   "addr": "1bdf9e",
   "max": 33
  },
  {
   "id": "arm429.name",
   "jp": "ファイアストーン　ＣＬ１",
-  "en": "",
+  "en": "Fire Stone CL1",
   "addr": "1bdffc",
   "max": 33
  },
  {
   "id": "arm429.desc",
   "jp": "小さな火の玉を飛ばす",
-  "en": "",
+  "en": "Shoots a small fireball",
   "addr": "1be01e",
   "max": 33
  },
  {
   "id": "arm430.name",
   "jp": "ファイアストーン　ＣＬ２",
-  "en": "",
+  "en": "Fire Stone CL2",
   "addr": "1be07c",
   "max": 33
  },
  {
   "id": "arm430.desc",
   "jp": "大きな火の玉を飛ばす",
-  "en": "",
+  "en": "Shoots a big fireball",
   "addr": "1be09e",
   "max": 33
  },
  {
   "id": "arm431.name",
   "jp": "ファイアストーン　ＣＬ３",
-  "en": "",
+  "en": "Fire Stone CL3",
   "addr": "1be0fc",
   "max": 33
  },
  {
   "id": "arm431.desc",
   "jp": "火の玉を渦巻きのように飛ばす",
-  "en": "",
+  "en": "Shoots fireballs in a swirl",
   "addr": "1be11e",
   "max": 33
  },
  {
   "id": "arm432.name",
   "jp": "プランツストーン　ＣＬ１",
-  "en": "",
+  "en": "Plants Stone CL1",
   "addr": "1be17c",
   "max": 33
  },
  {
   "id": "arm432.desc",
   "jp": "体を葉で包み、動きを遅くする",
-  "en": "",
+  "en": "Wraps foe in leaves to slow it",
   "addr": "1be19e",
   "max": 33
  },
  {
   "id": "arm433.name",
   "jp": "プランツストーン　ＣＬ２",
-  "en": "",
+  "en": "Plants Stone CL2",
   "addr": "1be1fc",
   "max": 33
  },
  {
   "id": "arm433.desc",
   "jp": "ツタを足に絡ませて動きを止める",
-  "en": "",
+  "en": "Vines wrap its legs to stop it",
   "addr": "1be21e",
   "max": 33
  },
  {
   "id": "arm434.name",
   "jp": "プランツストーン　ＣＬ３",
-  "en": "",
+  "en": "Plants Stone CL3",
   "addr": "1be27c",
   "max": 33
  },
  {
   "id": "arm434.desc",
   "jp": "ツタを体に絡ませて動きを止める",
-  "en": "",
+  "en": "Vines wrap its body to stop it",
   "addr": "1be29e",
   "max": 33
  },
  {
   "id": "arm435.name",
   "jp": "ストームストーン　ＣＬ１",
-  "en": "",
+  "en": "Storm Stone CL1",
   "addr": "1be2fc",
   "max": 33
  },
  {
   "id": "arm435.desc",
   "jp": "悪臭のつまった風船を飛ばす",
-  "en": "",
+  "en": "Launches a stink-filled balloon",
   "addr": "1be31e",
   "max": 33
  },
  {
   "id": "arm436.name",
   "jp": "ストームストーン　ＣＬ２",
-  "en": "",
+  "en": "Storm Stone CL2",
   "addr": "1be37c",
   "max": 33
  },
  {
   "id": "arm436.desc",
   "jp": "たくさんの悪臭風船を飛ばす",
-  "en": "",
+  "en": "Launches lots of stink balloons",
   "addr": "1be39e",
   "max": 33
  },
  {
   "id": "arm437.name",
   "jp": "ストームストーン　ＣＬ３",
-  "en": "",
+  "en": "Storm Stone CL3",
   "addr": "1be3fc",
   "max": 33
  },
  {
   "id": "arm437.desc",
   "jp": "大量の悪臭風船を飛ばす",
-  "en": "",
+  "en": "Launches tons of stink balloons",
   "addr": "1be41e",
   "max": 33
  },
  {
   "id": "arm438.name",
   "jp": "アースストーン　ＣＬ１",
-  "en": "",
+  "en": "Earth Stone CL1",
   "addr": "1be47c",
   "max": 33
  },
  {
   "id": "arm438.desc",
   "jp": "足元をドロにして移動できなくする",
-  "en": "",
+  "en": "Mud underfoot stops movement",
   "addr": "1be49e",
   "max": 33
  },
  {
   "id": "arm439.name",
   "jp": "アースストーン　ＣＬ２",
-  "en": "",
+  "en": "Earth Stone CL2",
   "addr": "1be4fc",
   "max": 33
  },
  {
   "id": "arm439.desc",
   "jp": "水晶がガードする",
-  "en": "",
+  "en": "Crystals guard you",
   "addr": "1be51e",
   "max": 33
  },
  {
   "id": "arm440.name",
   "jp": "アースストーン　ＣＬ３",
-  "en": "",
+  "en": "Earth Stone CL3",
   "addr": "1be57c",
   "max": 33
  },
  {
   "id": "arm440.desc",
   "jp": "宝石がガードする",
-  "en": "",
+  "en": "Jewels guard you",
   "addr": "1be59e",
   "max": 33
  },
  {
   "id": "arm441.name",
   "jp": "ライトニングストーン　ＣＬ１",
-  "en": "",
+  "en": "Lightning Stone CL1",
   "addr": "1be5fc",
   "max": 33
  },
  {
   "id": "arm441.desc",
   "jp": "プラズマ電気をぶつける",
-  "en": "",
+  "en": "Hurls plasma electricity",
   "addr": "1be61e",
   "max": 33
  },
  {
   "id": "arm442.name",
   "jp": "ライトニングストーン　ＣＬ２",
-  "en": "",
+  "en": "Lightning Stone CL2",
   "addr": "1be67c",
   "max": 33
  },
  {
   "id": "arm442.desc",
   "jp": "雷をおとす",
-  "en": "",
+  "en": "Calls down lightning",
   "addr": "1be69e",
   "max": 33
  },
  {
   "id": "arm443.name",
   "jp": "ライトニングストーン　ＣＬ３",
-  "en": "",
+  "en": "Lightning Stone CL3",
   "addr": "1be6fc",
   "max": 33
  },
  {
   "id": "arm443.desc",
   "jp": "大きな雷をおとす",
-  "en": "",
+  "en": "Calls down a big lightning bolt",
   "addr": "1be71e",
   "max": 33
  },
  {
   "id": "arm444.name",
   "jp": "素手",
-  "en": "",
+  "en": "Bare Hands",
   "addr": "1be77c",
   "max": 33
  },
  {
   "id": "arm444.desc",
   "jp": "素手用",
-  "en": "",
+  "en": "For bare hands",
   "addr": "1be79e",
   "max": 33
  },
@@ -6239,182 +6239,182 @@
  {
   "id": "item001.name",
   "jp": "サックリの実",
-  "en": "",
+  "en": "Crisp Fruit",
   "addr": "1be83c",
   "max": 33
  },
  {
   "id": "item001.desc",
   "jp": "体力を５０回復する",
-  "en": "",
+  "en": "Restores 50 HP",
   "addr": "1be85e",
   "max": 33
  },
  {
   "id": "item002.name",
   "jp": "ジュクした実",
-  "en": "",
+  "en": "Ripe Fruit",
   "addr": "1be88c",
   "max": 33
  },
  {
   "id": "item002.desc",
   "jp": "体力を１５０回復する",
-  "en": "",
+  "en": "Restores 150 HP",
   "addr": "1be8ae",
   "max": 33
  },
  {
   "id": "item003.name",
   "jp": "ニガい実",
-  "en": "",
+  "en": "Bitter Fruit",
   "addr": "1be8dc",
   "max": 33
  },
  {
   "id": "item003.desc",
   "jp": "体力を４５０回復する",
-  "en": "",
+  "en": "Restores 450 HP",
   "addr": "1be8fe",
   "max": 33
  },
  {
   "id": "item004.name",
   "jp": "ヘブンズリーフ",
-  "en": "",
+  "en": "Heaven's Leaf",
   "addr": "1be92c",
   "max": 33
  },
  {
   "id": "item004.desc",
   "jp": "体力を全回復する",
-  "en": "",
+  "en": "Fully restores HP",
   "addr": "1be94e",
   "max": 33
  },
  {
   "id": "item005.name",
   "jp": "大きなヘブンズリーフ",
-  "en": "",
+  "en": "Big Heaven's Leaf",
   "addr": "1be97c",
   "max": 33
  },
  {
   "id": "item005.desc",
   "jp": "パーティーの体力を全回復する",
-  "en": "",
+  "en": "Fully restores the party's HP",
   "addr": "1be99e",
   "max": 33
  },
  {
   "id": "item006.name",
   "jp": "ライフシード",
-  "en": "",
+  "en": "Life Seed",
   "addr": "1be9cc",
   "max": 33
  },
  {
   "id": "item006.desc",
   "jp": "体力の最大値をふやす",
-  "en": "",
+  "en": "Raises max HP",
   "addr": "1be9ee",
   "max": 33
  },
  {
   "id": "item007.name",
   "jp": "マジックシード",
-  "en": "",
+  "en": "Magic Seed",
   "addr": "1bea1c",
   "max": 33
  },
  {
   "id": "item007.desc",
   "jp": "魔力の最大値をふやす",
-  "en": "",
+  "en": "Raises max magic power",
   "addr": "1bea3e",
   "max": 33
  },
  {
   "id": "item008.name",
   "jp": "パワーシード",
-  "en": "",
+  "en": "Power Seed",
   "addr": "1bea6c",
   "max": 33
  },
  {
   "id": "item008.desc",
   "jp": "攻撃力の最大値をふやす",
-  "en": "",
+  "en": "Raises max attack",
   "addr": "1bea8e",
   "max": 33
  },
  {
   "id": "item009.name",
   "jp": "ガードシード",
-  "en": "",
+  "en": "Guard Seed",
   "addr": "1beabc",
   "max": 33
  },
  {
   "id": "item009.desc",
   "jp": "防御力の最大値をふやす",
-  "en": "",
+  "en": "Raises max defense",
   "addr": "1beade",
   "max": 33
  },
  {
   "id": "item010.name",
   "jp": "アームシルバー",
-  "en": "",
+  "en": "ÄRM Silver",
   "addr": "1beb0c",
   "max": 33
  },
  {
   "id": "item010.desc",
   "jp": "彫金の材料になる",
-  "en": "",
+  "en": "Material used for engraving",
   "addr": "1beb2e",
   "max": 33
  },
  {
   "id": "item011.name",
   "jp": "アームゴールド",
-  "en": "",
+  "en": "ÄRM Gold",
   "addr": "1beb5c",
   "max": 33
  },
  {
   "id": "item011.desc",
   "jp": "彫金の材料になる",
-  "en": "",
+  "en": "Material used for engraving",
   "addr": "1beb7e",
   "max": 33
  },
  {
   "id": "item012.name",
   "jp": "アームプラチナ",
-  "en": "",
+  "en": "ÄRM Platinum",
   "addr": "1bebac",
   "max": 33
  },
  {
   "id": "item012.desc",
   "jp": "彫金の材料になる",
-  "en": "",
+  "en": "Material used for engraving",
   "addr": "1bebce",
   "max": 33
  },
  {
   "id": "item013.name",
   "jp": "アームジュエル",
-  "en": "",
+  "en": "ÄRM Jewel",
   "addr": "1bebfc",
   "max": 33
  },
  {
   "id": "item013.desc",
   "jp": "彫金の材料になる",
-  "en": "",
+  "en": "Material used for engraving",
   "addr": "1bec1e",
   "max": 33
  }

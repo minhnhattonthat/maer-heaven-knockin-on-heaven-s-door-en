@@ -10,7 +10,7 @@
  {
   "id": "CH_M00A:002af",
   "jp": "{C0F04}何かごようがおありですかな",
-  "en": "",
+  "en": "{C0F04}Is there something I can do for you, hmm?",
   "call": "MswStr",
   "box": 17,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "CH_M00A:005b5",
   "jp": "{C0F04}この先、北のほうに小川があるので",
-  "en": "",
+  "en": "{C0F04}There's a stream up north, just ahead.",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M00A:005e8",
   "jp": "水をくんできてくれませんか？",
-  "en": "",
+  "en": "Would you kindly fetch us some water?",
   "call": "MswStr",
   "box": 36,
   "line": 2,

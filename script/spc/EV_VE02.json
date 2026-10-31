@@ -10,7 +10,7 @@
  {
   "id": "EV_VE02:003c9",
   "jp": "{C0F04}ああ、そこの外れにある",
-  "en": "",
+  "en": "{C0F04}Yes, they went into the {C0904}underground lake{C0F04}",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_VE02:003f2",
   "jp": "{C0904}ちていこ{C0F04}に入っていった",
-  "en": "",
+  "en": "just past the edge of the village.",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_VE02:0045d",
   "jp": "{C0F04}かくされたÄＲＭを",
-  "en": "",
+  "en": "{C0F04}Said they were after a hidden ÄRM...",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_VE02:00482",
   "jp": "手に入れるといってな…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 22,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_VE02:00b11",
   "jp": "{C0F04}…行くか、ギンタ！！",
-  "en": "",
+  "en": "{C0F04}...Shall we go, Ginta!!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_VE02:00c68",
   "jp": "{C0F04}当然！！",
-  "en": "",
+  "en": "{C0F04}You bet!!",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_VE02:00e21",
   "jp": "{C0F04}ＯＫ！",
-  "en": "",
+  "en": "{C0F04}OK! I'll tag along too~!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_VE02:00e3a",
   "jp": "わたしもつきあうよん♪",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 78,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_VE02:00f39",
   "jp": "{C0F04}あの二人とたたかうつもりか！？",
-  "en": "",
+  "en": "{C0F04}You mean to fight those two!? You'd better",
   "call": "MswStr",
   "box": 83,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_VE02:00f6a",
   "jp": "やめておいたほうがいい！！",
-  "en": "",
+  "en": "not!!",
   "call": "MswStr",
   "box": 83,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_VE02:00fcb",
   "jp": "{C0F04}それに、あの{C0904}ちていこ{C0F04}には",
-  "en": "",
+  "en": "{C0F04}Besides, that {C0904}underground lake{C0F04}...",
   "call": "MswStr",
   "box": 85,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_VE02:0104b",
   "jp": "{C0F04}『ぼうれいがわざわいをまねく』",
-  "en": "",
+  "en": "{C0F04}...has a legend: 'The ghosts there bring",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_VE02:0107c",
   "jp": "という言い伝えもあるのだ！！",
-  "en": "",
+  "en": "disaster'!!",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_VE02:011ef",
   "jp": "{C0F04}どっちもこわくねぇ！",
-  "en": "",
+  "en": "{C0F04}I'm not scared of either one!",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_VE02:0125d",
   "jp": "{C0F04}とめてもムダなようだな…",
-  "en": "",
+  "en": "{C0F04}Seems there's no stopping you...",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_VE02:012cf",
   "jp": "{C0F04}役に立つかどうかわからないが",
-  "en": "",
+  "en": "{C0F04}I don't know if it'll be any use, but would",
   "call": "MswStr",
   "box": 99,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_VE02:012fe",
   "jp": "これをもらってくれないか",
-  "en": "",
+  "en": "you take this?",
   "call": "MswStr",
   "box": 99,
   "line": 2,
@@ -288,7 +288,7 @@
  {
   "id": "EV_VE02:01394",
   "jp": "{C0D04}ガーゴイル　ＣＬ４{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Gargoyle CL4{C0F04}",
   "call": "MswStr",
   "box": 104,
   "line": 0
@@ -296,7 +296,7 @@
  {
   "id": "EV_VE02:013c2",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 104,
   "line": 1
@@ -320,7 +320,7 @@
  {
   "id": "EV_VE02:01461",
   "jp": "{C0904}ちていこ{C0F04}でひろったものなんだが",
-  "en": "",
+  "en": "{C0904}The underground lake{C0F04} is where I found it,",
   "call": "MswStr",
   "box": 108,
   "line": 1,
@@ -329,7 +329,7 @@
  {
   "id": "EV_VE02:01499",
   "jp": "何か、とくしゅなÄＲＭがひつようらしい…",
-  "en": "",
+  "en": "but it seems to need some special ÄRM...",
   "call": "MswStr",
   "box": 108,
   "line": 2,
@@ -346,7 +346,7 @@
  {
   "id": "EV_VE02:01508",
   "jp": "{C0F04}あなたたちなら、もしや…",
-  "en": "",
+  "en": "{C0F04}Maybe you folks could...",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -372,7 +372,7 @@
  {
   "id": "EV_VE02:0157a",
   "jp": "{C0F04}ああ！カタキをとってくるよ！",
-  "en": "",
+  "en": "{C0F04}Yeah! We'll pay them back for you!",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -398,7 +398,7 @@
  {
   "id": "EV_VE02:01ab8",
   "jp": "{C0F04}わたしは、村の人をちりょうするよ！",
-  "en": "",
+  "en": "{C0F04}I'll heal the villagers! Ed!!",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -407,7 +407,7 @@
  {
   "id": "EV_VE02:01aed",
   "jp": "エド！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 144,
   "line": 2,
@@ -424,7 +424,7 @@
  {
   "id": "EV_VE02:01c23",
   "jp": "{C0F04}はい！！",
-  "en": "",
+  "en": "{C0F04}Yes!!",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -450,7 +450,7 @@
  {
   "id": "EV_VE02:01e03",
   "jp": "{C0F04}よし、オイラは村をなおす！",
-  "en": "",
+  "en": "{C0F04}All right, I'll fix up the village! And I'll plant",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -459,7 +459,7 @@
  {
   "id": "EV_VE02:01e30",
   "jp": "はたけも作るっスよ！！",
-  "en": "",
+  "en": "some fields too, y'know!!",
   "call": "MswStr",
   "box": 161,
   "line": 2,
@@ -476,7 +476,7 @@
  {
   "id": "EV_VE02:01f2f",
   "jp": "{C0F04}あんたたちは…一体？",
-  "en": "",
+  "en": "{C0F04}Who... who are you people?",
   "call": "MswStr",
   "box": 166,
   "line": 1,
@@ -502,7 +502,7 @@
  {
   "id": "EV_VE02:020d6",
   "jp": "{C0F04}メル！！",
-  "en": "",
+  "en": "{C0F04}MÄR!!",
   "call": "MswStr",
   "box": 175,
   "line": 1,
@@ -528,7 +528,7 @@
  {
   "id": "EV_VE02:0213a",
   "jp": "{C0F04}チェスをたおそうとしている…",
-  "en": "",
+  "en": "{C0F04}A bunch of daredevils out to beat the",
   "call": "MswStr",
   "box": 177,
   "line": 1,
@@ -537,7 +537,7 @@
  {
   "id": "EV_VE02:02169",
   "jp": "命しらずっス！！",
-  "en": "",
+  "en": "Chess, that's who!!",
   "call": "MswStr",
   "box": 177,
   "line": 2,

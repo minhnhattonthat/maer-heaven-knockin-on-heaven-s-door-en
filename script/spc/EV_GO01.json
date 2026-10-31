@@ -10,7 +10,7 @@
  {
   "id": "EV_GO01:0044c",
   "jp": "{C0F04}ま、{C0D04}まり{C0F04}ょく！！",
-  "en": "",
+  "en": "{C0F04}M-{C0D04}mag{C0F04}ic power!!",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO01:004c4",
   "jp": "{C0F04}へ！マヌケなてめぇでも",
-  "en": "",
+  "en": "{C0F04}Heh! So even a dope like you noticed!!",
   "call": "MswStr",
   "box": 29,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_GO01:004ed",
   "jp": "気付いたか！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 29,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO01:00542",
   "jp": "{C0B04}う{C0F04}、う{C0904}ん{C0F04}！",
-  "en": "",
+  "en": "{C0B04}Y{C0F04}-ye{C0904}ah{C0F04}!",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO01:005bb",
   "jp": "{C0F04}３人だ！！",
-  "en": "",
+  "en": "{C0F04}Three of 'em!!",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO01:00891",
   "jp": "{C0F04}村のれんちゅうじゃねぇな…",
-  "en": "",
+  "en": "{C0F04}They ain't from the village...",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO01:009ee",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO01:00a4a",
   "jp": "{C0F04}…{C0B04}なん{C0F04}で{C0904}も{C0F04}いい！",
-  "en": "",
+  "en": "{C0F04}...{C0B04}Does{C0F04}n't {C0904}mat{C0F04}ter!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO01:00b0e",
   "jp": "{C0F04}少しは手ごたえのあるヤツと",
-  "en": "",
+  "en": "{C0F04}Looks like I finally get to fight somebody",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO01:00b3b",
   "jp": "たたかえそうだぜ！！",
-  "en": "",
+  "en": "with a little bite!!",
   "call": "MswStr",
   "box": 63,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO01:010e0",
   "jp": "{C0F04}…ギンタン…",
-  "en": "",
+  "en": "{C0F04}...Gintan... Your face is so scaaary~",
   "call": "MswStr",
   "box": 96,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_GO01:010ff",
   "jp": "かおがこわ～～い",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 96,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO01:01158",
   "jp": "{C0F04}何おこってるの？？",
-  "en": "",
+  "en": "{C0F04}What are you so mad about??",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO01:012ad",
   "jp": "{C0F04}あたりまえだろ！！",
-  "en": "",
+  "en": "{C0F04}Isn't it obvious!!",
   "call": "MswStr",
   "box": 105,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO01:01319",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 107,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO01:01375",
   "jp": "{C0F04}オレ、あの人たちに",
-  "en": "",
+  "en": "{C0F04}I don't want those people to give up!",
   "call": "MswStr",
   "box": 109,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_GO01:0139a",
   "jp": "あきらめてほしくないんだ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 109,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_GO01:013fd",
   "jp": "{C0F04}（ギンタン…）",
-  "en": "",
+  "en": "{C0F04}(Gintan...)",
   "call": "MswStr",
   "box": 111,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_GO01:015ba",
   "jp": "{C0F04}ここにÄＲＭがかくされとる",
-  "en": "",
+  "en": "{C0F04}I've heard rumors there's an ÄRM hidden",
   "call": "MswStr",
   "box": 120,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_GO01:015e7",
   "jp": "うわさはきいたことある",
-  "en": "",
+  "en": "'round here.",
   "call": "MswStr",
   "box": 120,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_GO01:01644",
   "jp": "{C0F04}それで、チェスに",
-  "en": "",
+  "en": "{C0F04}Bet that's why the Chess Pieces came after",
   "call": "MswStr",
   "box": 122,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_GO01:01667",
   "jp": "ねらわれたんやろな",
-  "en": "",
+  "en": "this place.",
   "call": "MswStr",
   "box": 122,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_GO01:016c2",
   "jp": "{C0F04}なるほどねぇ…",
-  "en": "",
+  "en": "{C0F04}Ohh, I see...",
   "call": "MswStr",
   "box": 124,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_GO01:01768",
   "jp": "{C0F04}…それにしても…",
-  "en": "",
+  "en": "{C0F04}...Still...",
   "call": "MswStr",
   "box": 127,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "EV_GO01:017d2",
   "jp": "{C0F04}なんや、うすらさむい気が",
-  "en": "",
+  "en": "{C0F04}Somethin' about this place is givin' me the",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_GO01:017fd",
   "jp": "じゅうまんしてるのぉ～",
-  "en": "",
+  "en": "chills~",
   "call": "MswStr",
   "box": 129,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_GO01:01904",
   "jp": "{C0F04}…ぜったい、なんかいるで！",
-  "en": "",
+  "en": "{C0F04}...There's somethin' in here, no doubt about",
   "call": "MswStr",
   "box": 134,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_GO01:01931",
   "jp": "",
-  "en": "",
+  "en": "it!",
   "call": "MswStr",
   "box": 134,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_GO01:01a90",
   "jp": "{C0F04}ちょちょちょちょっと！",
-  "en": "",
+  "en": "{C0F04}Wh-wh-wh-wait a sec! Don't scare me like",
   "call": "MswStr",
   "box": 141,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_GO01:01ab9",
   "jp": "おどかさないでちょうだい！",
-  "en": "",
+  "en": "that!",
   "call": "MswStr",
   "box": 141,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "EV_GO01:01b1c",
   "jp": "{C0F04}わたし、そういうの",
-  "en": "",
+  "en": "{C0F04}I'm no good with that kind of stuff, okay!!",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_GO01:01b41",
   "jp": "にがてなんだから！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 143,
   "line": 2,

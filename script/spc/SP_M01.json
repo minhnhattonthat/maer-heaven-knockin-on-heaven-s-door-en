@@ -10,7 +10,7 @@
  {
   "id": "SP_M01:0057a",
   "jp": "{C0F04}いよいしょおーーーーーー！！",
-  "en": "",
+  "en": "{C0F04}Heave... hooooooo!!",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "SP_M01:009da",
   "jp": "{C0F04}（すご…！",
-  "en": "",
+  "en": "{C0F04}(Wow...! What crazy brute strength~)",
   "call": "MswStr",
   "box": 61,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "SP_M01:009f7",
   "jp": "　バカぢからねぇーー）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 61,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "SP_M01:00b3d",
   "jp": "{C0F04}やっぱり…",
-  "en": "",
+  "en": "{C0F04}I knew it... I've changed since I came to this",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "SP_M01:00b5a",
   "jp": "オレはこのせかいにきてかわった！！",
-  "en": "",
+  "en": "world!!",
   "call": "MswStr",
   "box": 68,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "SP_M01:00f26",
   "jp": "{C0F04}中に入れそうもないな…",
-  "en": "",
+  "en": "{C0F04}Doesn't look like I can get inside...",
   "call": "MswStr",
   "box": 91,
   "line": 1,

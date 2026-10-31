@@ -10,7 +10,7 @@
  {
   "id": "G_EV023C:00482",
   "jp": "{C0F04}！！！",
-  "en": "",
+  "en": "{C0F04}!!!",
   "call": "MswStr",
   "box": 22,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV023C:007bb",
   "jp": "{C0F04}…修練の門",
-  "en": "",
+  "en": "{C0F04}...The Training Gate is all finished!!",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV023C:007d8",
   "jp": "しゅうりょうです！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV023C:00988",
   "jp": "{C0F04}（こいつ…ちがう！",
-  "en": "",
+  "en": "{C0F04}(This guy... he's different! Different from",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV023C:009ad",
   "jp": "　氷の城であったときとは…ちがう！！）",
-  "en": "",
+  "en": "back at the Ice Castle!!)",
   "call": "MswStr",
   "box": 49,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV023C:00b39",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV023C:00b95",
   "jp": "{C0F04}おっさん…",
-  "en": "",
+  "en": "{C0F04}Old man...",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV023C:00d09",
   "jp": "{C0F04}この『修練の門』を",
-  "en": "",
+  "en": "{C0F04}The whole three days you kept this 'Training",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV023C:00d2e",
   "jp": "はつどうしている３日かん…",
-  "en": "",
+  "en": "Gate' running...",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV023C:00d8f",
   "jp": "{C0F04}ずっとオレたちを守って",
-  "en": "",
+  "en": "{C0F04}...you were protecting us the entire time,",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV023C:00db8",
   "jp": "くれてたんだってな…",
-  "en": "",
+  "en": "huh...",
   "call": "MswStr",
   "box": 69,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV023C:00e13",
   "jp": "{C0F04}スノウにきいたよ",
-  "en": "",
+  "en": "{C0F04}Snow told me.",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV023C:00fd2",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV023C:0110c",
   "jp": "{C0F04}まってたぜ",
-  "en": "",
+  "en": "{C0F04}Been waitin' for ya, Ginta.",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "G_EV023C:01129",
   "jp": "ギンタ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 86,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV023C:011b4",
   "jp": "{C0F04}ありがとう、おっさん",
-  "en": "",
+  "en": "{C0F04}Thanks, old man. Leave the rest to me.",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "G_EV023C:011db",
   "jp": "あとは、まかせてくれ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV023C:01274",
   "jp": "{C0F04}こいつらは",
-  "en": "",
+  "en": "{C0F04}I'll take these guys down!",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV023C:01291",
   "jp": "オレがたおす！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 92,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV023C:0143b",
   "jp": "{C0F04}ならこっちにこい！！",
-  "en": "",
+  "en": "{C0F04}Then come at me!! You're MY prey!!",
   "call": "MswStr",
   "box": 101,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV023C:01462",
   "jp": "オレっちのえもの！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 101,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV023C:01902",
   "jp": "{C0F04}いくぞ！",
-  "en": "",
+  "en": "{C0F04}Let's go! Babbo!!",
   "call": "MswStr",
   "box": 129,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV023C:0191d",
   "jp": "バッボ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 129,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV023C:01a57",
   "jp": "{C0F04}うむ！！",
-  "en": "",
+  "en": "{C0F04}Indeed!!",
   "call": "MswStr",
   "box": 136,
   "line": 1,

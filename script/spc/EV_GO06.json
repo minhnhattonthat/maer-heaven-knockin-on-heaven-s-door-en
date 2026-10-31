@@ -10,7 +10,7 @@
  {
   "id": "EV_GO06:004cd",
   "jp": "{C0F04}だれだ！！",
-  "en": "",
+  "en": "{C0F04}Who's there!!",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO06:0061a",
   "jp": "{C0F04}あ、あやしいものじゃない！",
-  "en": "",
+  "en": "{C0F04}I-I'm not anyone suspicious!",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO06:0068c",
   "jp": "{C0F04}ボクはトム！",
-  "en": "",
+  "en": "{C0F04}I'm Tom! I used to live in Vestry.",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_GO06:006ab",
   "jp": "ヴェストリに住んでたんだ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 39,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO06:00748",
   "jp": "{C0F04}なんだ、びっくりさせんなよ！",
-  "en": "",
+  "en": "{C0F04}Geez, don't scare me like that!",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO06:007bc",
   "jp": "{C0F04}ぼくたちを助けようとしてくれる",
-  "en": "",
+  "en": "{C0F04}You're all trying to save us... so I wanted to",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO06:007ed",
   "jp": "みなさんに…少しでも力になりたくて…",
-  "en": "",
+  "en": "help you, even just a little...",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO06:00856",
   "jp": "{C0F04}みちのあんないくらいならできると思う",
-  "en": "",
+  "en": "{C0F04}I think I can at least show you the way.",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO06:008d2",
   "jp": "{C0F04}…いっしょに行ってもいいかな？",
-  "en": "",
+  "en": "{C0F04}...Can I come with you?",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO06:009f4",
   "jp": "{C0F04}そいつはたすかる！",
-  "en": "",
+  "en": "{C0F04}That'd be a big help! Nice to meet ya, Tom!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO06:00a19",
   "jp": "よろしくなトム！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,

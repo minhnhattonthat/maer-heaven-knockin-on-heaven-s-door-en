@@ -10,7 +10,7 @@
  {
   "id": "EV_GO11:00553",
   "jp": "{C0F04}ぶっ飛んで",
-  "en": "",
+  "en": "{C0F04}Go flyin' and think about what you did!!",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_GO11:00570",
   "jp": "はんせいしやがれっ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 30,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO11:0089d",
   "jp": "{C0F04}うわぁーーーーーーーーー！！！",
-  "en": "",
+  "en": "{C0F04}Waaaaaaaaaaah!!!",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO11:00c75",
   "jp": "{C0F04}はぁ…はぁ…",
-  "en": "",
+  "en": "{C0F04}Huff... huff...",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO11:00cdd",
   "jp": "{C0F04}助けて…",
-  "en": "",
+  "en": "{C0F04}Help us...",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO11:00d3f",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO11:00d9d",
   "jp": "{C0F04}かべに穴をあけて…",
-  "en": "",
+  "en": "{C0F04}Make a hole in the wall... Let us out of here...",
   "call": "MswStr",
   "box": 79,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GO11:00dc2",
   "jp": "ここから出して…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 79,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO11:00e19",
   "jp": "{C0F04}わかったわかった…",
-  "en": "",
+  "en": "{C0F04}Okay, okay... I'm beat, but I'll do it!!",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GO11:00e3e",
   "jp": "つかれてるけど、やるよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 81,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO11:00e9f",
   "jp": "{C0F04}バッボ、アレ、いくぜ！！",
-  "en": "",
+  "en": "{C0F04}Babbo, let's do THAT one!!",
   "call": "MswStr",
   "box": 83,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO11:00ffa",
   "jp": "{C0F04}まて！",
-  "en": "",
+  "en": "{C0F04}Wait! You are utterly exhausted, are you",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_GO11:01013",
   "jp": "おまえ、ヘロヘロにつかれてるじゃろ！",
-  "en": "",
+  "en": "not!",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_GO11:0107e",
   "jp": "{C0F04}いいから…！",
-  "en": "",
+  "en": "{C0F04}Just do it...!",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_GO11:010e4",
   "jp": "{C0F04}出て来い！！ガーゴイル！！",
-  "en": "",
+  "en": "{C0F04}Come on out!! Gargoyle!!",
   "call": "MswStr",
   "box": 94,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_GO11:016d3",
   "jp": "{C0F04}へへ…やったぜ！",
-  "en": "",
+  "en": "{C0F04}Heh heh... I did it!",
   "call": "MswStr",
   "box": 132,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_GO11:01826",
   "jp": "{C0F04}ギンタぁーーー！！",
-  "en": "",
+  "en": "{C0F04}Gintaaa!! Pull yourself together!!",
   "call": "MswStr",
   "box": 139,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_GO11:0184b",
   "jp": "しっかりせい！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 139,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_GO11:019f9",
   "jp": "{C0F04}…ありがとう…",
-  "en": "",
+  "en": "{C0F04}...Thank you...",
   "call": "MswStr",
   "box": 148,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_GO11:01a63",
   "jp": "{C0F04}ここにとじこめられていた私たち…",
-  "en": "",
+  "en": "{C0F04}We who were trapped here...",
   "call": "MswStr",
   "box": 150,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "EV_GO11:01adf",
   "jp": "{C0F04}これで天にのぼることができます",
-  "en": "",
+  "en": "{C0F04}can now rise up to the heavens.",
   "call": "MswStr",
   "box": 152,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "EV_GO11:01b95",
   "jp": "{C0F04}わはは！",
-  "en": "",
+  "en": "{C0F04}Wahaha! Good, that's good...!",
   "call": "MswStr",
   "box": 155,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_GO11:01bb0",
   "jp": "よかったよかった…！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 155,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_GO11:01d71",
   "jp": "{C0F04}ギンターーー！！",
-  "en": "",
+  "en": "{C0F04}Gintaaa!!!",
   "call": "MswStr",
   "box": 166,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "EV_GO11:01ddd",
   "jp": "{C0F04}…せめてものお礼に…",
-  "en": "",
+  "en": "{C0F04}...As a small token of thanks...",
   "call": "MswStr",
   "box": 168,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "EV_GO11:01e4d",
   "jp": "{C0F04}…ÄＲＭをさしあげましょう…",
-  "en": "",
+  "en": "{C0F04}...we give you these ÄRM...",
   "call": "MswStr",
   "box": 170,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "EV_GO11:01ec5",
   "jp": "{C0F04}…あなたの力に…",
-  "en": "",
+  "en": "{C0F04}...May they...",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "EV_GO11:01f31",
   "jp": "{C0F04}…なりますように…",
-  "en": "",
+  "en": "{C0F04}...lend you strength...",
   "call": "MswStr",
   "box": 174,
   "line": 1,
@@ -574,7 +574,7 @@
  {
   "id": "EV_GO11:02012",
   "jp": "{C0D04}ガーゴイル　ＣＬ５{C0F04}と",
-  "en": "",
+  "en": "{C0D04}Gargoyle CL5{C0F04} and {C0D04}Alice{C0F04} obtained!",
   "call": "MswStr",
   "box": 181,
   "line": 0
@@ -582,7 +582,7 @@
  {
   "id": "EV_GO11:02040",
   "jp": "{C0D04}アリス{C0F04}を",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 181,
   "line": 1
@@ -590,7 +590,7 @@
  {
   "id": "EV_GO11:02062",
   "jp": "手に入れた！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 181,
   "line": 2
@@ -606,7 +606,7 @@
  {
   "id": "EV_GO11:027de",
   "jp": "{C0F04}あ♥",
-  "en": "",
+  "en": "{C0F04}Ah♥ Looks like he's awake!",
   "call": "MswStr",
   "box": 226,
   "line": 1,
@@ -615,7 +615,7 @@
  {
   "id": "EV_GO11:027f5",
   "jp": "おきたみたい！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 226,
   "line": 2,
@@ -632,7 +632,7 @@
  {
   "id": "EV_GO11:02880",
   "jp": "{C0F04}よっしゃ！",
-  "en": "",
+  "en": "{C0F04}All right!",
   "call": "MswStr",
   "box": 229,
   "line": 1,
@@ -658,7 +658,7 @@
  {
   "id": "EV_GO11:028e4",
   "jp": "{C0F04}キミも一人、チェスの兵隊",
-  "en": "",
+  "en": "{C0F04}Looks like you took down one o' them Chess",
   "call": "MswStr",
   "box": 231,
   "line": 1,
@@ -667,7 +667,7 @@
  {
   "id": "EV_GO11:0290f",
   "jp": "たおしたみたいやの！！",
-  "en": "",
+  "en": "Pieces too!!",
   "call": "MswStr",
   "box": 231,
   "line": 2,
@@ -684,7 +684,7 @@
  {
   "id": "EV_GO11:029e2",
   "jp": "{C0F04}ね、ね、ギンタン♥",
-  "en": "",
+  "en": "{C0F04}Hey, hey, Gintan♥ How about a wake-up",
   "call": "MswStr",
   "box": 235,
   "line": 1,
@@ -693,7 +693,7 @@
  {
   "id": "EV_GO11:02a07",
   "jp": "おめざめのチューは！？",
-  "en": "",
+  "en": "kiss!?",
   "call": "MswStr",
   "box": 235,
   "line": 2,
@@ -710,7 +710,7 @@
  {
   "id": "EV_GO11:02a64",
   "jp": "{C0F04}い、いらない…",
-  "en": "",
+  "en": "{C0F04}N-no thanks...",
   "call": "MswStr",
   "box": 237,
   "line": 1,
@@ -736,7 +736,7 @@
  {
   "id": "EV_GO11:02bae",
   "jp": "{C0F04}（ち！）",
-  "en": "",
+  "en": "{C0F04}(Tch!)",
   "call": "MswStr",
   "box": 243,
   "line": 1,
@@ -762,7 +762,7 @@
  {
   "id": "EV_GO11:02c10",
   "jp": "{C0F04}ここ…どこだ？",
-  "en": "",
+  "en": "{C0F04}Where... am I?",
   "call": "MswStr",
   "box": 245,
   "line": 1,
@@ -788,7 +788,7 @@
  {
   "id": "EV_GO11:02d22",
   "jp": "{C0F04}入り口のまんまえや！",
-  "en": "",
+  "en": "{C0F04}Right out front o' the entrance! I carried ya",
   "call": "MswStr",
   "box": 250,
   "line": 1,
@@ -797,7 +797,7 @@
  {
   "id": "EV_GO11:02d49",
   "jp": "じぶんが、おぶってきたんや！",
-  "en": "",
+  "en": "here on my back!",
   "call": "MswStr",
   "box": 250,
   "line": 2,
@@ -814,7 +814,7 @@
  {
   "id": "EV_GO11:02dac",
   "jp": "{C0F04}そっか…",
-  "en": "",
+  "en": "{C0F04}I see...",
   "call": "MswStr",
   "box": 252,
   "line": 1,
@@ -840,7 +840,7 @@
  {
   "id": "EV_GO11:02eba",
   "jp": "{C0F04}さ、かえろ！",
-  "en": "",
+  "en": "{C0F04}Okay, let's head back! I bet everyone's",
   "call": "MswStr",
   "box": 257,
   "line": 1,
@@ -849,7 +849,7 @@
  {
   "id": "EV_GO11:02ed9",
   "jp": "きっとみんなまってるよ！",
-  "en": "",
+  "en": "waiting!",
   "call": "MswStr",
   "box": 257,
   "line": 2,

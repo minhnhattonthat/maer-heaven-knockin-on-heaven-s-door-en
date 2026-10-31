@@ -10,7 +10,7 @@
  {
   "id": "G_EV044:00453",
   "jp": "{C0F04}ふんだふんだふうんだ！！",
-  "en": "",
+  "en": "{C0F04}Hmph, hmph, hmmmph!!",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV044:0085d",
   "jp": "{C0F04}（おこることないのに…）",
-  "en": "",
+  "en": "{C0F04}(No need to get so mad...)",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV044:00945",
   "jp": "{C0F04}ふーーーんだ！！",
-  "en": "",
+  "en": "{C0F04}Hmmmmmph!!",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV044:00cd7",
   "jp": "{C0F04}おーーギンタか",
-  "en": "",
+  "en": "{C0F04}Heyyy, Ginta.",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV044:00d7d",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV044:00e17",
   "jp": "{C0F04}アカン、はらイッパイになったら",
-  "en": "",
+  "en": "{C0F04}Aw man, now that my belly's full, I'm gettin'",
   "call": "MswStr",
   "box": 76,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV044:00e48",
   "jp": "ちょっとねむたなってきたで",
-  "en": "",
+  "en": "kinda sleepy.",
   "call": "MswStr",
   "box": 76,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV044:00fc8",
   "jp": "{C0F04}なさけない…",
-  "en": "",
+  "en": "{C0F04}Pathetic...",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV044:0106c",
   "jp": "{C0F04}つくづくなさけない！！",
-  "en": "",
+  "en": "{C0F04}Utterly pathetic!!",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV044:0111a",
   "jp": "{C0F04}ねたいときには",
-  "en": "",
+  "en": "{C0F04}When ya feel like sleepin', best thing ta do is",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV044:0113b",
   "jp": "ねるのがいちばんや",
-  "en": "",
+  "en": "sleep!",
   "call": "MswStr",
   "box": 90,
   "line": 2,

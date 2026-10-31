@@ -10,7 +10,7 @@
  {
   "id": "G_EV001:0076a",
   "jp": "{C0F04}さて…",
-  "en": "",
+  "en": "{C0F04}Now then... First stop's {C0904}'Paz Town'{C0F04}, y'know.",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV001:00783",
   "jp": "まずは{C0904}『パヅタウン』{C0F04}に行くっスよ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 47,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV001:00907",
   "jp": "{C0F04}『パヅタウン』？？",
-  "en": "",
+  "en": "{C0F04}'Paz Town'??",
   "call": "MswStr",
   "box": 55,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV001:009b3",
   "jp": "{C0F04}そっス！",
-  "en": "",
+  "en": "{C0F04}Yep! It's the biggest town 'round these",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV001:009ce",
   "jp": "この辺りでは、いちばん大きな街っス",
-  "en": "",
+  "en": "parts.",
   "call": "MswStr",
   "box": 58,
   "line": 2,

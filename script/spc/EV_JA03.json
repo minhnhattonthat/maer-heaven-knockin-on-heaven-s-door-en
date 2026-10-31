@@ -10,7 +10,7 @@
  {
   "id": "EV_JA03:005f6",
   "jp": "{C0F04}け、やるじゃねーかよ、ジャック！！",
-  "en": "",
+  "en": "{C0F04}Heh, not bad, Jack!!",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_JA03:0075d",
   "jp": "{C0F04}はぁはぁ…",
-  "en": "",
+  "en": "{C0F04}Hah... hah...",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_JA03:009ca",
   "jp": "{C0F04}いてててて…",
-  "en": "",
+  "en": "{C0F04}Owowow... We got careless!",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_JA03:009e9",
   "jp": "ゆだんしたぜ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 54,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_JA03:00a7c",
   "jp": "{C0F04}今日はむかつく日だな",
-  "en": "",
+  "en": "{C0F04}Today's a real annoyin' day.",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_JA03:00b94",
   "jp": "{C0F04}そうだな、ころしモードぜんかいで行くか！！",
-  "en": "",
+  "en": "{C0F04}Yeah, let's go full-on kill mode!!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_JA03:01149",
   "jp": "{C0F04}うわっとっと！！",
-  "en": "",
+  "en": "{C0F04}Whoa-whoa-whoa!!",
   "call": "MswStr",
   "box": 96,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_JA03:0129c",
   "jp": "{C0F04}男になったのぉ！",
-  "en": "",
+  "en": "{C0F04}You have become a man! Jack!!",
   "call": "MswStr",
   "box": 103,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_JA03:012bf",
   "jp": "ジャック！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 103,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_JA03:01503",
   "jp": "{C0F04}オオカミも二人！",
-  "en": "",
+  "en": "{C0F04}Two wolves! And two of us!!",
   "call": "MswStr",
   "box": 116,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_JA03:01526",
   "jp": "こっちも二人！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 116,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_JA03:0157d",
   "jp": "{C0F04}もんだいねぇよな、ジャック！！",
-  "en": "",
+  "en": "{C0F04}No problem, right, Jack!!",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_JA03:01714",
   "jp": "{C0F04}なんだよ、やろうってのかぁ！！！",
-  "en": "",
+  "en": "{C0F04}What, you wanna go?!!! ...Don't mess with",
   "call": "MswStr",
   "box": 126,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_JA03:01747",
   "jp": "…なめんなぁ！！！",
-  "en": "",
+  "en": "us!!!",
   "call": "MswStr",
   "box": 126,
   "line": 2,

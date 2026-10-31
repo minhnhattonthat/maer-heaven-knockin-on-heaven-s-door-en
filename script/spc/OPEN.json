@@ -10,7 +10,7 @@
  {
   "id": "OPEN:00400",
   "jp": "　　これは…　　　　　　かけだ",
-  "en": "",
+  "en": "                          This is...",
   "call": "MswStr",
   "box": 26,
   "line": 1
@@ -18,7 +18,7 @@
  {
   "id": "OPEN:0042a",
   "jp": "",
-  "en": "",
+  "en": "                         a gamble.",
   "call": "MswStr",
   "box": 26,
   "line": 2
@@ -34,7 +34,7 @@
  {
   "id": "OPEN:00731",
   "jp": "　　　　ÄＲＭよ　　　　いざなえ！！",
-  "en": "",
+  "en": "                 ÄRM, lead the way!!",
   "call": "MswStr",
   "box": 47,
   "line": 1
@@ -58,7 +58,7 @@
  {
   "id": "OPEN:0087b",
   "jp": "　　　　　そして　　　　　応えよ！！",
-  "en": "",
+  "en": "                      And answer!!",
   "call": "MswStr",
   "box": 54,
   "line": 1
@@ -82,7 +82,7 @@
  {
   "id": "OPEN:008e1",
   "jp": "　　　　　　異界の住人！！！",
-  "en": "",
+  "en": "             Dweller of another world!!!",
   "call": "MswStr",
   "box": 56,
   "line": 1
@@ -106,7 +106,7 @@
  {
   "id": "OPEN:00da7",
   "jp": "…！！",
-  "en": "",
+  "en": "...!! There you are, you monster!",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -115,7 +115,7 @@
  {
   "id": "OPEN:00db9",
   "jp": "出たな！魔物（まもの）め！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 86,
   "line": 2,
@@ -132,7 +132,7 @@
  {
   "id": "OPEN:00e21",
   "jp": "よーし、今こそこの",
-  "en": "",
+  "en": "All right! Now's the time to test this",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -141,7 +141,7 @@
  {
   "id": "OPEN:00e3f",
   "jp": "伝説の聖剣を試すとき！！",
-  "en": "",
+  "en": "legendary holy sword!!",
   "call": "MswStr",
   "box": 88,
   "line": 2,
@@ -158,7 +158,7 @@
  {
   "id": "OPEN:00ea5",
   "jp": "おりゃぁああ！！",
-  "en": "",
+  "en": "Hyaaaaah!! Holy sword... 'Holy Thunder",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -167,7 +167,7 @@
  {
   "id": "OPEN:00ec1",
   "jp": "聖剣『ホーリーサンダーフォース』！！",
-  "en": "",
+  "en": "Force'!!",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -184,7 +184,7 @@
  {
   "id": "OPEN:015b7",
   "jp": "聖剣『ホーリーサンダーフォース』！！",
-  "en": "",
+  "en": "Holy sword... 'Holy Thunder Force'!!",
   "call": "MswStr",
   "box": 134,
   "line": 1,
@@ -210,7 +210,7 @@
  {
   "id": "OPEN:016e4",
   "jp": "……",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -219,7 +219,7 @@
  {
   "id": "OPEN:016f4",
   "jp": "はれ？？",
-  "en": "",
+  "en": "Huh??",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -236,7 +236,7 @@
  {
   "id": "OPEN:01778",
   "jp": "……ギンタァ",
-  "en": "",
+  "en": "...Gintaaa! You AGAIN?!!",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -245,7 +245,7 @@
  {
   "id": "OPEN:01790",
   "jp": "まぁたてめぇか！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 143,
   "line": 2,
@@ -262,7 +262,7 @@
  {
   "id": "OPEN:017f0",
   "jp": "グラウンド１００周してこいや！",
-  "en": "",
+  "en": "Go run 100 laps around the field, you",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -271,7 +271,7 @@
  {
   "id": "OPEN:0181a",
   "jp": "このアホンダラ！！",
-  "en": "",
+  "en": "knucklehead!!",
   "call": "MswStr",
   "box": 145,
   "line": 2,
@@ -288,7 +288,7 @@
  {
   "id": "OPEN:01880",
   "jp": "わはははははははははは",
-  "en": "",
+  "en": "Wahahahahahahahahahaha",
   "call": "MswStr",
   "box": 147,
   "line": 1,
@@ -297,7 +297,7 @@
  {
   "id": "OPEN:018a2",
   "jp": "はははははははははは！！！",
-  "en": "",
+  "en": "hahahahahahahahahahaha!!!",
   "call": "MswStr",
   "box": 147,
   "line": 2,
@@ -314,7 +314,7 @@
  {
   "id": "OPEN:01972",
   "jp": "……",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -340,7 +340,7 @@
  {
   "id": "OPEN:01a94",
   "jp": "ふぅ～～～～～",
-  "en": "",
+  "en": "Phewwww~",
   "call": "MswStr",
   "box": 157,
   "line": 1,
@@ -366,7 +366,7 @@
  {
   "id": "OPEN:01afa",
   "jp": "１００周走れた？",
-  "en": "",
+  "en": "Did you make all 100 laps?",
   "call": "MswStr",
   "box": 159,
   "line": 1,
@@ -392,7 +392,7 @@
  {
   "id": "OPEN:01b64",
   "jp": "８周でたおれた",
-  "en": "",
+  "en": "I collapsed after 8.",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -418,7 +418,7 @@
  {
   "id": "OPEN:01bca",
   "jp": "あははは",
-  "en": "",
+  "en": "Ahaha! You still have zero stamina, huh!",
   "call": "MswStr",
   "box": 163,
   "line": 1,
@@ -427,7 +427,7 @@
  {
   "id": "OPEN:01bde",
   "jp": "あいかわらず体力ないなぁ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 163,
   "line": 2,
@@ -444,7 +444,7 @@
  {
   "id": "OPEN:01c44",
   "jp": "それで…今日は",
-  "en": "",
+  "en": "So... what kind of dream did you have",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -453,7 +453,7 @@
  {
   "id": "OPEN:01c5e",
   "jp": "どんなユメ見てたの？",
-  "en": "",
+  "en": "today?",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -470,7 +470,7 @@
  {
   "id": "OPEN:01cc0",
   "jp": "いつもと一緒さ",
-  "en": "",
+  "en": "Same as always. A fairy-tale land! A",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -479,7 +479,7 @@
  {
   "id": "OPEN:01cda",
   "jp": "おとぎの国！メルヘンの国！！",
-  "en": "",
+  "en": "storybook world!!",
   "call": "MswStr",
   "box": 167,
   "line": 2,
@@ -496,7 +496,7 @@
  {
   "id": "OPEN:01d44",
   "jp": "平和なせかいにまおうが現れて",
-  "en": "",
+  "en": "A demon lord shows up in a peaceful world",
   "call": "MswStr",
   "box": 169,
   "line": 1,
@@ -505,7 +505,7 @@
  {
   "id": "OPEN:01d6c",
   "jp": "ひめをさらう！！",
-  "en": "",
+  "en": "and kidnaps the princess!!",
   "call": "MswStr",
   "box": 169,
   "line": 2,
@@ -522,7 +522,7 @@
  {
   "id": "OPEN:01dca",
   "jp": "オレはまおうとたたかう！",
-  "en": "",
+  "en": "I fight the demon lord! And I save the",
   "call": "MswStr",
   "box": 171,
   "line": 1,
@@ -531,7 +531,7 @@
  {
   "id": "OPEN:01dee",
   "jp": "ひめを助ける！！！",
-  "en": "",
+  "en": "princess!!!",
   "call": "MswStr",
   "box": 171,
   "line": 2,
@@ -548,7 +548,7 @@
  {
   "id": "OPEN:01e4c",
   "jp": "それで？",
-  "en": "",
+  "en": "And? Is this princess... cuter than me?",
   "call": "MswStr",
   "box": 173,
   "line": 1,
@@ -557,7 +557,7 @@
  {
   "id": "OPEN:01e60",
   "jp": "そのおひめさまは…わたしよりかわいいの？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 173,
   "line": 2,
@@ -574,7 +574,7 @@
  {
   "id": "OPEN:01ed6",
   "jp": "どうかな…",
-  "en": "",
+  "en": "Hmm... Maybe about 100 times cuter.",
   "call": "MswStr",
   "box": 175,
   "line": 1,
@@ -583,7 +583,7 @@
  {
   "id": "OPEN:01eec",
   "jp": "１００倍くらいはかわいいかもな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 175,
   "line": 2,
@@ -600,7 +600,7 @@
  {
   "id": "OPEN:01f56",
   "jp": "あぁ～～～！",
-  "en": "",
+  "en": "Aww~! That's so meeean!",
   "call": "MswStr",
   "box": 177,
   "line": 1,
@@ -609,7 +609,7 @@
  {
   "id": "OPEN:01f6e",
   "jp": "ひっどーーーい",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 177,
   "line": 2,
@@ -626,7 +626,7 @@
  {
   "id": "OPEN:01fc8",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 179,
   "line": 1,
@@ -635,7 +635,7 @@
  {
   "id": "OPEN:01fd6",
   "jp": "でもさぁ",
-  "en": "",
+  "en": "But hey...",
   "call": "MswStr",
   "box": 179,
   "line": 2,
@@ -652,7 +652,7 @@
  {
   "id": "OPEN:0202a",
   "jp": "同じユメを",
-  "en": "",
+  "en": "You've had the same dream 102 times now,",
   "call": "MswStr",
   "box": 181,
   "line": 1,
@@ -661,7 +661,7 @@
  {
   "id": "OPEN:02040",
   "jp": "１０２回も見てるんでしょ？",
-  "en": "",
+  "en": "right?",
   "call": "MswStr",
   "box": 181,
   "line": 2,
@@ -678,7 +678,7 @@
  {
   "id": "OPEN:020a8",
   "jp": "そう！！",
-  "en": "",
+  "en": "Yep!!",
   "call": "MswStr",
   "box": 183,
   "line": 1,
@@ -704,7 +704,7 @@
  {
   "id": "OPEN:0210a",
   "jp": "おかしの家、しゃべる木",
-  "en": "",
+  "en": "Candy houses, talking trees, even birds with",
   "call": "MswStr",
   "box": 185,
   "line": 1,
@@ -713,7 +713,7 @@
  {
   "id": "OPEN:0212c",
   "jp": "３本のクビがある鳥だっている",
-  "en": "",
+  "en": "three heads!",
   "call": "MswStr",
   "box": 185,
   "line": 2,
@@ -730,7 +730,7 @@
  {
   "id": "OPEN:02196",
   "jp": "妖精だってたくさんいる！",
-  "en": "",
+  "en": "And tons and tons of fairies!",
   "call": "MswStr",
   "box": 187,
   "line": 1,
@@ -756,7 +756,7 @@
  {
   "id": "OPEN:02208",
   "jp": "そんなユメを",
-  "en": "",
+  "en": "I've had that dream 102 times!",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -765,7 +765,7 @@
  {
   "id": "OPEN:02220",
   "jp": "１０２回も見てるんだ",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 189,
   "line": 2,
@@ -782,7 +782,7 @@
  {
   "id": "OPEN:02282",
   "jp": "そんなユメみたいなせかいがあったら",
-  "en": "",
+  "en": "If a dreamy world like that really existed,",
   "call": "MswStr",
   "box": 191,
   "line": 1,
@@ -791,7 +791,7 @@
  {
   "id": "OPEN:022b0",
   "jp": "いちどでいいから行ってみたいよ！",
-  "en": "",
+  "en": "I'd wanna go there, even just once!",
   "call": "MswStr",
   "box": 191,
   "line": 2,
@@ -808,7 +808,7 @@
  {
   "id": "OPEN:0231c",
   "jp": "…",
-  "en": "",
+  "en": "...",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -834,7 +834,7 @@
  {
   "id": "OPEN:02376",
   "jp": "そだね！",
-  "en": "",
+  "en": "Yeah! I bet you'll get there!!",
   "call": "MswStr",
   "box": 195,
   "line": 1,
@@ -843,7 +843,7 @@
  {
   "id": "OPEN:0238a",
   "jp": "きっと行けるよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 195,
   "line": 2,
@@ -860,7 +860,7 @@
  {
   "id": "OPEN:023ea",
   "jp": "ホントにそう思うか？",
-  "en": "",
+  "en": "You really think so? You're the only one who",
   "call": "MswStr",
   "box": 197,
   "line": 1,
@@ -869,7 +869,7 @@
  {
   "id": "OPEN:0240a",
   "jp": "小雪だけだぞ、この話して笑わないの",
-  "en": "",
+  "en": "doesn't laugh at this stuff, Koyuki.",
   "call": "MswStr",
   "box": 197,
   "line": 2,
@@ -886,7 +886,7 @@
  {
   "id": "OPEN:02478",
   "jp": "だって、今日見たユメで",
-  "en": "",
+  "en": "Well, today's dream makes 103 times,",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -895,7 +895,7 @@
  {
   "id": "OPEN:0249a",
   "jp": "１０３回目でしょう？",
-  "en": "",
+  "en": "right?",
   "call": "MswStr",
   "box": 199,
   "line": 2,
@@ -912,7 +912,7 @@
  {
   "id": "OPEN:024fa",
   "jp": "うん…",
-  "en": "",
+  "en": "Yeah... You'll get there, for sure!!",
   "call": "MswStr",
   "box": 201,
   "line": 1,
@@ -921,7 +921,7 @@
  {
   "id": "OPEN:0250c",
   "jp": "行けるよ、きっと！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 201,
   "line": 2,
@@ -938,7 +938,7 @@
  {
   "id": "OPEN:0268f",
   "jp": "　　　つ　な　が　っ　た　！",
-  "en": "",
+  "en": "             C  O  N  N  E  C  T  E  D  !",
   "call": "MswStr",
   "box": 211,
   "line": 1
@@ -962,7 +962,7 @@
  {
   "id": "OPEN:028af",
   "jp": "トンネル…",
-  "en": "",
+  "en": "Tunnel... is OPEEEEEN~!",
   "call": "MswStr",
   "box": 222,
   "line": 1,
@@ -971,7 +971,7 @@
  {
   "id": "OPEN:028c5",
   "jp": "カイツウでーーーース♪",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 222,
   "line": 2,
@@ -988,7 +988,7 @@
  {
   "id": "OPEN:029b0",
   "jp": "うわ！なんだこれ！！",
-  "en": "",
+  "en": "Whoa! What is this?! What's going on?!!",
   "call": "MswStr",
   "box": 227,
   "line": 1,
@@ -997,7 +997,7 @@
  {
   "id": "OPEN:029d0",
   "jp": "なにがおきてるんだ！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 227,
   "line": 2,
@@ -1014,7 +1014,7 @@
  {
   "id": "OPEN:02a3c",
   "jp": "なんだありゃーー！！",
-  "en": "",
+  "en": "What the heck is THAT?! It's a monster!!",
   "call": "MswStr",
   "box": 229,
   "line": 1,
@@ -1023,7 +1023,7 @@
  {
   "id": "OPEN:02a5c",
   "jp": "化けものだぁ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 229,
   "line": 2,
@@ -1040,7 +1040,7 @@
  {
   "id": "OPEN:02bb2",
   "jp": "見ろよ小雪！！",
-  "en": "",
+  "en": "Look, Koyuki!!",
   "call": "MswStr",
   "box": 236,
   "line": 1,
@@ -1066,7 +1066,7 @@
  {
   "id": "OPEN:02c1a",
   "jp": "ユメじゃなかったぞ！！！",
-  "en": "",
+  "en": "It wasn't a dream!!!",
   "call": "MswStr",
   "box": 238,
   "line": 1,
@@ -1092,7 +1092,7 @@
  {
   "id": "OPEN:02c8c",
   "jp": "ユメじゃ…",
-  "en": "",
+  "en": "It's not... a dream...!!!",
   "call": "MswStr",
   "box": 240,
   "line": 1,
@@ -1101,7 +1101,7 @@
  {
   "id": "OPEN:02ca2",
   "jp": "ない……！！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 240,
   "line": 2,
@@ -1118,7 +1118,7 @@
  {
   "id": "OPEN:02d04",
   "jp": "見えテル",
-  "en": "",
+  "en": "Looks like you can SEE it, hmmm??",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -1127,7 +1127,7 @@
  {
   "id": "OPEN:02d18",
   "jp": "みたいですネ？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 242,
   "line": 2,
@@ -1144,7 +1144,7 @@
  {
   "id": "OPEN:02d74",
   "jp": "わたし…何も見えない…",
-  "en": "",
+  "en": "I... can't see anything...",
   "call": "MswStr",
   "box": 244,
   "line": 1,
@@ -1170,7 +1170,7 @@
  {
   "id": "OPEN:02de2",
   "jp": "見えるの？",
-  "en": "",
+  "en": "You can see it? Ginta, you can see that",
   "call": "MswStr",
   "box": 246,
   "line": 1,
@@ -1179,7 +1179,7 @@
  {
   "id": "OPEN:02df8",
   "jp": "ギンタにはそのせかいが見えるの？",
-  "en": "",
+  "en": "world?",
   "call": "MswStr",
   "box": 246,
   "line": 2,
@@ -1196,7 +1196,7 @@
  {
   "id": "OPEN:02e6c",
   "jp": "見えている人ダケ",
-  "en": "",
+  "en": "Only those who can SEE may come iiin!!",
   "call": "MswStr",
   "box": 248,
   "line": 1,
@@ -1205,7 +1205,7 @@
  {
   "id": "OPEN:02e88",
   "jp": "お入りくだサイ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 248,
   "line": 2,
@@ -1222,7 +1222,7 @@
  {
   "id": "OPEN:02ee6",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 250,
   "line": 1,
@@ -1248,7 +1248,7 @@
  {
   "id": "OPEN:02ff1",
   "jp": "オレ…いくよ！！",
-  "en": "",
+  "en": "I'm... going!!",
   "call": "MswStr",
   "box": 256,
   "line": 1,
@@ -1274,7 +1274,7 @@
  {
   "id": "OPEN:03061",
   "jp": "バカ何いってるんだギンタ！！",
-  "en": "",
+  "en": "Are you nuts, Ginta?! Get back here, quick!!",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -1283,7 +1283,7 @@
  {
   "id": "OPEN:03089",
   "jp": "早くもどってこい！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 258,
   "line": 2,
@@ -1300,7 +1300,7 @@
  {
   "id": "OPEN:030e9",
   "jp": "………",
-  "en": "",
+  "en": "......",
   "call": "MswStr",
   "box": 260,
   "line": 1,
@@ -1326,7 +1326,7 @@
  {
   "id": "OPEN:03147",
   "jp": "あ～～あ、ずるいなぁ",
-  "en": "",
+  "en": "Aww, no fair... Just you, Ginta... huh...",
   "call": "MswStr",
   "box": 262,
   "line": 1,
@@ -1335,7 +1335,7 @@
  {
   "id": "OPEN:03167",
   "jp": "ギンタだけ…かぁ…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 262,
   "line": 2,
@@ -1352,7 +1352,7 @@
  {
   "id": "OPEN:031c5",
   "jp": "じゃあ約束！",
-  "en": "",
+  "en": "Then it's a promise! Tell me all about it",
   "call": "MswStr",
   "box": 264,
   "line": 1,
@@ -1361,7 +1361,7 @@
  {
   "id": "OPEN:031dd",
   "jp": "後でたくさんきかせてね！！",
-  "en": "",
+  "en": "later!!",
   "call": "MswStr",
   "box": 264,
   "line": 2,
@@ -1378,7 +1378,7 @@
  {
   "id": "OPEN:03245",
   "jp": "…おう！！",
-  "en": "",
+  "en": "...You bet!!",
   "call": "MswStr",
   "box": 266,
   "line": 1,
@@ -1404,7 +1404,7 @@
  {
   "id": "OPEN:032a9",
   "jp": "（ずっとあこがれてた",
-  "en": "",
+  "en": "(A world even farther than the foreign lands",
   "call": "MswStr",
   "box": 268,
   "line": 1,
@@ -1413,7 +1413,7 @@
  {
   "id": "OPEN:032c9",
   "jp": "　外国よりも外のせかい！！）",
-  "en": "",
+  "en": "I always dreamed of!!)",
   "call": "MswStr",
   "box": 268,
   "line": 2,
@@ -1430,7 +1430,7 @@
  {
   "id": "OPEN:03333",
   "jp": "（ワクワクが…）",
-  "en": "",
+  "en": "(I'm so excited...)",
   "call": "MswStr",
   "box": 270,
   "line": 1,
@@ -1456,7 +1456,7 @@
  {
   "id": "OPEN:033be",
   "jp": "（止まらねぇ！！！）",
-  "en": "",
+  "en": "(I can't stand it!!!)",
   "call": "MswStr",
   "box": 273,
   "line": 1,

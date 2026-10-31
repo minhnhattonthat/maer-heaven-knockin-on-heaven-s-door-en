@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE08:00268",
   "jp": "{C0F04}この階だな？",
-  "en": "",
+  "en": "{C0F04}This floor, right?",
   "call": "MswStr",
   "box": 14,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE08:003b9",
   "jp": "{C0F04}もう追っ手が来てるかもしれないっス！",
-  "en": "",
+  "en": "{C0F04}The pursuers might be here already! L-let's",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE08:003f0",
   "jp": "き、気をつけて行くっス！",
-  "en": "",
+  "en": "be careful goin' in!",
   "call": "MswStr",
   "box": 21,
   "line": 2,

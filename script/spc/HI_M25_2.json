@@ -10,7 +10,7 @@
  {
   "id": "HI_M25_2:001d4",
   "jp": "{C0F04}あーコラあかん！",
-  "en": "",
+  "en": "{C0F04}Aw, no good! Only Dorothy-chan can get",
   "call": "MswStr",
   "box": 12,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M25_2:001f7",
   "jp": "ドロシーちゃんしか通れへんわ…",
-  "en": "",
+  "en": "through here...",
   "call": "MswStr",
   "box": 12,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M25_2:00327",
   "jp": "{C0F04}ドロシーにたのむしかないけど",
-  "en": "",
+  "en": "{C0F04}We've got no choice but to ask Dorothy,",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M25_2:00356",
   "jp": "",
-  "en": "",
+  "en": "but...",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M25_2:004ca",
   "jp": "{C0F04}…しょうじき、たのみにくいっス…",
-  "en": "",
+  "en": "{C0F04}...Truth is, I ain't keen on askin' her...",
   "call": "MswStr",
   "box": 28,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "HI_M25_2:006ae",
   "jp": "{C0F04}………",
-  "en": "",
+  "en": "{C0F04}.........",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "HI_M25_2:007e6",
   "jp": "{C0F04}（ひめが気にやむことは",
-  "en": "",
+  "en": "{C0F04}(It is nothing for you to fret over, Princess!)",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "HI_M25_2:0080f",
   "jp": "　ありませんぞ！）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 45,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "HI_M25_2:008c8",
   "jp": "{C0F04}でも…",
-  "en": "",
+  "en": "{C0F04}But...",
   "call": "MswStr",
   "box": 49,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "HI_M25_2:00a62",
   "jp": "{C0F04}だいじょうぶや！",
-  "en": "",
+  "en": "{C0F04}No sweat!",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "HI_M25_2:00b64",
   "jp": "{C0F04}ワイのスーパー口説きテクニックで",
-  "en": "",
+  "en": "{C0F04}I'll win Dorothy-chan over with my super",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "HI_M25_2:00b97",
   "jp": "ドロシーちゃんをせっとくしたろ！",
-  "en": "",
+  "en": "smooth-talkin' technique!",
   "call": "MswStr",
   "box": 63,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "HI_M25_2:00c98",
   "jp": "{C0F04}………",
-  "en": "",
+  "en": "{C0F04}.........",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "HI_M25_2:00cfa",
   "jp": "{C0F04}…よけい…しんぱいっス…",
-  "en": "",
+  "en": "{C0F04}...Now I'm even more worried...",
   "call": "MswStr",
   "box": 70,
   "line": 1,

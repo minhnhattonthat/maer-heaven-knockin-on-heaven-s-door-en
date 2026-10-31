@@ -10,7 +10,7 @@
  {
   "id": "G_EV011C:00553",
   "jp": "{C0F04}子供にまでそんな",
-  "en": "",
+  "en": "{C0F04}Makin' even a kid go through somethin' that",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV011C:00576",
   "jp": "つらい思いをさせちまう…！",
-  "en": "",
+  "en": "painful...!",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV011C:005d5",
   "jp": "{C0F04}それが…",
-  "en": "",
+  "en": "{C0F04}That's...",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV011C:00747",
   "jp": "{C0F04}チェスの兵隊…！！！",
-  "en": "",
+  "en": "{C0F04}The Chess Pieces...!!!",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "G_EV011C:007f3",
   "jp": "{C0F04}オッサン！",
-  "en": "",
+  "en": "{C0F04}Old man!",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "G_EV011C:00857",
   "jp": "{C0F04}チェスのおやぶん",
-  "en": "",
+  "en": "{C0F04}Let's go knock the Chess boss flat!!",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV011C:0087a",
   "jp": "ぶったおしにいこう！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 46,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "G_EV011C:008d7",
   "jp": "{C0F04}どうせねらわれるなら",
-  "en": "",
+  "en": "{C0F04}If they're coming after us anyway, we'll go",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV011C:008fe",
   "jp": "こっちから行くさ！！",
-  "en": "",
+  "en": "to them!!",
   "call": "MswStr",
   "box": 48,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "G_EV011C:00995",
   "jp": "{C0F04}っつっても…",
-  "en": "",
+  "en": "{C0F04}Easy to say, but...",
   "call": "MswStr",
   "box": 51,
   "line": 1,
@@ -192,7 +192,7 @@
  {
   "id": "G_EV011C:009f9",
   "jp": "{C0F04}とおいぞ…？",
-  "en": "",
+  "en": "{C0F04}It's a long way, y'know...?",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV011C:00a9b",
   "jp": "{C0F04}もとのせかいに",
-  "en": "",
+  "en": "{C0F04}Don't ya wanna go back to your own",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV011C:00abc",
   "jp": "かえりたくねぇのか…？",
-  "en": "",
+  "en": "world...?",
   "call": "MswStr",
   "box": 56,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "G_EV011C:00b57",
   "jp": "{C0F04}あとまわしだ！",
-  "en": "",
+  "en": "{C0F04}That can wait!",
   "call": "MswStr",
   "box": 59,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "G_EV011C:00bfd",
   "jp": "{C0F04}オレもこのせかい、まもりてぇ！！",
-  "en": "",
+  "en": "{C0F04}I wanna protect this world too!!",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV011C:00cb3",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "G_EV011C:00d0d",
   "jp": "{C0F04}チェスのしたっぱに負けたやつが",
-  "en": "",
+  "en": "{C0F04}Pretty cocky talk from a guy who lost to a",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV011C:00d3e",
   "jp": "ナマイキいうじゃねぇか！",
-  "en": "",
+  "en": "Chess grunt!",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV011C:00d9b",
   "jp": "{C0F04}ダンナみてーにつよくなれるのか？",
-  "en": "",
+  "en": "{C0F04}Think you can get as strong as Danna?",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "G_EV011C:00e13",
   "jp": "{C0F04}チェスたおせるのかよ！？",
-  "en": "",
+  "en": "{C0F04}Think you can beat the Chess!?",
   "call": "MswStr",
   "box": 71,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "G_EV011C:00f9b",
   "jp": "{C0F04}強くなる！！",
-  "en": "",
+  "en": "{C0F04}I'll get strong!!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "G_EV011C:0103f",
   "jp": "{C0F04}たおす！！",
-  "en": "",
+  "en": "{C0F04}I'll beat 'em!!",
   "call": "MswStr",
   "box": 81,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "G_EV011C:011fa",
   "jp": "{C0F04}ギンタ！",
-  "en": "",
+  "en": "{C0F04}Ginta! That's real cool, y'know!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "G_EV011C:01215",
   "jp": "かっこいいっス！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV011C:0126e",
   "jp": "{C0F04}オイラもいっしょに",
-  "en": "",
+  "en": "{C0F04}I'll protect MÄR Heaven right alongside ya!!",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "G_EV011C:01293",
   "jp": "メルヘヴン、まもるっスよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 92,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "G_EV011C:01334",
   "jp": "{C0F04}おう！！",
-  "en": "",
+  "en": "{C0F04}You got it!!",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -530,7 +530,7 @@
  {
   "id": "G_EV011C:015de",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -556,7 +556,7 @@
  {
   "id": "G_EV011C:01638",
   "jp": "{C0F04}（ダンナ…）",
-  "en": "",
+  "en": "{C0F04}(Danna...)",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "G_EV011C:0169c",
   "jp": "{C0F04}（こいつ、あんたと同じこといってるよ）",
-  "en": "",
+  "en": "{C0F04}(This kid's sayin' the same stuff you used",
   "call": "MswStr",
   "box": 114,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "G_EV011C:016d5",
   "jp": "",
-  "en": "",
+  "en": "to.)",
   "call": "MswStr",
   "box": 114,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV011C:01a90",
   "jp": "{C0F04}よし…",
-  "en": "",
+  "en": "{C0F04}All right...",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "G_EV011C:01aee",
   "jp": "{C0F04}久々にあれでも、やるか！",
-  "en": "",
+  "en": "{C0F04}Been a while... Let's do that thing!",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "G_EV011C:01b9c",
   "jp": "{C0F04}行くぞ！",
-  "en": "",
+  "en": "{C0F04}Let's go!",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV011C:01d1d",
   "jp": "{C0F04}あ…うん！！",
-  "en": "",
+  "en": "{C0F04}Uh... right!!",
   "call": "MswStr",
   "box": 151,
   "line": 1,

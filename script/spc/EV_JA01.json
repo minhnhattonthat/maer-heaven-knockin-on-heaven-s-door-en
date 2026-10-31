@@ -10,7 +10,7 @@
  {
   "id": "EV_JA01:0054c",
   "jp": "{C0F04}家があるぞ！",
-  "en": "",
+  "en": "{C0F04}There's a house!",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_JA01:0069b",
   "jp": "{C0F04}ムム！なにやら、うまそうなにおい！",
-  "en": "",
+  "en": "{C0F04}Hmm! Something smells delicious!",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_JA01:00a39",
   "jp": "{C0F04}…畑だ…",
-  "en": "",
+  "en": "{C0F04}...A field... Wonder what they're growing.",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_JA01:00a54",
   "jp": "なんか育ててるのかな",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_JA01:00f12",
   "jp": "{C0F04}きたっス、母ちゃん！！",
-  "en": "",
+  "en": "{C0F04}They're here, Ma!! It's them!!",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_JA01:00f3b",
   "jp": "ヤツらだ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_JA01:00f90",
   "jp": "{C0F04}オイラ今日こそは！！",
-  "en": "",
+  "en": "{C0F04}Today's the day I...!!",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_JA01:010ed",
   "jp": "{C0F04}およしジャック！",
-  "en": "",
+  "en": "{C0F04}Now, now, don't you dare, Jack!",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_JA01:0115d",
   "jp": "{C0F04}今度こそ",
-  "en": "",
+  "en": "{C0F04}This time they'll kill you for sure!!",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_JA01:01178",
   "jp": "ころされちまうよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 100,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_JA01:014f1",
   "jp": "{C0F04}危ないから母ちゃんはかくれてるっス！！",
-  "en": "",
+  "en": "{C0F04}It's dangerous, so you go hide, Ma!!",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -218,7 +218,7 @@
  {
   "id": "EV_JA01:01660",
   "jp": "{C0F04}ジャック！！",
-  "en": "",
+  "en": "{C0F04}Jack!!",
   "call": "MswStr",
   "box": 128,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_JA01:01ae3",
   "jp": "{C0F04}いいかげんにするっス！！",
-  "en": "",
+  "en": "{C0F04}That's enough outta you!!",
   "call": "MswStr",
   "box": 156,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_JA01:01f45",
   "jp": "{C0F04}この怪物どもーーーーーーーー！！！",
-  "en": "",
+  "en": "{C0F04}You monsterrrrrs!!!",
   "call": "MswStr",
   "box": 182,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_JA01:0235a",
   "jp": "{C0F04}オイラん家の畑をこれ以上ーーーーー…",
-  "en": "",
+  "en": "{C0F04}You ain't touchin' our field no moooore...",
   "call": "MswStr",
   "box": 208,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_JA01:02484",
   "jp": "{C0F04}あ、あんた…",
-  "en": "",
+  "en": "{C0F04}Y-you... who're you???",
   "call": "MswStr",
   "box": 213,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_JA01:024a3",
   "jp": "だれっスか？？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 213,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_JA01:026cc",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 225,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_JA01:02728",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 227,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "EV_JA01:02c9d",
   "jp": "{C0F04}この野菜すんごくウマイ！！",
-  "en": "",
+  "en": "{C0F04}These veggies are super tasty!! Thanks,",
   "call": "MswStr",
   "box": 260,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_JA01:02cca",
   "jp": "ありがとう、おばさん！！",
-  "en": "",
+  "en": "ma'am!!",
   "call": "MswStr",
   "box": 260,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_JA01:02e18",
   "jp": "{C0F04}そうかいそうかい！",
-  "en": "",
+  "en": "{C0F04}Is that so, is that so! Eat up, dear!",
   "call": "MswStr",
   "box": 267,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_JA01:02e3d",
   "jp": "たんとお食べ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 267,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_JA01:03010",
   "jp": "{C0F04}つーか、あんたダレっスか？",
-  "en": "",
+  "en": "{C0F04}I mean, who the heck are ya?",
   "call": "MswStr",
   "box": 277,
   "line": 1,
@@ -478,7 +478,7 @@
  {
   "id": "EV_JA01:030c2",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!!",
   "call": "MswStr",
   "box": 280,
   "line": 1,
@@ -504,7 +504,7 @@
  {
   "id": "EV_JA01:03126",
   "jp": "{C0F04}ちがうせかいから来たばっか！",
-  "en": "",
+  "en": "{C0F04}I just got here from another world! Nice to",
   "call": "MswStr",
   "box": 282,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_JA01:03155",
   "jp": "ヨロシク！",
-  "en": "",
+  "en": "meet ya!",
   "call": "MswStr",
   "box": 282,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_JA01:032b6",
   "jp": "{C0F04}ギンタのやつ、畑に入るなり",
-  "en": "",
+  "en": "{C0F04}The moment Ginta set foot in the field, he",
   "call": "MswStr",
   "box": 290,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_JA01:032e3",
   "jp": "野菜を食ってしまってな！",
-  "en": "",
+  "en": "started eating the vegetables!",
   "call": "MswStr",
   "box": 290,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "EV_JA01:03382",
   "jp": "{C0F04}（これ、ÄＲＭっスよね！）",
-  "en": "",
+  "en": "{C0F04}(These are ÄRM, ain't they!)",
   "call": "MswStr",
   "box": 293,
   "line": 1,
@@ -582,7 +582,7 @@
  {
   "id": "EV_JA01:03464",
   "jp": "{C0F04}（なんで食ってるっスか！！）",
-  "en": "",
+  "en": "{C0F04}(Why's he eatin' 'em?!!)",
   "call": "MswStr",
   "box": 297,
   "line": 1,
@@ -608,7 +608,7 @@
  {
   "id": "EV_JA01:03548",
   "jp": "{C0F04}（なんで生きてるんスか！）",
-  "en": "",
+  "en": "{C0F04}(How's he still alive?!)",
   "call": "MswStr",
   "box": 301,
   "line": 1,
@@ -634,7 +634,7 @@
  {
   "id": "EV_JA01:0369a",
   "jp": "{C0F04}ジャックは私の息子",
-  "en": "",
+  "en": "{C0F04}Jack is my son.",
   "call": "MswStr",
   "box": 307,
   "line": 1,
@@ -660,7 +660,7 @@
  {
   "id": "EV_JA01:0370c",
   "jp": "{C0F04}二人で野菜をつくって、それを食べたり",
-  "en": "",
+  "en": "{C0F04}The two of us grow vegetables, and we get",
   "call": "MswStr",
   "box": 309,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "EV_JA01:03743",
   "jp": "売ったりして生活しているんだよ",
-  "en": "",
+  "en": "by eatin' and sellin' 'em.",
   "call": "MswStr",
   "box": 309,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "EV_JA01:037e6",
   "jp": "{C0F04}そ、そっか…",
-  "en": "",
+  "en": "{C0F04}O-oh, I see... (A mom, huh...)",
   "call": "MswStr",
   "box": 312,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "EV_JA01:03805",
   "jp": "（母ちゃん…か）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 312,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "EV_JA01:0385c",
   "jp": "{C0F04}（元気かな）",
-  "en": "",
+  "en": "{C0F04}(Wonder if she's doing okay.)",
   "call": "MswStr",
   "box": 314,
   "line": 1,
@@ -738,7 +738,7 @@
  {
   "id": "EV_JA01:0395c",
   "jp": "{C0F04}アオォオォオォォン",
-  "en": "",
+  "en": "{C0F04}Aroooooooooooo!",
   "call": "MswStr",
   "box": 320,
   "line": 1,
@@ -764,7 +764,7 @@
  {
   "id": "EV_JA01:03aca",
   "jp": "{C0F04}来たっスね！",
-  "en": "",
+  "en": "{C0F04}Here they come! The werewolf thieves, the",
   "call": "MswStr",
   "box": 328,
   "line": 1,
@@ -773,7 +773,7 @@
  {
   "id": "EV_JA01:03ae9",
   "jp": "人狼のとうぞく{C0904}『ルーガルーブラザーズ』{C0F04}！",
-  "en": "",
+  "en": "{C0904}'Loup-Garou Brothers'{C0F04}!",
   "call": "MswStr",
   "box": 328,
   "line": 2,
@@ -790,7 +790,7 @@
  {
   "id": "EV_JA01:03c4f",
   "jp": "{C0F04}人狼（じんろう）！？",
-  "en": "",
+  "en": "{C0F04}Werewolves?! That's so cool!!",
   "call": "MswStr",
   "box": 335,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "EV_JA01:03c76",
   "jp": "かっこいいな！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 335,
   "line": 2,
@@ -816,7 +816,7 @@
  {
   "id": "EV_JA01:03d0d",
   "jp": "{C0F04}ドロボーにかっこいいも悪いもないっスよ！",
-  "en": "",
+  "en": "{C0F04}Cool or not, a thief's a thief, y'know!",
   "call": "MswStr",
   "box": 338,
   "line": 1,
@@ -842,7 +842,7 @@
  {
   "id": "EV_JA01:03dcf",
   "jp": "{C0F04}…今まで",
-  "en": "",
+  "en": "{C0F04}...Up till now...",
   "call": "MswStr",
   "box": 341,
   "line": 1,
@@ -868,7 +868,7 @@
  {
   "id": "EV_JA01:03e33",
   "jp": "{C0F04}…今まであいつらの前では",
-  "en": "",
+  "en": "{C0F04}...Up till now, around those guys, my legs'd",
   "call": "MswStr",
   "box": 343,
   "line": 1,
@@ -877,7 +877,7 @@
  {
   "id": "EV_JA01:03e5e",
   "jp": "足がふるえて何もできなかった…",
-  "en": "",
+  "en": "shake and I couldn't do nothin'...",
   "call": "MswStr",
   "box": 343,
   "line": 2,
@@ -894,7 +894,7 @@
  {
   "id": "EV_JA01:03f03",
   "jp": "{C0F04}今度こそ…",
-  "en": "",
+  "en": "{C0F04}But this time...",
   "call": "MswStr",
   "box": 346,
   "line": 1,
@@ -920,7 +920,7 @@
  {
   "id": "EV_JA01:03f69",
   "jp": "{C0F04}自分の力で道をひらくっス！",
-  "en": "",
+  "en": "{C0F04}I'm gonna open my own path! I'm done bein'",
   "call": "MswStr",
   "box": 348,
   "line": 1,
@@ -929,7 +929,7 @@
  {
   "id": "EV_JA01:03f96",
   "jp": "いくじなしを捨てるっスよ！！",
-  "en": "",
+  "en": "a coward!!",
   "call": "MswStr",
   "box": 348,
   "line": 2,
@@ -946,7 +946,7 @@
  {
   "id": "EV_JA01:04320",
   "jp": "{C0F04}おまち！！ジャック！！",
-  "en": "",
+  "en": "{C0F04}Wait!! Jack!! They'll kill you!!",
   "call": "MswStr",
   "box": 369,
   "line": 1,
@@ -955,7 +955,7 @@
  {
   "id": "EV_JA01:04349",
   "jp": "ころされちまうよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 369,
   "line": 2,
@@ -972,7 +972,7 @@
  {
   "id": "EV_JA01:0448d",
   "jp": "{C0F04}くそ！！",
-  "en": "",
+  "en": "{C0F04}Darn it!!",
   "call": "MswStr",
   "box": 376,
   "line": 1,

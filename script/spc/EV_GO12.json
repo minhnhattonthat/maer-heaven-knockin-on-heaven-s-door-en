@@ -10,7 +10,7 @@
  {
   "id": "EV_GO12:00a56",
   "jp": "{C0F04}ギンタ！！",
-  "en": "",
+  "en": "{C0F04}Ginta!!",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "EV_GO12:00ba3",
   "jp": "{C0F04}おう！",
-  "en": "",
+  "en": "{C0F04}Hey!",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -62,7 +62,7 @@
  {
   "id": "EV_GO12:00d5a",
   "jp": "{C0F04}ギンターーーー！！",
-  "en": "",
+  "en": "{C0F04}Giiintaaa!!",
   "call": "MswStr",
   "box": 74,
   "line": 1,
@@ -88,7 +88,7 @@
  {
   "id": "EV_GO12:00f76",
   "jp": "{C0F04}おかえりなさいませ！",
-  "en": "",
+  "en": "{C0F04}Welcome back! I am overjoyed to see you",
   "call": "MswStr",
   "box": 85,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_GO12:00f9d",
   "jp": "ごぶじでなによりです！！",
-  "en": "",
+  "en": "safe and sound!!",
   "call": "MswStr",
   "box": 85,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_GO12:01032",
   "jp": "{C0F04}し…しんじられん…",
-  "en": "",
+  "en": "{C0F04}I... I can't believe it...",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_GO12:0109e",
   "jp": "{C0F04}こんな子供が",
-  "en": "",
+  "en": "{C0F04}A mere kid like this beat the Chess?!",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_GO12:010bd",
   "jp": "チェスをたおしたなんて！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_GO12:01205",
   "jp": "{C0F04}なーに",
-  "en": "",
+  "en": "{C0F04}Aw, that weren't nothin'♥",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_GO12:0121e",
   "jp": "かるいもんやで♥",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_GO12:0135c",
   "jp": "{C0F04}ギンタどのも、村の方も",
-  "en": "",
+  "en": "{C0F04}Ginta-dono, good villagers... you must all be",
   "call": "MswStr",
   "box": 104,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_GO12:01385",
   "jp": "なんにせよおつかれでしょう…",
-  "en": "",
+  "en": "quite weary...",
   "call": "MswStr",
   "box": 104,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_GO12:013e6",
   "jp": "{C0F04}ここはひとつ…パーっと",
-  "en": "",
+  "en": "{C0F04}So let us... throw a grand victory feast!!",
   "call": "MswStr",
   "box": 106,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_GO12:0140f",
   "jp": "祝いのうたげといきましょうぞ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 106,
   "line": 2,

@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE01:00952",
   "jp": "{C0F04}すっげーーー！！",
-  "en": "",
+  "en": "{C0F04}Awesooome!! This castle's frozen!",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_ICE01:00975",
   "jp": "この城（しろ）、こおってるぞ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 56,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE01:00ac5",
   "jp": "{C0F04}でも、この城の",
-  "en": "",
+  "en": "{C0F04}But it's just around this castle, y'know!!",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE01:00ae6",
   "jp": "まわりだけっスよ！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 63,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE01:00c94",
   "jp": "{C0F04}ひめさまがみずからふうじたのです",
-  "en": "",
+  "en": "{C0F04}The Princess sealed it herself... body and",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_ICE01:00cc7",
   "jp": "ごじしんの、体ごと…",
-  "en": "",
+  "en": "all...",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE01:00d60",
   "jp": "{C0F04}…どうして！？",
-  "en": "",
+  "en": "{C0F04}...Why?!",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE01:00e04",
   "jp": "{C0F04}…その身をねらわれているからです！",
-  "en": "",
+  "en": "{C0F04}...Because someone is after her life!",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE01:00e7e",
   "jp": "{C0F04}とおくはなれたわが国に",
-  "en": "",
+  "en": "{C0F04}In our country, far, far away... came the",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_ICE01:00ea7",
   "jp": "あたらしく来た王妃…",
-  "en": "",
+  "en": "new Queen...",
   "call": "MswStr",
   "box": 80,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE01:00f00",
   "jp": "{C0F04}よこしまな欲望にみをまかせ",
-  "en": "",
+  "en": "{C0F04}She gave herself over to wicked desires",
   "call": "MswStr",
   "box": 82,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_ICE01:00f2d",
   "jp": "国のけんりょくをにぎり",
-  "en": "",
+  "en": "and seized power in the land...",
   "call": "MswStr",
   "box": 82,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_ICE01:00f88",
   "jp": "{C0F04}きにいらないものを",
-  "en": "",
+  "en": "{C0F04}One after another, she made all who",
   "call": "MswStr",
   "box": 84,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_ICE01:00fad",
   "jp": "つぎつぎに消していき…",
-  "en": "",
+  "en": "displeased her vanish...",
   "call": "MswStr",
   "box": 84,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE01:01008",
   "jp": "{C0F04}そのねらいが、ついに",
-  "en": "",
+  "en": "{C0F04}And at last, her schemes reached even the",
   "call": "MswStr",
   "box": 86,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_ICE01:0102f",
   "jp": "ひめさまにまでおよんだのです！",
-  "en": "",
+  "en": "Princess!",
   "call": "MswStr",
   "box": 86,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE01:010d4",
   "jp": "{C0F04}ひどい…！",
-  "en": "",
+  "en": "{C0F04}That's awful...!",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -270,7 +270,7 @@
  {
   "id": "EV_ICE01:01136",
   "jp": "{C0F04}それに気付いた私たちは国を出て",
-  "en": "",
+  "en": "{C0F04}When we realized it, we fled the country...",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_ICE01:01167",
   "jp": "海をこえ山をこえ…にげました",
-  "en": "",
+  "en": "across seas, over mountains...",
   "call": "MswStr",
   "box": 91,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_ICE01:011c8",
   "jp": "{C0F04}しかし、ついにこの",
-  "en": "",
+  "en": "{C0F04}But at last, we were cornered on this island",
   "call": "MswStr",
   "box": 93,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_ICE01:011ed",
   "jp": "さいはての島においつめられ…",
-  "en": "",
+  "en": "at the edge of the world...",
   "call": "MswStr",
   "box": 93,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_ICE01:0128c",
   "jp": "{C0F04}ひめさまは…",
-  "en": "",
+  "en": "{C0F04}And the Princess... sealed herself away!!",
   "call": "MswStr",
   "box": 96,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_ICE01:012ab",
   "jp": "みずからをふうじたのです！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 96,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_ICE01:0130e",
   "jp": "{C0F04}…！",
-  "en": "",
+  "en": "{C0F04}...!",
   "call": "MswStr",
   "box": 98,
   "line": 1,
@@ -374,7 +374,7 @@
  {
   "id": "EV_ICE01:0136a",
   "jp": "{C0F04}もう追っ手が中にいるかも",
-  "en": "",
+  "en": "{C0F04}Her pursuers may already be inside.",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_ICE01:01395",
   "jp": "しれません",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 100,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_ICE01:013e4",
   "jp": "{C0F04}もしそうでなかったとしても",
-  "en": "",
+  "en": "{C0F04}And even if they are not, we must hurry...",
   "call": "MswStr",
   "box": 102,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_ICE01:01411",
   "jp": "いそがないと…",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 102,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "EV_ICE01:01464",
   "jp": "{C0F04}つめたい氷の中で",
-  "en": "",
+  "en": "{C0F04}Inside that cold ice, the Princess's life is...!!",
   "call": "MswStr",
   "box": 104,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "EV_ICE01:01487",
   "jp": "ひめさまのお命は…！！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 104,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_ICE01:01522",
   "jp": "{C0F04}よし、まかせろ！！",
-  "en": "",
+  "en": "{C0F04}Okay, leave it to me!!",
   "call": "MswStr",
   "box": 107,
   "line": 1,

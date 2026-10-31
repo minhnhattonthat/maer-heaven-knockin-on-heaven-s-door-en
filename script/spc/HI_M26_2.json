@@ -10,7 +10,7 @@
  {
   "id": "HI_M26_2:00276",
   "jp": "この先に…あるのか？？",
-  "en": "",
+  "en": "Is it... up ahead??",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -36,7 +36,7 @@
  {
   "id": "HI_M26_2:00316",
   "jp": "…むぅ…かんじる！かんじるぞ！！",
-  "en": "",
+  "en": "...Mmm... I sense it! I sense it! I sense a",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M26_2:00342",
   "jp": "つよい魔力（まりょく）をかんじる！",
-  "en": "",
+  "en": "powerful magic power!",
   "call": "MswStr",
   "box": 19,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "HI_M26_2:004bc",
   "jp": "（へへへ）",
-  "en": "",
+  "en": "(Heh heh heh)",
   "call": "MswStr",
   "box": 27,
   "line": 1,

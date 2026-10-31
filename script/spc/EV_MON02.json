@@ -10,7 +10,7 @@
  {
   "id": "EV_MON02:00472",
   "jp": "{C0F04}…以上が、しれんのないようです",
-  "en": "",
+  "en": "{C0F04}...And that's what the trial is all about. Did",
   "call": "MswStr",
   "box": 35,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_MON02:004a3",
   "jp": "わかりました？",
-  "en": "",
+  "en": "you understand?",
   "call": "MswStr",
   "box": 35,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_MON02:005c3",
   "jp": "{C0F04}ようするに、どんどん進んでいけば",
-  "en": "",
+  "en": "{C0F04}So basically, we just keep pushing forward,",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_MON02:005f6",
   "jp": "いいんだな？",
-  "en": "",
+  "en": "right?",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_MON02:00649",
   "jp": "{C0F04}あなたのシックスセンスをとぎすまして",
-  "en": "",
+  "en": "{C0F04}Sharpen your sixth sense and find the right",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_MON02:00680",
   "jp": "正しい道をみつけてください",
-  "en": "",
+  "en": "path.",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_MON02:006e1",
   "jp": "{C0F04}ジャックもちがう空間で",
-  "en": "",
+  "en": "{C0F04}I bet Jack's doing his best in some other",
   "call": "MswStr",
   "box": 46,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_MON02:0070a",
   "jp": "がんばってるんだろうな",
-  "en": "",
+  "en": "space, too.",
   "call": "MswStr",
   "box": 46,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_MON02:0085f",
   "jp": "{C0F04}いっちょやるか",
-  "en": "",
+  "en": "{C0F04}Let's do this, Snow!",
   "call": "MswStr",
   "box": 53,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_MON02:00880",
   "jp": "スノウ！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 53,
   "line": 2,
@@ -140,7 +140,7 @@
  {
   "id": "EV_MON02:0099a",
   "jp": "{C0F04}うんっ！！",
-  "en": "",
+  "en": "{C0F04}Yeah!!",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -166,7 +166,7 @@
  {
   "id": "EV_MON02:009fe",
   "jp": "{C0F04}アラン様からギンタさんに",
-  "en": "",
+  "en": "{C0F04}Alan-sama has something for you,",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_MON02:00a29",
   "jp": "とどけものがあります",
-  "en": "",
+  "en": "Ginta-san.",
   "call": "MswStr",
   "box": 62,
   "line": 2,
@@ -184,7 +184,7 @@
  {
   "id": "EV_MON02:00b17",
   "jp": "{C0D04}ハンマーアーム{C0F04}、{C0D04}ダガーアーム{C0F04}、",
-  "en": "",
+  "en": "{C0D04}Hammer ÄRM{C0F04}, {C0D04}Dagger ÄRM{C0F04}, and",
   "call": "MswStr",
   "box": 71,
   "line": 0
@@ -192,7 +192,7 @@
  {
   "id": "EV_MON02:00b5d",
   "jp": "{C0D04}バブルランチャー{C0F04}を",
-  "en": "",
+  "en": "{C0D04}Bubble Launcher{C0F04}",
   "call": "MswStr",
   "box": 71,
   "line": 1
@@ -200,7 +200,7 @@
  {
   "id": "EV_MON02:00b89",
   "jp": "もらった！",
-  "en": "",
+  "en": "received!",
   "call": "MswStr",
   "box": 71,
   "line": 2
@@ -216,7 +216,7 @@
  {
   "id": "EV_MON02:00c1c",
   "jp": "{C0F04}マジックストーンを使うときは、デッキに",
-  "en": "",
+  "en": "{C0F04}When you use Magic Stones, don't forget to",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "EV_MON02:00c55",
   "jp": "入れるのをわすれないでくださいね",
-  "en": "",
+  "en": "put them in your deck.",
   "call": "MswStr",
   "box": 75,
   "line": 2,
@@ -242,7 +242,7 @@
  {
   "id": "EV_MON02:00cbc",
   "jp": "{C0F04}では、ゴールでまたお会いしましょう",
-  "en": "",
+  "en": "{C0F04}Well then, I'll see you again at the goal.",
   "call": "MswStr",
   "box": 77,
   "line": 1,

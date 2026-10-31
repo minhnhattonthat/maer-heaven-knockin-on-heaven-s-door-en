@@ -10,7 +10,7 @@
  {
   "id": "EV_ICE07:003b7",
   "jp": "{C0F04}なぁエド…",
-  "en": "",
+  "en": "{C0F04}Hey, Ed... What's this Princess like??",
   "call": "MswStr",
   "box": 20,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_ICE07:003d4",
   "jp": "ひめさまってどんな人？？",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 20,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE07:0051a",
   "jp": "{C0F04}やさしい…",
-  "en": "",
+  "en": "{C0F04}A kind... and pure-hearted lady.",
   "call": "MswStr",
   "box": 27,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE07:00537",
   "jp": "心のきよらかなお方です",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 27,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_ICE07:00592",
   "jp": "{C0F04}この城（しろ）にたどりついて",
-  "en": "",
+  "en": "{C0F04}When we reached this castle, before the",
   "call": "MswStr",
   "box": 29,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_ICE07:005c1",
   "jp": "おってが来るまえに",
-  "en": "",
+  "en": "pursuers came...",
   "call": "MswStr",
   "box": 29,
   "line": 2,
@@ -88,7 +88,7 @@
  {
   "id": "EV_ICE07:00618",
   "jp": "{C0F04}助けをよびなさい、と…",
-  "en": "",
+  "en": "{C0F04}\"Go call for help,\" she said... \"Flee from",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_ICE07:00641",
   "jp": "ここからにげなさい、と…",
-  "en": "",
+  "en": "here,\" she said...",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "EV_ICE07:0069e",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}...",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE07:00736",
   "jp": "{C0F04}そういって、おそらくわたしだけでも",
-  "en": "",
+  "en": "{C0F04}I believe that, in saying so, she meant to",
   "call": "MswStr",
   "box": 36,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_ICE07:0076b",
   "jp": "助けるおつもりだったのでしょう",
-  "en": "",
+  "en": "save at least me.",
   "call": "MswStr",
   "box": 36,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE07:007ce",
   "jp": "{C0F04}守らねばならぬ方に",
-  "en": "",
+  "en": "{C0F04}The one I must protect... ended up",
   "call": "MswStr",
   "box": 38,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_ICE07:007f3",
   "jp": "守られてしまった…",
-  "en": "",
+  "en": "protecting me...",
   "call": "MswStr",
   "box": 38,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_ICE07:0084a",
   "jp": "{C0F04}どちらが家臣（かしん）か、わかりません",
-  "en": "",
+  "en": "{C0F04}I cannot tell which of us is the retainer. It",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_ICE07:00883",
   "jp": "かなしくなってきます…",
-  "en": "",
+  "en": "makes me so very sad...",
   "call": "MswStr",
   "box": 40,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_ICE07:0091e",
   "jp": "{C0F04}そんなかお、すんなよ！",
-  "en": "",
+  "en": "{C0F04}Don't make that face!",
   "call": "MswStr",
   "box": 43,
   "line": 1,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE07:0098e",
   "jp": "{C0F04}そのひめさま、おまえを",
-  "en": "",
+  "en": "{C0F04}That Princess of yours trusts you from the",
   "call": "MswStr",
   "box": 45,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_ICE07:009b7",
   "jp": "心のそこからしんじてるんだよ",
-  "en": "",
+  "en": "bottom of her heart.",
   "call": "MswStr",
   "box": 45,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_ICE07:00a1a",
   "jp": "{C0F04}ぜったい助けようぜ！！",
-  "en": "",
+  "en": "{C0F04}We're gonna save her, no matter what!!",
   "call": "MswStr",
   "box": 47,
   "line": 1,
@@ -296,7 +296,7 @@
  {
   "id": "EV_ICE07:00ac6",
   "jp": "{C0F04}は、はい！",
-  "en": "",
+  "en": "{C0F04}Y-yes!",
   "call": "MswStr",
   "box": 50,
   "line": 1,
@@ -322,7 +322,7 @@
  {
   "id": "EV_ICE07:00b28",
   "jp": "{C0F04}（この少年といっしょにいると",
-  "en": "",
+  "en": "{C0F04}(Being with this boy... puts me so much at",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_ICE07:00b57",
   "jp": "　すごく安心できる…）",
-  "en": "",
+  "en": "ease...)",
   "call": "MswStr",
   "box": 52,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_ICE07:00bb2",
   "jp": "{C0F04}（じぶんのなかにいる",
-  "en": "",
+  "en": "{C0F04}(And the other me inside me, too...)",
   "call": "MswStr",
   "box": 54,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_ICE07:00bd9",
   "jp": "　もうひとりのじぶんも…）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 54,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_ICE07:00c38",
   "jp": "{C0F04}（きっと…）",
-  "en": "",
+  "en": "{C0F04}(Surely...)",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -400,7 +400,7 @@
  {
   "id": "EV_ICE07:00db4",
   "jp": "{C0F04}へぃっくし！！",
-  "en": "",
+  "en": "{C0F04}Ah-CHOO!!",
   "call": "MswStr",
   "box": 63,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "EV_ICE07:00e1c",
   "jp": "{C0F04}あ”～～～～～～…",
-  "en": "",
+  "en": "{C0F04}Uuuuuuugh...",
   "call": "MswStr",
   "box": 65,
   "line": 1,
@@ -452,7 +452,7 @@
  {
   "id": "EV_ICE07:00f34",
   "jp": "{C0F04}…ギンタ、はなみずが",
-  "en": "",
+  "en": "{C0F04}...Ginta, your snot's turned into 'crystal",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_ICE07:00f5b",
   "jp": "『クリスタルはなみず』になってるっス",
-  "en": "",
+  "en": "snot', y'know.",
   "call": "MswStr",
   "box": 70,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "EV_ICE07:01070",
   "jp": "{C0F04}うむ！",
-  "en": "",
+  "en": "{C0F04}Indeed! A little Nature ÄRM, that is!",
   "call": "MswStr",
   "box": 75,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "EV_ICE07:01089",
   "jp": "ちょっとしたネイチャーÄＲＭじゃな！",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 75,
   "line": 2,
@@ -504,7 +504,7 @@
  {
   "id": "EV_ICE07:0119c",
   "jp": "{C0F04}…",
-  "en": "",
+  "en": "{C0F04}... (Can I really trust these two?!)",
   "call": "MswStr",
   "box": 80,
   "line": 1,
@@ -513,7 +513,7 @@
  {
   "id": "EV_ICE07:011b1",
   "jp": "（信じてよいのかっ！？）",
-  "en": "",
+  "en": " ",
   "call": "MswStr",
   "box": 80,
   "line": 2,
