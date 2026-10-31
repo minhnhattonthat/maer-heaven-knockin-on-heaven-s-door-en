@@ -29,13 +29,20 @@ def load_writes(path):
 		writes.append((int(parts[0], 16), bytes.fromhex(parts[1]), bytes.fromhex(parts[2]), writer))
 	return writes
 
+def diffs(a, b, lo, hi):
+	"""Offsets in [lo, hi) where a and b differ."""
+	if a[lo:hi] == b[lo:hi]:
+		return []
+	return [lo + i for i, (x, y) in enumerate(zip(a[lo:hi], b[lo:hi])) if x != y]
+
 def check(orig, new, allowed, writes):
-	"""Returns a list of error lines and the count of allowed diffs."""
+	"""allowed: [(lo, hi)] half-open ranges. Returns a list of error lines and the count of allowed diffs.
+	Ranges, not a set of offsets: a 16 MiB ROM with a 14 MiB rebuilt archive would need gigabytes as a set."""
 	errs = []
 	if len(new) < len(orig):
 		return ["NEW is shorter than ORIG (%d < %d)" % (len(new), len(orig))], 0
 	padded = orig + b"\xff" * (len(new) - len(orig))
-	covered = set(allowed)
+	spans = list(allowed)
 	last_end, last_by = -1, None
 	for off, want_orig, want_new, by in sorted(writes):
 		end = off + len(want_orig)
@@ -44,18 +51,19 @@ def check(orig, new, allowed, writes):
 		if end > last_end:
 			last_end, last_by = end, by
 		if padded[off:end] != want_orig:
-			errs.append("0x%06X: %s expects orig %s, ORIG has %s" % (off, by, want_orig.hex(), padded[off:end].hex()))
+			errs.append("0x%06X: %s expects orig %s, ORIG has %s" % (off, by, want_orig[:16].hex(), padded[off:end][:16].hex()))
 		if new[off:end] != want_new:
-			errs.append("0x%06X: %s wrote %s, NEW has %s (overwritten later?)" % (off, by, want_new.hex(), new[off:end].hex()))
-		covered.update(range(off, end))
-	bad, ok = [], 0
-	for i in range(len(new)):
-		if padded[i] == new[i]:
-			continue
-		if i in covered:
-			ok += 1
-		else:
-			bad.append(i)
+			errs.append("0x%06X: %s wrote %s, NEW has %s (overwritten later?)" % (off, by, want_new[:16].hex(), new[off:end][:16].hex()))
+		spans.append((off, end))
+	bad, ok, pos = [], 0, 0
+	for lo, hi in sorted(spans):
+		lo = max(lo, pos)
+		if lo > pos:
+			bad += diffs(padded, new, pos, lo)
+		if hi > lo:
+			ok += len(diffs(padded, new, lo, hi))
+			pos = hi
+	bad += diffs(padded, new, pos, len(new))
 	for i in bad[:50]:
 		o = ("%02X" % orig[i]) if i < len(orig) else "--"
 		errs.append("0x%06X: orig=%s new=%02X" % (i, o, new[i]))
@@ -67,12 +75,14 @@ def selftest():
 	orig = bytes(range(16))
 	new = bytearray(orig); new[2:4] = b"\xaa\xbb"; new[10] = 0x99
 	w = [(2, b"\x02\x03", b"\xaa\xbb", "text")]
-	assert check(orig, bytes(new), {10}, w)[0] == []
-	assert check(orig, bytes(new), set(), w)[0][-1].startswith("1 differing")          # 0x0A not covered
-	assert "expects orig" in check(orig, bytes(new), {10}, [(2, b"\x00\x00", b"\xaa\xbb", "t")])[0][0]
-	assert "overwritten" in check(orig, bytes(new), {10}, [(2, b"\x02\x03", b"\xaa\xcc", "t")])[0][0]
-	assert "overlaps" in check(orig, bytes(new), {10}, w + [(3, b"\x03", b"\xbb", "ptr")])[0][0]
-	assert check(orig, bytes(new) + b"\xff", {10}, w)[0] == []                        # 0xFF tail is unchanged
+	a = [(10, 11)]
+	assert check(orig, bytes(new), a, w) == ([], 3)
+	assert check(orig, bytes(new), [], w)[0][-1].startswith("1 differing")          # 0x0A not covered
+	assert check(orig, bytes(new), [(0, 3), (1, 2)], [])[0][-1].startswith("2 differing")  # 0x03, 0x0A
+	assert "expects orig" in check(orig, bytes(new), a, [(2, b"\x00\x00", b"\xaa\xbb", "t")])[0][0]
+	assert "overwritten" in check(orig, bytes(new), a, [(2, b"\x02\x03", b"\xaa\xcc", "t")])[0][0]
+	assert "overlaps" in check(orig, bytes(new), a, w + [(3, b"\x03", b"\xbb", "ptr")])[0][0]
+	assert check(orig, bytes(new) + b"\xff", a, w)[0] == []                        # 0xFF tail is unchanged
 	print("selftest ok")
 
 def main(argv):
@@ -86,11 +96,11 @@ def main(argv):
 	if len(args) < 2:
 		sys.exit(__doc__)
 	orig, new = (open(p, "rb").read() for p in args[:2])
-	allowed = set()
+	allowed = []
 	for arg in args[2:]:                       # "FFD7" or "200000-20FFFF" (inclusive, hex)
 		lo, _, hi = arg.partition("-")
 		lo = int(lo, 16); hi = int(hi, 16) if hi else lo
-		allowed.update(range(lo, hi + 1))
+		allowed.append((lo, hi + 1))
 	errs, ok = check(orig, new, allowed, writes)
 	for e in errs:
 		print(e)

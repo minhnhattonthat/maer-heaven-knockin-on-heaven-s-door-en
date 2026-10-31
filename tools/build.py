@@ -32,10 +32,18 @@ OUT = ROOT / "build" / "maer_en.gba"
 SCRIPT = ROOT / "script"
 
 
-def build(rom, edits=None, recompress=False, patch_engine=False):
+def put(out, off, data, by, log):
+    """Every ROM write goes through here; log gets (offset, bytes replaced, bytes written, writer) for
+    romdiff.check (tests/test_romdiff.py: overlaps, overwrites, writes outside the allowed ranges)."""
+    if log is not None:
+        log.append((off, bytes(out[off:off + len(data)]), bytes(data), by))
+    out[off:off + len(data)] = data
+
+
+def build(rom, edits=None, recompress=False, patch_engine=False, log=None):
     """edits: {SPC name: {CODE pos of a 0x10 op: new string bytes}}.
     recompress: re-pack every LZ77 script with our compressor (test ROM: proves our LZ77 and the moved archive).
-    patch_engine: English font + VWF hooks (tools/engine.py)."""
+    patch_engine: English font + VWF hooks (tools/engine.py). log: see put()."""
     edits = edits or {}
     files = []
     for name, b in nfp.unpack(rom):
@@ -50,11 +58,11 @@ def build(rom, edits=None, recompress=False, patch_engine=False):
     blocks = nfp.pack(files, rom[nfp.BASE:nfp.BASE + 0x40])
     out = bytearray(rom)
     for off, b in blocks.items():
-        out[off:off + len(b)] = b
+        put(out, off, b, 'archive', log)
     end = nfp.BASE + len(blocks[nfp.BASE])
-    out[end:nfp.END] = bytes(nfp.END - end)
+    put(out, end, bytes(nfp.END - end), 'archive fill', log)
     if patch_engine:
-        engine.apply(out)
+        engine.apply(out, log)
     return bytes(out)
 
 
@@ -104,7 +112,7 @@ def marker(lines, px=184):
 STRINGS = (0xFE8000, engine.FREE_END)  # relocated code-block strings (after the engine hooks at 0xFE4000)
 
 
-def patch_code(out, entries):
+def patch_code(out, entries, log=None):
     """Code-block strings with `en`: written to free space, every pointer in `refs` repointed (refs to the middle,
     `subrefs`, get their own copy of the tail: `en_sub` {offset: text} or the tail of `en` at the same offset)."""
     at = STRINGS[0]
@@ -116,11 +124,11 @@ def patch_code(out, entries):
             targets.append((text.encode_en(e.get('en_sub', {}).get(k, '')) or targets[0][0], refs))
         for b, refs in targets:
             assert at + len(b) + 1 <= STRINGS[1], 'string space full'
-            out[at:at + len(b) + 1] = b + b'\0'
+            put(out, at, b + b'\0', e['id'], log)
             for r in refs:
                 r = int(r, 16)
                 assert out[r + 3] == 0x08, (e['id'], hex(r))
-                out[r:r + 4] = (0x08000000 + at).to_bytes(4, 'little')
+                put(out, r, (0x08000000 + at).to_bytes(4, 'little'), e['id'] + ' ref', log)
             at = (at + len(b) + 4) & ~3
 
 
@@ -146,14 +154,13 @@ def fit_code(entries, wins=None):
                 gap -= min(gap, 31)
 
 
-def patch_records(out, entries):
+def patch_records(out, entries, log=None):
     """ARM/item name and description fields with `en`, in place (field 0x22 bytes: max 33 + NUL)."""
     for e in entries:
         if e.get('en'):
             b = text.encode_en(e['en'])
             assert len(b) <= e['max'], (e['id'], len(b))
-            a = int(e['addr'], 16)
-            out[a:a + e['max'] + 1] = b.ljust(e['max'] + 1, b'\0')
+            put(out, int(e['addr'], 16), b.ljust(e['max'] + 1, b'\0'), e['id'], log)
 
 
 def marker_tables(code, records):
@@ -168,6 +175,22 @@ def marker_tables(code, records):
         e['en'] = ('[r%d]' % n + 'Quick brown fox jumps over the lazy dog')[:e['max']]
 
 
+def make(rom, lines, code, records, recompress=False, log=None):
+    """The ROM for script lines + code strings + records (their `en`); no English at all = identity build."""
+    edits = edits_from(lines)
+    english = bool(edits) or any(e.get('en') for e in code + records)
+    if english:
+        fit_code(code)
+    b = bytearray(build(rom, edits, recompress=recompress, patch_engine=english, log=log))
+    patch_code(b, code, log)
+    patch_records(b, records, log)
+    return bytes(b)
+
+
+def load_tables():
+    return [json.loads((SCRIPT / n).read_text(encoding='utf-8')) for n in ('code.json', 'records.json')]
+
+
 def main(a):
     check_rom.check()
     rom = ROM.read_bytes()
@@ -177,8 +200,7 @@ def main(a):
     out = Path(a[0]) if a else OUT
     out.parent.mkdir(parents=True, exist_ok=True)
     lines = script_lines()
-    code = json.loads((SCRIPT / 'code.json').read_text(encoding='utf-8'))
-    records = json.loads((SCRIPT / 'records.json').read_text(encoding='utf-8'))
+    code, records = load_tables()
     if mk:
         lines, ids = marker(lines)
         marker_tables(code, records)
@@ -197,14 +219,7 @@ def main(a):
             e['en'] = e['jp'] if wins.get(e['id'], {}).get('keep') else t.get(e['id'], e['en'])
     qa = dict(x.split('=', 1) for x in qa_args)
     lines = [(s, dict(e, en=qa[e['id']]) if e['id'] in qa else e) for s, e in lines]
-    edits = edits_from(lines)
-    english = bool(edits) or any(e.get('en') for e in code + records)
-    if english:  # no English at all = identity build (tests/test_build.py)
-        fit_code(code)
-    b = bytearray(build(rom, edits, recompress=rc, patch_engine=english))
-    patch_code(b, code)
-    patch_records(b, records)
-    b = bytes(b)
+    b = make(rom, lines, code, records, rc)
     out.write_bytes(b)
     print('%s %s%s' % (out, hashlib.sha1(b).hexdigest(), ' (identical to original)' if b == rom else ''))
 

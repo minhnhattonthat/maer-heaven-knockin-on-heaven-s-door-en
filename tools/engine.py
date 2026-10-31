@@ -480,9 +480,11 @@ def patches():
     return out + format_patches()
 
 
-def apply(rom):
-    """Write every patch into a bytearray ROM, asserting the original bytes."""
+def apply(rom, log=None):
+    """Write every patch into a bytearray ROM, asserting the original bytes. log: see build.put()."""
     for off, orig, new in patches():
         assert rom[off:off + len(orig)] == orig, ('unexpected bytes at %X' % off, rom[off:off + len(orig)].hex(), orig.hex())
+        if log is not None:
+            log.append((off, bytes(rom[off:off + len(new)]), new, 'engine'))
         rom[off:off + len(new)] = new
     return rom

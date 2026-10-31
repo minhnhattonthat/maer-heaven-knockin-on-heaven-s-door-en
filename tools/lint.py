@@ -18,6 +18,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
+import build  # noqa: E402
 import engine  # noqa: E402
 import text  # noqa: E402
 
@@ -97,11 +98,6 @@ def is_label(e):
     return e['line'] == 0 and e['jp'].startswith('{C0D04}［')
 
 
-def code_windows():
-    w = WIN['code']
-    return {i: dict(v, name=k) for k, v in w.items() if not k.startswith('_') for i in v['ids']}
-
-
 def code_errors(e, en, win):
     """Errors for one code string's English against its window spec."""
     errs = char_errors(en)
@@ -146,7 +142,15 @@ def lint():
             jc, ec = sum((codes(e['jp']) for e in v), []), sum((codes(e['en']) for e in v), [])
             if jc != ec:
                 errs.append('%s:%d box: codes %s != jp %s' % (spc, box, ec, jc))
-    wins = code_windows()
+    # Japanese left untranslated: only the debug chapter select, `keep` windows and blank (fullwidth-space) fields
+    keep_spc = {s[:-4] for s in build.KEEP_SCRIPTS}
+    wins = build.code_windows()
+    errs += ['%s: jp without en' % e['id'] for p in sorted((SCRIPT / 'spc').glob('*.json')) if p.stem not in keep_spc
+             for e in load(p) if e['jp'].strip('　') and not e.get('en')]
+    errs += ['%s: jp without en' % e['id'] for e in load(SCRIPT / 'code.json')
+             if not e.get('en') and not wins.get(e['id'], {}).get('keep')]
+    errs += ['%s: jp without en' % e['id'] for e in load(SCRIPT / 'records.json')
+             if e['jp'].strip('　') and not e.get('en')]
     for e in load(SCRIPT / 'code.json'):
         if e.get('en'):
             errs += ['%s: %s' % (e['id'], x) for x in code_errors(e, e['en'], wins.get(e['id'], {'name': '?'}))]

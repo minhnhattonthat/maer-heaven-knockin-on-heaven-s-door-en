@@ -67,7 +67,7 @@ def units(store=None):
         seen[key] = uid
         out[uid] = dict(kind='script', speaker=spk, form='dlg' if lab else 'narration', lines=len(slots),
                         limit='%dx%dpx' % (len(slots), lint.LINE_PX), jp=' / '.join(key[1]), members=[slots])
-    wins = lint.code_windows()
+    wins = lint.build.code_windows()
     for e in store[SCRIPT / 'code.json']:
         w = wins.get(e['id'], {'name': '?'})
         if w.get('keep'):
