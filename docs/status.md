@@ -2,9 +2,21 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 done (2026-11-01); next is phase 8 (QA in the emulator: visual-QA tour with verdicts, graphics
-  text). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
+- **Phase:** 8 in progress (QA in the emulator: graphics text first, then the visual-QA tour with verdicts). `build/maer_en.gba` = full English build (every script line, code string and record; 73/73 warps ok).
   Other builds: `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`).
+- **Phase 8 in progress (2026-11-01): graphics text.** `tools/gfxtext.py` letters NCD sprite frames from
+  `gfx/<BANK>.tsv` (`frames<TAB>English<TAB>options`; options in its docstring; `check`, `preview`, `colors`;
+  build applies it to SYSTEM.NCD/EFFECT.NCD). Every lettered frame is relaid onto fresh sprites: 32-wide objects
+  only (16/8-wide ones showed 8-16 px off in game), one run of consecutive tiles (free runs left by other relaid
+  frames first, else appended), OAM tail tile count is **big-endian** (byte 19; LE = nothing loads). Growth limit:
+  SYSTEM.NCD must end before the fixed block 0xF28406 (~90 KB slack minus script growth; now +39 KB): past it the
+  build fails "archive past 0xFE0000". Fonts: Pixelify Sans Medium 13/11 (OFL) + vwf8 (small, Ä added).
+  Done in SYSTEM.tsv and seen in game: main menu, mode banners, area names, gate banners, tags, command windows,
+  smith menu, prompts, button hints, link messages (link/prompts/smith not seen in game yet). **Left:** credits
+  1698-1781 (narrow 16-px frames; widen with w=), big mode banners 1889-1892/1898-1906, round type icons 0624-0635,
+  0054/0700 check, EFFECT 0386-0389 封印 / 0402-0406 パラメータ, BG screens (T_TTL06 title logo + katakana,
+  T_C01 copyright, SM_BG12, SP_BG12 しょじすう: KCG LZ tiles + KMP map, needs a BG tool), then the visual-QA tour
+  (`qa_gate.py`), verdicts, jp_left. Polish: Pixelify 'e'/'G' read close to 'o'/'8' with outline+bold.
 - **Phase 6 review fixes (2026-11-01, `.harness/reviews/...-phase6.md`):** Bellini's register (no dropped g's,
   polite + "nonn") in HI_M24 / L24_0_0 / CH_M24_A; `batches.check_unit` now matches glossary terms as whole words
   (s/es plural; any trailing letters only when the JP stretches the name: ギンタ～ン -> Gintaaan), record name fields

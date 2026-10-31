@@ -37,6 +37,7 @@ class NCD:
         cnt = struct.unpack_from('<8I', b, 0x40)
         self.nframes, self.noam = cnt[2], cnt[3]
         self.shift = {}  # frame -> how far relayout moved its left edge
+        self.free = set()  # tiles no frame uses any more (freed by relayout)
 
     def objs(self, fr):
         first, count = struct.unpack_from('<IH', self.b, self.frame_o + 8 * fr)
@@ -84,7 +85,7 @@ class NCD:
             v = img[(x, y)]
             self.b[o] = (self.b[o] & 0x0F) | (v << 4) if hi else (self.b[o] & 0xF0) | v
 
-    def relayout(self, fr, width):
+    def relayout(self, fr, width, left=False):
         """Give frame fr fresh sprites: rows of 16 px (8 for a last row) of 32/16/8-wide objects, `width` px wide
         (default the old bbox, rounded up to 8), centred on the old bbox, same top, height and palette, on one run of
         consecutive tiles (the frame's own old tiles when they are enough, else appended to the bank); the new OAM
@@ -95,7 +96,7 @@ class NCD:
         x1, y1 = max(o[0] + o[2] for o in objs), max(o[1] + o[3] for o in objs)
         # shortcut: 32-wide objects only; 16/8-wide ones showed 8-16 px right of their x in game (cause unknown)
         H, W = -(-(y1 - y0) // 8) * 8, -(-(width or x1 - x0) // 32) * 32
-        nx0 = (x0 + x1) // 2 - W // 2
+        nx0 = x0 if left else (x0 + x1) // 2 - W // 2  # left: grow to the right (button hints keep their icon)
         blocks = [(bx, by, 32, min(16, H - by)) for by in range(0, H, 16) for bx in range(0, W, 32)]
         N = sum(w * h // 64 for _, _, w, h in blocks)
         first = struct.unpack_from('<I', self.b, self.frame_o + 8 * fr)[0]
@@ -103,19 +104,24 @@ class NCD:
         a0t, a1t = struct.unpack_from('<HH', tpl)
         ntiles = (len(self.b) - self.tile_o) // 32
         use = self.tile_use()
-        own = sorted(t for o in objs for t in range(o[4], o[4] + o[2] * o[3] // 64) if use[t] == {fr})
-        runs = []  # [start, length] of this frame's own consecutive tiles: reused before the bank grows
-        for t in own:
-            if runs and runs[-1][0] + runs[-1][1] == t:
-                runs[-1][1] += 1
-            else:
-                runs.append([t, 1])
-        for o in objs:  # fr lets go of its old tiles
+        for o in objs:  # fr lets go of its old tiles; ones nobody uses any more join the free pool
             for k in range(o[4], o[4] + o[2] * o[3] // 64):
                 use[k].discard(fr)
-        # the game loads a frame's tiles as one block from its first OAM tile: keep them contiguous, in OAM order
-        r = next((r for r in runs if r[1] >= N), None)
-        at, t = (r[0], ntiles) if r else (ntiles, ntiles + N)
+                if not use[k]:
+                    self.free.add(k)
+        # one run of consecutive tiles in OAM order (each object's DMA takes its own tile + count); the smallest
+        # free run that fits, else appended: the bank may only grow by the slack before the fixed ROM block
+        runs, start = [], None
+        for k in sorted(self.free) + [None]:
+            if start is not None and k == prev + 1:
+                prev = k
+                continue
+            if start is not None:
+                runs.append((prev - start + 1, start))
+            start = prev = k
+        fit = min((r for r in runs if r[0] >= N), default=None)
+        at, t = (fit[1], ntiles) if fit else (ntiles, ntiles + N)
+        self.free -= set(range(at, at + N))
         ent = bytearray()
         for bx, by, bw, bh in blocks:
             shape, size = {(32, 16): (1, 2), (16, 16): (0, 1), (8, 16): (2, 0),
@@ -167,6 +173,8 @@ class NCD:
 def mask_small(text):
     g = engine.glyphs()
     rows = [[] for _ in range(8)]
+    a, aw = g[ord('A')]
+    g[ord('Ä')] = (bytes([0x80 | 0x80 >> (aw - 1)]) + a[:7], aw)  # A one row down, dots over its outer columns
     for ch in text:
         if ord(ch) not in g:
             raise ValueError('small font has no %r' % ch)
@@ -329,6 +337,7 @@ def spec(bank):
             kw['keep'] = o.pop('keep')
         if 'clear' in o:
             kw['clear'] = {int(v) for v in o.pop('clear').split(',')}
+            kw.setdefault('align', 'l')  # text on a box starts where the Japanese did
         kw.update({k: int(v) for k, v in o.items()})  # dx dy ol ol2 fill bg w bgfrom
         for f in range(int(a), int(b or a) + 1):
             rows.append((f, text, kw))
@@ -347,8 +356,12 @@ def apply(name, b, errors=None, log=None):
     for f, text, kw in rows:
         kw = dict(kw)
         if f not in imgs:  # fresh tiles always: frames reuse blank tiles and overlap objects
-            imgs[f] = n.relayout(f, kw.pop('w', None))
+            imgs[f] = n.relayout(f, kw.get('wr') or kw.get('w'), left='wr' in kw)
         kw.pop('w', None)
+        kw.pop('wr', None)
+        if kw.get('rect'):  # rect is in the original frame's pixels
+            x, y, w, h = kw['rect']
+            kw['rect'] = (x - n.shift[f], y, w, h)
         if 'bgfrom' in kw:  # same bbox as f: move it like f was moved
             u, s = orig.get(kw.pop('bgfrom')), n.shift[f]
             kw['under'] = {(x, y): u.get((x + s, y), 0) for x, y in imgs[f]}
