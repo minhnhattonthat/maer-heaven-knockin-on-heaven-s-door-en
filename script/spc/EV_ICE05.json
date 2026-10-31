@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE05:002c2",
   "jp": "{C0F04}わたしが手助けするなんて",
-  "en": "{C0F04}I hardly ever lend anyone a hand, you know,",
+  "en": "{C0F04}I hardly ever lend anyone a hand, you",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE05:002ed",
   "jp": "めったにないんだよ、ギンタ",
-  "en": "Ginta.",
+  "en": "know, Ginta.",
   "call": "MswStr",
   "box": 16,
   "line": 2,

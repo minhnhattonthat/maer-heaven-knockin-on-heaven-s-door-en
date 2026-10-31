@@ -166,7 +166,7 @@
  {
   "id": "SP_M25_5:017ad",
   "jp": "{C0F04}気になる…",
-  "en": "{C0F04}Somethin's buggin' me... I've seen that crest",
+  "en": "{C0F04}Somethin's buggin' me... I've seen that",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "SP_M25_5:017ca",
   "jp": "あのもんしょう、どこかで見たで…",
-  "en": "somewhere...",
+  "en": "crest somewhere...",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "SP_M25_5:018b3",
   "jp": "{C0F04}どっかの古いどうくつで",
-  "en": "{C0F04}Didn't I pick it up in some old cave",
+  "en": "{C0F04}Didn't I pick it up in some old",
   "call": "MswStr",
   "box": 144,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "SP_M25_5:018dc",
   "jp": "手に入れたんやなかったかな…",
-  "en": "somewhere...",
+  "en": "cave somewhere...",
   "call": "MswStr",
   "box": 144,
   "line": 2,

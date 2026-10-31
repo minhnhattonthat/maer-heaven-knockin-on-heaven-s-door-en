@@ -374,7 +374,7 @@
  {
   "id": "G_EV051:01d1b",
   "jp": "{C0F04}泣く子もだまる、",
-  "en": "{C0F04}The terrifying witch who silences crying",
+  "en": "{C0F04}The terrifying witch who silences",
   "call": "MswStr",
   "box": 154,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "G_EV051:01d3e",
   "jp": "おそろしい魔女（まじょ）！！",
-  "en": "babies!!",
+  "en": "crying babies!!",
   "call": "MswStr",
   "box": 154,
   "line": 2,

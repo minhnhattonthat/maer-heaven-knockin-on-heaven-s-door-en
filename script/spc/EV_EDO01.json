@@ -218,7 +218,7 @@
  {
   "id": "EV_EDO01:0186d",
   "jp": "{C0F04}あなたたちこそ",
-  "en": "{C0F04}And what are you all doing in such a place...",
+  "en": "{C0F04}And what are you all doing in such a",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_EDO01:0188e",
   "jp": "こんなところで…ぅはっ！",
-  "en": "hwah!",
+  "en": "place... hwah!",
   "call": "MswStr",
   "box": 138,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_EDO01:028d4",
   "jp": "{C0F04}ならば、このメルヘヴンを",
-  "en": "{C0F04}Then, for the sake of saving this MÄR",
+  "en": "{C0F04}Then, for the sake of saving this",
   "call": "MswStr",
   "box": 227,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_EDO01:028ff",
   "jp": "すくうと思って",
-  "en": "Heaven,",
+  "en": "MÄR Heaven,",
   "call": "MswStr",
   "box": 227,
   "line": 2,

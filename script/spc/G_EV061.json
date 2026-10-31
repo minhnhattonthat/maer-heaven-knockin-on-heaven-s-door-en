@@ -114,7 +114,7 @@
  {
   "id": "G_EV061:00d91",
   "jp": "{C0F04}あんた…このÄＲＭをつかって",
-  "en": "{C0F04}You... what are you plotting to do with this",
+  "en": "{C0F04}You... what are you plotting to do with",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "G_EV061:00dc0",
   "jp": "何をたくらんでいるわけ？",
-  "en": "ÄRM?",
+  "en": "this ÄRM?",
   "call": "MswStr",
   "box": 73,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "G_EV061:01a6e",
   "jp": "{C0F04}ドロシー、しんぱいして",
-  "en": "{C0F04}Dorothy only said that because she's",
+  "en": "{C0F04}Dorothy only said that because",
   "call": "MswStr",
   "box": 136,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "G_EV061:01a97",
   "jp": "言ってくれてるんじゃない！",
-  "en": "worried!",
+  "en": "she's worried!",
   "call": "MswStr",
   "box": 136,
   "line": 2,
@@ -574,7 +574,7 @@
  {
   "id": "G_EV061:030c2",
   "jp": "ダンジョンモードに",
-  "en": "The {C0904}Tempering Gate{C0F04} has been added to",
+  "en": "The {C0904}Tempering Gate{p1}{C0F04} has been added to",
   "call": "MswStr",
   "box": 264,
   "line": 0

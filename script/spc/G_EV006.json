@@ -36,7 +36,7 @@
  {
   "id": "G_EV006:011b8",
   "jp": "{C0F04}ルベリアの同志たちの…",
-  "en": "{C0F04}These here are the graves... of my Luberia",
+  "en": "{C0F04}These here are the graves... of my",
   "call": "MswStr",
   "box": 104,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV006:011e1",
   "jp": "はかや",
-  "en": "comrades.",
+  "en": "Luberia comrades.",
   "call": "MswStr",
   "box": 104,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV006:02262",
   "jp": "{C0F04}（ぜんめつさせなきゃ…",
-  "en": "{C0F04}(We've gotta wipe them out... every last",
+  "en": "{C0F04}(We've gotta wipe them out... every",
   "call": "MswStr",
   "box": 191,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV006:0228b",
   "jp": "　いけないんだ！！！）",
-  "en": "one!!!)",
+  "en": "last one!!!)",
   "call": "MswStr",
   "box": 191,
   "line": 2,

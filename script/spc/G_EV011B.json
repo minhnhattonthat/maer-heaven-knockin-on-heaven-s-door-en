@@ -140,7 +140,7 @@
  {
   "id": "G_EV011B:012e1",
   "jp": "{C0F04}いつかまた、いいことあるよねって",
-  "en": "{C0F04}Sayin' good things'll come along again",
+  "en": "{C0F04}Sayin' good things'll come along",
   "call": "MswStr",
   "box": 110,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "G_EV011B:01314",
   "jp": "",
-  "en": "someday.",
+  "en": "again someday.",
   "call": "MswStr",
   "box": 110,
   "line": 2,

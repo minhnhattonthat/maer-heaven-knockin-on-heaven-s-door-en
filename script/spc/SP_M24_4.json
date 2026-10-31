@@ -62,7 +62,7 @@
  {
   "id": "SP_M24_4:00f1d",
   "jp": "{C0F04}宝ばこはあけても",
-  "en": "{C0F04}It should be safe to open the treasure",
+  "en": "{C0F04}It should be safe to open the",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "SP_M24_4:00f40",
   "jp": "だいじょうぶなはずです",
-  "en": "chest.",
+  "en": "treasure chest.",
   "call": "MswStr",
   "box": 88,
   "line": 2,
@@ -268,7 +268,7 @@
  {
   "id": "SP_M24_4:020e2",
   "jp": "{C0F04}ギンタさん！きっとこれは…",
-  "en": "{C0F04}Ginta-san! I'm sure it's saying, 'Try and beat",
+  "en": "{C0F04}Ginta-san! I'm sure it's saying, 'Try and",
   "call": "MswStr",
   "box": 196,
   "line": 1,
@@ -277,7 +277,7 @@
  {
   "id": "SP_M24_4:0210f",
   "jp": "『たおしてみろ』と言っています！",
-  "en": "me!'",
+  "en": "beat me!'",
   "call": "MswStr",
   "box": 196,
   "line": 2,

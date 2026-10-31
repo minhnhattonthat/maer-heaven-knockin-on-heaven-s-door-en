@@ -36,7 +36,7 @@
  {
   "id": "EV_MON05:002b7",
   "jp": "{C0F04}さて、あと２人のほうは",
-  "en": "{C0F04}Now, I wonder how the other two are",
+  "en": "{C0F04}Now, I wonder how the other two",
   "call": "MswStr",
   "box": 16,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_MON05:002e0",
   "jp": "どうなったかね…",
-  "en": "doin'...",
+  "en": "are doin'...",
   "call": "MswStr",
   "box": 16,
   "line": 2,

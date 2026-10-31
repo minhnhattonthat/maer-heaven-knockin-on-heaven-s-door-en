@@ -158,7 +158,7 @@
  {
   "id": "OPEN:00ea5",
   "jp": "おりゃぁああ！！",
-  "en": "Hyaaaaah!! Holy sword... 'Holy Thunder",
+  "en": "Hyaaaaah!! Holy sword... 'Holy",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -167,7 +167,7 @@
  {
   "id": "OPEN:00ec1",
   "jp": "聖剣『ホーリーサンダーフォース』！！",
-  "en": "Force'!!",
+  "en": "Thunder Force'!!",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -262,7 +262,7 @@
  {
   "id": "OPEN:017f0",
   "jp": "グラウンド１００周してこいや！",
-  "en": "Go run 100 laps around the field, you",
+  "en": "Go run 100 laps around the field,",
   "call": "MswStr",
   "box": 145,
   "line": 1,
@@ -271,7 +271,7 @@
  {
   "id": "OPEN:0181a",
   "jp": "このアホンダラ！！",
-  "en": "knucklehead!!",
+  "en": "you knucklehead!!",
   "call": "MswStr",
   "box": 145,
   "line": 2,
@@ -444,7 +444,7 @@
  {
   "id": "OPEN:01c44",
   "jp": "それで…今日は",
-  "en": "So... what kind of dream did you have",
+  "en": "So... what kind of dream did you",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -453,7 +453,7 @@
  {
   "id": "OPEN:01c5e",
   "jp": "どんなユメ見てたの？",
-  "en": "today?",
+  "en": "have today?",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -522,7 +522,7 @@
  {
   "id": "OPEN:01dca",
   "jp": "オレはまおうとたたかう！",
-  "en": "I fight the demon lord! And I save the",
+  "en": "I fight the demon lord! And I save",
   "call": "MswStr",
   "box": 171,
   "line": 1,
@@ -531,7 +531,7 @@
  {
   "id": "OPEN:01dee",
   "jp": "ひめを助ける！！！",
-  "en": "princess!!!",
+  "en": "the princess!!!",
   "call": "MswStr",
   "box": 171,
   "line": 2,
@@ -652,7 +652,7 @@
  {
   "id": "OPEN:0202a",
   "jp": "同じユメを",
-  "en": "You've had the same dream 102 times now,",
+  "en": "You've had the same dream 102 times",
   "call": "MswStr",
   "box": 181,
   "line": 1,
@@ -661,7 +661,7 @@
  {
   "id": "OPEN:02040",
   "jp": "１０２回も見てるんでしょ？",
-  "en": "right?",
+  "en": "now, right?",
   "call": "MswStr",
   "box": 181,
   "line": 2,
@@ -886,7 +886,7 @@
  {
   "id": "OPEN:02478",
   "jp": "だって、今日見たユメで",
-  "en": "Well, today's dream makes 103 times,",
+  "en": "Well, today's dream makes 103",
   "call": "MswStr",
   "box": 199,
   "line": 1,
@@ -895,7 +895,7 @@
  {
   "id": "OPEN:0249a",
   "jp": "１０３回目でしょう？",
-  "en": "right?",
+  "en": "times, right?",
   "call": "MswStr",
   "box": 199,
   "line": 2,
@@ -1170,7 +1170,7 @@
  {
   "id": "OPEN:02de2",
   "jp": "見えるの？",
-  "en": "You can see it? Ginta, you can see that",
+  "en": "You can see it? Ginta, you can see",
   "call": "MswStr",
   "box": 246,
   "line": 1,
@@ -1179,7 +1179,7 @@
  {
   "id": "OPEN:02df8",
   "jp": "ギンタにはそのせかいが見えるの？",
-  "en": "world?",
+  "en": "that world?",
   "call": "MswStr",
   "box": 246,
   "line": 2,
@@ -1352,7 +1352,7 @@
  {
   "id": "OPEN:031c5",
   "jp": "じゃあ約束！",
-  "en": "Then it's a promise! Tell me all about it",
+  "en": "Then it's a promise! Tell me all about",
   "call": "MswStr",
   "box": 264,
   "line": 1,
@@ -1361,7 +1361,7 @@
  {
   "id": "OPEN:031dd",
   "jp": "後でたくさんきかせてね！！",
-  "en": "later!!",
+  "en": "it later!!",
   "call": "MswStr",
   "box": 264,
   "line": 2,

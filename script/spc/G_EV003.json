@@ -322,7 +322,7 @@
  {
   "id": "G_EV003:01bec",
   "jp": "{C0F04}あれ…自分なんかかんちがいしとった",
-  "en": "{C0F04}Huh... Looks like I mighta got the wrong",
+  "en": "{C0F04}Huh... Looks like I mighta got the",
   "call": "MswStr",
   "box": 153,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV003:01c21",
   "jp": "みたいやなぁ…",
-  "en": "idea...",
+  "en": "wrong idea...",
   "call": "MswStr",
   "box": 153,
   "line": 2,

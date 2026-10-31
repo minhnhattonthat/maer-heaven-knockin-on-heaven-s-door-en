@@ -36,7 +36,7 @@
  {
   "id": "EV_GTOB:00477",
   "jp": "{C0F04}ギンタ…おまえ本当に違うせかいから",
-  "en": "{C0F04}Ginta... so you truly did come from another",
+  "en": "{C0F04}Ginta... so you truly did come from",
   "call": "MswStr",
   "box": 26,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_GTOB:004ac",
   "jp": "きたんじゃな！",
-  "en": "world!",
+  "en": "another world!",
   "call": "MswStr",
   "box": 26,
   "line": 2,

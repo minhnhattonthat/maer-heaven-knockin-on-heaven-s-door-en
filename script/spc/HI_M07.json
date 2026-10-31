@@ -10,7 +10,7 @@
  {
   "id": "HI_M07:002cd",
   "jp": "{C0F04}…そっちはナナシたちが",
-  "en": "{C0F04}...That is the path Nanashi and the others",
+  "en": "{C0F04}...That is the path Nanashi and the",
   "call": "MswStr",
   "box": 18,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "HI_M07:002f6",
   "jp": "すすんだみちだぞ！",
-  "en": "took!",
+  "en": "others took!",
   "call": "MswStr",
   "box": 18,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "HI_M07:01776",
   "jp": "{C0F04}気付いたか？",
-  "en": "{C0F04}Ya noticed? Figures, you bein' a witch an'",
+  "en": "{C0F04}Ya noticed? Figures, you bein' a witch",
   "call": "MswStr",
   "box": 143,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "HI_M07:01795",
   "jp": "さすが、魔女（まじょ）、やな…",
-  "en": "all...",
+  "en": "an' all...",
   "call": "MswStr",
   "box": 143,
   "line": 2,

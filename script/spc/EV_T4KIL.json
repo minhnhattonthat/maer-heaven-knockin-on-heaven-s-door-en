@@ -296,7 +296,7 @@
  {
   "id": "EV_T4KIL:020d9",
   "jp": "{C0F04}ギンタなんかじゃなくて",
-  "en": "{C0F04}I wanted him to praise ME, not stupid",
+  "en": "{C0F04}I wanted him to praise ME, not",
   "call": "MswStr",
   "box": 184,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_T4KIL:02102",
   "jp": "ボクをほめてほしかったのに！！",
-  "en": "Ginta!!",
+  "en": "stupid Ginta!!",
   "call": "MswStr",
   "box": 184,
   "line": 2,
@@ -582,7 +582,7 @@
  {
   "id": "EV_T4KIL:0322c",
   "jp": "{C0F04}ここの人間を…ヴェストリ地上へ！！",
-  "en": "{C0F04}Let's get these folks... back up top to",
+  "en": "{C0F04}Let's get these folks... back up top",
   "call": "MswStr",
   "box": 279,
   "line": 1,
@@ -591,7 +591,7 @@
  {
   "id": "EV_T4KIL:03261",
   "jp": "",
-  "en": "Vestry!!",
+  "en": "to Vestry!!",
   "call": "MswStr",
   "box": 279,
   "line": 2,

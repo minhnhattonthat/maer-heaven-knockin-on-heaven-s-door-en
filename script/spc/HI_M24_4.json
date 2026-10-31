@@ -114,7 +114,7 @@
  {
   "id": "HI_M24_4:00d1c",
   "jp": "{C0F04}先にすすむのは…",
-  "en": "{C0F04}Goin' any further... ain't gonna happen, I",
+  "en": "{C0F04}Goin' any further... ain't gonna happen,",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "HI_M24_4:00d3f",
   "jp": "ちょっとムリ…っスねぇ…",
-  "en": "reckon...",
+  "en": "I reckon...",
   "call": "MswStr",
   "box": 72,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "HI_M24_4:023d6",
   "jp": "{C0F04}（それでスノウをまっていたってワケね！）",
-  "en": "{C0F04}(So THAT'S why they were waiting for",
+  "en": "{C0F04}(So THAT'S why they were waiting",
   "call": "MswStr",
   "box": 193,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "HI_M24_4:02411",
   "jp": "",
-  "en": "Snow!)",
+  "en": "for Snow!)",
   "call": "MswStr",
   "box": 193,
   "line": 2,
@@ -660,7 +660,7 @@
  {
   "id": "HI_M24_4:02694",
   "jp": "{C0F04}このドロシー姉さんなら",
-  "en": "{C0F04}For big sister Dorothy here, it's a breeze, a",
+  "en": "{C0F04}For big sister Dorothy here, it's a breeze,",
   "call": "MswStr",
   "box": 205,
   "line": 1,
@@ -669,7 +669,7 @@
  {
   "id": "HI_M24_4:026bd",
   "jp": "ヨユウよ、ヨ・ユ・ウ♪",
-  "en": "b-r-e-e-z-e~",
+  "en": "a b-r-e-e-z-e~",
   "call": "MswStr",
   "box": 205,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "HI_M24_4:029df",
   "jp": "{C0F04}しんぱいしてくれるの？",
-  "en": "{C0F04}Worried about me? How sweeet~... and",
+  "en": "{C0F04}Worried about me? How sweeet~...",
   "call": "MswStr",
   "box": 221,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "HI_M24_4:02a08",
   "jp": "うれし～な～～…っと",
-  "en": "there!",
+  "en": "and there!",
   "call": "MswStr",
   "box": 221,
   "line": 2,
@@ -842,7 +842,7 @@
  {
   "id": "HI_M24_4:03140",
   "jp": "{C0F04}（ス、スカートの中身も",
-  "en": "{C0F04}(Wh-what's under my skirt is frozen solid",
+  "en": "{C0F04}(Wh-what's under my skirt is frozen",
   "call": "MswStr",
   "box": 253,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "HI_M24_4:03169",
   "jp": "　かちんこちんなんですけど…）",
-  "en": "too...)",
+  "en": "solid too...)",
   "call": "MswStr",
   "box": 253,
   "line": 2,

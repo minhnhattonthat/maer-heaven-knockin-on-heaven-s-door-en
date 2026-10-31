@@ -36,7 +36,7 @@
  {
   "id": "EV_ICE03:004d9",
   "jp": "{C0F04}ああ…犬かな？",
-  "en": "{C0F04}Yeah... the dog, maybe? He sure came back",
+  "en": "{C0F04}Yeah... the dog, maybe? He sure came",
   "call": "MswStr",
   "box": 30,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_ICE03:004fa",
   "jp": "ずいぶんはやく戻ってきたな",
-  "en": "fast.",
+  "en": "back fast.",
   "call": "MswStr",
   "box": 30,
   "line": 2,

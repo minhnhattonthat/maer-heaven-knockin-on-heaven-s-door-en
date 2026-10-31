@@ -140,7 +140,7 @@
  {
   "id": "EV_AL02B:00d2a",
   "jp": "{C0F04}なんでジャックに",
-  "en": "{C0F04}Why'd you go and do something like that to",
+  "en": "{C0F04}Why'd you go and do something like that",
   "call": "MswStr",
   "box": 70,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_AL02B:00d4d",
   "jp": "こんなマネするんだよ？",
-  "en": "Jack?",
+  "en": "to Jack?",
   "call": "MswStr",
   "box": 70,
   "line": 2,
@@ -1050,7 +1050,7 @@
  {
   "id": "EV_AL02B:02d7b",
   "jp": "{C0F04}チェスの兵隊のかなめ",
-  "en": "{C0F04}is the ÄRM of the Chess Pieces' kingpin,",
+  "en": "{C0F04}is the ÄRM of the Chess Pieces'",
   "call": "MswStr",
   "box": 220,
   "line": 1,
@@ -1059,7 +1059,7 @@
  {
   "id": "EV_AL02B:02da2",
   "jp": "{C0904}『ファントム』 {C0F04}のÄＲＭ！！",
-  "en": "{C0904}'Phantom'{C0F04}!!",
+  "en": "kingpin, {C0904}'Phantom'{C0F04}!!",
   "call": "MswStr",
   "box": 220,
   "line": 2,

@@ -88,7 +88,7 @@
  {
   "id": "SP_M25_4:006d4",
   "jp": "{C0F04}うん…私でもちょっと",
-  "en": "{C0F04}Um... Even I can't really get through this... I",
+  "en": "{C0F04}Um... Even I can't really get through this...",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "SP_M25_4:006fb",
   "jp": "とおれない…かな",
-  "en": "think.",
+  "en": "I think.",
   "call": "MswStr",
   "box": 34,
   "line": 2,

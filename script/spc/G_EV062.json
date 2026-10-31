@@ -322,7 +322,7 @@
  {
   "id": "G_EV062:02222",
   "jp": "{C0F04}今、ワイらがほりおこそうとしてる",
-  "en": "{C0F04}That ÄRM we're tryin' to dig up! About that",
+  "en": "{C0F04}That ÄRM we're tryin' to dig up! About",
   "call": "MswStr",
   "box": 189,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "G_EV062:02255",
   "jp": "ÄＲＭな！あれな…！",
-  "en": "thing...!",
+  "en": "that thing...!",
   "call": "MswStr",
   "box": 189,
   "line": 2,
@@ -686,7 +686,7 @@
  {
   "id": "G_EV062:03dfa",
   "jp": "{C0F04}オレ、ドロシーにあんな",
-  "en": "{C0F04}Not after I said such awful stuff to you,",
+  "en": "{C0F04}Not after I said such awful stuff to",
   "call": "MswStr",
   "box": 343,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "G_EV062:03e23",
   "jp": "ひどいこと言ったのに！！",
-  "en": "Dorothy!!",
+  "en": "you, Dorothy!!",
   "call": "MswStr",
   "box": 343,
   "line": 2,
@@ -1128,7 +1128,7 @@
  {
   "id": "G_EV062:0617c",
   "jp": "{C0F04}コマンドが追加されました",
-  "en": "now freely choose the party that goes into",
+  "en": "now freely choose the party that goes",
   "call": "MswStr",
   "box": 532,
   "line": 1
@@ -1136,7 +1136,7 @@
  {
   "id": "G_EV062:061a7",
   "jp": "バトルに出るパーティーを自由にえらべます",
-  "en": "battle.",
+  "en": "into battle.",
   "call": "MswStr",
   "box": 532,
   "line": 2
@@ -1144,7 +1144,7 @@
  {
   "id": "G_EV062:061f9",
   "jp": "ダンジョンモードに",
-  "en": "The {C0904}Martial Gate{C0F04} has been added to",
+  "en": "The {C0904}Martial Gate{p1}{C0F04} has been added to",
   "call": "MswStr",
   "box": 534,
   "line": 0

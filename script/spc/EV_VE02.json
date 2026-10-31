@@ -140,7 +140,7 @@
  {
   "id": "EV_VE02:00f39",
   "jp": "{C0F04}あの二人とたたかうつもりか！？",
-  "en": "{C0F04}You mean to fight those two!? You'd better",
+  "en": "{C0F04}You mean to fight those two!? You'd",
   "call": "MswStr",
   "box": 83,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_VE02:00f6a",
   "jp": "やめておいたほうがいい！！",
-  "en": "not!!",
+  "en": "better not!!",
   "call": "MswStr",
   "box": 83,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_VE02:0104b",
   "jp": "{C0F04}『ぼうれいがわざわいをまねく』",
-  "en": "{C0F04}...has a legend: 'The ghosts there bring",
+  "en": "{C0F04}...has a legend: 'The ghosts there",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_VE02:0107c",
   "jp": "という言い伝えもあるのだ！！",
-  "en": "disaster'!!",
+  "en": "bring disaster'!!",
   "call": "MswStr",
   "box": 87,
   "line": 2,

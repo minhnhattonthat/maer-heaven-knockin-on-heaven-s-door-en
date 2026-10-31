@@ -218,7 +218,7 @@
  {
   "id": "EV_GO11:00ffa",
   "jp": "{C0F04}まて！",
-  "en": "{C0F04}Wait! You are utterly exhausted, are you",
+  "en": "{C0F04}Wait! You are utterly exhausted, are",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_GO11:01013",
   "jp": "おまえ、ヘロヘロにつかれてるじゃろ！",
-  "en": "not!",
+  "en": "you not!",
   "call": "MswStr",
   "box": 90,
   "line": 2,
@@ -574,7 +574,7 @@
  {
   "id": "EV_GO11:02012",
   "jp": "{C0D04}ガーゴイル　ＣＬ５{C0F04}と",
-  "en": "{C0D04}Gargoyle CL5{C0F04} and {C0D04}Alice{C0F04} obtained!",
+  "en": "{C0D04}Gargoyle CL5{C0F04} and {C0D04}Alice{p1}{C0F04} obtained!",
   "call": "MswStr",
   "box": 181,
   "line": 0
@@ -684,7 +684,7 @@
  {
   "id": "EV_GO11:029e2",
   "jp": "{C0F04}ね、ね、ギンタン♥",
-  "en": "{C0F04}Hey, hey, Gintan♥ How about a wake-up",
+  "en": "{C0F04}Hey, hey, Gintan♥ How about a",
   "call": "MswStr",
   "box": 235,
   "line": 1,
@@ -693,7 +693,7 @@
  {
   "id": "EV_GO11:02a07",
   "jp": "おめざめのチューは！？",
-  "en": "kiss!?",
+  "en": "wake-up kiss!?",
   "call": "MswStr",
   "box": 235,
   "line": 2,
@@ -840,7 +840,7 @@
  {
   "id": "EV_GO11:02eba",
   "jp": "{C0F04}さ、かえろ！",
-  "en": "{C0F04}Okay, let's head back! I bet everyone's",
+  "en": "{C0F04}Okay, let's head back! I bet",
   "call": "MswStr",
   "box": 257,
   "line": 1,
@@ -849,7 +849,7 @@
  {
   "id": "EV_GO11:02ed9",
   "jp": "きっとみんなまってるよ！",
-  "en": "waiting!",
+  "en": "everyone's waiting!",
   "call": "MswStr",
   "box": 257,
   "line": 2,

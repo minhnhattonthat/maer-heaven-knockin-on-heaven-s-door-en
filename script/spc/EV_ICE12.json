@@ -140,7 +140,7 @@
  {
   "id": "EV_ICE12:0136a",
   "jp": "{C0F04}おそくなったな、ロコ！",
-  "en": "{C0F04}Sorry I'm late, Loco! Is the Princess still",
+  "en": "{C0F04}Sorry I'm late, Loco! Is the Princess",
   "call": "MswStr",
   "box": 118,
   "line": 1,
@@ -149,7 +149,7 @@
  {
   "id": "EV_ICE12:01393",
   "jp": "ひめさま、まだ生きてるか？",
-  "en": "alive?",
+  "en": "still alive?",
   "call": "MswStr",
   "box": 118,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_ICE12:01bcd",
   "jp": "{C0F04}チェスの兵隊、全員しゅうけつ！",
-  "en": "{C0F04}All Chess Pieces, assemble! We have new",
+  "en": "{C0F04}All Chess Pieces, assemble! We have",
   "call": "MswStr",
   "box": 164,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_ICE12:01bfe",
   "jp": "あらたな指令だ",
-  "en": "orders.",
+  "en": "new orders.",
   "call": "MswStr",
   "box": 164,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "EV_ICE12:02210",
   "jp": "{C0F04}こそこそしゃべってんじゃねぇぞ",
-  "en": "{C0F04}Quit whisperin' over there, you",
+  "en": "{C0F04}Quit whisperin' over there,",
   "call": "MswStr",
   "box": 192,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "EV_ICE12:02241",
   "jp": "このトマトやろう！！",
-  "en": "tomato-head!!",
+  "en": "you tomato-head!!",
   "call": "MswStr",
   "box": 192,
   "line": 2,
@@ -842,7 +842,7 @@
  {
   "id": "EV_ICE12:02c90",
   "jp": "{C0F04}なんじゃきさまは！",
-  "en": "{C0F04}And who might you be?! Behaving so",
+  "en": "{C0F04}And who might you be?! Behaving",
   "call": "MswStr",
   "box": 242,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "EV_ICE12:02cb5",
   "jp": "ぶれいなたちふるまいをしおって！",
-  "en": "insolently!",
+  "en": "so insolently!",
   "call": "MswStr",
   "box": 242,
   "line": 2,
@@ -946,7 +946,7 @@
  {
   "id": "EV_ICE12:02fc4",
   "jp": "{C0F04}いかいの住人…",
-  "en": "{C0F04}A dweller of another world... just like 'that",
+  "en": "{C0F04}A dweller of another world... just like",
   "call": "MswStr",
   "box": 256,
   "line": 1,
@@ -955,7 +955,7 @@
  {
   "id": "EV_ICE12:02fe5",
   "jp": "『あの男』といっしょか",
-  "en": "man.'",
+  "en": "'that man.'",
   "call": "MswStr",
   "box": 256,
   "line": 2,
@@ -1180,7 +1180,7 @@
  {
   "id": "EV_ICE12:03b9a",
   "jp": "{C0F04}まて！！にげるのか！！",
-  "en": "{C0F04}Wait!! You're running away?! You Chess",
+  "en": "{C0F04}Wait!! You're running away?! You",
   "call": "MswStr",
   "box": 318,
   "line": 1,
@@ -1189,7 +1189,7 @@
  {
   "id": "EV_ICE12:03bc3",
   "jp": "チェスの兵隊ーーーーー！！",
-  "en": "Pieces!!!",
+  "en": "Chess Pieces!!!",
   "call": "MswStr",
   "box": 318,
   "line": 2,

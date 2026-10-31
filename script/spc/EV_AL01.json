@@ -88,7 +88,7 @@
  {
   "id": "EV_AL01:00ebe",
   "jp": "{C0F04}まちがいなく",
-  "en": "{C0F04}No doubt about it, that'll sell for a bundle,",
+  "en": "{C0F04}No doubt about it, that'll sell for a",
   "call": "MswStr",
   "box": 88,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_AL01:00edd",
   "jp": "高くうれるねぇ",
-  "en": "heh...",
+  "en": "bundle, heh...",
   "call": "MswStr",
   "box": 88,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_AL01:0247b",
   "jp": "{C0F04}やっぱりアイツ…",
-  "en": "{C0F04}So that guy really is... some crazy special",
+  "en": "{C0F04}So that guy really is... some crazy",
   "call": "MswStr",
   "box": 214,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_AL01:0249e",
   "jp": "とんでもないÄＲＭ？？",
-  "en": "ÄRM??",
+  "en": "special ÄRM??",
   "call": "MswStr",
   "box": 214,
   "line": 2,

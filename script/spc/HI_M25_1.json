@@ -36,7 +36,7 @@
  {
   "id": "HI_M25_1:00367",
   "jp": "{C0F04}こりゃまた、地下にこんな",
-  "en": "{C0F04}Well I'll be, a funky cave like this",
+  "en": "{C0F04}Well I'll be, a funky cave like",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M25_1:00392",
   "jp": "けったいなどうくつがあるとは…",
-  "en": "underground...",
+  "en": "this underground...",
   "call": "MswStr",
   "box": 21,
   "line": 2,

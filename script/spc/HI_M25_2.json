@@ -36,7 +36,7 @@
  {
   "id": "HI_M25_2:00327",
   "jp": "{C0F04}ドロシーにたのむしかないけど",
-  "en": "{C0F04}We've got no choice but to ask Dorothy,",
+  "en": "{C0F04}We've got no choice but to ask",
   "call": "MswStr",
   "box": 19,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "HI_M25_2:00356",
   "jp": "",
-  "en": "but...",
+  "en": "Dorothy, but...",
   "call": "MswStr",
   "box": 19,
   "line": 2,

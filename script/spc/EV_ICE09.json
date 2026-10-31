@@ -166,7 +166,7 @@
  {
   "id": "EV_ICE09:0178c",
   "jp": "{C0F04}でも見て",
-  "en": "{C0F04}But look. He has something interesting with",
+  "en": "{C0F04}But look. He has something interesting",
   "call": "MswStr",
   "box": 140,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_ICE09:017a7",
   "jp": "おもしろいのがいっしょにいます",
-  "en": "him.",
+  "en": "with him.",
   "call": "MswStr",
   "box": 140,
   "line": 2,
@@ -348,7 +348,7 @@
  {
   "id": "EV_ICE09:01e7a",
   "jp": "{C0F04}メルヘヴンの",
-  "en": "{C0F04}She is of our kingdom, the symbol of MÄR",
+  "en": "{C0F04}She is of our kingdom, the symbol of",
   "call": "MswStr",
   "box": 172,
   "line": 1,
@@ -357,7 +357,7 @@
  {
   "id": "EV_ICE09:01e99",
   "jp": "象徴（しょうちょう）であるわが国…",
-  "en": "Heaven...",
+  "en": "MÄR Heaven...",
   "call": "MswStr",
   "box": 172,
   "line": 2,
@@ -374,7 +374,7 @@
  {
   "id": "EV_ICE09:01f00",
   "jp": "{C0F04}『レスターヴァ』の",
-  "en": "{C0F04}...the rightful heir to the throne of",
+  "en": "{C0F04}...the rightful heir to the throne",
   "call": "MswStr",
   "box": 174,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_ICE09:01f25",
   "jp": "正統後継者（せいとうこうけいしゃ）",
-  "en": "'Lestava'...",
+  "en": "of 'Lestava'...",
   "call": "MswStr",
   "box": 174,
   "line": 2,
@@ -556,7 +556,7 @@
  {
   "id": "EV_ICE09:0251b",
   "jp": "{C0F04}はい！",
-  "en": "{C0F04}Yes! I have been entrusted with a fire",
+  "en": "{C0F04}Yes! I have been entrusted with a",
   "call": "MswStr",
   "box": 202,
   "line": 1,
@@ -565,7 +565,7 @@
  {
   "id": "EV_ICE09:02534",
   "jp": "火のÄＲＭをあずかっております！",
-  "en": "ÄRM!",
+  "en": "fire ÄRM!",
   "call": "MswStr",
   "box": 202,
   "line": 2,
@@ -764,7 +764,7 @@
  {
   "id": "EV_ICE09:0304d",
   "jp": "{C0F04}ということで…",
-  "en": "{C0F04}So anyway... how 'bout a one-on-one",
+  "en": "{C0F04}So anyway... how 'bout a",
   "call": "MswStr",
   "box": 259,
   "line": 1,
@@ -773,7 +773,7 @@
  {
   "id": "EV_ICE09:0306e",
   "jp": "１ＶＳ１の対決といこうじゃない？",
-  "en": "showdown?",
+  "en": "one-on-one showdown?",
   "call": "MswStr",
   "box": 259,
   "line": 2,

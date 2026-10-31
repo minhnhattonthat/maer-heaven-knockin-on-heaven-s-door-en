@@ -138,7 +138,7 @@
  {
   "id": "EV_BA03:005e8",
   "jp": "{C0F04}バトル中に{C0904}Ａボタン{C0F04}をおすと",
-  "en": "{C0F04}Press the {C0904}A Button{C0F04} in battle to choose an",
+  "en": "{C0F04}Press the {C0904}A Button{C0F04} in battle to choose",
   "call": "MswStr",
   "box": 32,
   "line": 1,
@@ -147,7 +147,7 @@
  {
   "id": "EV_BA03:00623",
   "jp": "ÄＲＭをえらぶことができるわ",
-  "en": "ÄRM.",
+  "en": "an ÄRM.",
   "call": "MswStr",
   "box": 32,
   "line": 2,

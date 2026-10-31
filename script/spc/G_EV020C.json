@@ -192,7 +192,7 @@
  {
   "id": "G_EV020C:01114",
   "jp": "{C0F04}そのために…",
-  "en": "{C0F04}That's why... I activated the Gatekeeper",
+  "en": "{C0F04}That's why... I activated the",
   "call": "MswStr",
   "box": 92,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "G_EV020C:01133",
   "jp": "門ばんピエロを、はつどうしました",
-  "en": "Clown.",
+  "en": "Gatekeeper Clown.",
   "call": "MswStr",
   "box": 92,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "G_EV020C:01410",
   "jp": "{C0F04}たしかによわいし",
-  "en": "{C0F04}Sure, he's weak. Maybe not much to rely on,",
+  "en": "{C0F04}Sure, he's weak. Maybe not much to rely",
   "call": "MswStr",
   "box": 104,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "G_EV020C:01433",
   "jp": "たよりないかもしれねぇ",
-  "en": "either.",
+  "en": "on, either.",
   "call": "MswStr",
   "box": 104,
   "line": 2,

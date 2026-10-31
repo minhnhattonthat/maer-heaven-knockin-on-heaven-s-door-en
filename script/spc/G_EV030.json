@@ -530,7 +530,7 @@
  {
   "id": "G_EV030:019f4",
   "jp": "{C0F04}なんかいってるかーー！？",
-  "en": "{C0F04}What was that you just said!? You",
+  "en": "{C0F04}What was that you just said!?",
   "call": "MswStr",
   "box": 130,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "G_EV030:01a1f",
   "jp": "犬ーーーーーーーーーー！！",
-  "en": "MUUUUUUTT!!",
+  "en": "You MUUUUUUTT!!",
   "call": "MswStr",
   "box": 130,
   "line": 2,
@@ -712,7 +712,7 @@
  {
   "id": "G_EV030:02092",
   "jp": "{C0F04}見てギンタ！！",
-  "en": "{C0F04}Look, Ginta!! We're coming to the Hildo",
+  "en": "{C0F04}Look, Ginta!! We're coming to the",
   "call": "MswStr",
   "box": 162,
   "line": 1,
@@ -721,7 +721,7 @@
  {
   "id": "G_EV030:020b3",
   "jp": "ヒルドたいりくに入るよ！！",
-  "en": "Continent!!",
+  "en": "Hildo Continent!!",
   "call": "MswStr",
   "box": 162,
   "line": 2,

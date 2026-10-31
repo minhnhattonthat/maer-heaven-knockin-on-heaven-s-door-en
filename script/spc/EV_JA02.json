@@ -270,7 +270,7 @@
  {
   "id": "EV_JA02:00e7c",
   "jp": "{C0F04}これ以上あらすと…何かくれんのかよぉ！？",
-  "en": "{C0F04}Wreck it more and... what, you'll gimme",
+  "en": "{C0F04}Wreck it more and... what, you'll",
   "call": "MswStr",
   "box": 73,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_JA02:00eb7",
   "jp": "",
-  "en": "somethin'?!",
+  "en": "gimme somethin'?!",
   "call": "MswStr",
   "box": 73,
   "line": 2,

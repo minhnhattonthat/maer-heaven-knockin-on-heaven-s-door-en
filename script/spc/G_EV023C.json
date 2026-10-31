@@ -166,7 +166,7 @@
  {
   "id": "G_EV023C:00d8f",
   "jp": "{C0F04}ずっとオレたちを守って",
-  "en": "{C0F04}...you were protecting us the entire time,",
+  "en": "{C0F04}...you were protecting us the entire",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV023C:00db8",
   "jp": "くれてたんだってな…",
-  "en": "huh...",
+  "en": "time, huh...",
   "call": "MswStr",
   "box": 69,
   "line": 2,

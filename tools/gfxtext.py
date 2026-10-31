@@ -9,7 +9,7 @@ Spec: gfx/<BANK>.tsv (BANK = SYSTEM or EFFECT), one row per text area: `frames<T
            fill=N bg=N (palette indices instead of the detected ones); w=N (frame width, default the old one;
            centred), wr=N / wl=N (same, growing right / left from the old edge);
            bgfrom=N (restore the background from that text-free frame); bgrep=x,w (background = the frame's
-           text-free columns x..x+w-1 repeated, for patterned bars); bgrow=N (with clear: erased pixels take
+           text-free columns x..x+w-1 repeated, for patterned bars; with bgfrom: that frame's columns); bgrow=N (with clear: erased pixels take
            the colour of row N in the same column, for text over a shaded ball)
 Every lettered frame gets fresh sprites and tiles (NCD.relayout): frames share blank tiles and overlap objects.
 The text area is cleared to its background colour, then the English is drawn in the original's style: the outline
@@ -50,9 +50,10 @@ class NCD:
             a0, a1 = struct.unpack_from('<HH', self.b, self.oam_o + 20 * k)
             p, t = struct.unpack_from('<II', self.b, self.oam_o + 20 * k + 4)
             wh = SHAPES.get((a0 >> 14, a1 >> 14))
-            if wh:
+            if wh:  # the game's OAM x/y is the object's centre (shop window 1585 only tiles up that way)
                 y, x = a0 & 0xff, a1 & 0x1ff
-                out.append((x - 512 if x >= 256 else x, y - 256 if y >= 128 else y, wh[0], wh[1], t, p,
+                x, y = (x - 512 if x >= 256 else x) - wh[0] // 2, (y - 256 if y >= 128 else y) - wh[1] // 2
+                out.append((x, y, wh[0], wh[1], t, p,
                             bool(a1 & 0x1000), bool(a1 & 0x2000)))
         return out
 
@@ -98,7 +99,7 @@ class NCD:
         old, objs = self.get(fr), self.objs(fr)
         x0, y0 = min(o[0] for o in objs), min(o[1] for o in objs)
         x1, y1 = max(o[0] + o[2] for o in objs), max(o[1] + o[3] for o in objs)
-        # shortcut: 32-wide objects only; 16/8-wide ones showed 8-16 px right of their x in game (cause unknown)
+        # 32-wide objects only (16/8-wide ones once showed 8-16 px off: OAM x/y were read as top-left, not centre)
         H, W = -(-(y1 - y0) // 8) * 8, -(-(width or x1 - x0) // 32) * 32
         # anchor l: grow to the right (button hints keep their icon); r: grow to the left (right-aligned credits)
         nx0 = x0 if anchor == 'l' else x1 - W if anchor == 'r' else (x0 + x1) // 2 - W // 2
@@ -132,8 +133,8 @@ class NCD:
             shape, size = {(32, 16): (1, 2), (16, 16): (0, 1), (8, 16): (2, 0),
                            (32, 8): (1, 1), (16, 8): (1, 0), (8, 8): (0, 0)}[(bw, bh)]
             need = bw * bh // 64
-            a0 = (a0t & 0x3F00) | (shape << 14) | ((y0 + by) & 0xFF)
-            a1 = (size << 14) | ((nx0 + bx) & 0x1FF)
+            a0 = (a0t & 0x3F00) | (shape << 14) | ((y0 + by + bh // 2) & 0xFF)  # centre, see objs()
+            a1 = (size << 14) | ((nx0 + bx + bw // 2) & 0x1FF)
             ent += struct.pack('<HHII', a0, a1, objs[0][5], at) + tpl[12:18] + struct.pack('>H', need)  # BE count
             for k in range(at, at + need):
                 use.setdefault(k, set()).add(fr)
@@ -191,6 +192,12 @@ def mask_small(text):
     return [r[:-1] for r in rows], 0  # (mask, cap top)
 
 
+# Pixelify's 11 px B / E / F read as 8 / C / P on hardware (visual QA): classic 5x7 shapes drawn over them
+OVERRIDE = {11: {'B': ['####.', '#...#', '#...#', '####.', '#...#', '#...#', '####.'],
+                 'E': ['#####', '#....', '#....', '####.', '#....', '#....', '#####'],
+                 'F': ['#####', '#....', '#....', '####.', '#....', '#....', '#....']}}
+
+
 def mask_ttf(text, size):
     from PIL import Image, ImageDraw, ImageFont
     f = ImageFont.truetype(str(BIG), size)
@@ -202,6 +209,19 @@ def mask_ttf(text, size):
     cap = Image.new('L', img.size, 0)
     ImageDraw.Draw(cap).text((2, 0), 'H', font=f, fill=255)
     _, ctop, _, cbot = cap.getbbox()
+    for i, c in enumerate(text):
+        rows = OVERRIDE.get(size, {}).get(c)
+        if rows:
+            solo = Image.new('L', img.size, 0)
+            ds = ImageDraw.Draw(solo)
+            ds.fontmode = '1'
+            ds.text((2 + f.getlength(text[:i]), 0), c, font=f, fill=255)
+            bx = solo.getbbox()[0]
+            img.paste(0, mask=solo)
+            for r, row in enumerate(rows):
+                for k, ch in enumerate(row):
+                    if ch == '#':
+                        img.putpixel((bx + k, ctop + r), 255)
     x0, _, x1, _ = img.getbbox()
     top = min(ctop, img.getbbox()[1])
     bot = max(cbot, img.getbbox()[3])
@@ -379,8 +399,12 @@ def apply(name, b, errors=None, log=None):
             kw['rect'] = (x - n.shift[f], y, w, h)
         if 'bgrep' in kw:  # background = the frame's own text-free columns x..x+w-1 repeated (patterned bars)
             x0, w = kw.pop('bgrep')
+            src = imgs[f]
+            if 'bgfrom' in kw:  # columns taken from that frame instead (its bar has them text-free)
+                u, s = orig.get(kw.pop('bgfrom')), n.shift[f]
+                src = {(x, y): u.get((x + s, y), 0) for x, y in imgs[f]}
             x0 -= n.shift[f]
-            kw['under'] = {(x, y): imgs[f].get((x0 + (x - x0) % w, y), 0) for x, y in imgs[f]}
+            kw['under'] = {(x, y): src.get((x0 + (x - x0) % w, y), 0) for x, y in imgs[f]}
         if 'bgfrom' in kw:  # same bbox as f: move it like f was moved
             u, s = orig.get(kw.pop('bgfrom')), n.shift[f]
             kw['under'] = {(x, y): u.get((x + s, y), 0) for x, y in imgs[f]}

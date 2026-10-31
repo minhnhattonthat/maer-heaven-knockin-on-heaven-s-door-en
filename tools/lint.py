@@ -40,9 +40,22 @@ def char_errors(en):
         errs.append('bad characters %s' % ''.join(sorted(bad)))
     if '{' in plain or '}' in plain:
         errs.append('stray { or } (only {Cxxxx} and {pN} are codes)')
-    b = plain.replace('\0', ' ').encode('ascii', 'replace')
-    if any(engine.is_code(b, i) for i in range(len(b))):
-        errs.append('text reads as a control code ([CcTt] + 4 hex digits)')
+    # codes are written bare ({C0F04} -> C0F04), so "Ice{C0F04}" reads "ceC0F" as a code: check across the joins
+    b, real = b'', set()
+    for k, part in enumerate(re.split(r'(\{C[0-9A-F]{4}\})', re.sub(r'\{p\d+\}', ' ', en))):
+        if k % 2:
+            real.add(len(b))
+            part = part[1:-1]
+        b += part.encode('ascii', 'replace')
+    i = 0
+    while i < len(b):
+        if engine.is_code(b, i):
+            if i not in real:
+                errs.append('text reads as a control code ([CcTt] + 4 hex digits) at %r' % b[i:i + 5].decode())
+                break
+            i += 5
+        else:
+            i += 1
     if re.search(r'%[sd](?:st|nd|rd|th)\b', en):
         errs.append('suffix glued to a placeholder (rephrase: "No. %d")')
     if re.search(r'\b(?:a|an) %s', en, re.I):
@@ -62,8 +75,9 @@ def codes(s):
     return CODES.findall(s)
 
 
-def wrap(en, lines, px=LINE_PX):
-    """English box text -> its lines. ' / ' forces a break; otherwise greedy word wrap at px. Returns (lines, error)."""
+def wrap(en, lines, px=LINE_PX, widow=True):
+    """English box text -> its lines. ' / ' forces a break; otherwise greedy word wrap at px, then a one-word last
+    line takes the previous line's last word when that line keeps 2+ words and it fits. Returns (lines, error)."""
     if ' / ' in en:
         out = en.split(' / ')
     else:
@@ -76,6 +90,10 @@ def wrap(en, lines, px=LINE_PX):
             else:
                 cur = t
         out.append(cur)
+        if widow and len(out) > 1 and ' ' not in out[-1]:
+            head, _, last = out[-2].rpartition(' ')
+            if head.count(' ') >= 1 and width(last + ' ' + out[-1]) <= px:
+                out[-2:] = [head, last + ' ' + out[-1]]
     err = None
     if len(out) > lines:
         err = '%d lines > %d' % (len(out), lines)

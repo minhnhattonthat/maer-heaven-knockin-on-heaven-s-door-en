@@ -26,7 +26,7 @@
  {
   "id": "DUNG_END:00524",
   "jp": "ダンジョンモードに",
-  "en": "The {C0904}Final Gate{C0F04} has been added to Dungeon",
+  "en": "The {C0904}Final Gate{p1}{C0F04} has been added to",
   "call": "MswStr",
   "box": 38,
   "line": 0
@@ -34,7 +34,7 @@
  {
   "id": "DUNG_END:00542",
   "jp": "{C0904}最後の門{C0F04}が追加されました",
-  "en": "Mode.",
+  "en": "Dungeon Mode.",
   "call": "MswStr",
   "box": 38,
   "line": 1

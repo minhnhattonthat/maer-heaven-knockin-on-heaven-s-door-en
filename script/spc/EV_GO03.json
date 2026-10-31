@@ -62,7 +62,7 @@
  {
   "id": "EV_GO03:00690",
   "jp": "{C0F04}じぶんもそういうタイプやで！！",
-  "en": "{C0F04}I'm that type too, ya know!! C'mon, call me",
+  "en": "{C0F04}I'm that type too, ya know!! C'mon, call",
   "call": "MswStr",
   "box": 39,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_GO03:006c1",
   "jp": "カワイイって言ーて♥",
-  "en": "cute♥",
+  "en": "me cute♥",
   "call": "MswStr",
   "box": 39,
   "line": 2,

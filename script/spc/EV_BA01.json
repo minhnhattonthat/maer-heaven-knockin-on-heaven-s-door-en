@@ -36,7 +36,7 @@
  {
   "id": "EV_BA01:00606",
   "jp": "{C0F04}あれれ？？あかないな…",
-  "en": "{C0F04}Huh?? It won't open... Maybe it's sealed or",
+  "en": "{C0F04}Huh?? It won't open... Maybe it's sealed",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_BA01:0062f",
   "jp": "なんか封印されてるのかな…",
-  "en": "something...",
+  "en": "or something...",
   "call": "MswStr",
   "box": 33,
   "line": 2,
@@ -450,7 +450,7 @@
  {
   "id": "EV_BA01:024d2",
   "jp": "{C0F04}バトルにはいったら",
-  "en": "{C0F04}Once the battle starts, attack with the {C0904}B",
+  "en": "{C0F04}Once the battle starts, attack with the",
   "call": "MswStr",
   "box": 206,
   "line": 1,
@@ -459,7 +459,7 @@
  {
   "id": "EV_BA01:024f7",
   "jp": "{C0904}Ｂボタン{C0F04}でこうげきするんじゃ！！",
-  "en": "Button{C0F04}!!",
+  "en": "{C0904}B Button{C0F04}!!",
   "call": "MswStr",
   "box": 206,
   "line": 2,

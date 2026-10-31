@@ -296,7 +296,7 @@
  {
   "id": "EV_T1KIL:0154a",
   "jp": "{C0F04}それではいったん地上へ",
-  "en": "{C0F04}Very well! Let us return to the surface for",
+  "en": "{C0F04}Very well! Let us return to the surface",
   "call": "MswStr",
   "box": 112,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_T1KIL:01573",
   "jp": "もどるとするか！",
-  "en": "now!",
+  "en": "for now!",
   "call": "MswStr",
   "box": 112,
   "line": 2,

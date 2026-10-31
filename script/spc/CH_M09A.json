@@ -686,7 +686,7 @@
  {
   "id": "CH_M09A:019ad",
   "jp": "{C0F04}ディメンションの中では",
-  "en": "{C0F04}It's one of the very top-class Dimension",
+  "en": "{C0F04}It's one of the very top-class",
   "call": "MswStr",
   "box": 138,
   "line": 1,
@@ -695,7 +695,7 @@
  {
   "id": "CH_M09A:019d6",
   "jp": "さい高クラスのÄＲＭよ！",
-  "en": "ÄRM!",
+  "en": "Dimension ÄRM!",
   "call": "MswStr",
   "box": 138,
   "line": 2,
@@ -790,7 +790,7 @@
  {
   "id": "CH_M09A:01c7b",
   "jp": "{C0F04}なんか…",
-  "en": "{C0F04}Somehow... you look kinda happy about that,",
+  "en": "{C0F04}Somehow... you look kinda happy about",
   "call": "MswStr",
   "box": 149,
   "line": 1,
@@ -799,7 +799,7 @@
  {
   "id": "CH_M09A:01c96",
   "jp": "ちょっとうれしそうっスよ？？",
-  "en": "y'know??",
+  "en": "that, y'know??",
   "call": "MswStr",
   "box": 149,
   "line": 2,
@@ -842,7 +842,7 @@
  {
   "id": "CH_M09A:01e1d",
   "jp": "{C0F04}ジャックとも",
-  "en": "{C0F04}And I get to stick around with you too,",
+  "en": "{C0F04}And I get to stick around with you",
   "call": "MswStr",
   "box": 156,
   "line": 1,
@@ -851,7 +851,7 @@
  {
   "id": "CH_M09A:01e3c",
   "jp": "いっしょにいられるしな",
-  "en": "Jack!",
+  "en": "too, Jack!",
   "call": "MswStr",
   "box": 156,
   "line": 2,
@@ -894,7 +894,7 @@
  {
   "id": "CH_M09A:01ff3",
   "jp": "{C0F04}『門ばんピエロ』はさすがに",
-  "en": "{C0F04}We don't have a 'Gatekeeper Clown', of",
+  "en": "{C0F04}We don't have a 'Gatekeeper Clown',",
   "call": "MswStr",
   "box": 165,
   "line": 1,
@@ -903,7 +903,7 @@
  {
   "id": "CH_M09A:02020",
   "jp": "ないけれど…",
-  "en": "course...",
+  "en": "of course...",
   "call": "MswStr",
   "box": 165,
   "line": 2,
@@ -920,7 +920,7 @@
  {
   "id": "CH_M09A:02075",
   "jp": "{C0F04}他のÄＲＭはたくさん",
-  "en": "{C0F04}But we've got plenty of other ÄRM in",
+  "en": "{C0F04}But we've got plenty of other ÄRM",
   "call": "MswStr",
   "box": 167,
   "line": 1,
@@ -929,7 +929,7 @@
  {
   "id": "CH_M09A:0209c",
   "jp": "おいてあるわよ",
-  "en": "stock!",
+  "en": "in stock!",
   "call": "MswStr",
   "box": 167,
   "line": 2,

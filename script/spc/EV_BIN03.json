@@ -10,7 +10,7 @@
  {
   "id": "EV_BIN03:006d0",
   "jp": "{C0F04}わたしは、そのなかでも",
-  "en": "{C0F04}And out of all of them, I collect the rare",
+  "en": "{C0F04}And out of all of them, I collect the",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_BIN03:006f9",
   "jp": "レアなÄＲＭをあつめてるの",
-  "en": "ÄRM.",
+  "en": "rare ÄRM.",
   "call": "MswStr",
   "box": 42,
   "line": 2,

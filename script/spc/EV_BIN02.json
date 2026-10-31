@@ -10,7 +10,7 @@
  {
   "id": "EV_BIN02:006e2",
   "jp": "{C0F04}…じゃあÄＲＭってたくさんしゅるいが",
-  "en": "{C0F04}...So there are lots of different kinds of",
+  "en": "{C0F04}...So there are lots of different kinds",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "EV_BIN02:00719",
   "jp": "あるんだ",
-  "en": "ÄRM.",
+  "en": "of ÄRM.",
   "call": "MswStr",
   "box": 42,
   "line": 2,

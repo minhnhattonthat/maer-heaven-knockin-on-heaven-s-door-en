@@ -62,7 +62,7 @@
  {
   "id": "EV_BIN01:00704",
   "jp": "{C0F04}どんなÄＲＭなのかは知らないけどね",
-  "en": "{C0F04}I don't know what kind of ÄRM it is,",
+  "en": "{C0F04}I don't know what kind of ÄRM it",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_BIN01:00739",
   "jp": "",
-  "en": "though.",
+  "en": "is, though.",
   "call": "MswStr",
   "box": 40,
   "line": 2,

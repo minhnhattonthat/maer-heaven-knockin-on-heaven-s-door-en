@@ -62,7 +62,7 @@
  {
   "id": "HI_M24_1:0040d",
   "jp": "{C0F04}な、なぜこのような場所が",
-  "en": "{C0F04}Wh-why would such a place exist",
+  "en": "{C0F04}Wh-why would such a place",
   "call": "MswStr",
   "box": 24,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "HI_M24_1:00438",
   "jp": "地下に…！？",
-  "en": "underground...!?",
+  "en": "exist underground...!?",
   "call": "MswStr",
   "box": 24,
   "line": 2,

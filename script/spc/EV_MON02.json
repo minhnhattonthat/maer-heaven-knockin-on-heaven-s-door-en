@@ -36,7 +36,7 @@
  {
   "id": "EV_MON02:005c3",
   "jp": "{C0F04}ようするに、どんどん進んでいけば",
-  "en": "{C0F04}So basically, we just keep pushing forward,",
+  "en": "{C0F04}So basically, we just keep pushing",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_MON02:005f6",
   "jp": "いいんだな？",
-  "en": "right?",
+  "en": "forward, right?",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "EV_MON02:00649",
   "jp": "{C0F04}あなたのシックスセンスをとぎすまして",
-  "en": "{C0F04}Sharpen your sixth sense and find the right",
+  "en": "{C0F04}Sharpen your sixth sense and find the",
   "call": "MswStr",
   "box": 44,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_MON02:00680",
   "jp": "正しい道をみつけてください",
-  "en": "path.",
+  "en": "right path.",
   "call": "MswStr",
   "box": 44,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_MON02:009fe",
   "jp": "{C0F04}アラン様からギンタさんに",
-  "en": "{C0F04}Alan-sama has something for you,",
+  "en": "{C0F04}Alan-sama has something for",
   "call": "MswStr",
   "box": 62,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_MON02:00a29",
   "jp": "とどけものがあります",
-  "en": "Ginta-san.",
+  "en": "you, Ginta-san.",
   "call": "MswStr",
   "box": 62,
   "line": 2,

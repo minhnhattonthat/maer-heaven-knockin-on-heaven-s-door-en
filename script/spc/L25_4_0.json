@@ -36,7 +36,7 @@
  {
   "id": "L25_4_0:00717",
   "jp": "{C0F04}はりつめていた魔力（まりょく）が",
-  "en": "{C0F04}The magic power that filled the air... it's",
+  "en": "{C0F04}The magic power that filled the air...",
   "call": "MswStr",
   "box": 42,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "L25_4_0:0074a",
   "jp": "……きえたよ！",
-  "en": "gone!",
+  "en": "it's gone!",
   "call": "MswStr",
   "box": 42,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "L25_4_0:00ef7",
   "jp": "{C0F04}はりつめていた魔力（まりょく）が",
-  "en": "{C0F04}The magic power that filled the air... it's",
+  "en": "{C0F04}The magic power that filled the air...",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "L25_4_0:00f2a",
   "jp": "……きえたよ！",
-  "en": "gone!",
+  "en": "it's gone!",
   "call": "MswStr",
   "box": 78,
   "line": 2,

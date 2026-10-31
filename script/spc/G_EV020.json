@@ -62,7 +62,7 @@
  {
   "id": "G_EV020:01498",
   "jp": "{C0F04}ファントムのÄＲＭだったバッボ",
-  "en": "{C0F04}Babbo, the ÄRM that used to be",
+  "en": "{C0F04}Babbo, the ÄRM that used to",
   "call": "MswStr",
   "box": 120,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV020:014c9",
   "jp": "",
-  "en": "Phantom's...",
+  "en": "be Phantom's...",
   "call": "MswStr",
   "box": 120,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "G_EV020:01a40",
   "jp": "{C0F04}そういうトラップだったんだがな",
-  "en": "{C0F04}That was the trap... So how'd you get",
+  "en": "{C0F04}That was the trap... So how'd you",
   "call": "MswStr",
   "box": 147,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV020:01a71",
   "jp": "…おまえ、どうやってバッボとった？",
-  "en": "Babbo?",
+  "en": "get Babbo?",
   "call": "MswStr",
   "box": 147,
   "line": 2,
@@ -478,7 +478,7 @@
  {
   "id": "G_EV020:02d90",
   "jp": "{C0F04}オレがこっちにきて",
-  "en": "{C0F04}She's the first person I met when I came",
+  "en": "{C0F04}She's the first person I met when I",
   "call": "MswStr",
   "box": 255,
   "line": 1,
@@ -487,7 +487,7 @@
  {
   "id": "G_EV020:02db5",
   "jp": "はじめてあったんだ！",
-  "en": "here!",
+  "en": "came here!",
   "call": "MswStr",
   "box": 255,
   "line": 2,
@@ -608,7 +608,7 @@
  {
   "id": "G_EV020:03408",
   "jp": "{C0F04}ちょいと！",
-  "en": "{C0F04}Hey, you! What are you planning to do to",
+  "en": "{C0F04}Hey, you! What are you planning to do",
   "call": "MswStr",
   "box": 288,
   "line": 1,
@@ -617,7 +617,7 @@
  {
   "id": "G_EV020:03425",
   "jp": "ギンタンに何するつもり！？",
-  "en": "Gintan!?",
+  "en": "to Gintan!?",
   "call": "MswStr",
   "box": 288,
   "line": 2,

@@ -80,7 +80,7 @@
  {
   "id": "HI_M00:004dd",
   "jp": "{C0D04}サックリの実{C0F04}を",
-  "en": "{C0D04}Crisp Fruit{C0F04}",
+  "en": "{C0D04}Crisp Fruit{p1}{C0F04}",
   "call": "MswStr",
   "box": 30,
   "line": 0
@@ -216,7 +216,7 @@
  {
   "id": "HI_M00:00efe",
   "jp": "{C0F04}ここだな…",
-  "en": "{C0F04}This must be the place... Now to get some",
+  "en": "{C0F04}This must be the place... Now to get",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "HI_M00:00f1b",
   "jp": "水をくんで…と…",
-  "en": "water...",
+  "en": "some water...",
   "call": "MswStr",
   "box": 95,
   "line": 2,

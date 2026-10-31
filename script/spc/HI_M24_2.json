@@ -218,7 +218,7 @@
  {
   "id": "HI_M24_2:00cd0",
   "jp": "{C0F04}マール…",
-  "en": "{C0F04}Marl... Don't tell me you're one of the Chess",
+  "en": "{C0F04}Marl... Don't tell me you're one of the",
   "call": "MswStr",
   "box": 72,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "HI_M24_2:00ceb",
   "jp": "…まさかチェスの兵隊か？",
-  "en": "Pieces?",
+  "en": "Chess Pieces?",
   "call": "MswStr",
   "box": 72,
   "line": 2,

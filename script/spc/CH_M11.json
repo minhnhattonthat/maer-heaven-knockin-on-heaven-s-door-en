@@ -10,7 +10,7 @@
  {
   "id": "CH_M11:00109",
   "jp": "{C0F04}ははは…どうだい？",
-  "en": "{C0F04}Hahaha... Well? Smashed up real nice, isn't",
+  "en": "{C0F04}Hahaha... Well? Smashed up real nice,",
   "call": "MswStr",
   "box": 7,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "CH_M11:0012e",
   "jp": "きもちのいいこわされっぷりだろ？",
-  "en": "it?",
+  "en": "isn't it?",
   "call": "MswStr",
   "box": 7,
   "line": 2,
@@ -114,7 +114,7 @@
  {
   "id": "CH_M11:003f9",
   "jp": "{C0F04}こわされたって、また",
-  "en": "{C0F04}So what if it got wrecked? Just build it",
+  "en": "{C0F04}So what if it got wrecked? Just build",
   "call": "MswStr",
   "box": 21,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "CH_M11:00420",
   "jp": "作ればいいじゃんか！！",
-  "en": "again!!",
+  "en": "it again!!",
   "call": "MswStr",
   "box": 21,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "CH_M11:00a7c",
   "jp": "{C0F04}この子にたべさせるものさえ",
-  "en": "{C0F04}We don't even have anything left to feed my",
+  "en": "{C0F04}We don't even have anything left to feed",
   "call": "MswStr",
   "box": 56,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "CH_M11:00aa9",
   "jp": "のこっていない…",
-  "en": "child...",
+  "en": "my child...",
   "call": "MswStr",
   "box": 56,
   "line": 2,
@@ -426,7 +426,7 @@
  {
   "id": "CH_M11:00e5c",
   "jp": "{C0F04}われわれは、もう",
-  "en": "{C0F04}We don't even have the will to live",
+  "en": "{C0F04}We don't even have the will to",
   "call": "MswStr",
   "box": 78,
   "line": 1,
@@ -435,7 +435,7 @@
  {
   "id": "CH_M11:00e7f",
   "jp": "生きる気力すらないのだ…",
-  "en": "anymore...",
+  "en": "live anymore...",
   "call": "MswStr",
   "box": 78,
   "line": 2,
@@ -530,7 +530,7 @@
  {
   "id": "CH_M11:01096",
   "jp": "{C0F04}われわれは、もう",
-  "en": "{C0F04}We don't even have the will to live",
+  "en": "{C0F04}We don't even have the will to",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -539,7 +539,7 @@
  {
   "id": "CH_M11:010b9",
   "jp": "生きる気力すらないのだ…",
-  "en": "anymore...",
+  "en": "live anymore...",
   "call": "MswStr",
   "box": 89,
   "line": 2,

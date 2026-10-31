@@ -62,7 +62,7 @@
  {
   "id": "SP_M01:00b3d",
   "jp": "{C0F04}やっぱり…",
-  "en": "{C0F04}I knew it... I've changed since I came to this",
+  "en": "{C0F04}I knew it... I've changed since I came to",
   "call": "MswStr",
   "box": 68,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "SP_M01:00b5a",
   "jp": "オレはこのせかいにきてかわった！！",
-  "en": "world!!",
+  "en": "this world!!",
   "call": "MswStr",
   "box": 68,
   "line": 2,

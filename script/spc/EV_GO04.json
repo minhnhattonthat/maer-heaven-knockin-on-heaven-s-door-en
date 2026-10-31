@@ -10,7 +10,7 @@
  {
   "id": "EV_GO04:0080c",
   "jp": "{C0F04}ま{C0D04}りょ{C0F04}く！！",
-  "en": "{C0F04}Ma{C0D04}gic{C0F04} power!!",
+  "en": "{C0F04}Ma{C0D04}gic{p1}{C0F04} power!!",
   "call": "MswStr",
   "box": 48,
   "line": 1,
@@ -426,7 +426,7 @@
  {
   "id": "EV_GO04:01513",
   "jp": "{C0F04}チェス{C0B04}の{C0904}こま{C0F04}、{C0D04}オル{C0F04}コだぞ！！",
-  "en": "{C0F04}I'm a Chess {C0B04}Pi{C0904}ece{C0F04}, {C0D04}Or{C0F04}co!!",
+  "en": "{C0F04}I'm a Chess {C0B04}Pi{C0904}ece{p1}{C0F04}, {C0D04}Or{C0F04}co!!",
   "call": "MswStr",
   "box": 105,
   "line": 1,

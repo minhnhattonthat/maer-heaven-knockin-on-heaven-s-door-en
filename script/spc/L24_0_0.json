@@ -400,7 +400,7 @@
  {
   "id": "L24_0_0:01bf4",
   "jp": "ち、ちがう、そのチェスを",
-  "en": "N-no, we're trying to beat those Chess",
+  "en": "N-no, we're trying to beat those",
   "call": "MswStr",
   "box": 151,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "L24_0_0:01c18",
   "jp": "たおそうとしているんだ！",
-  "en": "guys!",
+  "en": "Chess guys!",
   "call": "MswStr",
   "box": 151,
   "line": 2,

@@ -218,7 +218,7 @@
  {
   "id": "G_EV044:0111a",
   "jp": "{C0F04}ねたいときには",
-  "en": "{C0F04}When ya feel like sleepin', best thing ta do is",
+  "en": "{C0F04}When ya feel like sleepin', best thing ta do",
   "call": "MswStr",
   "box": 90,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "G_EV044:0113b",
   "jp": "ねるのがいちばんや",
-  "en": "sleep!",
+  "en": "is sleep!",
   "call": "MswStr",
   "box": 90,
   "line": 2,

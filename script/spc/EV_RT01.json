@@ -88,7 +88,7 @@
  {
   "id": "EV_RT01:00665",
   "jp": "{C0F04}しゃべる…岩！！",
-  "en": "{C0F04}A talking... rock!! ...Sure did! I got to come",
+  "en": "{C0F04}A talking... rock!! ...Sure did! I got to",
   "call": "MswStr",
   "box": 31,
   "line": 1,
@@ -97,7 +97,7 @@
  {
   "id": "EV_RT01:00688",
   "jp": "…あったあった！ここに来られたことがな！",
-  "en": "here!",
+  "en": "come here!",
   "call": "MswStr",
   "box": 31,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "EV_RT01:00821",
   "jp": "{C0F04}そこから水をくんできてくれませんか？",
-  "en": "{C0F04}Would you kindly fetch us some water from",
+  "en": "{C0F04}Would you kindly fetch us some water",
   "call": "MswStr",
   "box": 37,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_RT01:00858",
   "jp": "",
-  "en": "it?",
+  "en": "from it?",
   "call": "MswStr",
   "box": 37,
   "line": 2,

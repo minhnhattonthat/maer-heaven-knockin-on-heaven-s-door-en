@@ -10,7 +10,7 @@
  {
   "id": "G_EV005:0102e",
   "jp": "{C0F04}ここが、とうぞくギルド",
-  "en": "{C0F04}This here's the hideout of the thieves' guild",
+  "en": "{C0F04}This here's the hideout of the thieves'",
   "call": "MswStr",
   "box": 95,
   "line": 1,
@@ -19,7 +19,7 @@
  {
   "id": "G_EV005:01057",
   "jp": "{C0904}『ルベリア』{C0F04}のアジトや！！",
-  "en": "{C0904}'Luberia'{C0F04}!!",
+  "en": "guild {C0904}'Luberia'{C0F04}!!",
   "call": "MswStr",
   "box": 95,
   "line": 2,
@@ -36,7 +36,7 @@
  {
   "id": "G_EV005:010c6",
   "jp": "{C0F04}自分はここのボスやっとる",
-  "en": "{C0F04}I'm the boss 'round here. The name's",
+  "en": "{C0F04}I'm the boss 'round here. The",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV005:010f1",
   "jp": "{C0904}『ナナシ』{C0F04}ってモンや",
-  "en": "{C0904}'Nanashi'{C0F04}.",
+  "en": "name's {C0904}'Nanashi'{C0F04}.",
   "call": "MswStr",
   "box": 97,
   "line": 2,
@@ -62,7 +62,7 @@
  {
   "id": "G_EV005:01198",
   "jp": "{C0F04}キミらのことまちがえて、わるかったのぉ",
-  "en": "{C0F04}Sorry 'bout mistakin' you lot fer somebody",
+  "en": "{C0F04}Sorry 'bout mistakin' you lot fer",
   "call": "MswStr",
   "box": 100,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV005:011d1",
   "jp": "",
-  "en": "else.",
+  "en": "somebody else.",
   "call": "MswStr",
   "box": 100,
   "line": 2,

@@ -322,7 +322,7 @@
  {
   "id": "EV_ICE07:00b28",
   "jp": "{C0F04}（この少年といっしょにいると",
-  "en": "{C0F04}(Being with this boy... puts me so much at",
+  "en": "{C0F04}(Being with this boy... puts me so much",
   "call": "MswStr",
   "box": 52,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_ICE07:00b57",
   "jp": "　すごく安心できる…）",
-  "en": "ease...)",
+  "en": "at ease...)",
   "call": "MswStr",
   "box": 52,
   "line": 2,

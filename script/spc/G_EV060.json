@@ -62,7 +62,7 @@
  {
   "id": "G_EV060:00a97",
   "jp": "{C0F04}なにを！　あんなに",
-  "en": "{C0F04}Whaddaya mean! I explained it in so much",
+  "en": "{C0F04}Whaddaya mean! I explained it in so",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV060:00abc",
   "jp": "くわしくせつめいしてやったのに！",
-  "en": "detail!",
+  "en": "much detail!",
   "call": "MswStr",
   "box": 60,
   "line": 2,

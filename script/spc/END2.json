@@ -114,7 +114,7 @@
  {
   "id": "END2:00fb5",
   "jp": "さ、とりあえず、ねるとすっか…",
-  "en": "Well, guess we'd better hit the sack for",
+  "en": "Well, guess we'd better hit the sack",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "END2:00fdf",
   "jp": "",
-  "en": "now...",
+  "en": "for now...",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -840,7 +840,7 @@
  {
   "id": "END2:03ad2",
   "jp": "わたしだって…",
-  "en": "I'm... really a very weak person too, you",
+  "en": "I'm... really a very weak person too,",
   "call": "MswStr",
   "box": 321,
   "line": 1,
@@ -849,7 +849,7 @@
  {
   "id": "END2:03aec",
   "jp": "ホントはスゴく弱い人間だよ",
-  "en": "know.",
+  "en": "you know.",
   "call": "MswStr",
   "box": 321,
   "line": 2,
@@ -1360,7 +1360,7 @@
  {
   "id": "END2:05054",
   "jp": "……うん！",
-  "en": "......Yeah! Now you sound like the real Ginta",
+  "en": "......Yeah! Now you sound like the real",
   "call": "MswStr",
   "box": 423,
   "line": 1,
@@ -1369,7 +1369,7 @@
  {
   "id": "END2:0506a",
   "jp": "やっとギンタらしくなった！",
-  "en": "again!",
+  "en": "Ginta again!",
   "call": "MswStr",
   "box": 423,
   "line": 2,
@@ -1490,7 +1490,7 @@
  {
   "id": "END2:05ac1",
   "jp": "これからチェスの兵隊の",
-  "en": "Now begins the advance of the Chess",
+  "en": "Now begins the advance of the",
   "call": "MswStr",
   "box": 482,
   "line": 1,
@@ -1499,7 +1499,7 @@
  {
   "id": "END2:05ae3",
   "jp": "進撃が始まる！！",
-  "en": "Pieces!!",
+  "en": "Chess Pieces!!",
   "call": "MswStr",
   "box": 482,
   "line": 2,
@@ -1662,7 +1662,7 @@
  {
   "id": "END2:064ba",
   "jp": "チェスの兵隊…！！！！",
-  "en": "Chess Pieces...!!!! ...Don't you get cocky with",
+  "en": "Chess Pieces...!!!! ...Don't you get cocky",
   "call": "MswStr",
   "box": 538,
   "line": 1,
@@ -1671,7 +1671,7 @@
  {
   "id": "END2:064dc",
   "jp": "…いい気になりやがって！！",
-  "en": "me!!",
+  "en": "with me!!",
   "call": "MswStr",
   "box": 538,
   "line": 2,
@@ -1818,7 +1818,7 @@
  {
   "id": "END2:06cce",
   "jp": "オレの大好きな、このメルヘヴンを",
-  "en": "I'm gonna protect this MÄR Heaven that I",
+  "en": "I'm gonna protect this MÄR Heaven that",
   "call": "MswStr",
   "box": 576,
   "line": 1,
@@ -1827,7 +1827,7 @@
  {
   "id": "END2:06cfa",
   "jp": "まもるんだ！！",
-  "en": "love!!",
+  "en": "I love!!",
   "call": "MswStr",
   "box": 576,
   "line": 2,

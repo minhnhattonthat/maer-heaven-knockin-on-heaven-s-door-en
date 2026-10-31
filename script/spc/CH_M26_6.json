@@ -216,7 +216,7 @@
  {
   "id": "CH_M26_6:02c6e",
   "jp": "{C0F04}ぬぅ～～～！",
-  "en": "{C0F04}Nnngh~~~! What a thoroughly detestable",
+  "en": "{C0F04}Nnngh~~~! What a thoroughly",
   "call": "MswStr",
   "box": 258,
   "line": 1,
@@ -225,7 +225,7 @@
  {
   "id": "CH_M26_6:02c8d",
   "jp": "どこまでにくにくしいヤツ！！",
-  "en": "wretch!!",
+  "en": "detestable wretch!!",
   "call": "MswStr",
   "box": 258,
   "line": 2,

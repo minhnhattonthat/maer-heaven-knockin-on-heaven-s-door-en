@@ -285,6 +285,30 @@ def merge(names):
     return 0
 
 
+def rewrap():
+    """Re-wrap merged boxes whose lines are exactly the plain greedy wrap (no forced ' / ' breaks, no centring) with
+    the current lint.wrap (one-word last lines fixed). Prints each changed box."""
+    store, n = load_store(), 0
+    for u in units(store).values():
+        if u['kind'] != 'script':
+            continue
+        for m in u['members']:
+            cur = [e['en'] for e in m if e['en'].strip()]
+            text = ' '.join(cur)
+            if len(cur) < 2 or lint.wrap(text, u['lines'], widow=False)[0] != cur:
+                continue
+            new, err = lint.wrap(text, u['lines'])
+            if new == cur or err:
+                continue
+            for e, ln in zip(m, place(new, m)):
+                e['en'] = ln if ln or not e['jp'] else ' '
+            n += 1
+            print('%s: %s' % (m[0]['id'], ' / '.join(new)))
+    save(store)
+    print('rewrapped %d boxes' % n)
+    return 0
+
+
 def labels():
     """Speaker labels: ［name］ -> [English] from the glossary's Characters table (＆ joins two names)."""
     names = {jp: en for sec, jp, en, _, _ in glossary() if sec == 'Characters'}
@@ -325,6 +349,8 @@ def main(a):
         return merge(a[1:])
     elif cmd == 'labels':
         return labels()
+    elif cmd == 'rewrap':
+        return rewrap()
     elif cmd == 'pairs':
         for n in a[1:]:
             pairs(n)

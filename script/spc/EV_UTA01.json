@@ -374,7 +374,7 @@
  {
   "id": "EV_UTA01:01d1c",
   "jp": "{C0F04}あーんなにおちこんでたのにねぇ…",
-  "en": "{C0F04}And they were sooo down in the dumps",
+  "en": "{C0F04}And they were sooo down in the",
   "call": "MswStr",
   "box": 161,
   "line": 1,
@@ -383,7 +383,7 @@
  {
   "id": "EV_UTA01:01d4f",
   "jp": "",
-  "en": "before...",
+  "en": "dumps before...",
   "call": "MswStr",
   "box": 161,
   "line": 2,
@@ -400,7 +400,7 @@
  {
   "id": "EV_UTA01:01d96",
   "jp": "{C0F04}ほんとうに…",
-  "en": "{C0F04}Truly... we've found the courage to live",
+  "en": "{C0F04}Truly... we've found the courage to",
   "call": "MswStr",
   "box": 163,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_UTA01:01db5",
   "jp": "生きるゆうきをとりもどした…",
-  "en": "again...",
+  "en": "live again...",
   "call": "MswStr",
   "box": 163,
   "line": 2,
@@ -452,7 +452,7 @@
  {
   "id": "EV_UTA01:01fa5",
   "jp": "{C0F04}いやいやいや…！",
-  "en": "{C0F04}Aw, shucks, no, no...! You're makin' me",
+  "en": "{C0F04}Aw, shucks, no, no...! You're makin'",
   "call": "MswStr",
   "box": 173,
   "line": 1,
@@ -461,7 +461,7 @@
  {
   "id": "EV_UTA01:01fc8",
   "jp": "てれるっスよ！",
-  "en": "blush!",
+  "en": "me blush!",
   "call": "MswStr",
   "box": 173,
   "line": 2,

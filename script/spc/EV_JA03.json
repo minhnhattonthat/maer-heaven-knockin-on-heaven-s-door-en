@@ -244,7 +244,7 @@
  {
   "id": "EV_JA03:01714",
   "jp": "{C0F04}なんだよ、やろうってのかぁ！！！",
-  "en": "{C0F04}What, you wanna go?!!! ...Don't mess with",
+  "en": "{C0F04}What, you wanna go?!!! ...Don't mess",
   "call": "MswStr",
   "box": 126,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_JA03:01747",
   "jp": "…なめんなぁ！！！",
-  "en": "us!!!",
+  "en": "with us!!!",
   "call": "MswStr",
   "box": 126,
   "line": 2,

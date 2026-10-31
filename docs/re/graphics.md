@@ -17,7 +17,8 @@ image, text as read, what it is). `?` marks a doubtful reading; confirm against 
 `NCD (C)2004 NOBODY` header; +0x20 six u32 section offsets (names, anims, frames, OAM, palettes, tiles), +0x40 counts.
 Names 16 B (name[8], u32 anim index, u32 count) -> anims 8 B (u32 frame index, u32 count) -> frames 8 B (u32 first
 OAM, u16 count, u16 ?) -> OAM 20 B (u16 attr0, u16 attr1 as GBA OAM: y, shape, x, size, flips; u32 palette index;
-u32 tile index; 8 B ?) -> palettes 32 B each -> raw (uncompressed) 4bpp tiles, 1D mapping. Sprite tiles are not
+u32 tile index; 8 B ?; the OAM y/x are the object's **centre**, not its top left: mixed-size frames such as shop
+window 1585 only tile up that way, and objects relaid as top-left showed 8-16 px off in game) -> palettes 32 B each -> raw (uncompressed) 4bpp tiles, 1D mapping. Sprite tiles are not
 compressed, so edits are in place if the new art uses no more tiles.
 
 ## Japanese in graphics (everything that needs work)

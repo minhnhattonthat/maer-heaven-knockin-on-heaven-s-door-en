@@ -400,7 +400,7 @@
  {
   "id": "EV_JA01:02c9d",
   "jp": "{C0F04}この野菜すんごくウマイ！！",
-  "en": "{C0F04}These veggies are super tasty!! Thanks,",
+  "en": "{C0F04}These veggies are super tasty!!",
   "call": "MswStr",
   "box": 260,
   "line": 1,
@@ -409,7 +409,7 @@
  {
   "id": "EV_JA01:02cca",
   "jp": "ありがとう、おばさん！！",
-  "en": "ma'am!!",
+  "en": "Thanks, ma'am!!",
   "call": "MswStr",
   "box": 260,
   "line": 2,

@@ -114,7 +114,7 @@
  {
   "id": "EV_GO10:006e1",
   "jp": "{C0F04}助けてほしいのはおまえだろ？",
-  "en": "{C0F04}You're the one who's gonna need help!",
+  "en": "{C0F04}You're the one who's gonna need",
   "call": "MswStr",
   "box": 41,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO10:00710",
   "jp": "バーーーカ！",
-  "en": "Stuuupid!",
+  "en": "help! Stuuupid!",
   "call": "MswStr",
   "box": 41,
   "line": 2,

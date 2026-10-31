@@ -166,7 +166,7 @@
  {
   "id": "G_EV007:008da",
   "jp": "{C0F04}それなら、ワイの持っている",
-  "en": "{C0F04}Then I can get us there with my Dimension",
+  "en": "{C0F04}Then I can get us there with my",
   "call": "MswStr",
   "box": 43,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "G_EV007:00907",
   "jp": "ディメンションÄＲＭで行ける！！",
-  "en": "ÄRM!!",
+  "en": "Dimension ÄRM!!",
   "call": "MswStr",
   "box": 43,
   "line": 2,

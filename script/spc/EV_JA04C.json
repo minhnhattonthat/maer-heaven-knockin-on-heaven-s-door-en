@@ -36,7 +36,7 @@
  {
   "id": "EV_JA04C:00534",
   "jp": "{C0F04}（必ず元気でかえってくるんだよ…",
-  "en": "{C0F04}(You come home safe and sound, you hear...",
+  "en": "{C0F04}(You come home safe and sound, you",
   "call": "MswStr",
   "box": 33,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "EV_JA04C:00567",
   "jp": "　ジャック…！）",
-  "en": "Jack...!)",
+  "en": "hear... Jack...!)",
   "call": "MswStr",
   "box": 33,
   "line": 2,

@@ -114,7 +114,7 @@
  {
   "id": "EV_AL03:00a66",
   "jp": "{C0F04}（どうもこのバッボ…",
-  "en": "{C0F04}(This Babbo... it's like he's a different",
+  "en": "{C0F04}(This Babbo... it's like he's a",
   "call": "MswStr",
   "box": 57,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_AL03:00a8d",
   "jp": "　別人格のようだな）",
-  "en": "person.)",
+  "en": "different person.)",
   "call": "MswStr",
   "box": 57,
   "line": 2,
@@ -244,7 +244,7 @@
  {
   "id": "EV_AL03:01032",
   "jp": "{C0F04}ていこうせんから",
-  "en": "{C0F04}I shall not resist, so destroy me in a single",
+  "en": "{C0F04}I shall not resist, so destroy me in a",
   "call": "MswStr",
   "box": 87,
   "line": 1,
@@ -253,7 +253,7 @@
  {
   "id": "EV_AL03:01055",
   "jp": "ひと思いにこわせ！！",
-  "en": "blow!!",
+  "en": "single blow!!",
   "call": "MswStr",
   "box": 87,
   "line": 2,
@@ -270,7 +270,7 @@
  {
   "id": "EV_AL03:010b0",
   "jp": "{C0F04}そのかわり、",
-  "en": "{C0F04}But in exchange, do not lay one finger on",
+  "en": "{C0F04}But in exchange, do not lay one finger",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -279,7 +279,7 @@
  {
   "id": "EV_AL03:010cf",
   "jp": "ギンタにゆび一本ふれるな！！",
-  "en": "Ginta!!",
+  "en": "on Ginta!!",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -296,7 +296,7 @@
  {
   "id": "EV_AL03:01132",
   "jp": "{C0F04}ギンタはワシの家来！",
-  "en": "{C0F04}Ginta is my servant! I cannot allow him to",
+  "en": "{C0F04}Ginta is my servant! I cannot allow him",
   "call": "MswStr",
   "box": 91,
   "line": 1,
@@ -305,7 +305,7 @@
  {
   "id": "EV_AL03:01159",
   "jp": "死なせるワケにはいかんからな",
-  "en": "die.",
+  "en": "to die.",
   "call": "MswStr",
   "box": 91,
   "line": 2,

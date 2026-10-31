@@ -166,7 +166,7 @@
  {
   "id": "EV_JA04:01015",
   "jp": "{C0F04}ルーガルー…",
-  "en": "{C0F04}Loup-Garou... I came here to give you a job,",
+  "en": "{C0F04}Loup-Garou... I came here to give you a",
   "call": "MswStr",
   "box": 89,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "EV_JA04:01034",
   "jp": "おまえ達に仕事を頼みにきてみれば…",
-  "en": "and...",
+  "en": "job, and...",
   "call": "MswStr",
   "box": 89,
   "line": 2,
@@ -322,7 +322,7 @@
  {
   "id": "EV_JA04:01644",
   "jp": "{C0F04}（そうか、封印をといたのはおまえか…）",
-  "en": "{C0F04}(I see. So you are the one who broke the",
+  "en": "{C0F04}(I see. So you are the one who broke",
   "call": "MswStr",
   "box": 121,
   "line": 1,
@@ -331,7 +331,7 @@
  {
   "id": "EV_JA04:0167d",
   "jp": "",
-  "en": "seal...)",
+  "en": "the seal...)",
   "call": "MswStr",
   "box": 121,
   "line": 2,

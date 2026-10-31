@@ -36,7 +36,7 @@
  {
   "id": "CH_M01_3:00557",
   "jp": "{C0F04}ボウヤ　そのÄＲＭかしてあげるから",
-  "en": "{C0F04}Kiddo, I'll lend you that ÄRM, so do",
+  "en": "{C0F04}Kiddo, I'll lend you that ÄRM, so",
   "call": "MswStr",
   "box": 34,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "CH_M01_3:0058c",
   "jp": "なんとかして！",
-  "en": "something!",
+  "en": "do something!",
   "call": "MswStr",
   "box": 34,
   "line": 2,

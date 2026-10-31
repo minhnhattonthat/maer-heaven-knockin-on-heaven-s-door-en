@@ -114,7 +114,7 @@
  {
   "id": "EV_MON01:00949",
   "jp": "{C0F04}ここは、はてしなくつづく",
-  "en": "{C0F04}This place is a dungeon that goes on and on",
+  "en": "{C0F04}This place is a dungeon that goes on and",
   "call": "MswStr",
   "box": 60,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_MON01:00974",
   "jp": "ダンジョンになっておる",
-  "en": "forever.",
+  "en": "on forever.",
   "call": "MswStr",
   "box": 60,
   "line": 2,
@@ -192,7 +192,7 @@
  {
   "id": "EV_MON01:00b09",
   "jp": "{C0F04}それだけ？",
-  "en": "{C0F04}That's it? Sounds like a piece of cake,",
+  "en": "{C0F04}That's it? Sounds like a piece of",
   "call": "MswStr",
   "box": 67,
   "line": 1,
@@ -201,7 +201,7 @@
  {
   "id": "EV_MON01:00b26",
   "jp": "なんだか、らくしょうっスね",
-  "en": "y'know.",
+  "en": "cake, y'know.",
   "call": "MswStr",
   "box": 67,
   "line": 2,
@@ -218,7 +218,7 @@
  {
   "id": "EV_MON01:00b87",
   "jp": "{C0F04}とちゅうでセーブしてやすむことは",
-  "en": "{C0F04}Mind ya, you can't Save and rest along the",
+  "en": "{C0F04}Mind ya, you can't Save and rest along",
   "call": "MswStr",
   "box": 69,
   "line": 1,
@@ -227,7 +227,7 @@
  {
   "id": "EV_MON01:00bba",
   "jp": "できんからな",
-  "en": "way.",
+  "en": "the way.",
   "call": "MswStr",
   "box": 69,
   "line": 2,

@@ -62,7 +62,7 @@
  {
   "id": "EV_GTOB2:00454",
   "jp": "{C0F04}おまえをワシの家来として",
-  "en": "{C0F04}I shall permit you to accompany me as my",
+  "en": "{C0F04}I shall permit you to accompany me as",
   "call": "MswStr",
   "box": 25,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "EV_GTOB2:0047f",
   "jp": "同行させることを許そう！！",
-  "en": "servant!!",
+  "en": "my servant!!",
   "call": "MswStr",
   "box": 25,
   "line": 2,

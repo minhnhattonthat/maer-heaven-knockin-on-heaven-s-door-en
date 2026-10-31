@@ -36,7 +36,7 @@
  {
   "id": "G_EV010:0064c",
   "jp": "{C0F04}街の北にめし屋がある",
-  "en": "{C0F04}There's a diner north of town. Let's go",
+  "en": "{C0F04}There's a diner north of town. Let's",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "G_EV010:00673",
   "jp": "そこへ行こう",
-  "en": "there.",
+  "en": "go there.",
   "call": "MswStr",
   "box": 40,
   "line": 2,

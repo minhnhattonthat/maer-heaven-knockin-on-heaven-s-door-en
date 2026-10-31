@@ -36,7 +36,7 @@
  {
   "id": "L11_0_0:00c02",
   "jp": "うん、そうだな！",
-  "en": "Yeah, sure looks like it! Glad they've perked",
+  "en": "Yeah, sure looks like it! Glad they've",
   "call": "MswStr",
   "box": 77,
   "line": 1,
@@ -45,7 +45,7 @@
  {
   "id": "L11_0_0:00c1e",
   "jp": "元気になってもらってよかった",
-  "en": "up.",
+  "en": "perked up.",
   "call": "MswStr",
   "box": 77,
   "line": 2,
@@ -166,7 +166,7 @@
  {
   "id": "L11_0_0:0108f",
   "jp": "それにしてもチェスの兵隊…",
-  "en": "Still, those Chess Pieces... I won't forgive",
+  "en": "Still, those Chess Pieces... I won't",
   "call": "MswStr",
   "box": 97,
   "line": 1,
@@ -175,7 +175,7 @@
  {
   "id": "L11_0_0:010b5",
   "jp": "ゆるせねぇ！",
-  "en": "'em!",
+  "en": "forgive 'em!",
   "call": "MswStr",
   "box": 97,
   "line": 2,

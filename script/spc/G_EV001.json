@@ -62,7 +62,7 @@
  {
   "id": "G_EV001:009b3",
   "jp": "{C0F04}そっス！",
-  "en": "{C0F04}Yep! It's the biggest town 'round these",
+  "en": "{C0F04}Yep! It's the biggest town 'round",
   "call": "MswStr",
   "box": 58,
   "line": 1,
@@ -71,7 +71,7 @@
  {
   "id": "G_EV001:009ce",
   "jp": "この辺りでは、いちばん大きな街っス",
-  "en": "parts.",
+  "en": "these parts.",
   "call": "MswStr",
   "box": 58,
   "line": 2,

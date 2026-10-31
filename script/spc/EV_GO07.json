@@ -114,7 +114,7 @@
  {
   "id": "EV_GO07:0071b",
   "jp": "{C0F04}ちがうせかいからきた",
-  "en": "{C0F04}Maybe 'cause I'm a human from a different",
+  "en": "{C0F04}Maybe 'cause I'm a human from a",
   "call": "MswStr",
   "box": 40,
   "line": 1,
@@ -123,7 +123,7 @@
  {
   "id": "EV_GO07:00742",
   "jp": "人間だからかな？",
-  "en": "world?",
+  "en": "different world?",
   "call": "MswStr",
   "box": 40,
   "line": 2,
