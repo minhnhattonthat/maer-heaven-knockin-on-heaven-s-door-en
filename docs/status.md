@@ -2,10 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine + marker + width gate) nearly done; one item left (code-string label budgets, see Next).
-  Last builds (2026-11-01): `build/marker.gba` (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`);
+- **Phase:** 5 done (2026-11-01); next is phase 6 (translate). Last builds: `build/marker.gba`
+  (`build.py --marker`), `build/widthtest.gba` (`tools/widthtest.py`: script, record and code-string width tests);
   `build/maer_en.gba` = original (identity).
 - **Done:** Step 0, phase 1 (recon, `docs/re/`). Phase 5 (2026-11-01, `docs/re/vwf.md`):
+  - code strings (`script/windows.json` 'code'): every code.json id sits in one window (test); renderer per string
+    from `tools/lua/drawlog.lua` + `tools/debug/drawmap.py` (`work/qa/drawmap/map.tsv`); measured with
+    `widthtest --code-test`: status labels 38 px (+pads to 40), EXP header 104, elements 24 (+pads to 26),
+    names 40, ÄRM class 84 + element 66, area names 124, GET!! 172, help/shop/save messages 192 (dialogue path;
+    price-prefixed ones 144); fullwidth digits/slash/blanks stay Japanese (`keep`: copied 2 bytes per digit);
+    status rows are 25-byte buffers (`bytes`);
+  - engine additions: pad bytes 0x01-0x1F (`{pN}`, blank, N px in lists; build pads `pad_to` labels); ASCII in
+    list windows skips the window's 1-px spacing; `pxlen` hook replaces strlen at 10 byte-count centring /
+    right-align sites (names, area names); the dialogue fetch skips the space after `T0000` (menu help lost 3 px);
+    17 ASCII sprintf formats lose the space after `C0F04` (`engine.FORMATS`);
   - renderer read: one glyph blitter at any pixel x (0x08011688), 5 font users (dialogue, 2 list renderers,
     2 centred labels); single byte b -> glyph b+0x1E0, so ASCII goes into those font slots;
   - `tools/engine.py` (keystone, hooks at 0xFE4000): VWF in dialogue, list windows and centred labels;
@@ -47,16 +57,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
     question, answer いいえ as the `menu` route does);
   - god mode (`--var GOD=1`), flag/var setters, battle-HP and title-mode-unlock addresses: `docs/re/debug.md`;
   - `tools/scrp.py dis NAME.SPC` now names native calls; tests `tests/test_debug.py`.
-- **Next:** finish phase 5: measure the code-string label fields (`windows.json` `code_labels`: element/stat/area
-  labels, ばんごう/コスト/..., digit strings ０-９, which compose numbers: decide ASCII digits) with a `--qa`-style
-  override for code.json in `widthtest.py`; try ÄRM name > 112 / desc > 150 (status box); then give every
-  code.json entry its window. Then phase 6 (translate): add the text lint (width per `windows.json`, codes,
-  `[CcTt][0-9A-Fa-f]{4}` inside English text = accidental control code). Our LZ77 is greedy (+2%): an
+- **Next:** phase 6 (translate). First the text lint in `tools/check.py`: width per `windows.json` (script lines:
+  `engine.width`; code strings: their window, `list_width` for list/ctr renderers, `bytes` limits, `composed`
+  notes), control codes matched, `[CcTt][0-9A-Fa-f]{4}` inside English = accidental code, `%s`/`%d` kept, warn on
+  guess/inferred windows. Batch tooling must skip `keep` code ids (build fills them) and CH_ESC.SPC. Code
+  messages compose with particles (`を`/`の`/`が` strings, price prefix): translate those as a set, reading the
+  callers (shop/engraver/link code at 0x08054000-0x080542FF, 0x0806D000-). Our LZ77 is greedy (+2%): an
   optimal-parse compressor would cut spill if space gets tight (723 KiB free; marker build fits).
 - **Open questions for later phases:**
   exact meaning of `C`/`T` codes; whether any `0x29` push carries a code offset (lengthening every OPEN.SPC string
-  works, so none there); ASCII format strings in the string block (`T0000 C0F04 %s`) now draw their spaces (3 px);
-  EWRAM script buffer size; ÄRM交換 mode shows nothing without a link partner; screens not yet in the scene list:
-  link-cable messages past PARTY SELECT, password entry, save prompt (`docs/re/debug.md` §Not reached).
+  works, so none there); EWRAM script buffer size; ÄRM交換 mode shows nothing without a link partner; screens not
+  yet in the scene list: link-cable messages past PARTY SELECT, password entry, save prompt, ÄRM sort keys
+  (`sort_headers`, guessed 40 px), the 'choose a character' label (`docs/re/debug.md` §Not reached). The
+  `pxlen` rounding can leave right-aligned names up to 7 px short of the edge. Status-screen corner name, shop
+  かう/うる menus etc. are graphics (`docs/re/graphics.md`), phase 8.
 - **Open bugs:** none.
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by a human (headless only). Non-blocking.

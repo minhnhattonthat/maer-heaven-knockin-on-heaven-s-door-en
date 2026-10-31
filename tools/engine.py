@@ -7,6 +7,7 @@
 
 `patches()` -> [(rom offset, original bytes, new bytes)]; `apply()` asserts the originals before writing.
 """
+import re
 from pathlib import Path
 
 from capstone import Cs, CS_ARCH_ARM, CS_MODE_THUMB
@@ -58,6 +59,8 @@ def width(b, adv=None):
         c = b[i]
         if is_code(b, i):
             i += 5
+            if b[i - 5] in b'Tt' and b[i - 4:i].isdigit() and b[i:i + 1] == b' ':  # 'T0000 ': fetch skips the space
+                i += 1
         elif 0x81 <= c <= 0x9F or 0xE0 <= c:
             w, i = w + WIDE_ADV, i + 2
         elif 0x20 <= c < 0x7F:
@@ -71,10 +74,34 @@ def font(nft):
     """FONT.NFT with the English glyphs in the single-byte slots."""
     assert nft[:3] == b'NFT' and nft[0x20] == 8 and nft[0x24] == 8 and nft[0x38] == 8
     out = bytearray(nft)
-    for c, (rows, _) in glyphs().items():
+    for c, (rows, _) in list(glyphs().items()) + [(c, (bytes(8), 0)) for c in range(1, 0x20)]:  # 0x01-0x1F: pads
         o = 0x60 + (GLYPH0 + c) * 8
         out[o:o + 8] = rows
     return bytes(out)
+
+
+def list_width(b, spacing=0, adv=None):
+    """Pixel width as the list/centred-label hooks measure it (`measure`): ASCII its advance (no window spacing:
+    the advance already holds the shadow gap), 2-byte glyphs 8 + spacing, other single bytes >= 0x7F 8 + spacing,
+    pad bytes 0x01-0x1F their own value in px (blank glyphs; text.encode_en `{p5}`), no codes."""
+    adv, i, w = adv or advance(), 0, 0
+    while i < len(b) and b[i]:
+        c = b[i]
+        if 0x81 <= c <= 0x9F or 0xE0 <= c:
+            w, i = w + 8 + spacing, i + 2
+        elif c < 0x20:
+            w, i = w + c, i + 1
+        elif c < 0x7F:
+            w, i = w + adv[c - 0x20], i + 1
+        else:
+            w, i = w + 8 + spacing, i + 1
+    return w
+
+
+def pxlen(b, adv=None):
+    """What the `pxlen` hook hands the game's byte-count layout code instead of strlen: an even length whose
+    len / 2 * 8 is the pixel width rounded up to 8 (Japanese strings: their byte length)."""
+    return (list_width(b, 0, adv) + 7) // 8 * 2
 
 
 def asm(src, addr):
@@ -96,11 +123,31 @@ def far(target, reg='r0'):
 
 # Hooks (Thumb, in free space); each returns to game code with ldr/bx.
 HOOKS = {
-    # from 0x08011B2E (dialogue fetch, single-byte path): r4 -> char, r6 window, r7 -> line index byte
+    # from 0x08011B2E (dialogue fetch, single-byte path): r4 -> char, r6 window, r7 -> line index byte.
+    # A space right after T/t + 4 decimal digits ('T0000 ' timing code + separator) is skipped like a code (the
+    # original skipped every single byte; menu-help / shop lines start 'T0000 C0F04'; T0000 is the only T code).
     'fetch': """
     ldrb r5, [r4]
     cmp r5, #0x20
     blo f_ctrl
+    bne f_chk
+    subs r3, r4, #5
+    ldrb r0, [r3]
+    movs r2, #0x20
+    orrs r0, r2
+    cmp r0, #0x74
+    bne f_print
+    movs r1, #1
+f_sp:
+    ldrb r0, [r3, r1]
+    subs r0, #0x30
+    cmp r0, #9
+    bhi f_print
+    adds r1, #1
+    cmp r1, #5
+    blo f_sp
+    b f_ctrl
+f_chk:
     cmp r5, #0x43
     beq f_code
     cmp r5, #0x63
@@ -201,12 +248,16 @@ m_two:
     b m_next
 m_one:
     subs r3, #0x20
-    blo m_loop
+    blo m_pad
     cmp r3, #0x5e
     bhi m_wide
     ldrb r3, [r6, r3]
     adds r5, r5, r3
-    b m_next
+    b m_loop
+m_pad:
+    adds r5, r5, r3
+    adds r5, #0x20
+    b m_loop
 m_wide:
     adds r5, #8
 m_next:
@@ -338,6 +389,27 @@ c_glyph: .word 0x0807AE11
 c_blit: .word 0x08011689
 c_vram: .word 0x06008000
 """
+# strlen stand-in for the game's byte-count layout code (centring / right-aligning as len / 2 * 8 px): returns an
+# even length whose len / 2 * 8 is the measured pixel width rounded up to 8 (engine.pxlen). Reached by BL through
+# the veneer at 0x0801B988, so lr is the game's return address.
+HOOKS['pxlen'] = """
+    push {lr}
+    movs r1, #1
+    lsls r1, r1, #12
+    movs r2, #0
+    bl {measure}
+    adds r0, #7
+    lsrs r0, r0, #3
+    lsls r0, r0, #1
+    pop {r1}
+    bx r1
+"""
+PXLEN_VENEER = 0x0801B988  # dead code after the 0x01B97C rewrite (it branches over 0x01B988-0x01B9C5)
+# bl strlen -> bl veneer: name tabs (right-aligned in 7 cells, 0x08053C48 / 0x08053D9C), 104-px centred names,
+# 128-px centred area names (world map)
+PXLEN_SITES = {0x053C2C: '2ef042fe', 0x053D7E: '2ef099fd', 0x05AF04: '27f0d6fc', 0x05B108: '27f0d4fb',
+               0x0641A0: '1ef088fb', 0x0643AA: '1ef083fa', 0x06BBC2: '16f077fe', 0x06BE1E: '16f049fd',
+               0x06D7CA: '15f073f8', 0x06D810: '15f050f8'}
 
 # (rom offset, original bytes, replacement: asm source or ('far', hook name[, register]))
 SITES = [
@@ -358,7 +430,26 @@ SITES = [
     (0x011936, '414600200856c10f40184010c5002d18', 'mov r1, r8\nldrb r5, [r1]\nb 0x08011946\n'),
     # after drawing: x += glyph width, index += 1 or 2 (resumes 0x080119A2)
     (0x011990, '42461078023010701a483918087802300870', ('far', 'adv')),
-]
+    (PXLEN_VENEER - 0x08000000, '03ae00291bd0141c', ('far', 'pxlen', 'r3')),
+] + [(off, orig, 'bl 0x%X' % PXLEN_VENEER) for off, orig in PXLEN_SITES.items()]
+
+# ASCII sprintf formats of the string block that open menu-help / shop / item lines: the original fetch skipped
+# their separator spaces, ours draws them (3 px each), so drop the space after the colour code (in place,
+# NUL-padded; the one after T0000 must stay). Spaces between fields (`%md %s`) stay: English wants them.
+FORMATS = {0x87868: b'T0000 C0905 %s', 0x87878: b'T0000 C0F04 %s', 0x88450: b'T0000 C0F04 %s',
+           0x88814: b'T0000 C0F04 %md %s', 0x88828: b'T0000 C0F04 %s', 0x88838: b'T0000 C0F04 %s%s',
+           0x8896C: b'T0000 C0F04', 0x88B5C: b'T0000 C0F04', 0x88BB0: b'T0000 C0F04 %s',
+           0x88BC0: b'T0000 C0F04 %s  %md  %s', 0x88D30: b'T0000 C0F04', 0x88D8C: b'T0000 C0F04 %s',
+           0x88E38: b'T0000 C0F04 %s', 0x88E5C: b'T0000 C0F04 %s', 0x89180: b'T0000 C0F04 %s %s',
+           0x89194: b'T0000 C0F04 %s', 0x89408: b'T0000 C0F04 %s'}
+
+
+def format_patches():
+    out = []
+    for off, s in FORMATS.items():
+        new = re.sub(rb'^(T0000 C[0-9A-F]{4}) ', rb'\1', s)  # 'T0000C0F04' (no space) blanked the line
+        out.append((off, s + b'\0', new.ljust(len(s) + 1, b'\0')))
+    return out
 
 
 def patches():
@@ -386,7 +477,7 @@ def patches():
         new = asm(src, 0x08000000 + off)
         assert len(new) <= len(orig), (hex(off), len(new), len(orig))
         out.append((off, orig[:len(new)], new))
-    return out
+    return out + format_patches()
 
 
 def apply(rom):

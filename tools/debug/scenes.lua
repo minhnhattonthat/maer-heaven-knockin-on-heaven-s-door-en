@@ -80,7 +80,8 @@ S.list = {
   dungeon3          = { npc = "S_DUNG.SPC", gen = 3, wait = 100, note = "練武の門 BF1 banner" },
   dungeon4          = { npc = "S_DUNG.SPC", gen = 4, wait = 100, note = "gate 4 banner" },
   -- NPC-context scripts (main-menu entries are added below the list)
-  world_map         = { npc = "W_MAP.SPC", wait = 400, route = "60 -;6 up;40 -;6 a", note = "world map (answer yes)" },
+  world_map         = { npc = "W_MAP.SPC", wait = 400, route = "180 -;6 up;40 -;6 a",
+                        note = "world map (answer yes; 180 frames: longer English prompts finish first)" },
   shop_a1          = { npc = "SHOPPA01.SPC", note = "ARM shop 1" },
   shop_a2           = { npc = "SHOPPA02.SPC" },
   shop_a3           = { npc = "SHOPPA03.SPC" },

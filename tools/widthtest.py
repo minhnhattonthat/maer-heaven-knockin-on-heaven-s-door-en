@@ -60,6 +60,22 @@ def record_tests(records):
     return out
 
 
+def code_tests(wins):
+    """Code strings with a px budget (script/windows.json 'code', from build.code_windows()): exactly px wide,
+    labelled with px and ending in '|' (without the label when the row buffer's byte limit needs it)."""
+    out = {}
+    for i, w in wins.items():
+        if w.get('keep') or not w.get('px'):
+            continue
+        lim = w.get('bytes')
+        lim = lim.get(i, lim.get('_other')) if isinstance(lim, dict) else lim
+        s = exact(w['px'], '%d ' % w['px'], 'MW')
+        if lim and len(s) + (w.get('pad_to', w['px']) - w['px'] + 30) // 31 > lim:  # + pads the build appends
+            s = exact(w['px'], '', 'MW')
+        out[i] = s
+    return out
+
+
 if __name__ == '__main__':
     out = sys.argv[1] if len(sys.argv) > 1 else str(build.ROOT / 'build' / 'widthtest.gba')
-    build.main([out, '--marker', '--records-test'] + ['--qa=%s=%s' % kv for kv in tests().items()])
+    build.main([out, '--marker', '--records-test', '--code-test'] + ['--qa=%s=%s' % kv for kv in tests().items()])

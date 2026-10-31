@@ -26,9 +26,11 @@ def _pua(c):
 
 def encode_en(s):
     """English text -> bytes for the patched engine (tools/engine.py): ASCII is single-byte, colour codes are
-    written without the surrounding spaces (`{C0F04}` -> `C0F04`), anything else goes through encode()."""
-    return b''.join(m.group(1).encode('ascii') if m.group(1) else encode(m.group(2))
-                    for m in re.finditer(r'\{(C[0-9A-F]{4})\}|(\{F[0-9A-F]{3}\}|[^{]+|\{)', s))
+    written without the surrounding spaces (`{C0F04}` -> `C0F04`), `{p5}` is a pad byte (blank, 5 px in list
+    windows and centred labels; 1-31), anything else goes through encode()."""
+    return b''.join(m.group(1).encode('ascii') if m.group(1) else bytes([int(m.group(2))]) if m.group(2)
+                    else encode(m.group(3))
+                    for m in re.finditer(r'\{(C[0-9A-F]{4})\}|\{p([1-9]|[12][0-9]|3[01])\}|(\{F[0-9A-F]{3}\}|[^{]+|\{)', s))
 
 
 def encode(s):

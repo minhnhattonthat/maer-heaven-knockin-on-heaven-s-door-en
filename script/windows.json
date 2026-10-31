@@ -1,5 +1,5 @@
 {
- "_doc": "Pixel budgets per box/field for the VWF font (fonts/vwf8.txt; width = tools/engine.py width()). measured = seen in a zoomed shot with an exact-width test line (tools/widthtest.py, '|' marks the last column); 'min' = this width fits, larger not yet tried; guess = not measured. docs/re/vwf.md",
+ "_doc": "Pixel budgets per box/field for the VWF font (fonts/vwf8.txt). Script lines and dialogue-window code strings: width = tools/engine.py width(); list windows and centred labels: engine.list_width() (ASCII without window spacing). measured = seen in a zoomed shot with an exact-width test line (tools/widthtest.py, '|' marks the last column); 'min' = this width fits, larger not yet tried; inferred = the string was not drawn in a tour, its window comes from the pointer table it shares with drawn strings (tools/debug/drawmap.py, work/qa/drawmap/map.tsv). docs/re/vwf.md",
  "dialogue": {
   "applies": "script lines (MswStr): line 0 speaker label, lines 1-2 text; narration boxes use all 3 lines",
   "px": 192, "lines": 3, "state": "measured",
@@ -15,12 +15,87 @@
   "px": 150, "state": "measured min",
   "proof": "work/qa/scenes/menu_deck_edit.png: '150 MWMW...|' fits in the info box (text x 52, box edge ~205); status box starts further right (x ~52 after the portrait) - recheck >150 there"
  },
- "code_messages": {
-  "applies": "code.json strings shown in the dialogue window (save/shop/link/system messages)",
-  "px": 192, "state": "measured (same window as dialogue)"
- },
- "code_labels": {
-  "applies": "code.json short labels drawn by the list renderers (element names 雷属性.., stat labels 魔力/防御力.., area names, ばんごう/コスト/クラス/ぞくせい/なまえ, digit strings ０-９)",
-  "px": null, "state": "guess: measure per label in phase 6 prep (marker tour shows them as [cN] in menu_status, menu_arm_list, world_map)"
+ "code": {
+  "_doc": "code.json strings by window. ids = code.json ids; px = text budget; pad_to = the build pads the string with pad bytes ({pN}) to exactly this width so the numbers the game appends line up; bytes = max encoded bytes incl. pads (row buffers of 25 bytes hold label + digits + NUL); renderer from drawmap: dlg = dialogue-window path (engine.width), list/ctr = list windows / centred label (engine.list_width).",
+  "keep": {
+   "applies": "fullwidth digits ０-９, ／, blank 　 and －－－－: the status and ÄRM-list code copies 2 bytes per digit into its row buffers, so these stay 2-byte glyphs (en = jp)",
+   "ids": ["code:088554", "code:0885ac", "code:0885b0", "code:0885b4", "code:0885b8", "code:0885bc", "code:0885c0", "code:0885c4", "code:0885c8", "code:0885cc", "code:0885d0", "code:0885d4", "code:088d08", "code:088d10"],
+   "keep": true, "renderer": "list", "state": "measured",
+   "proof": "work/qa/drawmap/menu_status/log.txt: row buffers hold '[c[c[c35]' (2 bytes of each digit string)"
+  },
+  "status_left": {
+   "applies": "STATUS left column labels LV./HP/attack/defence/magic; the game appends the digits ('99', '999/999', '255') to the label in a 25-byte row buffer",
+   "ids": ["code:088558", "code:088564", "code:088570", "code:08857c", "code:0885a0"],
+   "px": 38, "pad_to": 40, "bytes": {"code:08857c": 10, "code:0885a0": 20, "_other": 18},
+   "renderer": "list", "state": "measured",
+   "proof": "original work/qa/orig/menu_status: label cells from x 8 (9-px cells), digits from x 44, HP row ink ends x 104, divider x 118: pad_to 40 puts digits at 48, HP row end at 111; widthtest work/qa/scenes/menu_status.png: '38 MW .|' + digits on every row, clear of the divider"
+  },
+  "status_exp": {
+   "applies": "STATUS 'EXP   NEXT' header over the 00000/99999 row (one string; pad with {pN} to put NEXT over the second number, which starts at x 62 + 1)",
+   "ids": ["code:088588"], "px": 104, "bytes": 24, "renderer": "list", "state": "measured",
+   "proof": "work/qa/orig/menu_status: row from x 8, divider x 118; widthtest work/qa/scenes/menu_status.png: '104 MW..|' ends x 111"
+  },
+  "status_elem": {
+   "applies": "STATUS element column (thunder/earth/wind/wood/fire/water) left of the 3-digit value",
+   "ids": ["code:088524", "code:08852c", "code:088534", "code:08853c", "code:088544", "code:08854c"],
+   "px": 24, "pad_to": 26, "bytes": 18, "renderer": "list", "state": "measured",
+   "proof": "work/qa/orig/menu_status: label from x 152, digits '100' after 2 cells (x 170-196), portrait frame x 208: pad_to 26 ends the digits at 205; widthtest work/qa/scenes/menu_status.png: '24 ..|100' clear of the frame"
+  },
+  "status_equip": {
+   "applies": "STATUS bottom box header over the equipped ÄRM name",
+   "ids": ["code:088518"], "px": 150, "renderer": "list", "state": "measured min",
+   "proof": "widthtest work/qa/scenes/menu_status.png: '150 MW...|' in the bottom box, ends x ~213"
+  },
+  "names": {
+   "applies": "party names in the menu/status/deck name tab (right-aligned in a 7-cell field via the pxlen hook) and party lists",
+   "ids": ["code:0889a4", "code:0889b0", "code:0889bc", "code:0889c4", "code:0889d0", "code:0889dc", "code:0889e4", "code:0889f0"],
+   "px": 40, "renderer": "list", "state": "measured min",
+   "proof": "work/qa/scenes/menu.png, menu_deck.png, menu_item.png (widthtest): '40 MW ..|' in the COMMAND name tab (x 147, room to ~235). The STATUS-screen corner tab name is a sprite graphic (graphics survey), not this string"
+  },
+  "arm_type": {
+   "applies": "ÄRM class in the deck info box line 1, followed directly by the element (arm_element): 'Weapon ÄRM/' + 'No element' must fit 150 together",
+   "ids": ["code:088460", "code:088474", "code:08848c", "code:0884a0", "code:0884b4", "code:0884cc"],
+   "px": 84, "renderer": "list", "state": "measured min (sum with arm_element = arm_desc box)",
+   "proof": "widthtest work/qa/scenes/menu_deck_edit.png: '84 MWMWMWMW |66 MWMWM ...|' fits the info box line 1"
+  },
+  "arm_element": {
+   "applies": "element after the ÄRM class in the deck info box line 1",
+   "ids": ["code:0884e0", "code:0884e8", "code:0884f0", "code:0884f8", "code:088500", "code:088508", "code:088510"],
+   "px": 66, "renderer": "list", "state": "measured min (sum with arm_type = arm_desc box)"
+  },
+  "area": {
+   "applies": "AREA SELECT name under the world map, centred in the 128-px box (x 55-183) via the pxlen hook",
+   "ids": ["code:0891c8", "code:0891d4", "code:0891e4", "code:0891ec", "code:0891f4", "code:089200", "code:089210", "code:089220", "code:08922c", "code:089234"],
+   "px": 124, "renderer": "list", "state": "measured",
+   "proof": "work/qa/orig/world_map: box border x 54 and 184; work/qa/wt_wm (widthtest): '124 MWMW..|' centred inside the box"
+  },
+  "get": {
+   "applies": "'P GET!!' / '%s GET!!' / 'but could not carry it' centred at x 128 on the battle WIN screen",
+   "ids": ["code:087528", "code:087538", "code:087548"],
+   "px": 172, "renderer": "ctr", "state": "measured",
+   "proof": "work/qa/wt_bw/f003900.png (widthtest, battle_win): banner text visible x 28-216, centred at x 128, so 176 px max; composed: code:087528 follows the gold amount in fullwidth digits (up to 5 x 9 px), code:087538's %s is an item/ÄRM name (arm_name, up to 112 px): its own text <= 60 px"
+  },
+  "center_fixed": {
+   "applies": "'choose a character' centred label (0x0801B95C)",
+   "ids": ["code:087468"], "px": 200, "renderer": "ctr", "state": "inferred (fixed caller, not toured)"
+  },
+  "deck_info": {
+   "applies": "'nothing here' line in the deck info box (list) / an empty list",
+   "ids": ["code:0887f4", "code:088e6c"], "px": 150, "renderer": "list",
+   "state": "code:0887f4 measured (drawmap menu_deck_edit@4980, deck info box = arm_desc); code:088e6c inferred"
+  },
+  "sort_headers": {
+   "applies": "number/cost/class/element/name: ÄRM sort keys (screen not toured)",
+   "ids": ["code:0892e4", "code:0892f0", "code:0892f8", "code:089300", "code:08930c"],
+   "px": 40, "renderer": "list", "state": "guess: screen not reached; keep short until measured"
+  },
+  "messages": {
+   "applies": "shop/engraver/item/deck/link/save messages and menu help, drawn in a dialogue-type window (one line each; some are composed: a number or name is put in front, e.g. '200 ' + 'P, please.')",
+   "ids": ["code:0883ac", "code:0883d4", "code:088400", "code:0885d8", "code:0885e0", "code:0885ec", "code:0885f8", "code:08860c", "code:088628", "code:08863c", "code:08864c", "code:088650", "code:088670", "code:088674", "code:08868c", "code:0886a0", "code:0886bc", "code:0886c8", "code:0886dc", "code:0886f4", "code:08870c", "code:08871c", "code:08872c", "code:088738", "code:088750", "code:088760", "code:08876c", "code:088778", "code:088780", "code:088788", "code:0887ac", "code:0887c4", "code:08885c", "code:088880", "code:0888a4", "code:0888c8", "code:0888e4", "code:0888fc", "code:088910", "code:088928", "code:088a80", "code:088aa0", "code:088abc", "code:088ad0", "code:088f9c", "code:088fb4", "code:088fd0", "code:088fe4", "code:089004", "code:089020", "code:08903c", "code:08905c", "code:089070", "code:089088", "code:0890a4", "code:0890bc", "code:0890c0", "code:0890e8", "code:089110", "code:089338", "code:089358", "code:08937c", "code:089394", "code:0893a4", "code:0893c4", "code:0893d4", "code:0893f4"],
+   "px": 192, "renderer": "dlg",
+   "composed": {"code:08871c": "after the price in fullwidth digits + space (work/qa/wt_shop/f002040.png: '２００ ' + text): <= 144 px", "code:0886c8": "after the price, as code:08871c: <= 144 px"},
+   "proof": "work/qa/wt_menu/final.png (widthtest, menu help '192 ...|' fully visible after the T0000-space fix); work/qa/wt_shop/f002040.png (price line; the overflow past 192 px lands on the next tile row)",
+   "state": "measured for the drawn ones (menu help c75 c79-c82, shop price c63: dlg path = dialogue window 192 px); the rest inferred from their pointer tables (0x1B0864-0x1B0914 shop/engraver/item/menu, 0x1BECEC deck, 0x1BF224-0x1BF264 link, 0x1BF3B0-0x1BF3CC save)"
+  }
  }
 }

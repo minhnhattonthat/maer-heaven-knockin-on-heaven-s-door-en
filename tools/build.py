@@ -10,6 +10,8 @@ and hooks).
 
 --marker: every script line becomes `[n]` + filler text (ids in <OUT dir>/marker_ids.tsv), the phase 5 marker build.
 --qa=ID=TEXT (repeatable): override one script line's English (width and glyph tests).
+--records-test / --code-test: ÄRM/item records / code strings get exact-width test strings (tools/widthtest.py).
+Code strings follow script/windows.json 'code': `keep` windows stay Japanese, `pad_to` windows get pad bytes.
 """
 import hashlib
 import json
@@ -121,6 +123,28 @@ def patch_code(out, entries):
             at = (at + len(b) + 4) & ~3
 
 
+def code_windows():
+    """{code id: window spec} from script/windows.json 'code' (tools/widthtest.py, phase 6 lint)."""
+    w = json.loads((SCRIPT / 'windows.json').read_text(encoding='utf-8'))['code']
+    return {i: dict(v, name=k) for k, v in w.items() if not k.startswith('_') for i in v['ids']}
+
+
+def fit_code(entries, wins=None):
+    """Window rules on code strings: `keep` windows get en = jp; `pad_to` windows get pad bytes ({pN}) after the
+    English so the digits the game appends start at exactly pad_to px (engine.list_width)."""
+    wins = wins or code_windows()
+    for e in entries:
+        w = wins.get(e['id'], {})
+        if w.get('keep') and not e.get('en'):
+            e['en'] = e['jp']
+        if e.get('en') and w.get('pad_to'):
+            gap = w['pad_to'] - engine.list_width(text.encode_en(e['en']))
+            assert gap >= 0, (e['id'], e['en'], 'wider than pad_to')
+            while gap:
+                e['en'] += '{p%d}' % min(gap, 31)
+                gap -= min(gap, 31)
+
+
 def patch_records(out, entries):
     """ARM/item name and description fields with `en`, in place (field 0x22 bytes: max 33 + NUL)."""
     for e in entries:
@@ -164,10 +188,18 @@ def main(a):
         t = widthtest.record_tests(records)
         for e in records:
             e['en'] = t[e['id']]
+    if '--code-test' in a_all:
+        import widthtest
+        wins = code_windows()
+        t = widthtest.code_tests(wins)
+        for e in code:
+            e['en'] = e['jp'] if wins.get(e['id'], {}).get('keep') else t.get(e['id'], e['en'])
     qa = dict(x.split('=', 1) for x in qa_args)
     lines = [(s, dict(e, en=qa[e['id']]) if e['id'] in qa else e) for s, e in lines]
     edits = edits_from(lines)
-    english =bool(edits) or any(e.get('en') for e in code + records)
+    english = bool(edits) or any(e.get('en') for e in code + records)
+    if english:  # no English at all = identity build (tests/test_build.py)
+        fit_code(code)
     b = bytearray(build(rom, edits, recompress=rc, patch_engine=english))
     patch_code(b, code)
     patch_records(b, records)

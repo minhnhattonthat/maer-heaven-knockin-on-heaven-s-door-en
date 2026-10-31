@@ -36,6 +36,25 @@ Tool: `tools/engine.py` (font + hooks, applied by `build.py` whenever English te
   used). Thumb BL reaches only +-4 MiB, so game code jumps out with `ldr r0,[pc]; bx r0` and hooks jump back.
   `engine.asm` rejects any 32-bit Thumb-2 encoding keystone picks.
 
+## List windows, labels and byte-count layout (verified: build/widthtest.gba --code-test, 2026-11-01)
+
+- `measure` (list x, centred labels): ASCII adds its advance only (the window's per-glyph spacing, 1 px in the
+  status/name windows, would leave 2-px gaps; the advance already holds the shadow gap); 2-byte glyphs keep
+  8 + spacing, so Japanese strings lay out exactly as before. `engine.list_width()` mirrors it.
+- **Pad bytes** 0x01-0x1F: blank glyphs (FONT.NFT slots 0x1E1-0x1FF cleared) that advance their own value in px
+  in list windows and centred labels (`{p5}` in English text; the dialogue skips them). The build pads strings of
+  a `pad_to` window (`script/windows.json` 'code') to that exact width, so the digits the game appends line up.
+- **Status rows**: the status screen builds each row in a 25-byte buffer (0x020138C4 + 0x19 * row): label strcpy,
+  then 2 bytes from each digit string (０-９, ／): those must stay 2-byte glyphs (`keep` window); label + pads +
+  digits + NUL must fit 25 bytes (`bytes` in windows.json).
+- **pxlen**: 10 places size text by byte count (`len / 2 * 8` px): name tab right-aligned in 7 cells
+  (0x08053C2C, 0x08053D7E: x = base + (14 - len) / 2 * 8), names centred in 104 px (0x0805AF04, 0x0805B108,
+  0x080641A0, 0x080643AA, 0x0806BBC2, 0x0806BE1E), area names centred in 128 px (0x0806D7CA, 0x0806D810). Their
+  `bl strlen` now goes through a veneer at 0x0801B988 (dead code after the 0x0801B97C rewrite) to the `pxlen`
+  hook: an even length whose len / 2 * 8 = measured width rounded up to 8 (Japanese: the byte length). Text
+  can sit up to 7 px off (right-aligned) / 3 px (centred). Other strlen users are loop counts or strcat.
+- Renderer per code string: `tools/lua/drawlog.lua` + `tools/debug/drawmap.py` -> `work/qa/drawmap/map.tsv`.
+
 ## Script size rule (verified: OPEN.SPC crashed at +1 code byte past a 4-byte step)
 
 The VM (`0x0807E4C4`) copies CODE (size - 6, plus a 0x400 stack) into a heap block (heap at 0x02028010,
