@@ -32,7 +32,7 @@ def test_identity_build(rom):
 
 def strings(b):
     s, sz = scrp.chunks(b)['CODE']
-    return [(p, arg[2:-1]) for p, op, arg in scrp.instrs(b[s:s + sz]) if op == 0x10]
+    return [(p, arg[2:].split(b'\0')[0]) for p, op, arg in scrp.instrs(b[s:s + sz]) if op == 0x10]
 
 
 @needs_rom

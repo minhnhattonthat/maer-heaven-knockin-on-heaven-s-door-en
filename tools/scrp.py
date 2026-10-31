@@ -83,12 +83,17 @@ def rebuild(b, strings=None):
     s, sz = c['CODE']
     code = b[s:s + sz]
     ins = list(instrs(code))
+    # The VM copies CODE into a heap block of (size - 6) + stack and writes the stack top word-aligned: a size not
+    # 2 mod 4 (as all 334 originals are) overwrites the next heap header and crashes (docs/re/vwf.md). Keep the
+    # total length change a multiple of 4 by NUL-padding the last changed string inside its own length.
+    grow = sum(len(t) - (len(code_arg[2:]) - 1) for p, op, code_arg in ins if p in strings for t in [strings[p]])
+    last = max(strings) if strings else None
     new = bytearray(code[:CODE_BASE])
     pos = {}  # old pos -> new pos, for every instruction start and the end
     for p, op, arg in ins:
         pos[p] = len(new)
         if p in strings:
-            t = strings[p] + b'\0'
+            t = strings[p] + b'\0' + (b'\0' * (-grow % 4) if p == last else b'')
             arg = struct.pack('<H', len(t)) + t
         new += bytes([op]) + arg
     pos[len(code)] = len(new)
@@ -119,6 +124,7 @@ def rebuild(b, strings=None):
             data = _reloc_func(data, lambda o: pos[o - 1 + CODE_BASE] + 1 - CODE_BASE)
         out += tag.encode('latin1') + struct.pack('<I', len(data) + (8 if tag == 'NVAR' else 0)) + data
     out += b'TERM'
+    assert (len(new) - len(code)) % 4 == 0
     return b'SCRP' + struct.pack('<I', len(out)) + bytes(out)
 
 
