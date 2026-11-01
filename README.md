@@ -15,7 +15,8 @@ helps most.
 |---|---|
 | Dialogue / story | Translated (all 12 chapters, story-pass reviewed) |
 | Menus, items, ÄRM, system messages | Translated |
-| Title screen, logos, graphics with text | Translated (redrawn) |
+| Mode screens, logos, graphics with text | Translated (redrawn) |
+| Title screen logo | Left in Japanese (original art kept by choice) |
 | Credits roll | Translated (names romanised) |
 | Debug chapter select (not reachable in normal play) | Left in Japanese |
 

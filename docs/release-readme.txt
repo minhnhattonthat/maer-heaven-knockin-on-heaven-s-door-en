@@ -31,7 +31,8 @@ Translation status
 |----------------------------------------|-----------------------------------------------------------|
 | Dialogue / story (all 12 chapters)     | Translated                                                |
 | Menus, items, ÄRM, system messages     | Translated                                                |
-| Title logo, mode screens, sprite text  | Translated (redrawn)                                      |
+| Mode screens, menu art, sprite text    | Translated (redrawn)                                      |
+| Title screen logo                      | Left in Japanese (original art kept by choice)            |
 | Staff roll                             | Translated (names romanised)                              |
 | Debug chapter select (not reachable)   | Left in Japanese                                          |
 
